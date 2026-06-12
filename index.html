@@ -3,108 +3,82 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="Loker Pekanbaru terbaru — Jumat, 12 Juni 2026">
-  <title>Loker Pekanbaru Terupdate — Jumat, 12 Juni 2026</title>
+  <meta name="description" content="Loker Pekanbaru terbaru — mintainfo.com">
+  <title>Loker Pekanbaru Terupdate</title>
   <style>
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     :root{
-      --navy:#0B2D6F;
-      --navy-dark:#061A45;
-      --orange:#FF6B00;
-      --bg:#EEF3FB;
-      --card:#fff;
-      --text:#0F172A;
-      --muted:#64748B;
-      --border:#DDE6F5;
-      --r:14px;
+      --navy:#0B2D6F;--navy-dark:#061A45;--orange:#FF6B00;
+      --bg:#EEF3FB;--card:#fff;--text:#0F172A;--muted:#64748B;
+      --border:#DDE6F5;--r:14px;
     }
     body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
          background:var(--bg);color:var(--text);min-height:100vh}
 
     /* HEADER */
-    header{
-      background:linear-gradient(140deg,var(--navy-dark) 0%,var(--navy) 60%,#1040A0 100%);
-      padding:28px 20px 36px;text-align:center;
-      position:relative;overflow:hidden;
-    }
-    header::before{content:'';position:absolute;top:-80px;right:-60px;
-      width:220px;height:220px;border-radius:50%;
-      background:var(--orange);opacity:.1;pointer-events:none}
-    header::after{content:'';position:absolute;bottom:-90px;left:-50px;
-      width:260px;height:260px;border-radius:50%;
-      background:#fff;opacity:.04;pointer-events:none}
-
+    header{background:linear-gradient(140deg,var(--navy-dark) 0%,var(--navy) 60%,#1040A0 100%);
+      padding:28px 20px 24px;text-align:center;position:relative;overflow:hidden}
+    header::before{content:'';position:absolute;top:-80px;right:-60px;width:220px;height:220px;
+      border-radius:50%;background:var(--orange);opacity:.1;pointer-events:none}
+    header::after{content:'';position:absolute;bottom:-90px;left:-50px;width:260px;height:260px;
+      border-radius:50%;background:#fff;opacity:.04;pointer-events:none}
     .brand{display:inline-flex;align-items:center;gap:10px;
       background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.15);
-      border-radius:14px;padding:8px 16px;margin-bottom:18px;position:relative;z-index:1}
+      border-radius:14px;padding:8px 16px;margin-bottom:16px;position:relative;z-index:1}
     .brand img{width:34px;height:34px;border-radius:8px}
-    .brand span{color:#fff;font-size:15px;font-weight:700;letter-spacing:.2px}
-
-    header h1{color:#fff;font-size:clamp(19px,5vw,26px);font-weight:800;
-      line-height:1.2;margin-bottom:6px;position:relative;z-index:1}
-    .hdate{color:rgba(255,255,255,.75);font-size:14px;margin-bottom:3px;
+    .brand span{color:#fff;font-size:15px;font-weight:700}
+    header h1{color:#fff;font-size:clamp(18px,5vw,24px);font-weight:800;
+      line-height:1.2;position:relative;z-index:1}
+    .hdate{color:rgba(255,255,255,.7);font-size:14px;margin-top:4px;
       position:relative;z-index:1}
-    .hupdated{color:rgba(255,255,255,.5);font-size:12px;position:relative;z-index:1}
+    .chip{display:inline-flex;align-items:center;gap:6px;margin-top:14px;
+      background:var(--orange);color:#fff;font-size:13px;font-weight:700;
+      padding:6px 18px;border-radius:999px;position:relative;z-index:1}
 
-    .chip{display:inline-flex;align-items:center;gap:6px;margin-top:18px;
-      background:var(--orange);color:#fff;
-      font-size:13px;font-weight:700;
-      padding:7px 20px;border-radius:999px;position:relative;z-index:1}
+    /* FILTER */
+    .filters{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;
+      padding:16px 16px 0;max-width:640px;margin:0 auto}
+    .filter-btn{background:#fff;color:var(--navy);font-size:12px;font-weight:700;
+      padding:6px 14px;border-radius:999px;border:1.5px solid var(--border);
+      cursor:pointer;transition:all .15s}
+    .filter-btn:hover{border-color:var(--navy)}
+    .filter-btn.active{background:var(--navy);color:#fff;border-color:var(--navy)}
 
     /* CONTAINER */
-    .container{max-width:640px;margin:0 auto;padding:20px 14px 100px}
+    .container{max-width:640px;margin:0 auto;padding:16px 14px 100px}
+
+    /* LOADING / EMPTY */
+    .loading,.empty{text-align:center;color:var(--muted);padding:60px 20px;font-size:15px}
+    .loading::after{content:' ⏳'}
 
     /* CARD */
-    .card{
-      background:var(--card);border-radius:var(--r);
-      padding:14px 14px 14px 16px;margin-bottom:10px;
-      display:flex;align-items:center;gap:12px;
-      box-shadow:0 1px 3px rgba(0,0,0,.06),0 1px 2px rgba(0,0,0,.04);
-      border:1px solid var(--border);
-      transition:transform .15s,box-shadow .15s;
-    }
-    .card:hover{transform:translateY(-2px);
-      box-shadow:0 6px 20px rgba(11,45,111,.10)}
-
+    .card{background:var(--card);border-radius:var(--r);padding:14px 14px 12px 16px;
+      margin-bottom:10px;display:flex;align-items:center;gap:12px;
+      box-shadow:0 1px 3px rgba(0,0,0,.06);border:1px solid var(--border);
+      transition:transform .15s,box-shadow .15s}
+    .card:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(11,45,111,.10)}
     .card-left{display:flex;align-items:flex-start;gap:12px;flex:1;min-width:0}
-
     .num{flex-shrink:0;width:34px;height:34px;border-radius:9px;
-      background:var(--bg);color:var(--navy);
-      font-size:13px;font-weight:800;
+      background:var(--bg);color:var(--navy);font-size:13px;font-weight:800;
       display:flex;align-items:center;justify-content:center}
-
     .card-info{flex:1;min-width:0}
-
-    .badge{display:none}
-    .num{flex-shrink:0;width:34px;height:34px;border-radius:9px;
-      background:var(--bg);color:var(--navy);
-      font-size:13px;font-weight:800;
-      display:flex;align-items:center;justify-content:center}
-
     .company{font-size:12px;color:var(--muted);margin-bottom:4px;
       white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-
-    .title{font-size:14px;font-weight:700;line-height:1.35;color:var(--text)}
+    .title{font-size:14px;font-weight:700;line-height:1.35}
+    .view-count{font-size:11px;color:var(--muted);margin-top:5px;min-height:16px}
 
     /* BUTTON */
-    .btn{
-      flex-shrink:0;background:var(--navy);color:#fff;
-      text-decoration:none;font-size:12px;font-weight:700;
-      padding:10px 12px;border-radius:10px;text-align:center;
-      line-height:1.4;transition:background .15s,transform .1s;
-    }
+    .btn{flex-shrink:0;background:var(--navy);color:#fff;text-decoration:none;
+      font-size:12px;font-weight:700;padding:10px 12px;border-radius:10px;
+      text-align:center;line-height:1.4;border:none;cursor:pointer;
+      transition:background .15s,transform .1s}
     .btn:hover{background:var(--orange);transform:scale(1.04)}
 
-    .empty{text-align:center;color:var(--muted);padding:60px 20px;font-size:15px}
-
     /* FOOTER */
-    footer{position:fixed;bottom:0;width:100%;
-      background:rgba(255,255,255,.96);
-      backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
-      border-top:1px solid var(--border);
-      padding:10px 20px;
-      display:flex;align-items:center;justify-content:center;gap:8px;
-      font-size:12px;color:var(--muted)}
+    footer{position:fixed;bottom:0;width:100%;background:rgba(255,255,255,.96);
+      backdrop-filter:blur(14px);border-top:1px solid var(--border);
+      padding:10px 20px;display:flex;align-items:center;justify-content:center;
+      gap:8px;font-size:12px;color:var(--muted)}
     footer img{width:20px;height:20px;border-radius:5px}
     footer a{color:var(--navy);font-weight:700;text-decoration:none}
     footer a:hover{color:var(--orange)}
@@ -118,146 +92,20 @@
     <span>mintainfo.com</span>
   </div>
   <h1>Loker Pekanbaru Terupdate</h1>
-  <p class="hdate">Jumat, 12 Juni 2026</p>
-  <p class="hupdated">Diperbarui 15:08 WIB</p>
-  <div><span class="chip">📋 12 Lowongan Tersedia</span></div>
+  <p class="hdate" id="hdate"></p>
+  <div><span class="chip" id="chip">⏳ Memuat...</span></div>
 </header>
 
+<div class="filters">
+  <button class="filter-btn active" onclick="loadOffset(0,this)">Hari Ini</button>
+  <button class="filter-btn" onclick="loadOffset(1,this)">Kemarin</button>
+  <button class="filter-btn" onclick="loadOffset(3,this)">3 Hari Lalu</button>
+  <button class="filter-btn" onclick="loadOffset(7,this)">7 Hari Lalu</button>
+</div>
+
 <div class="container">
-
-      <div class="card">
-        <div class="card-left">
-          <span class="num">01</span>
-          <div class="card-info">
-            <span class="badge" style="background:#8B5CF622;color:#8B5CF6">Glints</span>
-            <p class="company">PT. Anugrah Kimt Sukses</p>
-            <h2 class="title">Helper</h2>
-          </div>
-        </div>
-        <a class="btn" href="https://www.mintainfo.com/2026/06/rekrutmen-helper-di-pt-anugrah-kimt.html" target="_blank" rel="noopener noreferrer">Buka<br>Loker</a>
-      </div>
-      <div class="card">
-        <div class="card-left">
-          <span class="num">02</span>
-          <div class="card-info">
-            <span class="badge" style="background:#8B5CF622;color:#8B5CF6">Glints</span>
-            <p class="company">Ruangguru</p>
-            <h2 class="title">Pengajar Kedinasan - Pekanbaru</h2>
-          </div>
-        </div>
-        <a class="btn" href="https://www.mintainfo.com/2026/06/ruangguru-buka-lowongan-pengajar.html" target="_blank" rel="noopener noreferrer">Buka<br>Loker</a>
-      </div>
-      <div class="card">
-        <div class="card-left">
-          <span class="num">03</span>
-          <div class="card-info">
-            <span class="badge" style="background:#8B5CF622;color:#8B5CF6">Glints</span>
-            <p class="company">PT Nusantara Ekspres Kilat (Shopee Express)</p>
-            <h2 class="title">Sortation Center Shift Lead - SPX Express (Kota Pekanbaru, Riau)</h2>
-          </div>
-        </div>
-        <a class="btn" href="https://www.mintainfo.com/2026/06/sortation-center-shift-lead-spx-express.html" target="_blank" rel="noopener noreferrer">Buka<br>Loker</a>
-      </div>
-      <div class="card">
-        <div class="card-left">
-          <span class="num">04</span>
-          <div class="card-info">
-            <span class="badge" style="background:#8B5CF622;color:#8B5CF6">Glints</span>
-            <p class="company">Labora Duta Anugrah</p>
-            <h2 class="title">Operator Forklift</h2>
-          </div>
-        </div>
-        <a class="btn" href="https://www.mintainfo.com/2026/06/operator-forklift-di-labora-duta.html" target="_blank" rel="noopener noreferrer">Buka<br>Loker</a>
-      </div>
-      <div class="card">
-        <div class="card-left">
-          <span class="num">05</span>
-          <div class="card-info">
-            <span class="badge" style="background:#8B5CF622;color:#8B5CF6">Glints</span>
-            <p class="company">Germany Brilliant Sanitaryware</p>
-            <h2 class="title">SPG/SPB</h2>
-          </div>
-        </div>
-        <a class="btn" href="https://www.mintainfo.com/2026/06/loker-spgspb-terbaru-germany-brilliant.html" target="_blank" rel="noopener noreferrer">Buka<br>Loker</a>
-      </div>
-      <div class="card">
-        <div class="card-left">
-          <span class="num">06</span>
-          <div class="card-info">
-            <span class="badge" style="background:#8B5CF622;color:#8B5CF6">Glints</span>
-            <p class="company">President University</p>
-            <h2 class="title">Dosen Prodi IT - Pekanbaru</h2>
-          </div>
-        </div>
-        <a class="btn" href="https://www.mintainfo.com/2026/06/loker-dosen-prodi-it-pekanbaru-terbaru.html" target="_blank" rel="noopener noreferrer">Buka<br>Loker</a>
-      </div>
-      <div class="card">
-        <div class="card-left">
-          <span class="num">07</span>
-          <div class="card-info">
-            <span class="badge" style="background:#F9731622;color:#F97316">Lokerpku1</span>
-            <p class="company">Naswa Baby Shop</p>
-            <h2 class="title">Admin Review / Sosial Media</h2>
-          </div>
-        </div>
-        <a class="btn" href="https://www.mintainfo.com/2026/06/admin-review-sosial-media-di-naswa-baby.html" target="_blank" rel="noopener noreferrer">Buka<br>Loker</a>
-      </div>
-      <div class="card">
-        <div class="card-left">
-          <span class="num">08</span>
-          <div class="card-info">
-            <span class="badge" style="background:#F9731622;color:#F97316">Lokerpku1</span>
-            <p class="company">Clarisa Clinic</p>
-            <h2 class="title">Supervisor Klinik Kecantikan</h2>
-          </div>
-        </div>
-        <a class="btn" href="https://www.mintainfo.com/2026/06/rekrutmen-supervisor-klinik-kecantikan.html" target="_blank" rel="noopener noreferrer">Buka<br>Loker</a>
-      </div>
-      <div class="card">
-        <div class="card-left">
-          <span class="num">09</span>
-          <div class="card-info">
-            <span class="badge" style="background:#F9731622;color:#F97316">Lokerpku1</span>
-            <p class="company">Terbaru di PT Yanmarindo Perkasa</p>
-            <h2 class="title">Admin</h2>
-          </div>
-        </div>
-        <a class="btn" href="https://www.mintainfo.com/2026/06/terbaru-di-pt-yanmarindo-perkasa-buka.html" target="_blank" rel="noopener noreferrer">Buka<br>Loker</a>
-      </div>
-      <div class="card">
-        <div class="card-left">
-          <span class="num">10</span>
-          <div class="card-info">
-            <span class="badge" style="background:#00A55122;color:#00A551">JobStreet</span>
-            <p class="company">Klinik FHOB</p>
-            <h2 class="title">Dokter Umum/ Dokter Estetik</h2>
-          </div>
-        </div>
-        <a class="btn" href="https://www.mintainfo.com/2026/06/loker-dokter-umum-dokter-estetik.html" target="_blank" rel="noopener noreferrer">Buka<br>Loker</a>
-      </div>
-      <div class="card">
-        <div class="card-left">
-          <span class="num">11</span>
-          <div class="card-info">
-            <span class="badge" style="background:#00A55122;color:#00A551">JobStreet</span>
-            <p class="company">BukuWarung</p>
-            <h2 class="title">HR Operations Officer (Pekanbaru)</h2>
-          </div>
-        </div>
-        <a class="btn" href="https://www.mintainfo.com/2026/06/hr-operations-officer-pekanbaru-di.html" target="_blank" rel="noopener noreferrer">Buka<br>Loker</a>
-      </div>
-      <div class="card">
-        <div class="card-left">
-          <span class="num">12</span>
-          <div class="card-info">
-            <span class="badge" style="background:#00A55122;color:#00A551">JobStreet</span>
-            <p class="company">Staffinc</p>
-            <h2 class="title">Security & Safety Support</h2>
-          </div>
-        </div>
-        <a class="btn" href="https://www.mintainfo.com/2026/06/loker-security-safety-support-terbaru.html" target="_blank" rel="noopener noreferrer">Buka<br>Loker</a>
-      </div>
-
+  <div class="loading" id="status">Memuat loker</div>
+  <div id="job-list"></div>
 </div>
 
 <footer>
@@ -265,5 +113,97 @@
   Lihat lebih banyak di <a href="https://www.mintainfo.com" target="_blank">mintainfo.com</a>
 </footer>
 
+<script>
+const BASE = 'https://raw.githubusercontent.com/mintainfo/loker-page/main/';
+const NS   = 'mintainfo-loker-2026';
+
+function dateStr(offsetDays) {
+  const d = new Date();
+  d.setDate(d.getDate() - offsetDays);
+  return d.toISOString().split('T')[0];
+}
+
+function esc(s) {
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function renderJobs(jobs) {
+  const list = document.getElementById('job-list');
+  if (!jobs.length) {
+    list.innerHTML = '<p class="empty">Tidak ada loker pada tanggal ini.</p>';
+    return;
+  }
+  list.innerHTML = jobs.map((j,i) => `
+    <div class="card" id="card-${j.id}">
+      <div class="card-left">
+        <span class="num">${String(i+1).padStart(2,'0')}</span>
+        <div class="card-info">
+          <p class="company">${esc(j.company)}</p>
+          <h2 class="title">${esc(j.title)}</h2>
+          <p class="view-count" id="vc-${j.id}"></p>
+        </div>
+      </div>
+      <button class="btn" onclick="openLoker(${j.id}, '${j.blogger_url}')">Buka<br>Loker</button>
+    </div>
+  `).join('');
+
+  loadCounts(jobs);
+}
+
+async function loadCounts(jobs) {
+  for (const j of jobs) {
+    try {
+      const r = await fetch(`https://api.countapi.xyz/get/${NS}/${j.id}`);
+      const d = await r.json();
+      const el = document.getElementById('vc-' + j.id);
+      if (el && d.value > 0) el.textContent = '👁 ' + d.value + ' orang tertarik';
+    } catch(e) {}
+  }
+}
+
+function openLoker(jobId, url) {
+  fetch(`https://api.countapi.xyz/hit/${NS}/${jobId}`).catch(()=>{});
+  const el = document.getElementById('vc-' + jobId);
+  if (el) {
+    const cur = parseInt(el.textContent.match(/\d+/)?.[0] || '0');
+    el.textContent = '👁 ' + (cur + 1) + ' orang tertarik';
+  }
+  window.open(url, '_blank', 'noopener');
+}
+
+async function loadOffset(days, btn) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+
+  const status  = document.getElementById('status');
+  const list    = document.getElementById('job-list');
+  status.style.display = 'block';
+  status.className = 'loading';
+  status.textContent = 'Memuat loker';
+  list.innerHTML = '';
+
+  const ds  = dateStr(days);
+  const url = BASE + 'data/' + ds + '.json';
+
+  try {
+    const r = await fetch(url + '?t=' + Date.now());
+    if (!r.ok) throw new Error('not found');
+    const data = await r.json();
+
+    document.getElementById('hdate').textContent = data.date_label;
+    document.getElementById('chip').textContent  = '📋 ' + data.count + ' Lowongan Tersedia';
+    status.style.display = 'none';
+    renderJobs(data.jobs);
+  } catch(e) {
+    status.className = 'empty';
+    status.textContent = 'Tidak ada data untuk tanggal ini.';
+    document.getElementById('hdate').textContent = '';
+    document.getElementById('chip').textContent  = '📋 0 Lowongan';
+  }
+}
+
+// Init
+loadOffset(0, document.querySelector('.filter-btn.active'));
+</script>
 </body>
 </html>
