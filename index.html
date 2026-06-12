@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="Loker Pekanbaru terbaru — mintainfo.com">
   <title>Loker Pekanbaru Terupdate</title>
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-database-compat.js"></script>
   <style>
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     :root{
@@ -114,8 +116,16 @@
 </footer>
 
 <script>
+// Firebase init
+firebase.initializeApp({
+  apiKey           : "AIzaSyCm5Pvdy6bCmuzyVITHaPte__VJfZWOZiI",
+  databaseURL      : "https://mintainfo-loker-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId        : "mintainfo-loker",
+  appId            : "1:623792434409:web:8a884ede295acded2f1478",
+});
+const db = firebase.database();
+
 const BASE = 'https://raw.githubusercontent.com/mintainfo/loker-page/main/';
-const NS   = 'mintainfo-loker-2026';
 
 function dateStr(offsetDays) {
   const d = new Date();
@@ -150,19 +160,18 @@ function renderJobs(jobs) {
   loadCounts(jobs);
 }
 
-async function loadCounts(jobs) {
-  for (const j of jobs) {
-    try {
-      const r = await fetch(`https://api.countapi.xyz/get/${NS}/${j.id}`);
-      const d = await r.json();
+function loadCounts(jobs) {
+  jobs.forEach(j => {
+    db.ref('clicks/' + j.id).get().then(snap => {
+      const count = snap.val() || 0;
       const el = document.getElementById('vc-' + j.id);
-      if (el && d.value > 0) el.textContent = '👁 ' + d.value + ' orang tertarik';
-    } catch(e) {}
-  }
+      if (el && count > 0) el.textContent = '👁 ' + count + ' orang tertarik';
+    }).catch(() => {});
+  });
 }
 
 function openLoker(jobId, url) {
-  fetch(`https://api.countapi.xyz/hit/${NS}/${jobId}`).catch(()=>{});
+  db.ref('clicks/' + jobId).transaction(n => (n || 0) + 1);
   const el = document.getElementById('vc-' + jobId);
   if (el) {
     const cur = parseInt(el.textContent.match(/\d+/)?.[0] || '0');
@@ -175,8 +184,8 @@ async function loadOffset(days, btn) {
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
   if (btn) btn.classList.add('active');
 
-  const status  = document.getElementById('status');
-  const list    = document.getElementById('job-list');
+  const status = document.getElementById('status');
+  const list   = document.getElementById('job-list');
   status.style.display = 'block';
   status.className = 'loading';
   status.textContent = 'Memuat loker';
