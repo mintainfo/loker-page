@@ -1,6 +1,67 @@
 {
   "date": "2026-06-13",
   "date_label": "Sabtu, 13 Juni 2026",
-  "count": 0,
-  "jobs": []
+  "count": 10,
+  "jobs": [
+    {
+      "id": 1694,
+      "company": "PT Kamadjaja Logistics",
+      "title": "Staff Admin Warehouse",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-staff-admin-warehouse-terbaru-pt.html"
+    },
+    {
+      "id": 1691,
+      "company": "PT Konecranes Material Handling Indonesia",
+      "title": "Service Technician",
+      "blogger_url": "https://www.mintainfo.com/2026/06/service-technician-di-pt-konecranes.html"
+    },
+    {
+      "id": 1690,
+      "company": "PT. Dirgaputra Ekapratama",
+      "title": "KASIR PEKANBARU",
+      "blogger_url": "https://www.mintainfo.com/2026/06/kasir-pekanbaru-di-pt-dirgaputra.html"
+    },
+    {
+      "id": 1689,
+      "company": "PT. JAYA BERSAMA SAPUTRA PERKASA",
+      "title": "Driver Operasional",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-driver-operasional-terbaru-pt.html"
+    },
+    {
+      "id": 1685,
+      "company": "Terbaru di Apotek Aisyah",
+      "title": "Admin",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-admin-di-terbaru-di-apotek.html"
+    },
+    {
+      "id": 1683,
+      "company": "PT Cakrawala Edukasi Aurora",
+      "title": "Petugas Pendataan RIAU",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-petugas-pendataan-riau-terbaru-pt.html"
+    },
+    {
+      "id": 1681,
+      "company": "CLC Indonesia",
+      "title": "GURU BAHASA INGGRIS CLC CABANG GARUDA PEKANBARU",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-guru-bahasa-inggris-clc.html"
+    },
+    {
+      "id": 1680,
+      "company": "PT Indo Riau Perkasa",
+      "title": "Technical Support",
+      "blogger_url": "https://www.mintainfo.com/2026/06/technical-support-di-pt-indo-riau.html"
+    },
+    {
+      "id": 1679,
+      "company": "PT Marita Makmur Jaya",
+      "title": "Supir Kantor",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-supir-kantor-di-pt-marita.html"
+    },
+    {
+      "id": 1678,
+      "company": "Labora Duta Anugrah",
+      "title": "Cheker Gudang",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-cheker-gudang-terbaru-labora-duta.html"
+    }
+  ]
 }
