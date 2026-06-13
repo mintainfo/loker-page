@@ -76,6 +76,11 @@
       transition:background .15s,transform .1s}
     .btn:hover{background:var(--orange);transform:scale(1.04)}
 
+    /* DATE SEPARATOR */
+    .date-sep{display:flex;align-items:center;gap:10px;margin:18px 0 10px;}
+    .date-sep span{color:var(--navy);font-size:12px;font-weight:800;white-space:nowrap}
+    .date-sep::before,.date-sep::after{content:'';flex:1;height:1px;background:var(--border)}
+
     /* FOOTER */
     footer{position:fixed;bottom:0;width:100%;background:rgba(255,255,255,.96);
       backdrop-filter:blur(14px);border-top:1px solid var(--border);
@@ -99,11 +104,11 @@
 </header>
 
 <div class="filters">
-  <button class="filter-btn active" onclick="loadOffset(0,this)">Hari Ini</button>
+  <button class="filter-btn active" onclick="loadAll(this)">Semua</button>
+  <button class="filter-btn" onclick="loadOffset(0,this)">Hari Ini</button>
   <button class="filter-btn" onclick="loadOffset(1,this)">Kemarin</button>
   <button class="filter-btn" onclick="loadOffset(3,this)">3 Hari Lalu</button>
   <button class="filter-btn" onclick="loadOffset(7,this)">7 Hari Lalu</button>
-  <button class="filter-btn" onclick="loadAll(this)">Semua</button>
 </div>
 
 <div class="container">
@@ -138,18 +143,43 @@ function esc(s) {
   return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
 
-function renderJobs(jobs, showDate = false) {
+function renderJobs(jobs, grouped = false) {
   const list = document.getElementById('job-list');
   if (!jobs.length) {
     list.innerHTML = '<p class="empty">Tidak ada loker pada tanggal ini.</p>';
     return;
   }
-  list.innerHTML = jobs.map((j,i) => `
+
+  if (grouped) {
+    // Kelompokkan per tanggal
+    const groups = {};
+    jobs.forEach(j => {
+      const key = j.date_label || '';
+      if (!groups[key]) groups[key] = [];
+      groups[key].push(j);
+    });
+    let num = 1;
+    let html = '';
+    Object.entries(groups).forEach(([label, gjobs]) => {
+      html += `<div class="date-sep"><span>${esc(label)}</span></div>`;
+      gjobs.forEach(j => {
+        html += cardHtml(j, num++);
+      });
+    });
+    list.innerHTML = html;
+  } else {
+    list.innerHTML = jobs.map((j,i) => cardHtml(j, i+1)).join('');
+  }
+
+  loadCounts(jobs);
+}
+
+function cardHtml(j, num) {
+  return `
     <div class="card" id="card-${j.id}">
       <div class="card-left">
-        <span class="num">${String(i+1).padStart(2,'0')}</span>
+        <span class="num">${String(num).padStart(2,'0')}</span>
         <div class="card-info">
-          ${showDate && j.date_label ? `<p class="company" style="color:var(--orange);font-weight:700">${esc(j.date_label)}</p>` : ''}
           <p class="company">${esc(j.company)}</p>
           <h2 class="title">${esc(j.title)}</h2>
           <p class="view-count" id="vc-${j.id}"></p>
@@ -157,9 +187,7 @@ function renderJobs(jobs, showDate = false) {
       </div>
       <button class="btn" onclick="openLoker(${j.id}, '${j.blogger_url}')">Buka<br>Loker</button>
     </div>
-  `).join('');
-
-  loadCounts(jobs);
+  `;
 }
 
 function loadCounts(jobs) {
@@ -210,6 +238,7 @@ async function loadAll(btn) {
   }
 }
 
+
 async function loadOffset(days, btn) {
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
   if (btn) btn.classList.add('active');
@@ -234,21 +263,15 @@ async function loadOffset(days, btn) {
     status.style.display = 'none';
     renderJobs(data.jobs);
   } catch(e) {
-    // Hari ini kosong — otomatis pindah ke tab Semua
-    if (days === 0) {
-      const allBtn = document.querySelector('.filter-btn:last-child');
-      loadAll(allBtn);
-    } else {
-      status.className = 'empty';
-      status.textContent = 'Tidak ada data untuk tanggal ini.';
-      document.getElementById('hdate').textContent = '';
-      document.getElementById('chip').textContent  = '📋 0 Lowongan';
-    }
+    status.className = 'empty';
+    status.textContent = 'Tidak ada data untuk tanggal ini.';
+    document.getElementById('hdate').textContent = '';
+    document.getElementById('chip').textContent  = '📋 0 Lowongan';
   }
 }
 
-// Init
-loadOffset(0, document.querySelector('.filter-btn.active'));
+// Init — default tab Semua
+loadAll(document.querySelector('.filter-btn.active'));
 </script>
 </body>
 </html>
