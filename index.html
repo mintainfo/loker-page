@@ -103,6 +103,7 @@
   <button class="filter-btn" onclick="loadOffset(1,this)">Kemarin</button>
   <button class="filter-btn" onclick="loadOffset(3,this)">3 Hari Lalu</button>
   <button class="filter-btn" onclick="loadOffset(7,this)">7 Hari Lalu</button>
+  <button class="filter-btn" onclick="loadAll(this)">Semua</button>
 </div>
 
 <div class="container">
@@ -137,7 +138,7 @@ function esc(s) {
   return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
 
-function renderJobs(jobs) {
+function renderJobs(jobs, showDate = false) {
   const list = document.getElementById('job-list');
   if (!jobs.length) {
     list.innerHTML = '<p class="empty">Tidak ada loker pada tanggal ini.</p>';
@@ -148,6 +149,7 @@ function renderJobs(jobs) {
       <div class="card-left">
         <span class="num">${String(i+1).padStart(2,'0')}</span>
         <div class="card-info">
+          ${showDate && j.date_label ? `<p class="company" style="color:var(--orange);font-weight:700">${esc(j.date_label)}</p>` : ''}
           <p class="company">${esc(j.company)}</p>
           <h2 class="title">${esc(j.title)}</h2>
           <p class="view-count" id="vc-${j.id}"></p>
@@ -180,6 +182,34 @@ function openLoker(jobId, url) {
   window.open(url, '_blank', 'noopener');
 }
 
+async function loadAll(btn) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+
+  const status = document.getElementById('status');
+  const list   = document.getElementById('job-list');
+  status.style.display = 'block';
+  status.className = 'loading';
+  status.textContent = 'Memuat loker';
+  list.innerHTML = '';
+
+  try {
+    const r = await fetch(BASE + 'data/all.json?t=' + Date.now());
+    if (!r.ok) throw new Error('not found');
+    const data = await r.json();
+
+    document.getElementById('hdate').textContent = '7 Hari Terakhir';
+    document.getElementById('chip').textContent  = '📋 ' + data.count + ' Lowongan Tersedia';
+    status.style.display = 'none';
+    renderJobs(data.jobs, true);
+  } catch(e) {
+    status.className = 'empty';
+    status.textContent = 'Tidak ada data tersedia.';
+    document.getElementById('hdate').textContent = '';
+    document.getElementById('chip').textContent  = '📋 0 Lowongan';
+  }
+}
+
 async function loadOffset(days, btn) {
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
   if (btn) btn.classList.add('active');
@@ -204,10 +234,16 @@ async function loadOffset(days, btn) {
     status.style.display = 'none';
     renderJobs(data.jobs);
   } catch(e) {
-    status.className = 'empty';
-    status.textContent = 'Tidak ada data untuk tanggal ini.';
-    document.getElementById('hdate').textContent = '';
-    document.getElementById('chip').textContent  = '📋 0 Lowongan';
+    // Hari ini kosong — otomatis pindah ke tab Semua
+    if (days === 0) {
+      const allBtn = document.querySelector('.filter-btn:last-child');
+      loadAll(allBtn);
+    } else {
+      status.className = 'empty';
+      status.textContent = 'Tidak ada data untuk tanggal ini.';
+      document.getElementById('hdate').textContent = '';
+      document.getElementById('chip').textContent  = '📋 0 Lowongan';
+    }
   }
 }
 
