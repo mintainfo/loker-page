@@ -1,8 +1,20 @@
 {
   "date": "2026-06-15",
   "date_label": "Senin, 15 Juni 2026",
-  "count": 3,
+  "count": 5,
   "jobs": [
+    {
+      "id": 1793,
+      "company": "PT Mobil Anak Bangsa",
+      "title": "Site Admin Staff",
+      "blogger_url": "https://www.mintainfo.com/2026/06/pt-mobil-anak-bangsa-buka-lowongan-site.html"
+    },
+    {
+      "id": 1787,
+      "company": "Pt Auto Teknologi Indonesia",
+      "title": "kurir toko",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-kurir-toko-terbaru-pt-auto.html"
+    },
     {
       "id": 1767,
       "company": "HOLISTIKIDS UNIVERSE PROSPERITY",
