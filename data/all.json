@@ -1,6 +1,27 @@
 {
-  "count": 46,
+  "count": 44,
   "jobs": [
+    {
+      "id": 1765,
+      "company": "Mitrabangun.id Semarang",
+      "title": "Admin Project Konstruksi",
+      "blogger_url": "https://www.mintainfo.com/2026/06/mitrabangunid-semarang-buka-lowongan.html",
+      "date_label": "Senin, 15 Juni 2026"
+    },
+    {
+      "id": 1766,
+      "company": "HOLISTIKIDS UNIVERSE PROSPERITY",
+      "title": "Desain Komunikasi Visual",
+      "blogger_url": "https://www.mintainfo.com/2026/06/desain-komunikasi-visual-di-holistikids.html",
+      "date_label": "Senin, 15 Juni 2026"
+    },
+    {
+      "id": 1767,
+      "company": "HOLISTIKIDS UNIVERSE PROSPERITY",
+      "title": "Customer Service",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-customer-service-di.html",
+      "date_label": "Senin, 15 Juni 2026"
+    },
     {
       "id": 1689,
       "company": "PT. JAYA BERSAMA SAPUTRA PERKASA",
@@ -287,41 +308,6 @@
       "title": "Guru Lukis",
       "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-guru-lukis-di-suri-art-studio.html",
       "date_label": "Senin, 8 Juni 2026"
-    },
-    {
-      "id": 1462,
-      "company": "Terbaru di Toko Sepatu Juwita",
-      "title": "Pramuniaga Toko Sepatu",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-pramuniaga-toko-sepatu-di.html",
-      "date_label": "Minggu, 7 Juni 2026"
-    },
-    {
-      "id": 1463,
-      "company": "Terbaru di Vinia Boutique",
-      "title": "Lowongan Kerja Terbaru di Vinia Boutique Pekanbaru Juni 2026",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-lowongan-kerja-terbaru-di-vinia.html",
-      "date_label": "Minggu, 7 Juni 2026"
-    },
-    {
-      "id": 1357,
-      "company": "PT. SUMATERA DINAMIKA UTAMA",
-      "title": "IT Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/06/it-manager-di-pt-sumatera-dinamika.html",
-      "date_label": "Minggu, 7 Juni 2026"
-    },
-    {
-      "id": 1358,
-      "company": "Teman Dental",
-      "title": "Paid Promotion Ads",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-paid-promotion-ads-terbaru-teman.html",
-      "date_label": "Minggu, 7 Juni 2026"
-    },
-    {
-      "id": 1368,
-      "company": "PT Matahari Department Store Tbk",
-      "title": "Area Supervisor (Pekanbaru)",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-area-supervisor-pekanbaru-terbaru.html",
-      "date_label": "Minggu, 7 Juni 2026"
     }
   ]
 }
