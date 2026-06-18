@@ -1,6 +1,27 @@
 {
-  "count": 42,
+  "count": 41,
   "jobs": [
+    {
+      "id": 1933,
+      "company": "PT Primanusa Globalindo",
+      "title": "PRODUCT SUPPORT",
+      "blogger_url": "https://www.mintainfo.com/2026/06/pt-primanusa-globalindo-buka-lowongan.html",
+      "date_label": "Kamis, 18 Juni 2026"
+    },
+    {
+      "id": 1939,
+      "company": "PT CIPUTRA NUSANTARA (CIPUTRA GROUP)",
+      "title": "Head of Marketing & Sales",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-head-of-marketing-sales-terbaru.html",
+      "date_label": "Kamis, 18 Juni 2026"
+    },
+    {
+      "id": 1941,
+      "company": "PT. Agung Bumi Lestari | International Paper Packaging & Food Wrapping",
+      "title": "Teknisi Inverter",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-teknisi-inverter-terbaru-pt-agung.html",
+      "date_label": "Kamis, 18 Juni 2026"
+    },
     {
       "id": 1920,
       "company": "PT PUSAT EMAS INDONESIA",
@@ -266,34 +287,6 @@
       "title": "Graphic Designer",
       "blogger_url": "https://www.mintainfo.com/2026/06/graphic-designer-di-pt-onesia-nusantara.html",
       "date_label": "Kamis, 11 Juni 2026"
-    },
-    {
-      "id": 1608,
-      "company": "Dadarin Aja",
-      "title": "Eksekutif Chef",
-      "blogger_url": "https://www.mintainfo.com/2026/06/eksekutif-chef-di-dadarin-aja-pekanbaru.html",
-      "date_label": "Rabu, 10 Juni 2026"
-    },
-    {
-      "id": 1609,
-      "company": "Dadarin Aja",
-      "title": "Administrasi Sistem Operasi",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-administrasi-sistem-operasi.html",
-      "date_label": "Rabu, 10 Juni 2026"
-    },
-    {
-      "id": 1606,
-      "company": "Dea Bakery",
-      "title": "Driver",
-      "blogger_url": "https://www.mintainfo.com/2026/06/dea-bakery-buka-lowongan-driver.html",
-      "date_label": "Rabu, 10 Juni 2026"
-    },
-    {
-      "id": 1589,
-      "company": "PT Yadea Manufaktur Kendaraan Listrik",
-      "title": "Retail Trainer Specialist - Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/06/retail-trainer-specialist-pekanbaru-di.html",
-      "date_label": "Rabu, 10 Juni 2026"
     }
   ]
 }
