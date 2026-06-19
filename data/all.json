@@ -1,6 +1,76 @@
 {
-  "count": 41,
+  "count": 45,
   "jobs": [
+    {
+      "id": 1982,
+      "company": "PT.SELALU BAHAGIA SEJAHTERA",
+      "title": "Teknisi Smartphone (OPPO Service Center Pekanbaru)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-teknisi-smartphone-oppo-service.html",
+      "date_label": "Jumat, 19 Juni 2026"
+    },
+    {
+      "id": 1983,
+      "company": "PT Sariguna Primatirta Tbk (Tanobel Food)",
+      "title": "Kasie Teknik, Kasie Gudang, Teknisi (Pekanbaru)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-kasie-teknik-kasie-gudang.html",
+      "date_label": "Jumat, 19 Juni 2026"
+    },
+    {
+      "id": 1984,
+      "company": "PT Pelayaran Nasional Santan Prima Bahari",
+      "title": "Logistik Staff",
+      "blogger_url": "https://www.mintainfo.com/2026/06/logistik-staff-di-pt-pelayaran-nasional.html",
+      "date_label": "Jumat, 19 Juni 2026"
+    },
+    {
+      "id": 1987,
+      "company": "PT. EATWELL CULINARY INDONESIA",
+      "title": "STORE MANAGER (PEKANBARU, DUMAI,PANGKAL PINANG)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-store-manager-pekanbaru.html",
+      "date_label": "Jumat, 19 Juni 2026"
+    },
+    {
+      "id": 2004,
+      "company": "SmartID",
+      "title": "Partnership Management Officer",
+      "blogger_url": "https://www.mintainfo.com/2026/06/partnership-management-officer-di.html",
+      "date_label": "Jumat, 19 Juni 2026"
+    },
+    {
+      "id": 2005,
+      "company": "PT Pratama Karya Bangsa",
+      "title": "Barista Teazzi Store (Teazzi Mall Ciputra Seraya Pekanbaru)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/pt-pratama-karya-bangsa-buka-lowongan.html",
+      "date_label": "Jumat, 19 Juni 2026"
+    },
+    {
+      "id": 2002,
+      "company": "Tidak Disebutkan",
+      "title": "Crew Store",
+      "blogger_url": "https://www.mintainfo.com/2026/06/tidak-disebutkan-buka-lowongan-crew.html",
+      "date_label": "Jumat, 19 Juni 2026"
+    },
+    {
+      "id": 2003,
+      "company": "Holywash",
+      "title": "Operational Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/06/holywash-buka-lowongan-operational.html",
+      "date_label": "Jumat, 19 Juni 2026"
+    },
+    {
+      "id": 1971,
+      "company": "GEMOY COIN",
+      "title": "Outlet Staff (Simpang Empat)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/outlet-staff-simpang-empat-di-gemoy.html",
+      "date_label": "Jumat, 19 Juni 2026"
+    },
+    {
+      "id": 1972,
+      "company": "PT. BPR FIANKA REZALINA FATMA",
+      "title": "Internship IT",
+      "blogger_url": "https://www.mintainfo.com/2026/06/pt-bpr-fianka-rezalina-fatma-buka.html",
+      "date_label": "Jumat, 19 Juni 2026"
+    },
     {
       "id": 1933,
       "company": "PT Primanusa Globalindo",
@@ -245,48 +315,6 @@
       "title": "Dokter Umum/ Dokter Estetik",
       "blogger_url": "https://www.mintainfo.com/2026/06/loker-dokter-umum-dokter-estetik.html",
       "date_label": "Jumat, 12 Juni 2026"
-    },
-    {
-      "id": 1620,
-      "company": "PT Masmedia Buana Pustaka",
-      "title": "Staff Internal Audit",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-staff-internal-audit-di-pt.html",
-      "date_label": "Kamis, 11 Juni 2026"
-    },
-    {
-      "id": 1621,
-      "company": "Rumah Sakit Nurlima",
-      "title": "Petugas Proteksi Radiasi",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-petugas-proteksi-radiasi-terbaru.html",
-      "date_label": "Kamis, 11 Juni 2026"
-    },
-    {
-      "id": 1624,
-      "company": "PT Scuto Indonesia (Head Office)",
-      "title": "Outlet Head Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/06/pt-scuto-indonesia-head-office-buka.html",
-      "date_label": "Kamis, 11 Juni 2026"
-    },
-    {
-      "id": 1626,
-      "company": "PT Tirta Rindang Unggul Ekatama Finance (TRUE FINANCE)",
-      "title": "Admin Support Honorer",
-      "blogger_url": "https://www.mintainfo.com/2026/06/admin-support-honorer-di-pt-tirta.html",
-      "date_label": "Kamis, 11 Juni 2026"
-    },
-    {
-      "id": 1616,
-      "company": "PT Prada Makmur Sejahtera",
-      "title": "Petugas Penyuluh Lapangan (PPL)",
-      "blogger_url": "https://www.mintainfo.com/2026/06/petugas-penyuluh-lapangan-ppl-di-pt.html",
-      "date_label": "Kamis, 11 Juni 2026"
-    },
-    {
-      "id": 1612,
-      "company": "PT Onesia Nusantara Evolusi",
-      "title": "Graphic Designer",
-      "blogger_url": "https://www.mintainfo.com/2026/06/graphic-designer-di-pt-onesia-nusantara.html",
-      "date_label": "Kamis, 11 Juni 2026"
     }
   ]
 }
