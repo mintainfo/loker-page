@@ -1,6 +1,27 @@
 {
-  "count": 45,
+  "count": 36,
   "jobs": [
+    {
+      "id": 2080,
+      "company": "Apotek Keluarga",
+      "title": "Staff Penjualan (Penempatan Bandung)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-staff-penjualan-penempatan.html",
+      "date_label": "Sabtu, 20 Juni 2026"
+    },
+    {
+      "id": 2036,
+      "company": "Shabira Laundry",
+      "title": "Karyawan Laundry",
+      "blogger_url": "https://www.mintainfo.com/2026/06/karyawan-laundry-di-shabira-laundry.html",
+      "date_label": "Sabtu, 20 Juni 2026"
+    },
+    {
+      "id": 2048,
+      "company": "PEMUDA PADEL",
+      "title": "• Front Desk",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-front-desk-terbaru-pemuda-padel.html",
+      "date_label": "Sabtu, 20 Juni 2026"
+    },
     {
       "id": 1982,
       "company": "PT.SELALU BAHAGIA SEJAHTERA",
@@ -231,90 +252,6 @@
       "title": "Petugas Pendataan RIAU",
       "blogger_url": "https://www.mintainfo.com/2026/06/loker-petugas-pendataan-riau-terbaru-pt.html",
       "date_label": "Sabtu, 13 Juni 2026"
-    },
-    {
-      "id": 1668,
-      "company": "President University",
-      "title": "Dosen Prodi IT - Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-dosen-prodi-it-pekanbaru-terbaru.html",
-      "date_label": "Jumat, 12 Juni 2026"
-    },
-    {
-      "id": 1669,
-      "company": "Germany Brilliant Sanitaryware",
-      "title": "SPG/SPB",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-spgspb-terbaru-germany-brilliant.html",
-      "date_label": "Jumat, 12 Juni 2026"
-    },
-    {
-      "id": 1670,
-      "company": "Labora Duta Anugrah",
-      "title": "Operator Forklift",
-      "blogger_url": "https://www.mintainfo.com/2026/06/operator-forklift-di-labora-duta.html",
-      "date_label": "Jumat, 12 Juni 2026"
-    },
-    {
-      "id": 1671,
-      "company": "PT Nusantara Ekspres Kilat (Shopee Express)",
-      "title": "Sortation Center Shift Lead - SPX Express (Kota Pekanbaru, Riau)",
-      "blogger_url": "https://www.mintainfo.com/2026/06/sortation-center-shift-lead-spx-express.html",
-      "date_label": "Jumat, 12 Juni 2026"
-    },
-    {
-      "id": 1672,
-      "company": "Ruangguru",
-      "title": "Pengajar Kedinasan - Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/06/ruangguru-buka-lowongan-pengajar.html",
-      "date_label": "Jumat, 12 Juni 2026"
-    },
-    {
-      "id": 1674,
-      "company": "PT. Anugrah Kimt Sukses",
-      "title": "Helper",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-helper-di-pt-anugrah-kimt.html",
-      "date_label": "Jumat, 12 Juni 2026"
-    },
-    {
-      "id": 1664,
-      "company": "Terbaru di PT Yanmarindo Perkasa",
-      "title": "Admin",
-      "blogger_url": "https://www.mintainfo.com/2026/06/terbaru-di-pt-yanmarindo-perkasa-buka.html",
-      "date_label": "Jumat, 12 Juni 2026"
-    },
-    {
-      "id": 1665,
-      "company": "Clarisa Clinic",
-      "title": "Supervisor Klinik Kecantikan",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-supervisor-klinik-kecantikan.html",
-      "date_label": "Jumat, 12 Juni 2026"
-    },
-    {
-      "id": 1666,
-      "company": "Naswa Baby Shop",
-      "title": "Admin Review / Sosial Media",
-      "blogger_url": "https://www.mintainfo.com/2026/06/admin-review-sosial-media-di-naswa-baby.html",
-      "date_label": "Jumat, 12 Juni 2026"
-    },
-    {
-      "id": 1640,
-      "company": "Staffinc",
-      "title": "Security & Safety Support",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-security-safety-support-terbaru.html",
-      "date_label": "Jumat, 12 Juni 2026"
-    },
-    {
-      "id": 1643,
-      "company": "BukuWarung",
-      "title": "HR Operations Officer (Pekanbaru)",
-      "blogger_url": "https://www.mintainfo.com/2026/06/hr-operations-officer-pekanbaru-di.html",
-      "date_label": "Jumat, 12 Juni 2026"
-    },
-    {
-      "id": 1647,
-      "company": "Klinik FHOB",
-      "title": "Dokter Umum/ Dokter Estetik",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-dokter-umum-dokter-estetik.html",
-      "date_label": "Jumat, 12 Juni 2026"
     }
   ]
 }
