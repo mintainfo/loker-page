@@ -1,6 +1,20 @@
 {
-  "count": 36,
+  "count": 28,
   "jobs": [
+    {
+      "id": 2103,
+      "company": "Indo Teknik",
+      "title": "Konten Kreator",
+      "blogger_url": "https://www.mintainfo.com/2026/06/konten-kreator-di-indo-teknik-pekanbaru.html",
+      "date_label": "Minggu, 21 Juni 2026"
+    },
+    {
+      "id": 2104,
+      "company": "PT Madinah Iman Wisata (MIW) Cabang",
+      "title": "Lowongan Kerja di PT Madinah Iman Wisata (MIW) Cabang Pekanbaru Juni 2026",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-lowongan-kerja-di-pt-madinah-iman.html",
+      "date_label": "Minggu, 21 Juni 2026"
+    },
     {
       "id": 2080,
       "company": "Apotek Keluarga",
@@ -182,76 +196,6 @@
       "title": "Customer Service",
       "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-customer-service-di.html",
       "date_label": "Senin, 15 Juni 2026"
-    },
-    {
-      "id": 1689,
-      "company": "PT. JAYA BERSAMA SAPUTRA PERKASA",
-      "title": "Driver Operasional",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-driver-operasional-terbaru-pt.html",
-      "date_label": "Sabtu, 13 Juni 2026"
-    },
-    {
-      "id": 1690,
-      "company": "PT. Dirgaputra Ekapratama",
-      "title": "KASIR PEKANBARU",
-      "blogger_url": "https://www.mintainfo.com/2026/06/kasir-pekanbaru-di-pt-dirgaputra.html",
-      "date_label": "Sabtu, 13 Juni 2026"
-    },
-    {
-      "id": 1691,
-      "company": "PT Konecranes Material Handling Indonesia",
-      "title": "Service Technician",
-      "blogger_url": "https://www.mintainfo.com/2026/06/service-technician-di-pt-konecranes.html",
-      "date_label": "Sabtu, 13 Juni 2026"
-    },
-    {
-      "id": 1694,
-      "company": "PT Kamadjaja Logistics",
-      "title": "Staff Admin Warehouse",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-staff-admin-warehouse-terbaru-pt.html",
-      "date_label": "Sabtu, 13 Juni 2026"
-    },
-    {
-      "id": 1685,
-      "company": "Terbaru di Apotek Aisyah",
-      "title": "Admin",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-admin-di-terbaru-di-apotek.html",
-      "date_label": "Sabtu, 13 Juni 2026"
-    },
-    {
-      "id": 1678,
-      "company": "Labora Duta Anugrah",
-      "title": "Cheker Gudang",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-cheker-gudang-terbaru-labora-duta.html",
-      "date_label": "Sabtu, 13 Juni 2026"
-    },
-    {
-      "id": 1679,
-      "company": "PT Marita Makmur Jaya",
-      "title": "Supir Kantor",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-supir-kantor-di-pt-marita.html",
-      "date_label": "Sabtu, 13 Juni 2026"
-    },
-    {
-      "id": 1680,
-      "company": "PT Indo Riau Perkasa",
-      "title": "Technical Support",
-      "blogger_url": "https://www.mintainfo.com/2026/06/technical-support-di-pt-indo-riau.html",
-      "date_label": "Sabtu, 13 Juni 2026"
-    },
-    {
-      "id": 1681,
-      "company": "CLC Indonesia",
-      "title": "GURU BAHASA INGGRIS CLC CABANG GARUDA PEKANBARU",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-guru-bahasa-inggris-clc.html",
-      "date_label": "Sabtu, 13 Juni 2026"
-    },
-    {
-      "id": 1683,
-      "company": "PT Cakrawala Edukasi Aurora",
-      "title": "Petugas Pendataan RIAU",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-petugas-pendataan-riau-terbaru-pt.html",
-      "date_label": "Sabtu, 13 Juni 2026"
     }
   ]
 }
