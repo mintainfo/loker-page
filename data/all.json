@@ -1,6 +1,41 @@
 {
-  "count": 28,
+  "count": 33,
   "jobs": [
+    {
+      "id": 2159,
+      "company": "PT Transportasi Gas Indonesia",
+      "title": "Apprentice Technician",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-apprentice-technician-terbaru-pt.html",
+      "date_label": "Senin, 22 Juni 2026"
+    },
+    {
+      "id": 2161,
+      "company": "PT Danarta Anugrah Divina",
+      "title": "TEAM LEADER",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-team-leader-terbaru-pt-danarta.html",
+      "date_label": "Senin, 22 Juni 2026"
+    },
+    {
+      "id": 2162,
+      "company": "PT. Ming Sui Solusi Indonesia",
+      "title": "Finance Staff Mandarin Speaker (Riau)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/pt-ming-sui-solusi-indonesia-buka.html",
+      "date_label": "Senin, 22 Juni 2026"
+    },
+    {
+      "id": 2155,
+      "company": "PT. Allvamed Nuvacon Adigana",
+      "title": "Relationship Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-relationship-manager-di-pt.html",
+      "date_label": "Senin, 22 Juni 2026"
+    },
+    {
+      "id": 2156,
+      "company": "PT. Xentra Platform Digital Cargo",
+      "title": "Helper Bongkar Muat Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-helper-bongkar-muat-pekanbaru.html",
+      "date_label": "Senin, 22 Juni 2026"
+    },
     {
       "id": 2103,
       "company": "Indo Teknik",
