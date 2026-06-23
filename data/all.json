@@ -1,6 +1,118 @@
 {
-  "count": 34,
+  "count": 44,
   "jobs": [
+    {
+      "id": 2259,
+      "company": "CIPTA PRIMA MOBIL",
+      "title": "SATPAM",
+      "blogger_url": "https://www.mintainfo.com/2026/06/satpam-di-cipta-prima-mobil-pekanbaru.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2254,
+      "company": "Heirloom Coffee & Eatery",
+      "title": "Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-barista-terbaru-heirloom-coffee.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2249,
+      "company": "Numaris Aesthetic Clinic",
+      "title": "Senior Beautician & Beautician",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-senior-beautician-beautician.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2237,
+      "company": "PT Nusantara Andalan Indo Kencana",
+      "title": "Kepala Gudang / Warehouse Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/06/pt-nusantara-andalan-indo-kencana-buka.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2239,
+      "company": "HOLISTIKIDS UNIVERSE PROSPERITY",
+      "title": "Desain Komunikasi Visual",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-desain-komunikasi-visual-di.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2240,
+      "company": "HOLISTIKIDS UNIVERSE PROSPERITY",
+      "title": "Customer Service",
+      "blogger_url": "https://www.mintainfo.com/2026/06/customer-service-di-holistikids.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2233,
+      "company": "SMK Keuangan",
+      "title": "Guru Bahasa Inggris",
+      "blogger_url": "https://www.mintainfo.com/2026/06/smk-keuangan-buka-lowongan-guru-bahasa.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2234,
+      "company": "Terbaru di Ekaputra Meatshop",
+      "title": "Content Strategist & Creative Talent",
+      "blogger_url": "https://www.mintainfo.com/2026/06/content-strategist-creative-talent-di.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2166,
+      "company": "PT Sigma Cipta Utama",
+      "title": "HSSE",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-hsse-di-pt-sigma-cipta-utama.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2167,
+      "company": "PT Yontomo Sukses Abadi",
+      "title": "TEKNISI",
+      "blogger_url": "https://www.mintainfo.com/2026/06/pt-yontomo-sukses-abadi-buka-lowongan.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2212,
+      "company": "PT Adigraha Wiranusa",
+      "title": "Supervisor Accounting & Tax",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-supervisor-accounting-tax-di.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2213,
+      "company": "PT Docare Laras Indonesia",
+      "title": "MEDICAL REPRESENTATIVE (PEKANBARU)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-medical-representative-pekanbaru.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2214,
+      "company": "Bina Sains Indonesia",
+      "title": "Guru Matematika,Fisika,Biologi,Kimia,B. Indnesia,Sejarah,Ekonomi,TIK,English,Geo",
+      "blogger_url": "https://www.mintainfo.com/2026/06/guru-matematikafisikabiologikimiab.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2215,
+      "company": "Bina Sains Indonesia",
+      "title": "Admin Pendidikan",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-admin-pendidikan-terbaru-bina.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2219,
+      "company": "PT Kemakmuran Alam Sejahtera",
+      "title": "Supervisor Community Development",
+      "blogger_url": "https://www.mintainfo.com/2026/06/pt-kemakmuran-alam-sejahtera-buka.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
+    {
+      "id": 2220,
+      "company": "PT Paramita Bangun Sarana, Tbk",
+      "title": "Supervisor Electrical",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-supervisor-electrical-di-pt.html",
+      "date_label": "Selasa, 23 Juni 2026"
+    },
     {
       "id": 2177,
       "company": "PT. Xentra Platform Digital Cargo",
@@ -196,48 +308,6 @@
       "title": "Front Desk Receptionist",
       "blogger_url": "https://www.mintainfo.com/2026/06/pt-gempita-damai-permai-buka-lowongan.html",
       "date_label": "Selasa, 16 Juni 2026"
-    },
-    {
-      "id": 1801,
-      "company": "Tidak Disebutkan",
-      "title": "PEKANBARU JOB FAIR 2026",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-pekanbaru-job-fair-2026-terbaru.html",
-      "date_label": "Senin, 15 Juni 2026"
-    },
-    {
-      "id": 1787,
-      "company": "Pt Auto Teknologi Indonesia",
-      "title": "kurir toko",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-kurir-toko-terbaru-pt-auto.html",
-      "date_label": "Senin, 15 Juni 2026"
-    },
-    {
-      "id": 1793,
-      "company": "PT Mobil Anak Bangsa",
-      "title": "Site Admin Staff",
-      "blogger_url": "https://www.mintainfo.com/2026/06/pt-mobil-anak-bangsa-buka-lowongan-site.html",
-      "date_label": "Senin, 15 Juni 2026"
-    },
-    {
-      "id": 1765,
-      "company": "Mitrabangun.id Semarang",
-      "title": "Admin Project Konstruksi",
-      "blogger_url": "https://www.mintainfo.com/2026/06/mitrabangunid-semarang-buka-lowongan.html",
-      "date_label": "Senin, 15 Juni 2026"
-    },
-    {
-      "id": 1766,
-      "company": "HOLISTIKIDS UNIVERSE PROSPERITY",
-      "title": "Desain Komunikasi Visual",
-      "blogger_url": "https://www.mintainfo.com/2026/06/desain-komunikasi-visual-di-holistikids.html",
-      "date_label": "Senin, 15 Juni 2026"
-    },
-    {
-      "id": 1767,
-      "company": "HOLISTIKIDS UNIVERSE PROSPERITY",
-      "title": "Customer Service",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-customer-service-di.html",
-      "date_label": "Senin, 15 Juni 2026"
     }
   ]
 }
