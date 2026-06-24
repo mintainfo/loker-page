@@ -1,8 +1,14 @@
 {
   "date": "2026-06-24",
   "date_label": "Rabu, 24 Juni 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 2357,
+      "company": "Tidak Diketahui",
+      "title": "Barista & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/06/barista-posisi-lainnya-di-tidak.html"
+    },
     {
       "id": 2339,
       "company": "SCAPP Production",
