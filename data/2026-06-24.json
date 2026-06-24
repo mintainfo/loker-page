@@ -1,11 +1,11 @@
 {
   "date": "2026-06-24",
   "date_label": "Rabu, 24 Juni 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 2357,
-      "company": "Tidak Diketahui",
+      "company": "Virza Cafe Roastery",
       "title": "Barista & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/06/barista-posisi-lainnya-di-tidak.html"
     },
@@ -68,6 +68,12 @@
       "company": "PT Home Credit Indonesia",
       "title": "Collection Trainer - Pekanbaru",
       "blogger_url": "https://www.mintainfo.com/2026/06/pt-home-credit-indonesia-buka-lowongan.html"
+    },
+    {
+      "id": 2258,
+      "company": "BABYPLACE.ID",
+      "title": "SALES & KASIR",
+      "blogger_url": "https://www.mintainfo.com/2026/06/babyplaceid-buka-lowongan-sales-kasir.html"
     }
   ]
 }
