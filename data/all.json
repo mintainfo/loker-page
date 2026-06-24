@@ -1,9 +1,23 @@
 {
-  "count": 54,
+  "count": 55,
   "jobs": [
     {
+      "id": 2258,
+      "company": "BABYPLACE.ID",
+      "title": "SALES & KASIR",
+      "blogger_url": "https://www.mintainfo.com/2026/06/babyplaceid-buka-lowongan-sales-kasir.html",
+      "date_label": "Rabu, 24 Juni 2026"
+    },
+    {
+      "id": 2331,
+      "company": "Confidential Company",
+      "title": "Petugas Kebersihan / Cleaning Service",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-petugas-kebersihan-cleaning.html",
+      "date_label": "Rabu, 24 Juni 2026"
+    },
+    {
       "id": 2357,
-      "company": "Tidak Diketahui",
+      "company": "Virza Cafe Roastery",
       "title": "Barista & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/06/barista-posisi-lainnya-di-tidak.html",
       "date_label": "Rabu, 24 Juni 2026"
@@ -20,13 +34,6 @@
       "company": "Roemah Dahar",
       "title": "Cashier & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/06/roemah-dahar-buka-lowongan-cashier.html",
-      "date_label": "Rabu, 24 Juni 2026"
-    },
-    {
-      "id": 2331,
-      "company": "Confidential Company",
-      "title": "Petugas Kebersihan / Cleaning Service",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-petugas-kebersihan-cleaning.html",
       "date_label": "Rabu, 24 Juni 2026"
     },
     {
