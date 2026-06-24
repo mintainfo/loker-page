@@ -1,8 +1,20 @@
 {
   "date": "2026-06-24",
   "date_label": "Rabu, 24 Juni 2026",
-  "count": 8,
+  "count": 10,
   "jobs": [
+    {
+      "id": 2339,
+      "company": "SCAPP Production",
+      "title": "Shopkeeper & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/06/scapp-production-buka-lowongan.html"
+    },
+    {
+      "id": 2338,
+      "company": "Roemah Dahar",
+      "title": "Cashier & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/06/roemah-dahar-buka-lowongan-cashier.html"
+    },
     {
       "id": 2332,
       "company": "PT INSEKTA FOKUSTAMA",
