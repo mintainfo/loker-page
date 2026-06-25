@@ -1,7 +1,7 @@
 {
   "date": "2026-06-25",
   "date_label": "Kamis, 25 Juni 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 2528,
@@ -14,6 +14,12 @@
       "company": "Bintang Adhi Rajasa",
       "title": "Pengawas Lapangan",
       "blogger_url": "https://www.mintainfo.com/2026/06/loker-pengawas-lapangan-terbaru-bintang.html"
+    },
+    {
+      "id": 2483,
+      "company": "PT Personel Alih Daya Tbk",
+      "title": "Senior Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-senior-barista-terbaru-pt.html"
     }
   ]
 }
