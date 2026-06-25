@@ -1,7 +1,7 @@
 {
   "date": "2026-06-25",
   "date_label": "Kamis, 25 Juni 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 2544,
@@ -32,6 +32,12 @@
       "company": "Bank Universal BPR",
       "title": "Relationship Manager - Pekanbaru",
       "blogger_url": "https://www.mintainfo.com/2026/06/loker-relationship-manager-pekanbaru.html"
+    },
+    {
+      "id": 2428,
+      "company": "Ruangguru for Business",
+      "title": "[Part-time] - Pengajar Fisika - Kota Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-part-time-pengajar-fisika-kota.html"
     }
   ]
 }
