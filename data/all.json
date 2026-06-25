@@ -1,6 +1,13 @@
 {
-  "count": 55,
+  "count": 53,
   "jobs": [
+    {
+      "id": 2508,
+      "company": "Bintang Adhi Rajasa",
+      "title": "Pengawas Lapangan",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-pengawas-lapangan-terbaru-bintang.html",
+      "date_label": "Kamis, 25 Juni 2026"
+    },
     {
       "id": 2280,
       "company": "PT Brinks Solutions Indonesia",
@@ -364,27 +371,6 @@
       "title": "Teknisi Inverter",
       "blogger_url": "https://www.mintainfo.com/2026/06/loker-teknisi-inverter-terbaru-pt-agung.html",
       "date_label": "Kamis, 18 Juni 2026"
-    },
-    {
-      "id": 1920,
-      "company": "PT PUSAT EMAS INDONESIA",
-      "title": "Teller (Pekanbaru)",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-teller-pekanbaru-terbaru-pt-pusat.html",
-      "date_label": "Rabu, 17 Juni 2026"
-    },
-    {
-      "id": 1894,
-      "company": "PT Niat Suci KeBaitullah",
-      "title": "Staff Entry Visa",
-      "blogger_url": "https://www.mintainfo.com/2026/06/staff-entry-visa-di-pt-niat-suci.html",
-      "date_label": "Rabu, 17 Juni 2026"
-    },
-    {
-      "id": 1891,
-      "company": "Majoo Indonesia",
-      "title": "Field Technical Support",
-      "blogger_url": "https://www.mintainfo.com/2026/06/field-technical-support-di-majoo.html",
-      "date_label": "Rabu, 17 Juni 2026"
     }
   ]
 }
