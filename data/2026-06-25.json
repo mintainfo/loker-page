@@ -1,13 +1,19 @@
 {
   "date": "2026-06-25",
   "date_label": "Kamis, 25 Juni 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 2562,
       "company": "Aurora Talent",
       "title": "Project Manager",
       "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-project-manager-di-aurora.html"
+    },
+    {
+      "id": 2558,
+      "company": "Ruangguru for Business",
+      "title": "[Part-time] - Pengajar Fisika - Kota Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/06/ruangguru-for-business-buka-lowongan.html"
     },
     {
       "id": 2550,
