@@ -1,43 +1,27 @@
 {
   "date": "2026-06-25",
-  "date_label": "Kamis, 25 Juni 2026",
-  "count": 6,
+  "count": 3,
   "jobs": [
-    {
-      "id": 2544,
-      "company": "Aurora Talent",
-      "title": "Project Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-project-manager-terbaru-aurora.html"
-    },
     {
       "id": 2528,
       "company": "Alesha Mart",
       "title": "Kasir",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-kasir-di-alesha-mart.html"
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-kasir-di-alesha-mart.html",
+      "date_label": "Kamis, 25 Juni 2026"
     },
     {
       "id": 2508,
       "company": "Bintang Adhi Rajasa",
       "title": "Pengawas Lapangan",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-pengawas-lapangan-terbaru-bintang.html"
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-pengawas-lapangan-terbaru-bintang.html",
+      "date_label": "Kamis, 25 Juni 2026"
     },
     {
       "id": 2483,
       "company": "PT Personel Alih Daya Tbk",
       "title": "Senior Barista",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-senior-barista-terbaru-pt.html"
-    },
-    {
-      "id": 2435,
-      "company": "Bank Universal BPR",
-      "title": "Relationship Manager - Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-relationship-manager-pekanbaru.html"
-    },
-    {
-      "id": 2428,
-      "company": "Ruangguru for Business",
-      "title": "[Part-time] - Pengajar Fisika - Kota Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-part-time-pengajar-fisika-kota.html"
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-senior-barista-terbaru-pt.html",
+      "date_label": "Kamis, 25 Juni 2026"
     }
   ]
 }
