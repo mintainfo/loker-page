@@ -1,8 +1,14 @@
 {
   "date": "2026-06-25",
   "date_label": "Kamis, 25 Juni 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 2550,
+      "company": "Ewa Coffee Space",
+      "title": "Barista & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/06/barista-posisi-lainnya-di-ewa-coffee.html"
+    },
     {
       "id": 2549,
       "company": "Le Manz Laundry Self Service",
