@@ -1,8 +1,14 @@
 {
   "date": "2026-06-25",
   "date_label": "Kamis, 25 Juni 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 2528,
+      "company": "Alesha Mart",
+      "title": "Kasir",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-kasir-di-alesha-mart.html"
+    },
     {
       "id": 2508,
       "company": "Bintang Adhi Rajasa",
