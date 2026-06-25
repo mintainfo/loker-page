@@ -1,8 +1,14 @@
 {
   "date": "2026-06-25",
   "date_label": "Kamis, 25 Juni 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 2582,
+      "company": "Aerobus Transport Manunggal",
+      "title": "Data Analyst",
+      "blogger_url": "https://www.mintainfo.com/2026/06/aerobus-transport-manunggal-buka.html"
+    },
     {
       "id": 2562,
       "company": "Aurora Talent",
