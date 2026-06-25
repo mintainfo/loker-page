@@ -1,27 +1,31 @@
 {
   "date": "2026-06-25",
-  "count": 3,
+  "date_label": "Kamis, 25 Juni 2026",
+  "count": 4,
   "jobs": [
+    {
+      "id": 2549,
+      "company": "Le Manz Laundry Self Service",
+      "title": "Karyawan Laundry",
+      "blogger_url": "https://www.mintainfo.com/2026/06/le-manz-laundry-self-service-buka.html"
+    },
     {
       "id": 2528,
       "company": "Alesha Mart",
       "title": "Kasir",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-kasir-di-alesha-mart.html",
-      "date_label": "Kamis, 25 Juni 2026"
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-kasir-di-alesha-mart.html"
     },
     {
       "id": 2508,
       "company": "Bintang Adhi Rajasa",
       "title": "Pengawas Lapangan",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-pengawas-lapangan-terbaru-bintang.html",
-      "date_label": "Kamis, 25 Juni 2026"
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-pengawas-lapangan-terbaru-bintang.html"
     },
     {
       "id": 2483,
       "company": "PT Personel Alih Daya Tbk",
       "title": "Senior Barista",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-senior-barista-terbaru-pt.html",
-      "date_label": "Kamis, 25 Juni 2026"
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-senior-barista-terbaru-pt.html"
     }
   ]
 }
