@@ -1,8 +1,14 @@
 {
   "date": "2026-06-25",
   "date_label": "Kamis, 25 Juni 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 2562,
+      "company": "Aurora Talent",
+      "title": "Project Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-project-manager-di-aurora.html"
+    },
     {
       "id": 2550,
       "company": "Ewa Coffee Space",
