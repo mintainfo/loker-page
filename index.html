@@ -104,8 +104,8 @@
 </header>
 
 <div class="filters">
-  <button class="filter-btn active" onclick="loadAll(this)">Semua</button>
-  <button class="filter-btn" onclick="loadOffset(0,this)">Hari Ini</button>
+  
+  <button class="filter-btn active" onclick="loadOffset(0,this)">Hari Ini</button>
   <button class="filter-btn" onclick="loadOffset(1,this)">Kemarin</button>
   <button class="filter-btn" onclick="loadOffset(3,this)">3 Hari Lalu</button>
   <button class="filter-btn" onclick="loadOffset(7,this)">7 Hari Lalu</button>
@@ -271,7 +271,7 @@ async function loadOffset(days, btn) {
 }
 
 // Init — default tab Semua
-loadAll(document.querySelector('.filter-btn.active'));
+loadOffset(0, document.querySelector('.filter-btn.active'));
 </script>
 </body>
 </html>
