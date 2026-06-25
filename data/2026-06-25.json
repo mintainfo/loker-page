@@ -1,8 +1,14 @@
 {
   "date": "2026-06-25",
   "date_label": "Kamis, 25 Juni 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 2544,
+      "company": "Aurora Talent",
+      "title": "Project Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-project-manager-terbaru-aurora.html"
+    },
     {
       "id": 2528,
       "company": "Alesha Mart",
