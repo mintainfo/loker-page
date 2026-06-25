@@ -1,6 +1,13 @@
 {
-  "count": 55,
+  "count": 56,
   "jobs": [
+    {
+      "id": 2549,
+      "company": "Le Manz Laundry Self Service",
+      "title": "Karyawan Laundry",
+      "blogger_url": "https://www.mintainfo.com/2026/06/le-manz-laundry-self-service-buka.html",
+      "date_label": "Kamis, 25 Juni 2026"
+    },
     {
       "id": 2483,
       "company": "PT Personel Alih Daya Tbk",
