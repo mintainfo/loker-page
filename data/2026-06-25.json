@@ -1,8 +1,14 @@
 {
   "date": "2026-06-25",
   "date_label": "Kamis, 25 Juni 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 2614,
+      "company": "IP-ICBS RIAU",
+      "title": "Bahasa Indonesia Teacher & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/06/bahasa-indonesia-teacher-posisi-lainnya.html"
+    },
     {
       "id": 2613,
       "company": "Klinik Pratama Elliya Husada",
