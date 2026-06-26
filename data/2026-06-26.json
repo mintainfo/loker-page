@@ -1,8 +1,14 @@
 {
   "date": "2026-06-26",
   "date_label": "Jumat, 26 Juni 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 2682,
+      "company": "Apotek Kita",
+      "title": "Staf Apotek",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-staf-apotek-terbaru-apotek-kita.html"
+    },
     {
       "id": 2664,
       "company": "Ruangguru for Business",
