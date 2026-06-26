@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
   "date_label": "Jumat, 26 Juni 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 2643,
@@ -26,6 +26,12 @@
       "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
       "title": "Fullstack Developer (Node.JS&React) - Pangkalan Kerinci Riau",
       "blogger_url": "https://www.mintainfo.com/2026/06/loker-fullstack-developer-nodejs.html"
+    },
+    {
+      "id": 2639,
+      "company": "Global Energi Lestari",
+      "title": "SUPERVISOR OPERATIONAL TRANSPORTIR PERTAMBANGAN BATU BARA",
+      "blogger_url": "https://www.mintainfo.com/2026/06/global-energi-lestari-buka-lowongan.html"
     }
   ]
 }
