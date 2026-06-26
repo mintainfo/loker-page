@@ -1,8 +1,14 @@
 {
   "date": "2026-06-26",
   "date_label": "Jumat, 26 Juni 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
+    {
+      "id": 2684,
+      "company": "Elitewash Laundry",
+      "title": "Staff Laundry (Wanita)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/staff-laundry-wanita-di-elitewash.html"
+    },
     {
       "id": 2683,
       "company": "SD GUANG MING 2",
