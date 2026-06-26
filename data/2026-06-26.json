@@ -1,8 +1,14 @@
 {
   "date": "2026-06-26",
   "date_label": "Jumat, 26 Juni 2026",
-  "count": 17,
+  "count": 18,
   "jobs": [
+    {
+      "id": 2709,
+      "company": "PT JCO Donuts & Coffee",
+      "title": "Crew Store",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-crew-store-di-pt-jco-donuts.html"
+    },
     {
       "id": 2695,
       "company": "TEACHER (GURU BAHASA INGGRIS)**",
