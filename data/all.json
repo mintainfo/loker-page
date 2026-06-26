@@ -1,6 +1,13 @@
 {
-  "count": 62,
+  "count": 63,
   "jobs": [
+    {
+      "id": 2640,
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "title": "Fullstack Developer (Node.JS&React) - Pangkalan Kerinci Riau",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-fullstack-developer-nodejs.html",
+      "date_label": "Jumat, 26 Juni 2026"
+    },
     {
       "id": 2641,
       "company": "PT BCA Finance",
