@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
   "date_label": "Jumat, 26 Juni 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 2643,
@@ -14,6 +14,12 @@
       "company": "PT Impact Power Mandiri",
       "title": "Team Leader FMCG",
       "blogger_url": "https://www.mintainfo.com/2026/06/team-leader-fmcg-di-pt-impact-power.html"
+    },
+    {
+      "id": 2641,
+      "company": "PT BCA Finance",
+      "title": "Relationship Officer BCA Finance - Penempatan Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-relationship-officer-bca-finance.html"
     }
   ]
 }
