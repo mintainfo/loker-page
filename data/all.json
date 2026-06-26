@@ -1,6 +1,13 @@
 {
-  "count": 62,
+  "count": 60,
   "jobs": [
+    {
+      "id": 2643,
+      "company": "PT Siba Surya",
+      "title": "Staf Keuangan",
+      "blogger_url": "https://www.mintainfo.com/2026/06/pt-siba-surya-buka-lowongan-staf.html",
+      "date_label": "Jumat, 26 Juni 2026"
+    },
     {
       "id": 2614,
       "company": "IP-ICBS RIAU",
@@ -413,27 +420,6 @@
       "title": "Internship IT",
       "blogger_url": "https://www.mintainfo.com/2026/06/pt-bpr-fianka-rezalina-fatma-buka.html",
       "date_label": "Jumat, 19 Juni 2026"
-    },
-    {
-      "id": 1933,
-      "company": "PT Primanusa Globalindo",
-      "title": "PRODUCT SUPPORT",
-      "blogger_url": "https://www.mintainfo.com/2026/06/pt-primanusa-globalindo-buka-lowongan.html",
-      "date_label": "Kamis, 18 Juni 2026"
-    },
-    {
-      "id": 1939,
-      "company": "PT CIPUTRA NUSANTARA (CIPUTRA GROUP)",
-      "title": "Head of Marketing & Sales",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-head-of-marketing-sales-terbaru.html",
-      "date_label": "Kamis, 18 Juni 2026"
-    },
-    {
-      "id": 1941,
-      "company": "PT. Agung Bumi Lestari | International Paper Packaging & Food Wrapping",
-      "title": "Teknisi Inverter",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-teknisi-inverter-terbaru-pt-agung.html",
-      "date_label": "Kamis, 18 Juni 2026"
     }
   ]
 }
