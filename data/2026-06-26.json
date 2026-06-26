@@ -1,13 +1,19 @@
 {
   "date": "2026-06-26",
   "date_label": "Jumat, 26 Juni 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 2643,
       "company": "PT Siba Surya",
       "title": "Staf Keuangan",
       "blogger_url": "https://www.mintainfo.com/2026/06/pt-siba-surya-buka-lowongan-staf.html"
+    },
+    {
+      "id": 2642,
+      "company": "PT Impact Power Mandiri",
+      "title": "Team Leader FMCG",
+      "blogger_url": "https://www.mintainfo.com/2026/06/team-leader-fmcg-di-pt-impact-power.html"
     }
   ]
 }
