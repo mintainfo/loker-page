@@ -1,13 +1,19 @@
 {
   "date": "2026-06-26",
   "date_label": "Jumat, 26 Juni 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 2657,
       "company": "PT Royal Teknik Gemilang",
       "title": "TEKNISI REFRIGERATION AND KITCHEN EQUIPMENT",
       "blogger_url": "https://www.mintainfo.com/2026/06/pt-royal-teknik-gemilang-buka-lowongan.html"
+    },
+    {
+      "id": 2656,
+      "company": "PT JAYA WIRA MANGGALA",
+      "title": "Driver SIM A",
+      "blogger_url": "https://www.mintainfo.com/2026/06/driver-sim-di-pt-jaya-wira-manggala.html"
     },
     {
       "id": 2643,
