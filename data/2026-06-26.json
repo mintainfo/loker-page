@@ -1,8 +1,14 @@
 {
   "date": "2026-06-26",
   "date_label": "Jumat, 26 Juni 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 2683,
+      "company": "SD GUANG MING 2",
+      "title": "SECURITY",
+      "blogger_url": "https://www.mintainfo.com/2026/06/sd-guang-ming-2-buka-lowongan-security.html"
+    },
     {
       "id": 2682,
       "company": "Apotek Kita",
