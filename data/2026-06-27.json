@@ -1,8 +1,14 @@
 {
   "date": "2026-06-27",
   "date_label": "Sabtu, 27 Juni 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 2799,
+      "company": "MAN 1 Pekanbaru",
+      "title": "Guru Tahfidz & Guru Bahasa Indonesia",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-guru-tahfidz-guru-bahasa.html"
+    },
     {
       "id": 2795,
       "company": "SMK MIGAS BUMI MELAYU RIAU",
