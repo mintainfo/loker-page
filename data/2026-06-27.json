@@ -1,8 +1,14 @@
 {
   "date": "2026-06-27",
   "date_label": "Sabtu, 27 Juni 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 2794,
+      "company": "SMK MIGAS BUMI MELAYU RIAU",
+      "title": "TATA USAHA",
+      "blogger_url": "https://www.mintainfo.com/2026/06/tata-usaha-di-smk-migas-bumi-melayu.html"
+    },
     {
       "id": 2758,
       "company": "Aerobus Transport Manunggal",
