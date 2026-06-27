@@ -1,8 +1,14 @@
 {
   "date": "2026-06-27",
   "date_label": "Sabtu, 27 Juni 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 2800,
+      "company": "Elsa Express",
+      "title": "Admin",
+      "blogger_url": "https://www.mintainfo.com/2026/06/admin-di-elsa-express-pekanbaru-juni.html"
+    },
     {
       "id": 2799,
       "company": "MAN 1 Pekanbaru",
