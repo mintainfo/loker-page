@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
   "date_label": "Minggu, 28 Juni 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 2866,
@@ -44,6 +44,12 @@
       "company": "APOTEK KITA",
       "title": "Loker Staf Apotek (2 Orang)",
       "blogger_url": "https://www.mintainfo.com/2026/06/apotek-kita-buka-lowongan-loker-staf.html"
+    },
+    {
+      "id": 2848,
+      "company": "HD - Printing",
+      "title": "Desain Grafis",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-desain-grafis-di-hd-printing.html"
     },
     {
       "id": 2748,
