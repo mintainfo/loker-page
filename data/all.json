@@ -1,6 +1,13 @@
 {
-  "count": 79,
+  "count": 80,
   "jobs": [
+    {
+      "id": 2849,
+      "company": "Dental Care",
+      "title": "Perawat",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-perawat-di-dental-care.html",
+      "date_label": "Minggu, 28 Juni 2026"
+    },
     {
       "id": 2848,
       "company": "HD - Printing",
