@@ -1,8 +1,14 @@
 {
   "date": "2026-06-28",
   "date_label": "Minggu, 28 Juni 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 2855,
+      "company": "APOTEK KITA",
+      "title": "Loker Staf Apotek (2 Orang)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/apotek-kita-buka-lowongan-loker-staf.html"
+    },
     {
       "id": 2748,
       "company": "PT. Mora Telematika Indonesia TBK",
