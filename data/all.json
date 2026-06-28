@@ -1,6 +1,13 @@
 {
-  "count": 73,
+  "count": 71,
   "jobs": [
+    {
+      "id": 2748,
+      "company": "PT. Mora Telematika Indonesia TBK",
+      "title": "Field Operation",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-field-operation-terbaru-pt-mora.html",
+      "date_label": "Minggu, 28 Juni 2026"
+    },
     {
       "id": 2800,
       "company": "Elsa Express",
@@ -490,27 +497,6 @@
       "title": "Lowongan Kerja di PT Madinah Iman Wisata (MIW) Cabang Pekanbaru Juni 2026",
       "blogger_url": "https://www.mintainfo.com/2026/06/loker-lowongan-kerja-di-pt-madinah-iman.html",
       "date_label": "Minggu, 21 Juni 2026"
-    },
-    {
-      "id": 2080,
-      "company": "Apotek Keluarga",
-      "title": "Staff Penjualan (Penempatan Bandung)",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-staff-penjualan-penempatan.html",
-      "date_label": "Sabtu, 20 Juni 2026"
-    },
-    {
-      "id": 2036,
-      "company": "Shabira Laundry",
-      "title": "Karyawan Laundry",
-      "blogger_url": "https://www.mintainfo.com/2026/06/karyawan-laundry-di-shabira-laundry.html",
-      "date_label": "Sabtu, 20 Juni 2026"
-    },
-    {
-      "id": 2048,
-      "company": "PEMUDA PADEL",
-      "title": "• Front Desk",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-front-desk-terbaru-pemuda-padel.html",
-      "date_label": "Sabtu, 20 Juni 2026"
     }
   ]
 }
