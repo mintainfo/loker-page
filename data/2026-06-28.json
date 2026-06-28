@@ -1,8 +1,14 @@
 {
   "date": "2026-06-28",
   "date_label": "Minggu, 28 Juni 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 2859,
+      "company": "Pinang Warkop",
+      "title": "Finance",
+      "blogger_url": "https://www.mintainfo.com/2026/06/finance-di-pinang-warkop-pekanbaru-juni.html"
+    },
     {
       "id": 2858,
       "company": "Infinity Liquor",
