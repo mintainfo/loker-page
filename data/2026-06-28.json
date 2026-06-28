@@ -1,8 +1,14 @@
 {
   "date": "2026-06-28",
   "date_label": "Minggu, 28 Juni 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 2860,
+      "company": "Elitewash Laundry",
+      "title": "Staff Laundry (Wanita)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/elitewash-laundry-buka-lowongan-staff.html"
+    },
     {
       "id": 2859,
       "company": "Pinang Warkop",
