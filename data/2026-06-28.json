@@ -1,8 +1,14 @@
 {
   "date": "2026-06-28",
   "date_label": "Minggu, 28 Juni 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 2856,
+      "company": "Harum Manis TBK",
+      "title": "Kurir & Admin Shopee",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-kurir-admin-shopee-di-harum.html"
+    },
     {
       "id": 2855,
       "company": "APOTEK KITA",
