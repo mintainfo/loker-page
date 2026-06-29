@@ -1,8 +1,14 @@
 {
   "date": "2026-06-29",
   "date_label": "Senin, 29 Juni 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 2940,
+      "company": "PT Penguin Indonesia",
+      "title": "Cleaning Service; Teknisi Bangunan",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-cleaning-service-teknisi-bangunan.html"
+    },
     {
       "id": 2929,
       "company": "President Laundry",
