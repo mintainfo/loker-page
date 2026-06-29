@@ -1,6 +1,20 @@
 {
-  "count": 80,
+  "count": 79,
   "jobs": [
+    {
+      "id": 2898,
+      "company": "PT Sumber Alfaria Trijaya Tbk",
+      "title": "Crew Store (Kasir / Pramuniaga)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-crew-store-kasir-pramuniaga.html",
+      "date_label": "Senin, 29 Juni 2026"
+    },
+    {
+      "id": 2748,
+      "company": "PT. Mora Telematika Indonesia TBK",
+      "title": "Field Operation",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-field-operation-terbaru-pt-mora.html",
+      "date_label": "Minggu, 28 Juni 2026"
+    },
     {
       "id": 2866,
       "company": "Jasmiina Islamic School",
@@ -62,13 +76,6 @@
       "company": "APOTEK KITA",
       "title": "Loker Staf Apotek (2 Orang)",
       "blogger_url": "https://www.mintainfo.com/2026/06/apotek-kita-buka-lowongan-loker-staf.html",
-      "date_label": "Minggu, 28 Juni 2026"
-    },
-    {
-      "id": 2748,
-      "company": "PT. Mora Telematika Indonesia TBK",
-      "title": "Field Operation",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-field-operation-terbaru-pt-mora.html",
       "date_label": "Minggu, 28 Juni 2026"
     },
     {
@@ -546,20 +553,6 @@
       "title": "Helper Bongkar Muat Pekanbaru",
       "blogger_url": "https://www.mintainfo.com/2026/06/loker-helper-bongkar-muat-pekanbaru.html",
       "date_label": "Senin, 22 Juni 2026"
-    },
-    {
-      "id": 2103,
-      "company": "Indo Teknik",
-      "title": "Konten Kreator",
-      "blogger_url": "https://www.mintainfo.com/2026/06/konten-kreator-di-indo-teknik-pekanbaru.html",
-      "date_label": "Minggu, 21 Juni 2026"
-    },
-    {
-      "id": 2104,
-      "company": "PT Madinah Iman Wisata (MIW) Cabang",
-      "title": "Lowongan Kerja di PT Madinah Iman Wisata (MIW) Cabang Pekanbaru Juni 2026",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-lowongan-kerja-di-pt-madinah-iman.html",
-      "date_label": "Minggu, 21 Juni 2026"
     }
   ]
 }
