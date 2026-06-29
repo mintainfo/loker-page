@@ -1,6 +1,13 @@
 {
-  "count": 80,
+  "count": 81,
   "jobs": [
+    {
+      "id": 2929,
+      "company": "President Laundry",
+      "title": "Kasir + Cuci Setrika",
+      "blogger_url": "https://www.mintainfo.com/2026/06/president-laundry-buka-lowongan-kasir.html",
+      "date_label": "Senin, 29 Juni 2026"
+    },
     {
       "id": 2927,
       "company": "Volker Billiard & Cafe",
