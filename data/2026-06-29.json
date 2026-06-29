@@ -1,8 +1,14 @@
 {
   "date": "2026-06-29",
   "date_label": "Senin, 29 Juni 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 2927,
+      "company": "Volker Billiard & Cafe",
+      "title": "Cook / Helper",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-cook-helper-terbaru-volker.html"
+    },
     {
       "id": 2898,
       "company": "PT Sumber Alfaria Trijaya Tbk",
