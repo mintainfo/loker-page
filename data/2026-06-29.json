@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "date_label": "Senin, 29 Juni 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 2929,
@@ -20,6 +20,12 @@
       "company": "PT Sumber Alfaria Trijaya Tbk",
       "title": "Crew Store (Kasir / Pramuniaga)",
       "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-crew-store-kasir-pramuniaga.html"
+    },
+    {
+      "id": 2897,
+      "company": "Mahacare Clinic",
+      "title": "Beautician & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/06/mahacare-clinic-buka-lowongan.html"
     }
   ]
 }
