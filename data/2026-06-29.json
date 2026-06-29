@@ -1,8 +1,14 @@
 {
   "date": "2026-06-29",
   "date_label": "Senin, 29 Juni 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 2989,
+      "company": "Durian Ikerismen",
+      "title": "Kasir",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-kasir-di-durian-ikerismen.html"
+    },
     {
       "id": 2955,
       "company": "Drg. Venty Askar Dental Care",
