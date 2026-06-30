@@ -1,6 +1,13 @@
 {
-  "count": 89,
+  "count": 90,
   "jobs": [
+    {
+      "id": 3009,
+      "company": "PT Cleopas Marking Technology",
+      "title": "TEKNISI ELEKTRO",
+      "blogger_url": "https://www.mintainfo.com/2026/06/teknisi-elektro-di-pt-cleopas-marking.html",
+      "date_label": "Selasa, 30 Juni 2026"
+    },
     {
       "id": 3010,
       "company": "PT Maju Mapan YIC (Daya Group)",
