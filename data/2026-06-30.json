@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 23,
+  "count": 24,
   "jobs": [
     {
       "id": 3173,
@@ -44,6 +44,12 @@
       "company": "Nadhira Napoleon",
       "title": "SECURITY & PRAMUNIAGA",
       "blogger_url": "https://www.mintainfo.com/2026/06/security-pramuniaga-di-nadhira-napoleon.html"
+    },
+    {
+      "id": 3152,
+      "company": "Muscle Gym Hangtuah",
+      "title": "Cleaning Service",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-cleaning-service-di-muscle.html"
     },
     {
       "id": 3130,
