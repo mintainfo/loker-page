@@ -1,8 +1,14 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 27,
+  "count": 28,
   "jobs": [
+    {
+      "id": 3216,
+      "company": "Central Panam Elektronik",
+      "title": "Administrasi / Staff Gudang",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-administrasi-staff-gudang-terbaru.html"
+    },
     {
       "id": 3197,
       "company": "Kebab Abina",
