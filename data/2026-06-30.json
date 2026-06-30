@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 25,
+  "count": 26,
   "jobs": [
     {
       "id": 3197,
@@ -56,6 +56,12 @@
       "company": "Muscle Gym Hangtuah",
       "title": "Cleaning Service",
       "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-cleaning-service-di-muscle.html"
+    },
+    {
+      "id": 3136,
+      "company": "Tidak Diketahui",
+      "title": "Beautician",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-beautician-di-tidak-diketahui.html"
     },
     {
       "id": 3130,
