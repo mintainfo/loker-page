@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 26,
+  "count": 27,
   "jobs": [
     {
       "id": 3197,
@@ -92,6 +92,12 @@
       "company": "PT ASTANA KINAYA MITRATAMA",
       "title": "Safety Officer",
       "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-safety-officer-di-pt-astana.html"
+    },
+    {
+      "id": 3043,
+      "company": "Seblak X Ice Tea Capani",
+      "title": "PENJAGA STAND SEBLAK X ICE TEA CAPANI",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-penjaga-stand-seblak-x-ice.html"
     },
     {
       "id": 3042,
