@@ -1,8 +1,14 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 24,
+  "count": 25,
   "jobs": [
+    {
+      "id": 3197,
+      "company": "Kebab Abina",
+      "title": "CREW OUTLET KEBAB",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-crew-outlet-kebab-di-kebab.html"
+    },
     {
       "id": 3173,
       "company": "Andalan Dental Aesthetic",
