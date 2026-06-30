@@ -1,8 +1,14 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 3041,
+      "company": "Klinik Pratama Annisa Medika 1",
+      "title": "ASISTEN APOTEKER",
+      "blogger_url": "https://www.mintainfo.com/2026/06/klinik-pratama-annisa-medika-1-buka.html"
+    },
     {
       "id": 3027,
       "company": "XSignature Auto Garage",
