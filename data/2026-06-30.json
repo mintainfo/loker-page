@@ -1,8 +1,14 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 3129,
+      "company": "CV. Tri Deerun Perkasa",
+      "title": "SPV & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/06/spv-posisi-lainnya-di-cv-tri-deerun.html"
+    },
     {
       "id": 3054,
       "company": "PT ASTANA KINAYA MITRATAMA",
