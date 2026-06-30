@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 3042,
@@ -50,6 +50,12 @@
       "company": "PT Sambu Indah",
       "title": "First Aid & Hiperkes",
       "blogger_url": "https://www.mintainfo.com/2026/06/pt-sambu-indah-buka-lowongan-first-aid.html"
+    },
+    {
+      "id": 3011,
+      "company": "PT Selera Nikmat Nusantara",
+      "title": "Restaurant Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-restaurant-manager-terbaru-pt.html"
     }
   ]
 }
