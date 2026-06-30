@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
     {
       "id": 3168,
@@ -14,6 +14,12 @@
       "company": "ACE Printing",
       "title": "Desain Grafis",
       "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-desain-grafis-di-ace-printing.html"
+    },
+    {
+      "id": 3154,
+      "company": "Nadhira Napoleon",
+      "title": "SECURITY & PRAMUNIAGA",
+      "blogger_url": "https://www.mintainfo.com/2026/06/security-pramuniaga-di-nadhira-napoleon.html"
     },
     {
       "id": 3130,
