@@ -1,6 +1,13 @@
 {
-  "count": 88,
+  "count": 89,
   "jobs": [
+    {
+      "id": 3010,
+      "company": "PT Maju Mapan YIC (Daya Group)",
+      "title": "Crew Kitchen (RamenYA! Ciputra Seraya Pekanbaru)",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-crew-kitchen-ramenya-ciputra.html",
+      "date_label": "Selasa, 30 Juni 2026"
+    },
     {
       "id": 3011,
       "company": "PT Selera Nikmat Nusantara",
