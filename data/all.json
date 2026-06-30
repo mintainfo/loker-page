@@ -1,6 +1,13 @@
 {
-  "count": 96,
+  "count": 97,
   "jobs": [
+    {
+      "id": 3168,
+      "company": "Nadhira Napoleon",
+      "title": "Pramuniaga",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-pramuniaga-di-nadhira.html",
+      "date_label": "Selasa, 30 Juni 2026"
+    },
     {
       "id": 3161,
       "company": "ACE Printing",
