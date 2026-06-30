@@ -1,8 +1,14 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 21,
+  "count": 22,
   "jobs": [
+    {
+      "id": 3171,
+      "company": "Labbaik Chicken",
+      "title": "Kasir / Cook / Leader",
+      "blogger_url": "https://www.mintainfo.com/2026/06/loker-kasir-cook-leader-terbaru-labbaik.html"
+    },
     {
       "id": 3170,
       "company": "Ichi Ramen",
