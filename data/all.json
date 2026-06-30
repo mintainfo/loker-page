@@ -1,6 +1,13 @@
 {
-  "count": 85,
+  "count": 80,
   "jobs": [
+    {
+      "id": 3023,
+      "company": "Kumon Kulim Tampan",
+      "title": "Mentor Matematika & Mentor Bahasa Inggris",
+      "blogger_url": "https://www.mintainfo.com/2026/06/kumon-kulim-tampan-buka-lowongan-mentor.html",
+      "date_label": "Selasa, 30 Juni 2026"
+    },
     {
       "id": 2989,
       "company": "Durian Ikerismen",
@@ -553,48 +560,6 @@
       "title": "Supervisor Electrical",
       "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-supervisor-electrical-di-pt.html",
       "date_label": "Selasa, 23 Juni 2026"
-    },
-    {
-      "id": 2177,
-      "company": "PT. Xentra Platform Digital Cargo",
-      "title": "Expeditor (Driver)",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-expeditor-driver-di-pt-xentra.html",
-      "date_label": "Senin, 22 Juni 2026"
-    },
-    {
-      "id": 2159,
-      "company": "PT Transportasi Gas Indonesia",
-      "title": "Apprentice Technician",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-apprentice-technician-terbaru-pt.html",
-      "date_label": "Senin, 22 Juni 2026"
-    },
-    {
-      "id": 2161,
-      "company": "PT Danarta Anugrah Divina",
-      "title": "TEAM LEADER",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-team-leader-terbaru-pt-danarta.html",
-      "date_label": "Senin, 22 Juni 2026"
-    },
-    {
-      "id": 2162,
-      "company": "PT. Ming Sui Solusi Indonesia",
-      "title": "Finance Staff Mandarin Speaker (Riau)",
-      "blogger_url": "https://www.mintainfo.com/2026/06/pt-ming-sui-solusi-indonesia-buka.html",
-      "date_label": "Senin, 22 Juni 2026"
-    },
-    {
-      "id": 2155,
-      "company": "PT. Allvamed Nuvacon Adigana",
-      "title": "Relationship Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-relationship-manager-di-pt.html",
-      "date_label": "Senin, 22 Juni 2026"
-    },
-    {
-      "id": 2156,
-      "company": "PT. Xentra Platform Digital Cargo",
-      "title": "Helper Bongkar Muat Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-helper-bongkar-muat-pekanbaru.html",
-      "date_label": "Senin, 22 Juni 2026"
     }
   ]
 }
