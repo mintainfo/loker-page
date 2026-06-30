@@ -1,8 +1,14 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 28,
+  "count": 29,
   "jobs": [
+    {
+      "id": 3217,
+      "company": "Daleq Mushroom",
+      "title": "Kasir",
+      "blogger_url": "https://www.mintainfo.com/2026/06/daleq-mushroom-buka-lowongan-kasir.html"
+    },
     {
       "id": 3216,
       "company": "Central Panam Elektronik",
