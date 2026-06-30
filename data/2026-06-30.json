@@ -1,8 +1,14 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
+    {
+      "id": 3161,
+      "company": "ACE Printing",
+      "title": "Desain Grafis",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-desain-grafis-di-ace-printing.html"
+    },
     {
       "id": 3130,
       "company": "Cobek Merapi",
