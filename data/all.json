@@ -1,6 +1,13 @@
 {
-  "count": 99,
+  "count": 100,
   "jobs": [
+    {
+      "id": 3170,
+      "company": "Ichi Ramen",
+      "title": "Crew Kitchen",
+      "blogger_url": "https://www.mintainfo.com/2026/06/crew-kitchen-di-ichi-ramen-pekanbaru.html",
+      "date_label": "Selasa, 30 Juni 2026"
+    },
     {
       "id": 3169,
       "company": "Nadhira Napoleon",
