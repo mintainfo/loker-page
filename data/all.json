@@ -1,6 +1,13 @@
 {
-  "count": 98,
+  "count": 99,
   "jobs": [
+    {
+      "id": 3169,
+      "company": "Nadhira Napoleon",
+      "title": "Security",
+      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-security-di-nadhira-napoleon.html",
+      "date_label": "Selasa, 30 Juni 2026"
+    },
     {
       "id": 3154,
       "company": "Nadhira Napoleon",
