@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "date_label": "Selasa, 30 Juni 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 3042,
@@ -14,6 +14,12 @@
       "company": "Klinik Pratama Annisa Medika 1",
       "title": "ASISTEN APOTEKER",
       "blogger_url": "https://www.mintainfo.com/2026/06/klinik-pratama-annisa-medika-1-buka.html"
+    },
+    {
+      "id": 3033,
+      "company": "Gold Chick",
+      "title": "Crew Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/06/crew-outlet-di-gold-chick-pekanbaru.html"
     },
     {
       "id": 3027,
