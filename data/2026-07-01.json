@@ -1,8 +1,14 @@
 {
   "date": "2026-07-01",
   "date_label": "Rabu, 1 Juli 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
+    {
+      "id": 3338,
+      "company": "Safina Umrah & Haji",
+      "title": "Video Editor / Admin Haji & Umrah / Desainer Grafis",
+      "blogger_url": "https://www.mintainfo.com/2026/07/video-editor-admin-haji-umrah-desainer.html"
+    },
     {
       "id": 3330,
       "company": "PT Pelayaran Nasional Santan Prima Bahari",
