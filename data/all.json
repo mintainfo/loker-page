@@ -1,6 +1,13 @@
 {
-  "count": 103,
+  "count": 104,
   "jobs": [
+    {
+      "id": 3321,
+      "company": "Kopi Pao",
+      "title": "Cook Kitchen",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-cook-kitchen-terbaru-kopi-pao.html",
+      "date_label": "Rabu, 1 Juli 2026"
+    },
     {
       "id": 3320,
       "company": "Dapur Yumna",
