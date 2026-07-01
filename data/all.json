@@ -1,6 +1,13 @@
 {
-  "count": 97,
+  "count": 98,
   "jobs": [
+    {
+      "id": 3303,
+      "company": "Momoyo",
+      "title": "Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-terbaru-momoyo-pekanbaru.html",
+      "date_label": "Rabu, 1 Juli 2026"
+    },
     {
       "id": 3302,
       "company": "Sushi Yay!",
