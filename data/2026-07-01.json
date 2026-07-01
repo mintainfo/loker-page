@@ -1,13 +1,19 @@
 {
   "date": "2026-07-01",
   "date_label": "Rabu, 1 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "id": 3330,
       "company": "PT Pelayaran Nasional Santan Prima Bahari",
       "title": "Finance Staff",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-finance-staff-terbaru-pt.html"
+    },
+    {
+      "id": 3329,
+      "company": "PT Karisma Zona Kreatifku",
+      "title": "Full-Stack Developer",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-full-stack-developer-terbaru-pt.html"
     },
     {
       "id": 3321,
