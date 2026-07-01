@@ -1,8 +1,14 @@
 {
   "date": "2026-07-01",
   "date_label": "Rabu, 1 Juli 2026",
-  "count": 17,
+  "count": 18,
   "jobs": [
+    {
+      "id": 3350,
+      "company": "Salon Bocil",
+      "title": "Hair Stylist & Therapist",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-hair-stylist-therapist-di.html"
+    },
     {
       "id": 3338,
       "company": "Safina Umrah & Haji",
