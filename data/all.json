@@ -1,6 +1,13 @@
 {
-  "count": 99,
+  "count": 100,
   "jobs": [
+    {
+      "id": 3305,
+      "company": "Alfamart",
+      "title": "Crew Store (Kasir / Pramuniaga)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-crew-store-kasir-pramuniaga_0807956623.html",
+      "date_label": "Rabu, 1 Juli 2026"
+    },
     {
       "id": 3304,
       "company": "Alfamart",
