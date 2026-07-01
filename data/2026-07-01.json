@@ -1,8 +1,14 @@
 {
   "date": "2026-07-01",
   "date_label": "Rabu, 1 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 3304,
+      "company": "Alfamart",
+      "title": "Crew Store (Kasir / Pramuniaga)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-crew-store-kasir-pramuniaga.html"
+    },
     {
       "id": 3303,
       "company": "Momoyo",
