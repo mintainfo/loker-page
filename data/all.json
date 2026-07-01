@@ -1,6 +1,13 @@
 {
-  "count": 96,
+  "count": 97,
   "jobs": [
+    {
+      "id": 3302,
+      "company": "Sushi Yay!",
+      "title": "Store Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-store-manager-di-sushi-yay.html",
+      "date_label": "Rabu, 1 Juli 2026"
+    },
     {
       "id": 3301,
       "company": "PT. Cakrawala Sari Cemerlang.",
