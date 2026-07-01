@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "date_label": "Rabu, 1 Juli 2026",
-  "count": 15,
+  "count": 16,
   "jobs": [
     {
       "id": 3330,
@@ -26,6 +26,12 @@
       "company": "PT Transavia Otomasi Pratama",
       "title": "Project Manager (Oil & Gas) - Project Based",
       "blogger_url": "https://www.mintainfo.com/2026/07/pt-transavia-otomasi-pratama-buka.html"
+    },
+    {
+      "id": 3326,
+      "company": "PT Selahonje Jaya Abadi",
+      "title": "Accounting Officer",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-accounting-officer-di-pt.html"
     },
     {
       "id": 3321,
