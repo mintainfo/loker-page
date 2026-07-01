@@ -1,6 +1,13 @@
 {
-  "count": 101,
+  "count": 102,
   "jobs": [
+    {
+      "id": 3319,
+      "company": "SMP Muhammadiyah 4 Pekanbaru",
+      "title": "Guru Seni Budaya",
+      "blogger_url": "https://www.mintainfo.com/2026/07/smp-muhammadiyah-4-pekanbaru-buka.html",
+      "date_label": "Rabu, 1 Juli 2026"
+    },
     {
       "id": 3306,
       "company": "Alfamart",
