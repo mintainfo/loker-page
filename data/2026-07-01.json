@@ -1,8 +1,14 @@
 {
   "date": "2026-07-01",
   "date_label": "Rabu, 1 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 3301,
+      "company": "PT. Cakrawala Sari Cemerlang.",
+      "title": "Admin Accounting (Pria)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-cakrawala-sari-cemerlang-buka.html"
+    },
     {
       "id": 3274,
       "company": "Pisang Keju 89",
