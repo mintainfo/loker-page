@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "date_label": "Rabu, 1 Juli 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "id": 3330,
@@ -14,6 +14,12 @@
       "company": "PT Karisma Zona Kreatifku",
       "title": "Full-Stack Developer",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-full-stack-developer-terbaru-pt.html"
+    },
+    {
+      "id": 3328,
+      "company": "PT MEDELA POTENTIA Tbk",
+      "title": "Hospital Representative (Medical Device)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/hospital-representative-medical-device.html"
     },
     {
       "id": 3321,
