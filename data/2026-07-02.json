@@ -1,8 +1,14 @@
 {
   "date": "2026-07-02",
   "date_label": "Kamis, 2 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 3408,
+      "company": "RM. SINAR PARIS",
+      "title": "KARYAWAN RUMAH MAKAN",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rm-sinar-paris-buka-lowongan-karyawan.html"
+    },
     {
       "id": 3407,
       "company": "SD Islam Terpadu Diniyyah Pekanbaru",
