@@ -1,8 +1,14 @@
 {
   "date": "2026-07-02",
   "date_label": "Kamis, 2 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 3414,
+      "company": "Master Laundry",
+      "title": "Kasir Full Time & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/07/master-laundry-buka-lowongan-kasir-full.html"
+    },
     {
       "id": 3410,
       "company": "ABONIE ICE CREAM",
