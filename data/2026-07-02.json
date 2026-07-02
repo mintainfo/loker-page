@@ -1,8 +1,14 @@
 {
   "date": "2026-07-02",
   "date_label": "Kamis, 2 Juli 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 3445,
+      "company": "Savour Kopitiam",
+      "title": "Kitchen Staff (Cook)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-kitchen-staff-cook-terbaru-savour.html"
+    },
     {
       "id": 3444,
       "company": "Savour Kopitiam",
