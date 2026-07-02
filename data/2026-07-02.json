@@ -1,8 +1,14 @@
 {
   "date": "2026-07-02",
   "date_label": "Kamis, 2 Juli 2026",
-  "count": 15,
+  "count": 16,
   "jobs": [
+    {
+      "id": 3563,
+      "company": "Mr. Cream Puff",
+      "title": "Crew Store / Cook",
+      "blogger_url": "https://www.mintainfo.com/2026/07/crew-store-cook-di-mr-cream-puff.html"
+    },
     {
       "id": 3550,
       "company": "Martabak Djoeragan Pekanbaru",
