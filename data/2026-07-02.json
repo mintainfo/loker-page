@@ -1,8 +1,14 @@
 {
   "date": "2026-07-02",
   "date_label": "Kamis, 2 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 3470,
+      "company": "Bakso Malang Tugu",
+      "title": "Kapten/leader / Crew / Kasir / Cooker",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-kaptenleader-crew-kasir.html"
+    },
     {
       "id": 3449,
       "company": "PT Serasi Autoraya (Member of Astra)",
