@@ -1,8 +1,14 @@
 {
   "date": "2026-07-02",
   "date_label": "Kamis, 2 Juli 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
+    {
+      "id": 3449,
+      "company": "PT Serasi Autoraya (Member of Astra)",
+      "title": "Warehouse Office - Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-serasi-autoraya-member-of-astra-buka.html"
+    },
     {
       "id": 3446,
       "company": "Pertamina Group",
