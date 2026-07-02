@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "date_label": "Kamis, 2 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 3415,
@@ -38,6 +38,12 @@
       "company": "SD Islam Terpadu Diniyyah Pekanbaru",
       "title": "Guru Wali Kelas & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/07/sd-islam-terpadu-diniyyah-pekanbaru.html"
+    },
+    {
+      "id": 3393,
+      "company": "Queen Laundry",
+      "title": "Karyawan Laundry Bagian Cuci",
+      "blogger_url": "https://www.mintainfo.com/2026/07/karyawan-laundry-bagian-cuci-di-queen.html"
     }
   ]
 }
