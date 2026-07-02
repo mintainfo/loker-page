@@ -1,8 +1,14 @@
 {
   "date": "2026-07-02",
   "date_label": "Kamis, 2 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 3443,
+      "company": "YKPI Al-Ittihad",
+      "title": "Guru Al-Qur'an (PHL)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/ykpi-al-ittihad-buka-lowongan-guru-al.html"
+    },
     {
       "id": 3415,
       "company": "CV. Berkah Ridho Ilahi",
