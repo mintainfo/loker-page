@@ -1,6 +1,13 @@
 {
-  "count": 105,
+  "count": 106,
   "jobs": [
+    {
+      "id": 3393,
+      "company": "Queen Laundry",
+      "title": "Karyawan Laundry Bagian Cuci",
+      "blogger_url": "https://www.mintainfo.com/2026/07/karyawan-laundry-bagian-cuci-di-queen.html",
+      "date_label": "Kamis, 2 Juli 2026"
+    },
     {
       "id": 3415,
       "company": "CV. Berkah Ridho Ilahi",
