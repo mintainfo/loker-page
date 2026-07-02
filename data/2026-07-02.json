@@ -1,8 +1,14 @@
 {
   "date": "2026-07-02",
   "date_label": "Kamis, 2 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 3409,
+      "company": "Tidak Diketahui",
+      "title": "Baby Sitter & ART",
+      "blogger_url": "https://www.mintainfo.com/2026/07/baby-sitter-art-di-tidak-diketahui.html"
+    },
     {
       "id": 3408,
       "company": "RM. SINAR PARIS",
