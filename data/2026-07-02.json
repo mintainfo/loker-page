@@ -1,8 +1,14 @@
 {
   "date": "2026-07-02",
   "date_label": "Kamis, 2 Juli 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
+    {
+      "id": 3550,
+      "company": "Martabak Djoeragan Pekanbaru",
+      "title": "Cashier / Crew",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-cashier-crew-di-martabak.html"
+    },
     {
       "id": 3549,
       "company": "J&T Express",
