@@ -1,6 +1,13 @@
 {
-  "count": 107,
+  "count": 108,
   "jobs": [
+    {
+      "id": 3444,
+      "company": "Savour Kopitiam",
+      "title": "Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-terbaru-savour-kopitiam.html",
+      "date_label": "Kamis, 2 Juli 2026"
+    },
     {
       "id": 3443,
       "company": "YKPI Al-Ittihad",
