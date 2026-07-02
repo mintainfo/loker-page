@@ -1,8 +1,14 @@
 {
   "date": "2026-07-02",
   "date_label": "Kamis, 2 Juli 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 3446,
+      "company": "Pertamina Group",
+      "title": "Internship",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pertamina-group-buka-lowongan.html"
+    },
     {
       "id": 3445,
       "company": "Savour Kopitiam",
