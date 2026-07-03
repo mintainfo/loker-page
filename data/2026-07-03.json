@@ -1,8 +1,14 @@
 {
   "date": "2026-07-03",
   "date_label": "Jumat, 3 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 3629,
+      "company": "Toko Cat Bursa Warna",
+      "title": "KARYAWAN TOKO",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-karyawan-toko-terbaru-toko-cat.html"
+    },
     {
       "id": 3621,
       "company": "Edulab Indonesia",
