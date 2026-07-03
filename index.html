@@ -104,7 +104,8 @@
 </header>
 
 <div class="filters">
-  <button class="filter-btn active" onclick="loadOffset(0,this)">Hari Ini</button>
+  <button class="filter-btn active" onclick="loadAll(this)">Semua</button>
+  <button class="filter-btn" onclick="loadOffset(0,this)">Hari Ini</button>
   <button class="filter-btn" onclick="loadOffset(1,this)">Kemarin</button>
   <button class="filter-btn" onclick="loadOffset(3,this)">3 Hari Lalu</button>
   <button class="filter-btn" onclick="loadOffset(7,this)">7 Hari Lalu</button>
@@ -209,6 +210,35 @@ function openLoker(jobId, url) {
   window.open(url, '_blank', 'noopener');
 }
 
+async function loadAll(btn) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+
+  const status = document.getElementById('status');
+  const list   = document.getElementById('job-list');
+  status.style.display = 'block';
+  status.className = 'loading';
+  status.textContent = 'Memuat loker';
+  list.innerHTML = '';
+
+  try {
+    const r = await fetch(BASE + 'data/all.json?t=' + Date.now());
+    if (!r.ok) throw new Error('not found');
+    const data = await r.json();
+
+    document.getElementById('hdate').textContent = '7 Hari Terakhir';
+    document.getElementById('chip').textContent  = '📋 ' + data.count + ' Lowongan Tersedia';
+    status.style.display = 'none';
+    renderJobs(data.jobs, true);
+  } catch(e) {
+    status.className = 'empty';
+    status.textContent = 'Tidak ada data tersedia.';
+    document.getElementById('hdate').textContent = '';
+    document.getElementById('chip').textContent  = '📋 0 Lowongan';
+  }
+}
+
+
 async function loadOffset(days, btn) {
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
   if (btn) btn.classList.add('active');
@@ -240,8 +270,8 @@ async function loadOffset(days, btn) {
   }
 }
 
-// Init — default tab Hari Ini
-loadOffset(0, document.querySelector('.filter-btn.active'));
+// Init — default tab Semua
+loadAll(document.querySelector('.filter-btn.active'));
 </script>
 </body>
 </html>
