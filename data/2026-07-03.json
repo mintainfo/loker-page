@@ -1,8 +1,14 @@
 {
   "date": "2026-07-03",
   "date_label": "Jumat, 3 Juli 2026",
-  "count": 21,
+  "count": 22,
   "jobs": [
+    {
+      "id": 3850,
+      "company": "PT. Delta Force Indonesia",
+      "title": "Operator Hoist Crane",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-operator-hoist-crane-di-pt.html"
+    },
     {
       "id": 3810,
       "company": "BUZZSPEED GARAGE",
