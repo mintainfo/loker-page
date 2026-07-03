@@ -1,13 +1,19 @@
 {
   "date": "2026-07-03",
   "date_label": "Jumat, 3 Juli 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
       "id": 3772,
       "company": "Bliss After School Tutorial Centre",
       "title": "Pengajar",
       "blogger_url": "https://www.mintainfo.com/2026/07/bliss-after-school-tutorial-centre-buka.html"
+    },
+    {
+      "id": 3771,
+      "company": "X Team Gym Indonesia",
+      "title": "Frontliner",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-frontliner-di-x-team-gym.html"
     },
     {
       "id": 3724,
