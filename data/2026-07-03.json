@@ -1,13 +1,19 @@
 {
   "date": "2026-07-03",
   "date_label": "Jumat, 3 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "id": 3710,
       "company": "APP Group",
       "title": "Electrical Maintenance Specialist",
       "blogger_url": "https://www.mintainfo.com/2026/07/electrical-maintenance-specialist-di.html"
+    },
+    {
+      "id": 3708,
+      "company": "Medco Power Indonesia",
+      "title": "Operation Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-operation-manager-terbaru-medco.html"
     },
     {
       "id": 3683,
