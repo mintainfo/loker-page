@@ -1,8 +1,14 @@
 {
   "date": "2026-07-03",
   "date_label": "Jumat, 3 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 3682,
+      "company": "Alisha Bimbel",
+      "title": "Guru Bahasa Arab",
+      "blogger_url": "https://www.mintainfo.com/2026/07/alisha-bimbel-buka-lowongan-guru-bahasa.html"
+    },
     {
       "id": 3664,
       "company": "Witama National Plus School",
