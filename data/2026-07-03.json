@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "date_label": "Jumat, 3 Juli 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "id": 3683,
@@ -14,6 +14,12 @@
       "company": "Alisha Bimbel",
       "title": "Guru Bahasa Arab",
       "blogger_url": "https://www.mintainfo.com/2026/07/alisha-bimbel-buka-lowongan-guru-bahasa.html"
+    },
+    {
+      "id": 3665,
+      "company": "Super Daging",
+      "title": "Admin Operasional",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-admin-operasional-terbaru-super.html"
     },
     {
       "id": 3664,
