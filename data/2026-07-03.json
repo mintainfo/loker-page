@@ -1,8 +1,14 @@
 {
   "date": "2026-07-03",
   "date_label": "Jumat, 3 Juli 2026",
-  "count": 22,
+  "count": 23,
   "jobs": [
+    {
+      "id": 3881,
+      "company": "GoGolf Simulator",
+      "title": "Penjaga Malam",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-penjaga-malam-di-gogolf.html"
+    },
     {
       "id": 3850,
       "company": "PT. Delta Force Indonesia",
