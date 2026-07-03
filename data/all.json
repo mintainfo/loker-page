@@ -1,6 +1,13 @@
 {
-  "count": 110,
+  "count": 111,
   "jobs": [
+    {
+      "id": 3630,
+      "company": "Kopitiam Kopi & Kaya, Mie Kamie",
+      "title": "Purchasing & Admin",
+      "blogger_url": "https://www.mintainfo.com/2026/07/kopitiam-kopi-kaya-mie-kamie-buka.html",
+      "date_label": "Jumat, 3 Juli 2026"
+    },
     {
       "id": 3629,
       "company": "Toko Cat Bursa Warna",
