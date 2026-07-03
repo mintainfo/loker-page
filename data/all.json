@@ -1,6 +1,13 @@
 {
-  "count": 117,
+  "count": 108,
   "jobs": [
+    {
+      "id": 3621,
+      "company": "Edulab Indonesia",
+      "title": "Guru & Pengajar",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-guru-pengajar-di-edulab.html",
+      "date_label": "Jumat, 3 Juli 2026"
+    },
     {
       "id": 3586,
       "company": "Local Pantry",
@@ -749,76 +756,6 @@
       "title": "Staf Keuangan",
       "blogger_url": "https://www.mintainfo.com/2026/06/pt-siba-surya-buka-lowongan-staf.html",
       "date_label": "Jumat, 26 Juni 2026"
-    },
-    {
-      "id": 2614,
-      "company": "IP-ICBS RIAU",
-      "title": "Bahasa Indonesia Teacher & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/06/bahasa-indonesia-teacher-posisi-lainnya.html",
-      "date_label": "Kamis, 25 Juni 2026"
-    },
-    {
-      "id": 2613,
-      "company": "Klinik Pratama Elliya Husada",
-      "title": "Bidan & Asisten Apoteker",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-bidan-asisten-apoteker-terbaru.html",
-      "date_label": "Kamis, 25 Juni 2026"
-    },
-    {
-      "id": 2582,
-      "company": "Aerobus Transport Manunggal",
-      "title": "Data Analyst",
-      "blogger_url": "https://www.mintainfo.com/2026/06/aerobus-transport-manunggal-buka.html",
-      "date_label": "Kamis, 25 Juni 2026"
-    },
-    {
-      "id": 2558,
-      "company": "Ruangguru for Business",
-      "title": "[Part-time] - Pengajar Fisika - Kota Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/06/ruangguru-for-business-buka-lowongan.html",
-      "date_label": "Kamis, 25 Juni 2026"
-    },
-    {
-      "id": 2562,
-      "company": "Aurora Talent",
-      "title": "Project Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-project-manager-di-aurora.html",
-      "date_label": "Kamis, 25 Juni 2026"
-    },
-    {
-      "id": 2550,
-      "company": "Ewa Coffee Space",
-      "title": "Barista & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/06/barista-posisi-lainnya-di-ewa-coffee.html",
-      "date_label": "Kamis, 25 Juni 2026"
-    },
-    {
-      "id": 2549,
-      "company": "Le Manz Laundry Self Service",
-      "title": "Karyawan Laundry",
-      "blogger_url": "https://www.mintainfo.com/2026/06/le-manz-laundry-self-service-buka.html",
-      "date_label": "Kamis, 25 Juni 2026"
-    },
-    {
-      "id": 2483,
-      "company": "PT Personel Alih Daya Tbk",
-      "title": "Senior Barista",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-senior-barista-terbaru-pt.html",
-      "date_label": "Kamis, 25 Juni 2026"
-    },
-    {
-      "id": 2528,
-      "company": "Alesha Mart",
-      "title": "Kasir",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-kasir-di-alesha-mart.html",
-      "date_label": "Kamis, 25 Juni 2026"
-    },
-    {
-      "id": 2508,
-      "company": "Bintang Adhi Rajasa",
-      "title": "Pengawas Lapangan",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-pengawas-lapangan-terbaru-bintang.html",
-      "date_label": "Kamis, 25 Juni 2026"
     }
   ]
 }
