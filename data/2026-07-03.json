@@ -1,8 +1,14 @@
 {
   "date": "2026-07-03",
   "date_label": "Jumat, 3 Juli 2026",
-  "count": 23,
+  "count": 24,
   "jobs": [
+    {
+      "id": 3882,
+      "company": "GoGolf Simulator",
+      "title": "Cleaning Service & Office Boy (OB)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-cleaning-service-office-boy.html"
+    },
     {
       "id": 3881,
       "company": "GoGolf Simulator",
