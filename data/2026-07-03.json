@@ -1,8 +1,14 @@
 {
   "date": "2026-07-03",
   "date_label": "Jumat, 3 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 3664,
+      "company": "Witama National Plus School",
+      "title": "Guru Inggris SMA",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-guru-inggris-sma-di-witama.html"
+    },
     {
       "id": 3663,
       "company": "Klinik Alifin",
