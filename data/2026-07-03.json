@@ -1,8 +1,14 @@
 {
   "date": "2026-07-03",
   "date_label": "Jumat, 3 Juli 2026",
-  "count": 17,
+  "count": 18,
   "jobs": [
+    {
+      "id": 3787,
+      "company": "PT. ORROSTAR TEKNOLOGI WAHANA",
+      "title": "Finance Officer",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-finance-officer-terbaru-pt.html"
+    },
     {
       "id": 3772,
       "company": "Bliss After School Tutorial Centre",
