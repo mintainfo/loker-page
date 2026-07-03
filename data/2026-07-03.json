@@ -1,8 +1,14 @@
 {
   "date": "2026-07-03",
   "date_label": "Jumat, 3 Juli 2026",
-  "count": 25,
+  "count": 26,
   "jobs": [
+    {
+      "id": 3890,
+      "company": "NASI BAKAR CIK PUAN",
+      "title": "KARYAWAN OUTLET STAND",
+      "blogger_url": "https://www.mintainfo.com/2026/07/karyawan-outlet-stand-di-nasi-bakar-cik.html"
+    },
     {
       "id": 3883,
       "company": "Saudara Bahagia",
