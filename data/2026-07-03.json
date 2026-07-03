@@ -1,13 +1,19 @@
 {
   "date": "2026-07-03",
   "date_label": "Jumat, 3 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 3621,
       "company": "Edulab Indonesia",
       "title": "Guru & Pengajar",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-guru-pengajar-di-edulab_01097781187.html"
+    },
+    {
+      "id": 3585,
+      "company": "Toko Vivid LED Lighting",
+      "title": "Karyawan Toko",
+      "blogger_url": "https://www.mintainfo.com/2026/07/toko-vivid-led-lighting-buka-lowongan_01861818204.html"
     }
   ]
 }
