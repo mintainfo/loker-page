@@ -1,8 +1,14 @@
 {
   "date": "2026-07-04",
   "date_label": "Sabtu, 4 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 4030,
+      "company": "Sky Celluler",
+      "title": "PENJAGA KONTER & MINI ATM",
+      "blogger_url": "https://www.mintainfo.com/2026/07/sky-celluler-buka-lowongan-penjaga.html"
+    },
     {
       "id": 4005,
       "company": "PT. Agung Bumi Lestari | International Paper Packaging & Food Wrapping",
