@@ -1,6 +1,13 @@
 {
-  "count": 115,
+  "count": 116,
   "jobs": [
+    {
+      "id": 4004,
+      "company": "PT Mutuagung Lestari Tbk",
+      "title": "Analis Kimia",
+      "blogger_url": "https://www.mintainfo.com/2026/07/analis-kimia-di-pt-mutuagung-lestari.html",
+      "date_label": "Sabtu, 4 Juli 2026"
+    },
     {
       "id": 4005,
       "company": "PT. Agung Bumi Lestari | International Paper Packaging & Food Wrapping",
