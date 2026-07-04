@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "date_label": "Sabtu, 4 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 4005,
@@ -14,6 +14,12 @@
       "company": "PT Mutuagung Lestari Tbk",
       "title": "Analis Kimia",
       "blogger_url": "https://www.mintainfo.com/2026/07/analis-kimia-di-pt-mutuagung-lestari.html"
+    },
+    {
+      "id": 4003,
+      "company": "PT Mutuagung Lestari Tbk",
+      "title": "Analis Mikrobiologi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/analis-mikrobiologi-di-pt-mutuagung.html"
     }
   ]
 }
