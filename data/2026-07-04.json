@@ -1,8 +1,14 @@
 {
   "date": "2026-07-04",
   "date_label": "Sabtu, 4 Juli 2026",
-  "count": 15,
+  "count": 16,
   "jobs": [
+    {
+      "id": 4117,
+      "company": "Gerobakan Roti Bakar Djaya",
+      "title": "Crew Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-outlet-terbaru-gerobakan.html"
+    },
     {
       "id": 4112,
       "company": "Tengkleng Rica Mas Kentung",
