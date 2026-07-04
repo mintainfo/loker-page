@@ -1,8 +1,14 @@
 {
   "date": "2026-07-04",
   "date_label": "Sabtu, 4 Juli 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
+    {
+      "id": 4147,
+      "company": "Chic Fortune",
+      "title": "Karyawan Toko",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-karyawan-toko-terbaru-chic.html"
+    },
     {
       "id": 4145,
       "company": "Apotek Keluarga Group",
