@@ -1,8 +1,14 @@
 {
   "date": "2026-07-04",
   "date_label": "Sabtu, 4 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 4074,
+      "company": "Dermaris Aesthetic & Anti-Aging",
+      "title": "Admin Operasional Klinik",
+      "blogger_url": "https://www.mintainfo.com/2026/07/dermaris-aesthetic-anti-aging-buka.html"
+    },
     {
       "id": 4073,
       "company": "RSIA Zainab",
