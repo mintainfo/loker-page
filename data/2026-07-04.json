@@ -1,8 +1,14 @@
 {
   "date": "2026-07-04",
   "date_label": "Sabtu, 4 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 4073,
+      "company": "RSIA Zainab",
+      "title": "Bidan Homecare",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rsia-zainab-buka-lowongan-bidan.html"
+    },
     {
       "id": 4045,
       "company": "Koki Sunda Pekanbaru",
