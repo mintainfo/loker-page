@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "date_label": "Sabtu, 4 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 4005,
@@ -20,6 +20,12 @@
       "company": "PT Mutuagung Lestari Tbk",
       "title": "Analis Mikrobiologi",
       "blogger_url": "https://www.mintainfo.com/2026/07/analis-mikrobiologi-di-pt-mutuagung.html"
+    },
+    {
+      "id": 3927,
+      "company": "PT Solusi Layanan Terpadu",
+      "title": "Cleaning Service Lead",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-solusi-layanan-terpadu-buka-lowongan.html"
     }
   ]
 }
