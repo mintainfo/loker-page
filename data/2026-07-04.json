@@ -1,8 +1,14 @@
 {
   "date": "2026-07-04",
   "date_label": "Sabtu, 4 Juli 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 4079,
+      "company": "Global Energi Lestari",
+      "title": "Driver Dump Truck - Riau",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-driver-dump-truck-riau-terbaru.html"
+    },
     {
       "id": 4075,
       "company": "Super Daging",
