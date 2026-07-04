@@ -1,6 +1,13 @@
 {
-  "count": 123,
+  "count": 124,
   "jobs": [
+    {
+      "id": 4075,
+      "company": "Super Daging",
+      "title": "Admin Operasional",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-admin-operasional-di-super.html",
+      "date_label": "Sabtu, 4 Juli 2026"
+    },
     {
       "id": 4074,
       "company": "Dermaris Aesthetic & Anti-Aging",
