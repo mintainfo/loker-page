@@ -1,6 +1,13 @@
 {
-  "count": 133,
+  "count": 129,
   "jobs": [
+    {
+      "id": 4181,
+      "company": "Ibukota Coffee & Tea",
+      "title": "Barista Wanita",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barista-wanita-di-ibukota.html",
+      "date_label": "Minggu, 5 Juli 2026"
+    },
     {
       "id": 4147,
       "company": "Chic Fortune",
@@ -896,41 +903,6 @@
       "title": "Loker Staf Apotek (2 Orang)",
       "blogger_url": "https://www.mintainfo.com/2026/06/apotek-kita-buka-lowongan-loker-staf.html",
       "date_label": "Minggu, 28 Juni 2026"
-    },
-    {
-      "id": 2800,
-      "company": "Elsa Express",
-      "title": "Admin",
-      "blogger_url": "https://www.mintainfo.com/2026/06/admin-di-elsa-express-pekanbaru-juni.html",
-      "date_label": "Sabtu, 27 Juni 2026"
-    },
-    {
-      "id": 2799,
-      "company": "MAN 1 Pekanbaru",
-      "title": "Guru Tahfidz & Guru Bahasa Indonesia",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-guru-tahfidz-guru-bahasa.html",
-      "date_label": "Sabtu, 27 Juni 2026"
-    },
-    {
-      "id": 2794,
-      "company": "SMK MIGAS BUMI MELAYU RIAU",
-      "title": "TATA USAHA",
-      "blogger_url": "https://www.mintainfo.com/2026/06/tata-usaha-di-smk-migas-bumi-melayu.html",
-      "date_label": "Sabtu, 27 Juni 2026"
-    },
-    {
-      "id": 2795,
-      "company": "SMK MIGAS BUMI MELAYU RIAU",
-      "title": "GURU MATA PELAJARAN",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-guru-mata-pelajaran-di-smk.html",
-      "date_label": "Sabtu, 27 Juni 2026"
-    },
-    {
-      "id": 2758,
-      "company": "Aerobus Transport Manunggal",
-      "title": "Pramugara/i",
-      "blogger_url": "https://www.mintainfo.com/2026/06/pramugarai-di-aerobus-transport.html",
-      "date_label": "Sabtu, 27 Juni 2026"
     }
   ]
 }
