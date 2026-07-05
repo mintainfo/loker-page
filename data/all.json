@@ -1,6 +1,13 @@
 {
-  "count": 132,
+  "count": 133,
   "jobs": [
+    {
+      "id": 4216,
+      "company": "Bakpao Setia",
+      "title": "Produksi & Merangkap",
+      "blogger_url": "https://www.mintainfo.com/2026/07/produksi-merangkap-di-bakpao-setia.html",
+      "date_label": "Minggu, 5 Juli 2026"
+    },
     {
       "id": 4215,
       "company": "BHEL MEDICARE",
