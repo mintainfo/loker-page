@@ -1,8 +1,14 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
+    {
+      "id": 4412,
+      "company": "Diza Dental Smile",
+      "title": "Asisten Dokter Gigi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/asisten-dokter-gigi-di-diza-dental.html"
+    },
     {
       "id": 4405,
       "company": "Ekaputra Meatshop & Grill",
