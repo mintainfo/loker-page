@@ -1,7 +1,7 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 4257,
@@ -14,6 +14,12 @@
       "company": "PT JAC Konsultan Indonesia",
       "title": "Aesthetic Nurse / Perawat Kecantikan",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-aesthetic-nurse-perawat.html"
+    },
+    {
+      "id": 4255,
+      "company": "PT JAC Konsultan Indonesia",
+      "title": "Apoteker Penanggung Jawab (Pharmacist)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/apoteker-penanggung-jawab-pharmacist-di.html"
     }
   ]
 }
