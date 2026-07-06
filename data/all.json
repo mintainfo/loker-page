@@ -1,6 +1,13 @@
 {
-  "count": 135,
+  "count": 136,
   "jobs": [
+    {
+      "id": 4269,
+      "company": "Sojus",
+      "title": "Crew",
+      "blogger_url": "https://www.mintainfo.com/2026/07/crew-di-sojus-pekanbaru-juli-2026.html",
+      "date_label": "Senin, 6 Juli 2026"
+    },
     {
       "id": 4289,
       "company": "Mo Tahu Aja! Ahmad Dahlan Pekanbaru",
