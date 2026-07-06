@@ -1,6 +1,13 @@
 {
-  "count": 137,
+  "count": 128,
   "jobs": [
+    {
+      "id": 4257,
+      "company": "PT JAC Konsultan Indonesia",
+      "title": "Dokter Aesthetic Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-jac-konsultan-indonesia-buka.html",
+      "date_label": "Senin, 6 Juli 2026"
+    },
     {
       "id": 4253,
       "company": "Yakin Bicycle",
@@ -889,76 +896,6 @@
       "title": "Crew Store (Kasir / Pramuniaga)",
       "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-crew-store-kasir-pramuniaga.html",
       "date_label": "Senin, 29 Juni 2026"
-    },
-    {
-      "id": 2748,
-      "company": "PT. Mora Telematika Indonesia TBK",
-      "title": "Field Operation",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-field-operation-terbaru-pt-mora.html",
-      "date_label": "Minggu, 28 Juni 2026"
-    },
-    {
-      "id": 2866,
-      "company": "Jasmiina Islamic School",
-      "title": "Guru PJOK - SD, SMP & SMA IT & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/06/jasmiina-islamic-school-buka-lowongan.html",
-      "date_label": "Minggu, 28 Juni 2026"
-    },
-    {
-      "id": 2849,
-      "company": "Dental Care",
-      "title": "Perawat",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-perawat-di-dental-care.html",
-      "date_label": "Minggu, 28 Juni 2026"
-    },
-    {
-      "id": 2848,
-      "company": "HD - Printing",
-      "title": "Desain Grafis",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-desain-grafis-di-hd-printing.html",
-      "date_label": "Minggu, 28 Juni 2026"
-    },
-    {
-      "id": 2860,
-      "company": "Elitewash Laundry",
-      "title": "Staff Laundry (Wanita)",
-      "blogger_url": "https://www.mintainfo.com/2026/06/elitewash-laundry-buka-lowongan-staff.html",
-      "date_label": "Minggu, 28 Juni 2026"
-    },
-    {
-      "id": 2859,
-      "company": "Pinang Warkop",
-      "title": "Finance",
-      "blogger_url": "https://www.mintainfo.com/2026/06/finance-di-pinang-warkop-pekanbaru-juni.html",
-      "date_label": "Minggu, 28 Juni 2026"
-    },
-    {
-      "id": 2858,
-      "company": "Infinity Liquor",
-      "title": "Waiters",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-waiters-terbaru-infinity-liquor.html",
-      "date_label": "Minggu, 28 Juni 2026"
-    },
-    {
-      "id": 2857,
-      "company": "Klinik Pratama RH Medika",
-      "title": "Perawat & Bidan",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-perawat-bidan-terbaru-klinik.html",
-      "date_label": "Minggu, 28 Juni 2026"
-    },
-    {
-      "id": 2856,
-      "company": "Harum Manis TBK",
-      "title": "Kurir & Admin Shopee",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-kurir-admin-shopee-di-harum.html",
-      "date_label": "Minggu, 28 Juni 2026"
-    },
-    {
-      "id": 2855,
-      "company": "APOTEK KITA",
-      "title": "Loker Staf Apotek (2 Orang)",
-      "blogger_url": "https://www.mintainfo.com/2026/06/apotek-kita-buka-lowongan-loker-staf.html",
-      "date_label": "Minggu, 28 Juni 2026"
     }
   ]
 }
