@@ -1,6 +1,20 @@
 {
-  "count": 128,
+  "count": 130,
   "jobs": [
+    {
+      "id": 4255,
+      "company": "PT JAC Konsultan Indonesia",
+      "title": "Apoteker Penanggung Jawab (Pharmacist)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/apoteker-penanggung-jawab-pharmacist-di.html",
+      "date_label": "Senin, 6 Juli 2026"
+    },
+    {
+      "id": 4256,
+      "company": "PT JAC Konsultan Indonesia",
+      "title": "Aesthetic Nurse / Perawat Kecantikan",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-aesthetic-nurse-perawat.html",
+      "date_label": "Senin, 6 Juli 2026"
+    },
     {
       "id": 4257,
       "company": "PT JAC Konsultan Indonesia",
