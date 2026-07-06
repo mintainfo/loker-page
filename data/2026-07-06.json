@@ -1,8 +1,14 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 17,
+  "count": 18,
   "jobs": [
+    {
+      "id": 4451,
+      "company": "SMKS Nasional Pelalawan",
+      "title": "Guru Otomotif Sepeda Motor / Guru Olahraga / Guru Seni / Guru Akutansi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-guru-otomotif-sepeda-motor.html"
+    },
     {
       "id": 4427,
       "company": "Tidak Diketahui",
