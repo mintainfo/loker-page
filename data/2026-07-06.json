@@ -1,13 +1,19 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 4257,
       "company": "PT JAC Konsultan Indonesia",
       "title": "Dokter Aesthetic Pekanbaru",
       "blogger_url": "https://www.mintainfo.com/2026/07/pt-jac-konsultan-indonesia-buka.html"
+    },
+    {
+      "id": 4256,
+      "company": "PT JAC Konsultan Indonesia",
+      "title": "Aesthetic Nurse / Perawat Kecantikan",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-aesthetic-nurse-perawat.html"
     }
   ]
 }
