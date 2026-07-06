@@ -1,8 +1,14 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 4279,
+      "company": "PAUD Lilik",
+      "title": "Guru PAUD & Guru Bahasa Inggris",
+      "blogger_url": "https://www.mintainfo.com/2026/07/guru-paud-guru-bahasa-inggris-di-paud.html"
+    },
     {
       "id": 4277,
       "company": "Children's Light Child Development Center",
