@@ -1,8 +1,14 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
+    {
+      "id": 4405,
+      "company": "Ekaputra Meatshop & Grill",
+      "title": "Butcher",
+      "blogger_url": "https://www.mintainfo.com/2026/07/butcher-di-ekaputra-meatshop-grill.html"
+    },
     {
       "id": 4404,
       "company": "RnR Medical Aesthetic",
