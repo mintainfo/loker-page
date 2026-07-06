@@ -1,7 +1,7 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 4289,
@@ -26,6 +26,12 @@
       "company": "Children's Light Child Development Center",
       "title": "Terapis Anak Berkebutuhan Khusus",
       "blogger_url": "https://www.mintainfo.com/2026/07/terapis-anak-berkebutuhan-khusus-di.html"
+    },
+    {
+      "id": 4269,
+      "company": "Sojus",
+      "title": "Crew",
+      "blogger_url": "https://www.mintainfo.com/2026/07/crew-di-sojus-pekanbaru-juli-2026.html"
     },
     {
       "id": 4266,
