@@ -1,8 +1,14 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 4404,
+      "company": "RnR Medical Aesthetic",
+      "title": "Konten Kreator",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-konten-kreator-terbaru-rnr.html"
+    },
     {
       "id": 4326,
       "company": "PT Selera Nikmat Nusantara",
