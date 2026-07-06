@@ -1,8 +1,14 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 20,
+  "count": 21,
   "jobs": [
+    {
+      "id": 4524,
+      "company": "Garuda Jaya Motor",
+      "title": "Mekanik Sepeda Motor",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-mekanik-sepeda-motor-di.html"
+    },
     {
       "id": 4523,
       "company": "Delima Mart",
