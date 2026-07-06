@@ -1,8 +1,14 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
+    {
+      "id": 4427,
+      "company": "Tidak Diketahui",
+      "title": "Helper Kafe & Helper Katering",
+      "blogger_url": "https://www.mintainfo.com/2026/07/helper-kafe-helper-katering-di-tidak.html"
+    },
     {
       "id": 4423,
       "company": "Shem Ramen",
