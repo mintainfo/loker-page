@@ -1,8 +1,14 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 19,
+  "count": 20,
   "jobs": [
+    {
+      "id": 4523,
+      "company": "Delima Mart",
+      "title": "Cashier",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-cashier-terbaru-delima-mart.html"
+    },
     {
       "id": 4452,
       "company": "MPM Motor",
