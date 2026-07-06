@@ -1,13 +1,19 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 4326,
       "company": "PT Selera Nikmat Nusantara",
       "title": "Kitchen Supervisor",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-kitchen-supervisor-terbaru-pt.html"
+    },
+    {
+      "id": 4316,
+      "company": "PD Gala Jaya",
+      "title": "Accounting & Perpajakan",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-accounting-perpajakan-terbaru-pd.html"
     },
     {
       "id": 4315,
