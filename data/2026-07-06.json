@@ -1,8 +1,14 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 4266,
+      "company": "PT Marita Makmur Jaya",
+      "title": "office boy",
+      "blogger_url": "https://www.mintainfo.com/2026/07/office-boy-di-pt-marita-makmur-jaya.html"
+    },
     {
       "id": 4257,
       "company": "PT JAC Konsultan Indonesia",
