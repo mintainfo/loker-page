@@ -1,8 +1,14 @@
 {
   "date": "2026-07-06",
   "date_label": "Senin, 6 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 4280,
+      "company": "Bubur Bayi Jabal Nur",
+      "title": "Penjaga Stand Bubur Bayi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/penjaga-stand-bubur-bayi-di-bubur-bayi.html"
+    },
     {
       "id": 4279,
       "company": "PAUD Lilik",
