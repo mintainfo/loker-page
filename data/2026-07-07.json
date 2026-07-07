@@ -1,8 +1,14 @@
 {
   "date": "2026-07-07",
   "date_label": "Selasa, 7 Juli 2026",
-  "count": 15,
+  "count": 16,
   "jobs": [
+    {
+      "id": 4888,
+      "company": "Klinik Q2 Dental Center",
+      "title": "Customer Care",
+      "blogger_url": "https://www.mintainfo.com/2026/07/customer-care-di-klinik-q2-dental.html"
+    },
     {
       "id": 4887,
       "company": "Rumah Sakit Murni Teguh",
