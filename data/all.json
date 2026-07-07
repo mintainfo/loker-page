@@ -1,6 +1,13 @@
 {
-  "count": 148,
+  "count": 142,
   "jobs": [
+    {
+      "id": 4525,
+      "company": "PT. REZEKI KEMPU PUTAGAN",
+      "title": "Customer Service",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-customer-service-di-pt-rezeki.html",
+      "date_label": "Selasa, 7 Juli 2026"
+    },
     {
       "id": 4524,
       "company": "Garuda Jaya Motor",
@@ -987,55 +994,6 @@
       "title": "Mentor Matematika & Mentor Bahasa Inggris",
       "blogger_url": "https://www.mintainfo.com/2026/06/kumon-kulim-tampan-buka-lowongan-mentor.html",
       "date_label": "Selasa, 30 Juni 2026"
-    },
-    {
-      "id": 2989,
-      "company": "Durian Ikerismen",
-      "title": "Kasir",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-kasir-di-durian-ikerismen.html",
-      "date_label": "Senin, 29 Juni 2026"
-    },
-    {
-      "id": 2955,
-      "company": "Drg. Venty Askar Dental Care",
-      "title": "Asisten Dokter Gigi",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-asisten-dokter-gigi-terbaru-drg.html",
-      "date_label": "Senin, 29 Juni 2026"
-    },
-    {
-      "id": 2940,
-      "company": "PT Penguin Indonesia",
-      "title": "Cleaning Service; Teknisi Bangunan",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-cleaning-service-teknisi-bangunan.html",
-      "date_label": "Senin, 29 Juni 2026"
-    },
-    {
-      "id": 2897,
-      "company": "Mahacare Clinic",
-      "title": "Beautician & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/06/mahacare-clinic-buka-lowongan.html",
-      "date_label": "Senin, 29 Juni 2026"
-    },
-    {
-      "id": 2929,
-      "company": "President Laundry",
-      "title": "Kasir + Cuci Setrika",
-      "blogger_url": "https://www.mintainfo.com/2026/06/president-laundry-buka-lowongan-kasir.html",
-      "date_label": "Senin, 29 Juni 2026"
-    },
-    {
-      "id": 2927,
-      "company": "Volker Billiard & Cafe",
-      "title": "Cook / Helper",
-      "blogger_url": "https://www.mintainfo.com/2026/06/loker-cook-helper-terbaru-volker.html",
-      "date_label": "Senin, 29 Juni 2026"
-    },
-    {
-      "id": 2898,
-      "company": "PT Sumber Alfaria Trijaya Tbk",
-      "title": "Crew Store (Kasir / Pramuniaga)",
-      "blogger_url": "https://www.mintainfo.com/2026/06/rekrutmen-crew-store-kasir-pramuniaga.html",
-      "date_label": "Senin, 29 Juni 2026"
     }
   ]
 }
