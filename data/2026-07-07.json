@@ -1,8 +1,14 @@
 {
   "date": "2026-07-07",
   "date_label": "Selasa, 7 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 4558,
+      "company": "Pondok Patin H.M Yunus",
+      "title": "Kasir / Accounting dan Tax",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pondok-patin-hm-yunus-buka-lowongan.html"
+    },
     {
       "id": 4525,
       "company": "PT. REZEKI KEMPU PUTAGAN",
