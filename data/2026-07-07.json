@@ -1,8 +1,14 @@
 {
   "date": "2026-07-07",
   "date_label": "Selasa, 7 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 4598,
+      "company": "Viera",
+      "title": "Staff Produksi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-staff-produksi-di-viera.html"
+    },
     {
       "id": 4597,
       "company": "Viera",
