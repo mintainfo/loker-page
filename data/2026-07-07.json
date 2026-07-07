@@ -1,8 +1,14 @@
 {
   "date": "2026-07-07",
   "date_label": "Selasa, 7 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 4597,
+      "company": "Viera",
+      "title": "Business Marketing & Brand Representative",
+      "blogger_url": "https://www.mintainfo.com/2026/07/business-marketing-brand-representative.html"
+    },
     {
       "id": 4596,
       "company": "TK Aisyiyah VIII",
