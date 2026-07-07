@@ -1,8 +1,14 @@
 {
   "date": "2026-07-07",
   "date_label": "Selasa, 7 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 4862,
+      "company": "RSIA BUDHI MULIA",
+      "title": "TEKNISI IPSRS",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-teknisi-ipsrs-terbaru-rsia-budhi.html"
+    },
     {
       "id": 4629,
       "company": "Altha Clinic",
