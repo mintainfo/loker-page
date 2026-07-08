@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 4922,
@@ -38,6 +38,12 @@
       "company": "Guang Ming School",
       "title": "Teacher",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-teacher-terbaru-guang-ming-school.html"
+    },
+    {
+      "id": 4904,
+      "company": "CV. Lestari Insan Mandiri",
+      "title": "Pengawas Lapangan",
+      "blogger_url": "https://www.mintainfo.com/2026/07/cv-lestari-insan-mandiri-buka-lowongan.html"
     }
   ]
 }
