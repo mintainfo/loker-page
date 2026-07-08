@@ -1,13 +1,19 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 25,
+  "count": 26,
   "jobs": [
     {
       "id": 5259,
       "company": "JCO Donuts & Coffee",
       "title": "Crew Store",
       "blogger_url": "https://www.mintainfo.com/2026/07/jco-donuts-coffee-buka-lowongan-crew.html"
+    },
+    {
+      "id": 5258,
+      "company": "Vinia Official",
+      "title": "Kasir",
+      "blogger_url": "https://www.mintainfo.com/2026/07/vinia-official-buka-lowongan-kasir.html"
     },
     {
       "id": 5244,
