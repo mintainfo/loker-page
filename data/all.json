@@ -1,6 +1,13 @@
 {
-  "count": 149,
+  "count": 150,
   "jobs": [
+    {
+      "id": 5242,
+      "company": "PT. Tunas Antar Nusa Muda (TAM)",
+      "title": "Pramugara Bus",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pramugara-bus-di-pt-tunas-antar-nusa.html",
+      "date_label": "Rabu, 8 Juli 2026"
+    },
     {
       "id": 5182,
       "company": "Empek-Empek Bu Tuti",
