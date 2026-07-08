@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 26,
+  "count": 27,
   "jobs": [
     {
       "id": 5259,
@@ -14,6 +14,12 @@
       "company": "Vinia Official",
       "title": "Kasir",
       "blogger_url": "https://www.mintainfo.com/2026/07/vinia-official-buka-lowongan-kasir.html"
+    },
+    {
+      "id": 5257,
+      "company": "PT. Anugerah Wijaya Imperial",
+      "title": "Pengawas Proyek",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pengawas-proyek-di-pt-anugerah-wijaya.html"
     },
     {
       "id": 5244,
