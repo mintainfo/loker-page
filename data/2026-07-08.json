@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "id": 5122,
@@ -14,6 +14,12 @@
       "company": "Arsyad Islamic School",
       "title": "Guru Bahasa Indonesia",
       "blogger_url": "https://www.mintainfo.com/2026/07/arsyad-islamic-school-buka-lowongan.html"
+    },
+    {
+      "id": 5120,
+      "company": "Arsyad Islamic School",
+      "title": "Guru Bahasa Inggris",
+      "blogger_url": "https://www.mintainfo.com/2026/07/arsyad-islamic-school-buka-lowongan_01281537617.html"
     },
     {
       "id": 5095,
