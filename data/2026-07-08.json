@@ -1,8 +1,14 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 17,
+  "count": 18,
   "jobs": [
+    {
+      "id": 5189,
+      "company": "CV. LESTARI INSAN MANDIRI",
+      "title": "PENGAWAS LAPANGAN",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-pengawas-lapangan-di-cv.html"
+    },
     {
       "id": 5143,
       "company": "PT BRINGIN KARYA SEJAHTERA",
