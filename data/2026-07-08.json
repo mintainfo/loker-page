@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 4922,
@@ -26,6 +26,12 @@
       "company": "Shoeai Sepatu",
       "title": "Content Talent",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-content-talent-terbaru-shoeai.html"
+    },
+    {
+      "id": 4906,
+      "company": "Bing Xue",
+      "title": "Crew Toko/ Produksi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-crew-toko-produksi-di-bing.html"
     }
   ]
 }
