@@ -1,13 +1,19 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "id": 5122,
       "company": "Funworld prima",
       "title": "SUPERVISOR STORE PEKANBARU",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-supervisor-store-pekanbaru.html"
+    },
+    {
+      "id": 5121,
+      "company": "Arsyad Islamic School",
+      "title": "Guru Bahasa Indonesia",
+      "blogger_url": "https://www.mintainfo.com/2026/07/arsyad-islamic-school-buka-lowongan.html"
     },
     {
       "id": 5095,
