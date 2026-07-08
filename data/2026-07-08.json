@@ -1,8 +1,14 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 19,
+  "count": 20,
   "jobs": [
+    {
+      "id": 5208,
+      "company": "LUMPIA BEEF OBAMI",
+      "title": "Loker LUMPIA BEEF OBAMI",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-loker-lumpia-beef-obami-terbaru.html"
+    },
     {
       "id": 5207,
       "company": "Thamrin Kopitiam",
