@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 4922,
@@ -14,6 +14,12 @@
       "company": "SoJus",
       "title": "Crew Toko/ Produksi",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-crew-toko-produksi-di-sojus.html"
+    },
+    {
+      "id": 4908,
+      "company": "Altha Clinic",
+      "title": "Keuangan",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-keuangan-terbaru-altha-clinic.html"
     }
   ]
 }
