@@ -1,8 +1,14 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 23,
+  "count": 24,
   "jobs": [
+    {
+      "id": 5244,
+      "company": "RS Mata PBEC (Pekanbaru Eye Center)",
+      "title": "Cleaning Service",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-cleaning-service-di-rs-mata.html"
+    },
     {
       "id": 5243,
       "company": "PT Sinergi Mitra Investama",
