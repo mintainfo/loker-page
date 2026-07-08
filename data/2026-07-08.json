@@ -1,8 +1,14 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 21,
+  "count": 22,
   "jobs": [
+    {
+      "id": 5242,
+      "company": "PT. Tunas Antar Nusa Muda (TAM)",
+      "title": "Pramugara Bus",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pramugara-bus-di-pt-tunas-antar-nusa.html"
+    },
     {
       "id": 5208,
       "company": "LUMPIA BEEF OBAMI",
