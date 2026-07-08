@@ -1,8 +1,14 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 4980,
+      "company": "PT. Xentra Platform Digital Cargo",
+      "title": "Junior Checker Sorter",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-junior-checker-sorter-di-pt.html"
+    },
     {
       "id": 4922,
       "company": "Xiaomi Technology",
