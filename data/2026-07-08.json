@@ -1,8 +1,14 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 22,
+  "count": 23,
   "jobs": [
+    {
+      "id": 5243,
+      "company": "PT Sinergi Mitra Investama",
+      "title": "Driver Operasional",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-driver-operasional-di-pt.html"
+    },
     {
       "id": 5242,
       "company": "PT. Tunas Antar Nusa Muda (TAM)",
