@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "id": 4980,
@@ -14,6 +14,12 @@
       "company": "PT. Peputra Maha Jaya",
       "title": "Teknisi (Engineering)",
       "blogger_url": "https://www.mintainfo.com/2026/07/teknisi-engineering-di-pt-peputra-maha.html"
+    },
+    {
+      "id": 4969,
+      "company": "PT JAJAN POKOK INDONESIA",
+      "title": "Crew Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/07/crew-outlet-di-pt-jajan-pokok-indonesia.html"
     },
     {
       "id": 4922,
