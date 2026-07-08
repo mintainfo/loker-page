@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 20,
+  "count": 21,
   "jobs": [
     {
       "id": 5208,
@@ -20,6 +20,12 @@
       "company": "CV. LESTARI INSAN MANDIRI",
       "title": "PENGAWAS LAPANGAN",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-pengawas-lapangan-di-cv.html"
+    },
+    {
+      "id": 5182,
+      "company": "Empek-Empek Bu Tuti",
+      "title": "KOKI (LAKI\"/PEREMPUAN) & PELAYAN RESTORAN (PEREMPUAN)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-koki-lakiperempuan-pelayan.html"
     },
     {
       "id": 5143,
