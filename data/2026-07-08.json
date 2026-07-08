@@ -1,8 +1,14 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
+    {
+      "id": 5207,
+      "company": "Thamrin Kopitiam",
+      "title": "WAITERS & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/07/waiters-posisi-lainnya-di-thamrin.html"
+    },
     {
       "id": 5189,
       "company": "CV. LESTARI INSAN MANDIRI",
