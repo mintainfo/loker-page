@@ -1,13 +1,19 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 4980,
       "company": "PT. Xentra Platform Digital Cargo",
       "title": "Junior Checker Sorter",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-junior-checker-sorter-di-pt.html"
+    },
+    {
+      "id": 4977,
+      "company": "PT. Peputra Maha Jaya",
+      "title": "Teknisi (Engineering)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/teknisi-engineering-di-pt-peputra-maha.html"
     },
     {
       "id": 4922,
