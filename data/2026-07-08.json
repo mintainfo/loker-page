@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 4922,
@@ -20,6 +20,12 @@
       "company": "Altha Clinic",
       "title": "Keuangan",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-keuangan-terbaru-altha-clinic.html"
+    },
+    {
+      "id": 4907,
+      "company": "Shoeai Sepatu",
+      "title": "Content Talent",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-content-talent-terbaru-shoeai.html"
     }
   ]
 }
