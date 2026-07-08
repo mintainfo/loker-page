@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 4922,
@@ -32,6 +32,12 @@
       "company": "Bing Xue",
       "title": "Crew Toko/ Produksi",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-crew-toko-produksi-di-bing.html"
+    },
+    {
+      "id": 4905,
+      "company": "Guang Ming School",
+      "title": "Teacher",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-teacher-terbaru-guang-ming-school.html"
     }
   ]
 }
