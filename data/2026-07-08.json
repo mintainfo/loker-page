@@ -1,13 +1,19 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 4922,
       "company": "Xiaomi Technology",
       "title": "Authorized Store Manager- Pekanbaru",
       "blogger_url": "https://www.mintainfo.com/2026/07/authorized-store-manager-pekanbaru-di.html"
+    },
+    {
+      "id": 4909,
+      "company": "SoJus",
+      "title": "Crew Toko/ Produksi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-crew-toko-produksi-di-sojus.html"
     }
   ]
 }
