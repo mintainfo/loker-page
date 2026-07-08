@@ -1,8 +1,14 @@
 {
   "date": "2026-07-08",
   "date_label": "Rabu, 8 Juli 2026",
-  "count": 15,
+  "count": 16,
   "jobs": [
+    {
+      "id": 5142,
+      "company": "Glasting Glow",
+      "title": "Helper Gudang",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-helper-gudang-terbaru-glasting.html"
+    },
     {
       "id": 5122,
       "company": "Funworld prima",
