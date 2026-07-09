@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
+    {
+      "id": 5377,
+      "company": "De Mori Homestay",
+      "title": "Receptionist",
+      "blogger_url": "https://www.mintainfo.com/2026/07/de-mori-homestay-buka-lowongan.html"
+    },
     {
       "id": 5376,
       "company": "Mustwin Laundry",
