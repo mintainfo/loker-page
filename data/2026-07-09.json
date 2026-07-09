@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 19,
+  "count": 20,
   "jobs": [
+    {
+      "id": 5431,
+      "company": "Klinik Pratama Elliya Husada",
+      "title": "Perawat / Bidan",
+      "blogger_url": "https://www.mintainfo.com/2026/07/perawat-bidan-di-klinik-pratama-elliya.html"
+    },
     {
       "id": 5430,
       "company": "Harby Trans Nusantara",
