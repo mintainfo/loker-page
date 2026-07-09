@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
+    {
+      "id": 5378,
+      "company": "KSPP Syariah Intira",
+      "title": "Front Office",
+      "blogger_url": "https://www.mintainfo.com/2026/07/kspp-syariah-intira-buka-lowongan-front.html"
+    },
     {
       "id": 5377,
       "company": "De Mori Homestay",
