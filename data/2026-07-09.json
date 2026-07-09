@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 31,
+  "count": 32,
   "jobs": [
     {
       "id": 5490,
@@ -32,6 +32,12 @@
       "company": "tbalfatih",
       "title": "Aplikator / Tukang Kusen",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-aplikator-tukang-kusen-di.html"
+    },
+    {
+      "id": 5484,
+      "company": "tbalfatih",
+      "title": "Drafter",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-drafter-terbaru-tbalfatih.html"
     },
     {
       "id": 5464,
