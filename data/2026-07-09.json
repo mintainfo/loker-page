@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 37,
+  "count": 38,
   "jobs": [
     {
       "id": 5534,
@@ -26,6 +26,12 @@
       "company": "APM Logistics",
       "title": "Staff Operasional & Customer Service",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-staff-operasional-customer.html"
+    },
+    {
+      "id": 5513,
+      "company": "Bluu",
+      "title": "Staf Produksi & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-staf-produksi-posisi-lainnya.html"
     },
     {
       "id": 5512,
