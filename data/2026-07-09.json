@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 5321,
@@ -14,6 +14,12 @@
       "company": "Hojicha Indonesia",
       "title": "Crew Outlet",
       "blogger_url": "https://www.mintainfo.com/2026/07/crew-outlet-di-hojicha-indonesia.html"
+    },
+    {
+      "id": 5310,
+      "company": "Apotik Asean 6",
+      "title": "Pramuniaga Alkes & Cleaning Service",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pramuniaga-alkes-cleaning-service-di.html"
     },
     {
       "id": 5304,
