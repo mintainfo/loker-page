@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
+    {
+      "id": 5373,
+      "company": "PT. Citra Aqila Proteksi",
+      "title": "Marketing Officer & Admin Umum",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-marketing-officer-admin-umum.html"
+    },
     {
       "id": 5366,
       "company": "PT. DETA SUKSES MAKMUR",
