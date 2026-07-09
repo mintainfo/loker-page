@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 26,
+  "count": 27,
   "jobs": [
+    {
+      "id": 5490,
+      "company": "PT. Indonesia Lestari Group (Jawa)",
+      "title": "Asisten Driver",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-asisten-driver-terbaru-pt.html"
+    },
     {
       "id": 5464,
       "company": "PT Impact Power Mandiri",
