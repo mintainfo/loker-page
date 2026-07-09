@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 5304,
@@ -14,6 +14,12 @@
       "company": "Riona Dental Care",
       "title": "Perawat / Asisten Dokter Gigi",
       "blogger_url": "https://www.mintainfo.com/2026/07/riona-dental-care-buka-lowongan-perawat.html"
+    },
+    {
+      "id": 5300,
+      "company": "PT. Selera Nikmat Nusantara",
+      "title": "Cook Japanese",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-selera-nikmat-nusantara-buka.html"
     }
   ]
 }
