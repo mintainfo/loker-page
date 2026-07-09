@@ -1,13 +1,19 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 5321,
       "company": "Pekanbaru Perfumery",
       "title": "SPG",
       "blogger_url": "https://www.mintainfo.com/2026/07/pekanbaru-perfumery-buka-lowongan-spg.html"
+    },
+    {
+      "id": 5311,
+      "company": "Hojicha Indonesia",
+      "title": "Crew Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/07/crew-outlet-di-hojicha-indonesia.html"
     },
     {
       "id": 5304,
