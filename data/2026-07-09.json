@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 23,
+  "count": 24,
   "jobs": [
+    {
+      "id": 5451,
+      "company": "Maps Coffee",
+      "title": "Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-terbaru-maps-coffee.html"
+    },
     {
       "id": 5434,
       "company": "RS Awal Bros Pekanbaru",
