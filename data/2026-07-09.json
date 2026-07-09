@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
+    {
+      "id": 5398,
+      "company": "Tidak Diketahui",
+      "title": "Jaga Stand Frozen Food",
+      "blogger_url": "https://www.mintainfo.com/2026/07/jaga-stand-frozen-food-di-tidak.html"
+    },
     {
       "id": 5397,
       "company": "PT. SEPUPU SATRIA",
