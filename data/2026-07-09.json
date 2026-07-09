@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 5304,
@@ -20,6 +20,12 @@
       "company": "PT. Selera Nikmat Nusantara",
       "title": "Cook Japanese",
       "blogger_url": "https://www.mintainfo.com/2026/07/pt-selera-nikmat-nusantara-buka.html"
+    },
+    {
+      "id": 5294,
+      "company": "Sinergi Mitra Investama",
+      "title": "Driver Operasional",
+      "blogger_url": "https://www.mintainfo.com/2026/07/driver-operasional-di-sinergi-mitra.html"
     }
   ]
 }
