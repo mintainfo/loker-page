@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
+    {
+      "id": 5430,
+      "company": "Harby Trans Nusantara",
+      "title": "Operasional Keberangkatan",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-operasional-keberangkatan-di.html"
+    },
     {
       "id": 5399,
       "company": "Evolution Ponsel",
