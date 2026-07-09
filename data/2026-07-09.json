@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 21,
+  "count": 22,
   "jobs": [
+    {
+      "id": 5433,
+      "company": "RS AWAL BROS",
+      "title": "Asisten Apoteker",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-asisten-apoteker-di-rs-awal.html"
+    },
     {
       "id": 5432,
       "company": "Tirta Siak",
