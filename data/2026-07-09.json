@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 17,
+  "count": 18,
   "jobs": [
+    {
+      "id": 5399,
+      "company": "Evolution Ponsel",
+      "title": "Frontliner",
+      "blogger_url": "https://www.mintainfo.com/2026/07/frontliner-di-evolution-ponsel.html"
+    },
     {
       "id": 5398,
       "company": "Tidak Diketahui",
