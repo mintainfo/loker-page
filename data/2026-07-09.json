@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 5347,
+      "company": "PT. DETA SUKSES MAKMUR",
+      "title": "Mechanical Electrical",
+      "blogger_url": "https://www.mintainfo.com/2026/07/mechanical-electrical-di-pt-deta-sukses.html"
+    },
     {
       "id": 5344,
       "company": "Apotek Serumpun 2 Farma",
