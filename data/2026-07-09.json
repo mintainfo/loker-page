@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 5339,
+      "company": "J&T Cargo",
+      "title": "ADMIN & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/07/admin-posisi-lainnya-di-j-cargo.html"
+    },
     {
       "id": 5332,
       "company": "ABAA Fried Chicken",
