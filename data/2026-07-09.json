@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 25,
+  "count": 26,
   "jobs": [
+    {
+      "id": 5464,
+      "company": "PT Impact Power Mandiri",
+      "title": "Teknisi Boiler",
+      "blogger_url": "https://www.mintainfo.com/2026/07/teknisi-boiler-di-pt-impact-power.html"
+    },
     {
       "id": 5451,
       "company": "Maps Coffee",
