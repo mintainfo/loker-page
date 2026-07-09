@@ -1,8 +1,14 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 32,
+  "count": 33,
   "jobs": [
+    {
+      "id": 5524,
+      "company": "APM Logistics",
+      "title": "Staff Operasional & Customer Service",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-staff-operasional-customer.html"
+    },
     {
       "id": 5490,
       "company": "PT. Indonesia Lestari Group (Jawa)",
