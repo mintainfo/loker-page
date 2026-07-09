@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "date_label": "Kamis, 9 Juli 2026",
-  "count": 29,
+  "count": 30,
   "jobs": [
     {
       "id": 5490,
@@ -20,6 +20,12 @@
       "company": "CV. Indo Karya Maju",
       "title": "Staf Inventory Control",
       "blogger_url": "https://www.mintainfo.com/2026/07/staf-inventory-control-di-cv-indo-karya.html"
+    },
+    {
+      "id": 5487,
+      "company": "Warung Taburai",
+      "title": "Crew Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-crew-outlet-di-warung-taburai.html"
     },
     {
       "id": 5464,
