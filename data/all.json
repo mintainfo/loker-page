@@ -1,6 +1,13 @@
 {
-  "count": 174,
+  "count": 157,
   "jobs": [
+    {
+      "id": 5574,
+      "company": "PT Masmedia Buana Pustaka",
+      "title": "Staf Accounting",
+      "blogger_url": "https://www.mintainfo.com/2026/07/staf-accounting-di-pt-masmedia-buana.html",
+      "date_label": "Jumat, 10 Juli 2026"
+    },
     {
       "id": 5512,
       "company": "CV. Panca Palma Sejahtera",
@@ -1092,132 +1099,6 @@
       "title": "Guru & Pengajar",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-guru-pengajar-di-edulab_01097781187.html",
       "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3586,
-      "company": "Local Pantry",
-      "title": "Purchasing Officer & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-purchasing-officer-posisi.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3564,
-      "company": "Sekolah Musik",
-      "title": "Admin Sekolah Musik",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-admin-sekolah-musik-di.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3563,
-      "company": "Mr. Cream Puff",
-      "title": "Crew Store / Cook",
-      "blogger_url": "https://www.mintainfo.com/2026/07/crew-store-cook-di-mr-cream-puff.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3550,
-      "company": "Martabak Djoeragan Pekanbaru",
-      "title": "Cashier / Crew",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-cashier-crew-di-martabak.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3549,
-      "company": "J&T Express",
-      "title": "Kurir Motor",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-kurir-motor-terbaru-j-express.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3470,
-      "company": "Bakso Malang Tugu",
-      "title": "Kapten/leader / Crew / Kasir / Cooker",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-kaptenleader-crew-kasir.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3449,
-      "company": "PT Serasi Autoraya (Member of Astra)",
-      "title": "Warehouse Office - Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-serasi-autoraya-member-of-astra-buka.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3446,
-      "company": "Pertamina Group",
-      "title": "Internship",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pertamina-group-buka-lowongan.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3445,
-      "company": "Savour Kopitiam",
-      "title": "Kitchen Staff (Cook)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-kitchen-staff-cook-terbaru-savour.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3444,
-      "company": "Savour Kopitiam",
-      "title": "Barista",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-terbaru-savour-kopitiam.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3443,
-      "company": "YKPI Al-Ittihad",
-      "title": "Guru Al-Qur'an (PHL)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/ykpi-al-ittihad-buka-lowongan-guru-al.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3393,
-      "company": "Queen Laundry",
-      "title": "Karyawan Laundry Bagian Cuci",
-      "blogger_url": "https://www.mintainfo.com/2026/07/karyawan-laundry-bagian-cuci-di-queen.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3415,
-      "company": "CV. Berkah Ridho Ilahi",
-      "title": "Mekanik Mobil & Helper",
-      "blogger_url": "https://www.mintainfo.com/2026/07/cv-berkah-ridho-ilahi-buka-lowongan.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3414,
-      "company": "Master Laundry",
-      "title": "Kasir Full Time & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/master-laundry-buka-lowongan-kasir-full.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3407,
-      "company": "SD Islam Terpadu Diniyyah Pekanbaru",
-      "title": "Guru Wali Kelas & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/sd-islam-terpadu-diniyyah-pekanbaru.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3410,
-      "company": "ABONIE ICE CREAM",
-      "title": "TUKANG MASAK & PRAMUSAJI",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-tukang-masak-pramusaji-terbaru.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3409,
-      "company": "Tidak Diketahui",
-      "title": "Baby Sitter & ART",
-      "blogger_url": "https://www.mintainfo.com/2026/07/baby-sitter-art-di-tidak-diketahui.html",
-      "date_label": "Kamis, 2 Juli 2026"
-    },
-    {
-      "id": 3408,
-      "company": "RM. SINAR PARIS",
-      "title": "KARYAWAN RUMAH MAKAN",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rm-sinar-paris-buka-lowongan-karyawan.html",
-      "date_label": "Kamis, 2 Juli 2026"
     }
   ]
 }
