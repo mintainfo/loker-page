@@ -1,8 +1,14 @@
 {
   "date": "2026-07-10",
   "date_label": "Jumat, 10 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 5731,
+      "company": "PT Armada Mix Grup",
+      "title": "Operator Concrete Pump",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-armada-mix-grup-buka-lowongan.html"
+    },
     {
       "id": 5730,
       "company": "Djoeragan Corp.",
