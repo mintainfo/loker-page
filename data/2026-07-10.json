@@ -1,8 +1,14 @@
 {
   "date": "2026-07-10",
   "date_label": "Jumat, 10 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 5715,
+      "company": "Kinchay",
+      "title": "Tim Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-tim-outlet-terbaru-kinchay.html"
+    },
     {
       "id": 5693,
       "company": "Espaco",
