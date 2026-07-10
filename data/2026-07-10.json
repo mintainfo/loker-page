@@ -1,8 +1,14 @@
 {
   "date": "2026-07-10",
   "date_label": "Jumat, 10 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 5599,
+      "company": "TOFFIN RIAU JAYA",
+      "title": "DRIVER/DELIVERY MAN",
+      "blogger_url": "https://www.mintainfo.com/2026/07/driverdelivery-man-di-toffin-riau-jaya.html"
+    },
     {
       "id": 5574,
       "company": "PT Masmedia Buana Pustaka",
