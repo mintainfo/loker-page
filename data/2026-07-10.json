@@ -1,8 +1,14 @@
 {
   "date": "2026-07-10",
   "date_label": "Jumat, 10 Juli 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 5751,
+      "company": "CV.BINA SAWIT JAYA",
+      "title": "MANDOR PEMBIBITAN KELAPA SAWIT",
+      "blogger_url": "https://www.mintainfo.com/2026/07/mandor-pembibitan-kelapa-sawit-di.html"
+    },
     {
       "id": 5731,
       "company": "PT Armada Mix Grup",
