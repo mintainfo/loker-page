@@ -1,8 +1,14 @@
 {
   "date": "2026-07-10",
   "date_label": "Jumat, 10 Juli 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
+    {
+      "id": 6022,
+      "company": "Erber Coffee Nodal",
+      "title": "Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barista-di-erber-coffee-nodal.html"
+    },
     {
       "id": 5908,
       "company": "Meridian Study Indonesia",
