@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "date_label": "Jumat, 10 Juli 2026",
-  "count": 21,
+  "count": 22,
   "jobs": [
     {
       "id": 6022,
@@ -20,6 +20,12 @@
       "company": "Griya satwa pekanbaru",
       "title": "Pet Groomer",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-pet-groomer-di-griya-satwa.html"
+    },
+    {
+      "id": 6016,
+      "company": "MOM N JO",
+      "title": "Admin Store / Gudang",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-admin-store-gudang-terbaru-mom-n.html"
     },
     {
       "id": 5908,
