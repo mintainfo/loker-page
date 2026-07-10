@@ -1,8 +1,14 @@
 {
   "date": "2026-07-10",
   "date_label": "Jumat, 10 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 5717,
+      "company": "Virza",
+      "title": "Barista / Waiters / Kitchen Crew / Cook",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-waiters-kitchen-crew-cook.html"
+    },
     {
       "id": 5716,
       "company": "Apotek Keluarga",
