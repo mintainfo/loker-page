@@ -1,6 +1,13 @@
 {
-  "count": 170,
+  "count": 171,
   "jobs": [
+    {
+      "id": 5905,
+      "company": "Warung Merry",
+      "title": "COOK",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-cook-di-warung-merry.html",
+      "date_label": "Jumat, 10 Juli 2026"
+    },
     {
       "id": 5906,
       "company": "Boss Dimsum",

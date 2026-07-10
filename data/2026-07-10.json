@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "date_label": "Jumat, 10 Juli 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "id": 5908,
@@ -20,6 +20,12 @@
       "company": "Boss Dimsum",
       "title": "Penjaga Stand Dimsum",
       "blogger_url": "https://www.mintainfo.com/2026/07/penjaga-stand-dimsum-di-boss-dimsum.html"
+    },
+    {
+      "id": 5905,
+      "company": "Warung Merry",
+      "title": "COOK",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-cook-di-warung-merry.html"
     },
     {
       "id": 5824,
