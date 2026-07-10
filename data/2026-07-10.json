@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "date_label": "Jumat, 10 Juli 2026",
-  "count": 17,
+  "count": 18,
   "jobs": [
     {
       "id": 5908,
@@ -38,6 +38,12 @@
       "company": "Warung Merry",
       "title": "WAITERS",
       "blogger_url": "https://www.mintainfo.com/2026/07/warung-merry-buka-lowongan-waiters.html"
+    },
+    {
+      "id": 5902,
+      "company": "Calendula Beauty Bar & Spa",
+      "title": "Social Media Coordinator",
+      "blogger_url": "https://www.mintainfo.com/2026/07/calendula-beauty-bar-spa-buka-lowongan.html"
     },
     {
       "id": 5824,
