@@ -1,13 +1,19 @@
 {
   "date": "2026-07-10",
   "date_label": "Jumat, 10 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "id": 5908,
       "company": "Meridian Study Indonesia",
       "title": "Regional Education Manager",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-regional-education-manager-di.html"
+    },
+    {
+      "id": 5907,
+      "company": "Anavia Regency",
+      "title": "finance accounting staff",
+      "blogger_url": "https://www.mintainfo.com/2026/07/finance-accounting-staff-di-anavia.html"
     },
     {
       "id": 5824,
