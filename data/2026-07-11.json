@@ -1,13 +1,19 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 6093,
       "company": "Klinik Utama dr. Misbah",
       "title": "Perawat & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/07/perawat-posisi-lainnya-di-klinik-utama.html"
+    },
+    {
+      "id": 6091,
+      "company": "Apotek Serumpun 2 Farma",
+      "title": "Asisten Apoteker",
+      "blogger_url": "https://www.mintainfo.com/2026/07/apotek-serumpun-2-farma-buka-lowongan_0290673581.html"
     },
     {
       "id": 6088,
