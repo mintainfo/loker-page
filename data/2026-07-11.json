@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 6111,
+      "company": "Kibouland Kids Club",
+      "title": "Crew Event (Freelance)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/crew-event-freelance-di-kibouland-kids.html"
+    },
     {
       "id": 6107,
       "company": "Luxenta Fashion & Fragrance",
