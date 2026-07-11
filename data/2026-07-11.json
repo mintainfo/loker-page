@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 6088,
+      "company": "KIRA Shoes and Bag Care",
+      "title": "Teknisi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/teknisi-di-kira-shoes-and-bag-care.html"
+    },
     {
       "id": 6077,
       "company": "Nawasena Creative Studio",
