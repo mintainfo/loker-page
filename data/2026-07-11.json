@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 6105,
+      "company": "Medina Cleaning",
+      "title": "Cleaning Service",
+      "blogger_url": "https://www.mintainfo.com/2026/07/medina-cleaning-buka-lowongan-cleaning.html"
+    },
     {
       "id": 6099,
       "company": "Warung Taburai",

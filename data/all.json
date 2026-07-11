@@ -1,6 +1,13 @@
 {
-  "count": 160,
+  "count": 161,
   "jobs": [
+    {
+      "id": 6105,
+      "company": "Medina Cleaning",
+      "title": "Cleaning Service",
+      "blogger_url": "https://www.mintainfo.com/2026/07/medina-cleaning-buka-lowongan-cleaning.html",
+      "date_label": "Sabtu, 11 Juli 2026"
+    },
     {
       "id": 6099,
       "company": "Warung Taburai",
