@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 6051,
+      "company": "Wizzmie",
+      "title": "Head Area Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/07/head-area-manager-di-wizzmie-pekanbaru.html"
+    },
     {
       "id": 6040,
       "company": "PT Sant Group Indonesia",
