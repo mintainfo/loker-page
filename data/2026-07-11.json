@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 6134,
+      "company": "Miss Glam",
+      "title": "Security",
+      "blogger_url": "https://www.mintainfo.com/2026/07/security-di-miss-glam-pekanbaru-juli.html"
+    },
     {
       "id": 6133,
       "company": "Miss Glam",
