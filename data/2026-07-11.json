@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 6077,
+      "company": "Nawasena Creative Studio",
+      "title": "Videographer & Editor",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-videographer-editor-terbaru.html"
+    },
     {
       "id": 6051,
       "company": "Wizzmie",
