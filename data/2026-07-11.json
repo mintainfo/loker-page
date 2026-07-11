@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 6107,
+      "company": "Luxenta Fashion & Fragrance",
+      "title": "Pegawai Boutique",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-pegawai-boutique-terbaru-luxenta.html"
+    },
     {
       "id": 6105,
       "company": "Medina Cleaning",
