@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 6093,
+      "company": "Klinik Utama dr. Misbah",
+      "title": "Perawat & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/07/perawat-posisi-lainnya-di-klinik-utama.html"
+    },
     {
       "id": 6088,
       "company": "KIRA Shoes and Bag Care",
