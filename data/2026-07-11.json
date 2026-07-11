@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 15,
+  "count": 16,
   "jobs": [
+    {
+      "id": 6137,
+      "company": "SMK Teknologi Negeri Indonesia",
+      "title": "Teknisi Sepeda Motor",
+      "blogger_url": "https://www.mintainfo.com/2026/07/teknisi-sepeda-motor-di-smk-teknologi.html"
+    },
     {
       "id": 6136,
       "company": "Yayasan Kesatuan Pendidikan Islam (YKPI) Al-Ittihad",
