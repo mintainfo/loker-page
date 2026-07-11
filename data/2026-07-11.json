@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
+    {
+      "id": 6152,
+      "company": "PT. Tri Adi Bersama",
+      "title": "Mitra Kurir Motor - Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-tri-adi-bersama-buka-lowongan-mitra.html"
+    },
     {
       "id": 6137,
       "company": "SMK Teknologi Negeri Indonesia",
