@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
+    {
+      "id": 6135,
+      "company": "Grand Central Pekanbaru",
+      "title": "Banquette Captain",
+      "blogger_url": "https://www.mintainfo.com/2026/07/grand-central-pekanbaru-buka-lowongan.html"
+    },
     {
       "id": 6134,
       "company": "Miss Glam",
