@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
+    {
+      "id": 6169,
+      "company": "Shabira Laundry",
+      "title": "KURIR ANTAR JEMPUT LAUNDRY ( JL CIPTA KARYA UJUNG , PANAM )",
+      "blogger_url": "https://www.mintainfo.com/2026/07/kurir-antar-jemput-laundry-jl-cipta.html"
+    },
     {
       "id": 6137,
       "company": "SMK Teknologi Negeri Indonesia",
