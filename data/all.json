@@ -1,6 +1,13 @@
 {
-  "count": 178,
+  "count": 153,
   "jobs": [
+    {
+      "id": 6040,
+      "company": "PT Sant Group Indonesia",
+      "title": "Beauty Advisor / Scent Advisor",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-beauty-advisor-scent-advisor.html",
+      "date_label": "Sabtu, 11 Juli 2026"
+    },
     {
       "id": 6016,
       "company": "MOM N JO",
@@ -1064,188 +1071,6 @@
       "title": "Mekanik Bubut",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-mekanik-bubut-di-pt-agung.html",
       "date_label": "Sabtu, 4 Juli 2026"
-    },
-    {
-      "id": 3890,
-      "company": "NASI BAKAR CIK PUAN",
-      "title": "KARYAWAN OUTLET STAND",
-      "blogger_url": "https://www.mintainfo.com/2026/07/karyawan-outlet-stand-di-nasi-bakar-cik.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3883,
-      "company": "Saudara Bahagia",
-      "title": "Teknisi Interior",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-teknisi-interior-terbaru-saudara.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3882,
-      "company": "GoGolf Simulator",
-      "title": "Cleaning Service & Office Boy (OB)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-cleaning-service-office-boy.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3881,
-      "company": "GoGolf Simulator",
-      "title": "Penjaga Malam",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-penjaga-malam-di-gogolf.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3850,
-      "company": "PT. Delta Force Indonesia",
-      "title": "Operator Hoist Crane",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-operator-hoist-crane-di-pt.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3810,
-      "company": "BUZZSPEED GARAGE",
-      "title": "KARYAWAN CUCI MOTOR DETAILING",
-      "blogger_url": "https://www.mintainfo.com/2026/07/karyawan-cuci-motor-detailing-di.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3809,
-      "company": "Teh Tarik Seroo",
-      "title": "Crew Outlet",
-      "blogger_url": "https://www.mintainfo.com/2026/07/crew-outlet-di-teh-tarik-seroo.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3801,
-      "company": "Candu Kuphi",
-      "title": "Waiters Order",
-      "blogger_url": "https://www.mintainfo.com/2026/07/candu-kuphi-buka-lowongan-waiters-order.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3787,
-      "company": "PT. ORROSTAR TEKNOLOGI WAHANA",
-      "title": "Finance Officer",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-finance-officer-terbaru-pt.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3771,
-      "company": "X Team Gym Indonesia",
-      "title": "Frontliner",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-frontliner-di-x-team-gym.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3772,
-      "company": "Bliss After School Tutorial Centre",
-      "title": "Pengajar",
-      "blogger_url": "https://www.mintainfo.com/2026/07/bliss-after-school-tutorial-centre-buka.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3724,
-      "company": "Es Durian Revin",
-      "title": "Waiters",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-waiters-di-es-durian-revin.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3722,
-      "company": "Rumaa Gadget",
-      "title": "Social Media Specialist Content Creator",
-      "blogger_url": "https://www.mintainfo.com/2026/07/social-media-specialist-content-creator.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3708,
-      "company": "Medco Power Indonesia",
-      "title": "Operation Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-operation-manager-terbaru-medco.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3710,
-      "company": "APP Group",
-      "title": "Electrical Maintenance Specialist",
-      "blogger_url": "https://www.mintainfo.com/2026/07/electrical-maintenance-specialist-di.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3582,
-      "company": "PT Onesia Nusantara Evolusi",
-      "title": "QA & SEO Specialist",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-qa-seo-specialist-terbaru-pt.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3665,
-      "company": "Super Daging",
-      "title": "Admin Operasional",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-admin-operasional-terbaru-super.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3683,
-      "company": "Naraya Hospital",
-      "title": "Staf Logistik",
-      "blogger_url": "https://www.mintainfo.com/2026/07/staf-logistik-di-naraya-hospital.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3682,
-      "company": "Alisha Bimbel",
-      "title": "Guru Bahasa Arab",
-      "blogger_url": "https://www.mintainfo.com/2026/07/alisha-bimbel-buka-lowongan-guru-bahasa.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3664,
-      "company": "Witama National Plus School",
-      "title": "Guru Inggris SMA",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-guru-inggris-sma-di-witama.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3663,
-      "company": "Klinik Alifin",
-      "title": "Admin",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-admin-terbaru-klinik-alifin.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3631,
-      "company": "Pagaruyuang Ponsel Pekanbaru",
-      "title": "Karyawan",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-karyawan-terbaru-pagaruyuang.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3630,
-      "company": "Kopitiam Kopi & Kaya, Mie Kamie",
-      "title": "Purchasing & Admin",
-      "blogger_url": "https://www.mintainfo.com/2026/07/kopitiam-kopi-kaya-mie-kamie-buka.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3629,
-      "company": "Toko Cat Bursa Warna",
-      "title": "KARYAWAN TOKO",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-karyawan-toko-terbaru-toko-cat.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3585,
-      "company": "Toko Vivid LED Lighting",
-      "title": "Karyawan Toko",
-      "blogger_url": "https://www.mintainfo.com/2026/07/toko-vivid-led-lighting-buka-lowongan_01861818204.html",
-      "date_label": "Jumat, 3 Juli 2026"
-    },
-    {
-      "id": 3621,
-      "company": "Edulab Indonesia",
-      "title": "Guru & Pengajar",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-guru-pengajar-di-edulab_01097781187.html",
-      "date_label": "Jumat, 3 Juli 2026"
     }
   ]
 }
