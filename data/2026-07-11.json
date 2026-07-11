@@ -1,8 +1,14 @@
 {
   "date": "2026-07-11",
   "date_label": "Sabtu, 11 Juli 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
+    {
+      "id": 6136,
+      "company": "Yayasan Kesatuan Pendidikan Islam (YKPI) Al-Ittihad",
+      "title": "Janitor/Petugas Kebersihan",
+      "blogger_url": "https://www.mintainfo.com/2026/07/yayasan-kesatuan-pendidikan-islam-ykpi.html"
+    },
     {
       "id": 6135,
       "company": "Grand Central Pekanbaru",
