@@ -1,8 +1,14 @@
 {
   "date": "2026-07-12",
   "date_label": "Minggu, 12 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 6327,
+      "company": "SMPIT NEW DZAATUL AKMAAM",
+      "title": "GURU BAHASA INDONESIA",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-guru-bahasa-indonesia-di.html"
+    },
     {
       "id": 6316,
       "company": "Casper Learning",
