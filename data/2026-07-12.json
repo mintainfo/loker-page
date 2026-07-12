@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "date_label": "Minggu, 12 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 6327,
@@ -26,6 +26,12 @@
       "company": "The Empire Barbershop",
       "title": "Barberman",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barberman-di-empire.html"
+    },
+    {
+      "id": 6306,
+      "company": "Kopi Sehati",
+      "title": "Rider",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-rider-di-kopi-sehati.html"
     },
     {
       "id": 6279,

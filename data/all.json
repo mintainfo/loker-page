@@ -1,6 +1,13 @@
 {
-  "count": 160,
+  "count": 161,
   "jobs": [
+    {
+      "id": 6306,
+      "company": "Kopi Sehati",
+      "title": "Rider",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-rider-di-kopi-sehati.html",
+      "date_label": "Minggu, 12 Juli 2026"
+    },
     {
       "id": 6311,
       "company": "The Empire Barbershop",
