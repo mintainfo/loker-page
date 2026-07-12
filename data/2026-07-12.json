@@ -1,8 +1,14 @@
 {
   "date": "2026-07-12",
   "date_label": "Minggu, 12 Juli 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 6389,
+      "company": "RSIA Budhi Mulia",
+      "title": "Medical Coder",
+      "blogger_url": "https://www.mintainfo.com/2026/07/medical-coder-di-rsia-budhi-mulia.html"
+    },
     {
       "id": 6374,
       "company": "HOW Coffee",
