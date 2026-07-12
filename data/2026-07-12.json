@@ -1,8 +1,14 @@
 {
   "date": "2026-07-12",
   "date_label": "Minggu, 12 Juli 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
+    {
+      "id": 6391,
+      "company": "Kedai kopi CIK WAN",
+      "title": "Barista / Kitchen",
+      "blogger_url": "https://www.mintainfo.com/2026/07/kedai-kopi-cik-wan-buka-lowongan.html"
+    },
     {
       "id": 6390,
       "company": "RSIA Budhi Mulia",
