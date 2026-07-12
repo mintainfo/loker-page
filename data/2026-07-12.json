@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "date_label": "Minggu, 12 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 6327,
@@ -20,6 +20,12 @@
       "company": "Kantor Jasa Akuntan Candra Irawan",
       "title": "Accounting & Tax Staff",
       "blogger_url": "https://www.mintainfo.com/2026/07/accounting-tax-staff-di-kantor-jasa.html"
+    },
+    {
+      "id": 6311,
+      "company": "The Empire Barbershop",
+      "title": "Barberman",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barberman-di-empire.html"
     },
     {
       "id": 6279,
