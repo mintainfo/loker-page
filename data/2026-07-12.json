@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "date_label": "Minggu, 12 Juli 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "id": 6657,
@@ -14,6 +14,12 @@
       "company": "Meulaboh Kupie",
       "title": "Kasir & Helper",
       "blogger_url": "https://www.mintainfo.com/2026/07/meulaboh-kupie-buka-lowongan-kasir.html"
+    },
+    {
+      "id": 6531,
+      "company": "Yummy Toast",
+      "title": "Crew Stand",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-crew-stand-di-yummy-toast.html"
     },
     {
       "id": 6391,
