@@ -1,8 +1,14 @@
 {
   "date": "2026-07-12",
   "date_label": "Minggu, 12 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 6279,
+      "company": "Anavia Regency",
+      "title": "conten creator",
+      "blogger_url": "https://www.mintainfo.com/2026/07/anavia-regency-buka-lowongan-conten.html"
+    },
     {
       "id": 6269,
       "company": "PT. Wijaya Manggala Premier Lestari",
