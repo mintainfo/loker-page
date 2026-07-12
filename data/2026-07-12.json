@@ -1,13 +1,19 @@
 {
   "date": "2026-07-12",
   "date_label": "Minggu, 12 Juli 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "id": 6657,
       "company": "ER COFFEE KEUDE KUPI",
       "title": "Barista",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barista-di-er-coffee-keude.html"
+    },
+    {
+      "id": 6574,
+      "company": "Meulaboh Kupie",
+      "title": "Kasir & Helper",
+      "blogger_url": "https://www.mintainfo.com/2026/07/meulaboh-kupie-buka-lowongan-kasir.html"
     },
     {
       "id": 6391,
