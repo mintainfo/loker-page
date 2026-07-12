@@ -1,8 +1,14 @@
 {
   "date": "2026-07-12",
   "date_label": "Minggu, 12 Juli 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 6390,
+      "company": "RSIA Budhi Mulia",
+      "title": "Koki",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-koki-di-rsia-budhi-mulia.html"
+    },
     {
       "id": 6389,
       "company": "RSIA Budhi Mulia",
