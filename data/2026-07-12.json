@@ -1,8 +1,14 @@
 {
   "date": "2026-07-12",
   "date_label": "Minggu, 12 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 6316,
+      "company": "Casper Learning",
+      "title": "Tutor Cambridge SD/SMP atau SMA",
+      "blogger_url": "https://www.mintainfo.com/2026/07/casper-learning-buka-lowongan-tutor.html"
+    },
     {
       "id": 6315,
       "company": "Kantor Jasa Akuntan Candra Irawan",
