@@ -1,8 +1,14 @@
 {
   "date": "2026-07-12",
   "date_label": "Minggu, 12 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 6365,
+      "company": "Guzzel Hijab",
+      "title": "Pelayan Toko Hijab",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pelayan-toko-hijab-di-guzzel-hijab.html"
+    },
     {
       "id": 6327,
       "company": "SMPIT NEW DZAATUL AKMAAM",
