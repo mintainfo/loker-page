@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 6777,
+      "company": "SAMBAL BANDIT",
+      "title": "KASIR",
+      "blogger_url": "https://www.mintainfo.com/2026/07/kasir-di-sambal-bandit-pekanbaru-juli.html"
+    },
     {
       "id": 6775,
       "company": "SKINologic Aesthetic",
