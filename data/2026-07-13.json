@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 33,
+  "count": 34,
   "jobs": [
+    {
+      "id": 7122,
+      "company": "Klinik Pratama Mulya",
+      "title": "Perawat",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-perawat-terbaru-klinik-pratama.html"
+    },
     {
       "id": 7094,
       "company": "Kopi On The Road",
