@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
+    {
+      "id": 6925,
+      "company": "Daitan Ramen",
+      "title": "Pramusaji & Helper Kitchen",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pramusaji-helper-kitchen-di-daitan.html"
+    },
     {
       "id": 6895,
       "company": "LUXE KACA PROFIL",
