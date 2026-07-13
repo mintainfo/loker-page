@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 6731,
+      "company": "Boss Laundry Pekanbaru",
+      "title": "Staf Kasir & Staf Produksi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-staf-kasir-staf-produksi-di.html"
+    },
     {
       "id": 6716,
       "company": "Empek-empek Bu Tuti",
