@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
+    {
+      "id": 6894,
+      "company": "Toko Jam Edibasru",
+      "title": "KARYAWATI TOKO",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-karyawati-toko-terbaru-toko-jam.html"
+    },
     {
       "id": 6871,
       "company": "Guzzel Hijab",
