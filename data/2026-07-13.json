@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 6782,
+      "company": "Apotek Lestari Bersama",
+      "title": "Asisten Apoteker",
+      "blogger_url": "https://www.mintainfo.com/2026/07/apotek-lestari-bersama-buka-lowongan.html"
+    },
     {
       "id": 6780,
       "company": "PT Sumber Alfaria Trijaya, Tbk (Alfamart)",
