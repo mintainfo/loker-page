@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 6836,
+      "company": "Bonanza Tour and Travel",
+      "title": "Admin Travel",
+      "blogger_url": "https://www.mintainfo.com/2026/07/bonanza-tour-and-travel-buka-lowongan.html"
+    },
     {
       "id": 6835,
       "company": "Tidak Diketahui",
