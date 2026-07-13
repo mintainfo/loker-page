@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 27,
+  "count": 28,
   "jobs": [
     {
       "id": 6968,
@@ -38,6 +38,12 @@
       "company": "Salon Bocil",
       "title": "KASIR & HAIR STYLIST",
       "blogger_url": "https://www.mintainfo.com/2026/07/salon-bocil-buka-lowongan-kasir-hair.html"
+    },
+    {
+      "id": 6930,
+      "company": "Tidak Diketahui",
+      "title": "Terapis Eyelash & Nail Art",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-terapis-eyelash-nail-art-terbaru.html"
     },
     {
       "id": 6926,
