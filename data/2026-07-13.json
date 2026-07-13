@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 17,
+  "count": 18,
   "jobs": [
+    {
+      "id": 6895,
+      "company": "LUXE KACA PROFIL",
+      "title": "ADMIN",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-admin-di-luxe-kaca-profil.html"
+    },
     {
       "id": 6894,
       "company": "Toko Jam Edibasru",
