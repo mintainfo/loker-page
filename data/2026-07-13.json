@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 35,
+  "count": 36,
   "jobs": [
     {
       "id": 7122,
@@ -20,6 +20,12 @@
       "company": "Kopi On The Road",
       "title": "Rider Gerobak Kopi & Brewer Minuman",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-rider-gerobak-kopi-brewer-minuman.html"
+    },
+    {
+      "id": 7053,
+      "company": "PT Cordlife Persada",
+      "title": "Consultant Partnership Agent Riau (Freelance)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-cordlife-persada-buka-lowongan.html"
     },
     {
       "id": 7051,
