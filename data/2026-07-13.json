@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 25,
+  "count": 26,
   "jobs": [
+    {
+      "id": 6968,
+      "company": "SLV Aesthetic Clinic",
+      "title": "Beauty Specialist",
+      "blogger_url": "https://www.mintainfo.com/2026/07/beauty-specialist-di-slv-aesthetic.html"
+    },
     {
       "id": 6967,
       "company": "Saurdot Pelita Nusantara Riau",
