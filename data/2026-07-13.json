@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 31,
+  "count": 32,
   "jobs": [
     {
       "id": 7051,
@@ -14,6 +14,12 @@
       "company": "Laboratorium Klinik Thamrin",
       "title": "Perawat IGD",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-perawat-igd-di-laboratorium.html"
+    },
+    {
+      "id": 6990,
+      "company": "SOZO Dental (Seven Retail Group)",
+      "title": "Perawat Gigi (Klinik Sozo Dental Pekanbaru)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-perawat-gigi-klinik-sozo.html"
     },
     {
       "id": 6968,
