@@ -1,6 +1,13 @@
 {
-  "count": 169,
+  "count": 161,
   "jobs": [
+    {
+      "id": 6716,
+      "company": "Empek-empek Bu Tuti",
+      "title": "Pelayan resto",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pelayan-resto-di-empek-empek-bu-tuti.html",
+      "date_label": "Senin, 13 Juli 2026"
+    },
     {
       "id": 6531,
       "company": "Yummy Toast",
@@ -1120,69 +1127,6 @@
       "title": "Dokter Aesthetic Pekanbaru",
       "blogger_url": "https://www.mintainfo.com/2026/07/pt-jac-konsultan-indonesia-buka.html",
       "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4253,
-      "company": "Yakin Bicycle",
-      "title": "Driver Gudang",
-      "blogger_url": "https://www.mintainfo.com/2026/07/driver-gudang-di-yakin-bicycle.html",
-      "date_label": "Minggu, 5 Juli 2026"
-    },
-    {
-      "id": 4252,
-      "company": "Wareh Kupie",
-      "title": "Waiter/Waitress",
-      "blogger_url": "https://www.mintainfo.com/2026/07/wareh-kupie-buka-lowongan.html",
-      "date_label": "Minggu, 5 Juli 2026"
-    },
-    {
-      "id": 4251,
-      "company": "Altha Clinic",
-      "title": "Bidan / Asisten Apoteker",
-      "blogger_url": "https://www.mintainfo.com/2026/07/bidan-asisten-apoteker-di-altha-clinic.html",
-      "date_label": "Minggu, 5 Juli 2026"
-    },
-    {
-      "id": 4226,
-      "company": "Wisma Tirta Kencana",
-      "title": "Receptionist & Housekeeping",
-      "blogger_url": "https://www.mintainfo.com/2026/07/receptionist-housekeeping-di-wisma.html",
-      "date_label": "Minggu, 5 Juli 2026"
-    },
-    {
-      "id": 4216,
-      "company": "Bakpao Setia",
-      "title": "Produksi & Merangkap",
-      "blogger_url": "https://www.mintainfo.com/2026/07/produksi-merangkap-di-bakpao-setia.html",
-      "date_label": "Minggu, 5 Juli 2026"
-    },
-    {
-      "id": 4215,
-      "company": "BHEL MEDICARE",
-      "title": "Loker ✓ Admission 📝 & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-admission-posisi-lainnya-di-bhel.html",
-      "date_label": "Minggu, 5 Juli 2026"
-    },
-    {
-      "id": 4183,
-      "company": "Dental Tone",
-      "title": "Asisten Dokter Gigi & Perawat Gigi",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-asisten-dokter-gigi-perawat.html",
-      "date_label": "Minggu, 5 Juli 2026"
-    },
-    {
-      "id": 4182,
-      "company": "Tasqya Costel Syariah",
-      "title": "Admin HRD & Teknisi",
-      "blogger_url": "https://www.mintainfo.com/2026/07/tasqya-costel-syariah-buka-lowongan.html",
-      "date_label": "Minggu, 5 Juli 2026"
-    },
-    {
-      "id": 4181,
-      "company": "Ibukota Coffee & Tea",
-      "title": "Barista Wanita",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barista-wanita-di-ibukota.html",
-      "date_label": "Minggu, 5 Juli 2026"
     }
   ]
 }
