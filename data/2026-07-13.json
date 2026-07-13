@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 6774,
+      "company": "Dadarin Aja!",
+      "title": "Accounting / Admin Finance",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-accounting-admin-finance-terbaru.html"
+    },
     {
       "id": 6743,
       "company": "Ruang Bersua",
