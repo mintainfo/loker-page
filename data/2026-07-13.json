@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
+    {
+      "id": 6869,
+      "company": "Klinik Pratama Elliya Husada",
+      "title": "Perawat",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-perawat-di-klinik-pratama.html"
+    },
     {
       "id": 6836,
       "company": "Bonanza Tour and Travel",
