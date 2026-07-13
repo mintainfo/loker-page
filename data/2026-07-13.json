@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 29,
+  "count": 30,
   "jobs": [
+    {
+      "id": 7024,
+      "company": "Laboratorium Klinik Thamrin",
+      "title": "Perawat IGD",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-perawat-igd-di-laboratorium.html"
+    },
     {
       "id": 6968,
       "company": "SLV Aesthetic Clinic",
