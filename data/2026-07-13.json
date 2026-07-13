@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 32,
+  "count": 33,
   "jobs": [
+    {
+      "id": 7094,
+      "company": "Kopi On The Road",
+      "title": "Rider Gerobak Kopi & Brewer Minuman",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-rider-gerobak-kopi-brewer-minuman.html"
+    },
     {
       "id": 7051,
       "company": "helenabeautyc.pku",
