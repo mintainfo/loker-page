@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 20,
+  "count": 21,
   "jobs": [
+    {
+      "id": 6949,
+      "company": "Salon Bocil",
+      "title": "KASIR & HAIR STYLIST",
+      "blogger_url": "https://www.mintainfo.com/2026/07/salon-bocil-buka-lowongan-kasir-hair.html"
+    },
     {
       "id": 6926,
       "company": "Eka Pratama Motor",
