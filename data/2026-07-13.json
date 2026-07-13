@@ -1,8 +1,14 @@
 {
   "date": "2026-07-13",
   "date_label": "Senin, 13 Juli 2026",
-  "count": 19,
+  "count": 20,
   "jobs": [
+    {
+      "id": 6926,
+      "company": "Eka Pratama Motor",
+      "title": "Karyawan Salon Mobil",
+      "blogger_url": "https://www.mintainfo.com/2026/07/eka-pratama-motor-buka-lowongan.html"
+    },
     {
       "id": 6925,
       "company": "Daitan Ramen",
