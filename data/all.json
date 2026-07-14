@@ -1,6 +1,13 @@
 {
-  "count": 196,
+  "count": 176,
   "jobs": [
+    {
+      "id": 7052,
+      "company": "PT.Samudra Estetika perkasa",
+      "title": "Kasir (Pekanbaru)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/kasir-pekanbaru-di-ptsamudra-estetika.html",
+      "date_label": "Selasa, 14 Juli 2026"
+    },
     {
       "id": 7053,
       "company": "PT Cordlife Persada",
@@ -1225,153 +1232,6 @@
       "title": "Customer Service",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-customer-service-di-pt-rezeki.html",
       "date_label": "Selasa, 7 Juli 2026"
-    },
-    {
-      "id": 4524,
-      "company": "Garuda Jaya Motor",
-      "title": "Mekanik Sepeda Motor",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-mekanik-sepeda-motor-di.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4523,
-      "company": "Delima Mart",
-      "title": "Cashier",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-cashier-terbaru-delima-mart.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4452,
-      "company": "MPM Motor",
-      "title": "Admin & Finance Coordinator",
-      "blogger_url": "https://www.mintainfo.com/2026/07/mpm-motor-buka-lowongan-admin-finance.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4451,
-      "company": "SMKS Nasional Pelalawan",
-      "title": "Guru Otomotif Sepeda Motor / Guru Olahraga / Guru Seni / Guru Akutansi",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-guru-otomotif-sepeda-motor.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4427,
-      "company": "Tidak Diketahui",
-      "title": "Helper Kafe & Helper Katering",
-      "blogger_url": "https://www.mintainfo.com/2026/07/helper-kafe-helper-katering-di-tidak.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4423,
-      "company": "Shem Ramen",
-      "title": "Cook & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-cook-posisi-lainnya-di-shem.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4412,
-      "company": "Diza Dental Smile",
-      "title": "Asisten Dokter Gigi",
-      "blogger_url": "https://www.mintainfo.com/2026/07/asisten-dokter-gigi-di-diza-dental.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4405,
-      "company": "Ekaputra Meatshop & Grill",
-      "title": "Butcher",
-      "blogger_url": "https://www.mintainfo.com/2026/07/butcher-di-ekaputra-meatshop-grill.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4404,
-      "company": "RnR Medical Aesthetic",
-      "title": "Konten Kreator",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-konten-kreator-terbaru-rnr.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4316,
-      "company": "PD Gala Jaya",
-      "title": "Accounting & Perpajakan",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-accounting-perpajakan-terbaru-pd.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4326,
-      "company": "PT Selera Nikmat Nusantara",
-      "title": "Kitchen Supervisor",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-kitchen-supervisor-terbaru-pt.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4315,
-      "company": "Jolt Coffee",
-      "title": "Kitchen Staff",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-kitchen-staff-di-jolt-coffee.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4269,
-      "company": "Sojus",
-      "title": "Crew",
-      "blogger_url": "https://www.mintainfo.com/2026/07/crew-di-sojus-pekanbaru-juli-2026.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4289,
-      "company": "Mo Tahu Aja! Ahmad Dahlan Pekanbaru",
-      "title": "Staff Operasional & Staff Dapur",
-      "blogger_url": "https://www.mintainfo.com/2026/07/mo-tahu-aja-ahmad-dahlan-pekanbaru-buka.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4280,
-      "company": "Bubur Bayi Jabal Nur",
-      "title": "Penjaga Stand Bubur Bayi",
-      "blogger_url": "https://www.mintainfo.com/2026/07/penjaga-stand-bubur-bayi-di-bubur-bayi.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4279,
-      "company": "PAUD Lilik",
-      "title": "Guru PAUD & Guru Bahasa Inggris",
-      "blogger_url": "https://www.mintainfo.com/2026/07/guru-paud-guru-bahasa-inggris-di-paud.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4277,
-      "company": "Children's Light Child Development Center",
-      "title": "Terapis Anak Berkebutuhan Khusus",
-      "blogger_url": "https://www.mintainfo.com/2026/07/terapis-anak-berkebutuhan-khusus-di.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4266,
-      "company": "PT Marita Makmur Jaya",
-      "title": "office boy",
-      "blogger_url": "https://www.mintainfo.com/2026/07/office-boy-di-pt-marita-makmur-jaya.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4255,
-      "company": "PT JAC Konsultan Indonesia",
-      "title": "Apoteker Penanggung Jawab (Pharmacist)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/apoteker-penanggung-jawab-pharmacist-di.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4256,
-      "company": "PT JAC Konsultan Indonesia",
-      "title": "Aesthetic Nurse / Perawat Kecantikan",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-aesthetic-nurse-perawat.html",
-      "date_label": "Senin, 6 Juli 2026"
-    },
-    {
-      "id": 4257,
-      "company": "PT JAC Konsultan Indonesia",
-      "title": "Dokter Aesthetic Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-jac-konsultan-indonesia-buka.html",
-      "date_label": "Senin, 6 Juli 2026"
     }
   ]
 }
