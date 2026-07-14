@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "date_label": "Selasa, 14 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "id": 7262,
@@ -26,6 +26,12 @@
       "company": "PT Surya Nusantara Sentosa (SNS.AC)",
       "title": "General Admin Pekanbaru",
       "blogger_url": "https://www.mintainfo.com/2026/07/pt-surya-nusantara-sentosa-snsac-buka_01605566960.html"
+    },
+    {
+      "id": 7257,
+      "company": "Berkah Tirta Wahana",
+      "title": "Admin Marketplace",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-admin-marketplace-di-berkah.html"
     },
     {
       "id": 7234,
