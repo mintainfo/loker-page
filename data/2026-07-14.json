@@ -1,8 +1,14 @@
 {
   "date": "2026-07-14",
   "date_label": "Selasa, 14 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 7233,
+      "company": "PT. VISI YOSINDO MEDIKAL",
+      "title": "STAFF ACCOUNTING",
+      "blogger_url": "https://www.mintainfo.com/2026/07/staff-accounting-di-pt-visi-yosindo.html"
+    },
     {
       "id": 7232,
       "company": "Dhiapo Express Carwash & Detailing",
