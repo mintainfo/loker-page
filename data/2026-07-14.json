@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "date_label": "Selasa, 14 Juli 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "id": 7262,
@@ -38,6 +38,12 @@
       "company": "C9 School",
       "title": "KINDERGARTEN TEACHER",
       "blogger_url": "https://www.mintainfo.com/2026/07/c9-school-buka-lowongan-kindergarten.html"
+    },
+    {
+      "id": 7255,
+      "company": "Miracles Daycare",
+      "title": "Miss Daycare",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-miss-daycare-di-miracles.html"
     },
     {
       "id": 7234,
