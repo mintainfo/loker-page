@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "date_label": "Selasa, 14 Juli 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 7262,
@@ -20,6 +20,12 @@
       "company": "PT Surya Nusantara Sentosa (SNS.AC)",
       "title": "Admin Part Pekanbaru",
       "blogger_url": "https://www.mintainfo.com/2026/07/pt-surya-nusantara-sentosa-snsac-buka.html"
+    },
+    {
+      "id": 7258,
+      "company": "PT Surya Nusantara Sentosa (SNS.AC)",
+      "title": "General Admin Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-surya-nusantara-sentosa-snsac-buka_01605566960.html"
     },
     {
       "id": 7234,
