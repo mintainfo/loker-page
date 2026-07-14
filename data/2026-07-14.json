@@ -1,8 +1,14 @@
 {
   "date": "2026-07-14",
   "date_label": "Selasa, 14 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 7165,
+      "company": "PT Capella Dinamik Nusantara",
+      "title": "Technical Trainer",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-capella-dinamik-nusantara-buka.html"
+    },
     {
       "id": 7052,
       "company": "PT.Samudra Estetika perkasa",
