@@ -1,8 +1,14 @@
 {
   "date": "2026-07-14",
   "date_label": "Selasa, 14 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 7234,
+      "company": "KOPITIN TRADITIONAL COFFEE SHOP",
+      "title": "Helper Kitchen/Cook / Pegawai Kedai Kopi/Waiters",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-helper-kitchencook-pegawai.html"
+    },
     {
       "id": 7233,
       "company": "PT. VISI YOSINDO MEDIKAL",
