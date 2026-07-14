@@ -1,8 +1,14 @@
 {
   "date": "2026-07-14",
   "date_label": "Selasa, 14 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 7186,
+      "company": "Suabox (Omen Coffee)",
+      "title": "Operator Photobox",
+      "blogger_url": "https://www.mintainfo.com/2026/07/suabox-omen-coffee-buka-lowongan.html"
+    },
     {
       "id": 7165,
       "company": "PT Capella Dinamik Nusantara",
