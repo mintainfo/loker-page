@@ -1,8 +1,14 @@
 {
   "date": "2026-07-14",
   "date_label": "Selasa, 14 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 7262,
+      "company": "PT Bengkalis Kuda Laut",
+      "title": "Supervisor Accounting",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-bengkalis-kuda-laut-buka-lowongan.html"
+    },
     {
       "id": 7234,
       "company": "KOPITIN TRADITIONAL COFFEE SHOP",
