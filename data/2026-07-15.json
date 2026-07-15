@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 21,
+  "count": 22,
   "jobs": [
     {
       "id": 7834,
@@ -14,6 +14,12 @@
       "company": "Indah Logistik Kargo",
       "title": "Admin",
       "blogger_url": "https://www.mintainfo.com/2026/07/admin-di-indah-logistik-kargo-pekanbaru.html"
+    },
+    {
+      "id": 7760,
+      "company": "PT AGINDA RIAU ABADI",
+      "title": "ANALIS",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-aginda-riau-abadi-buka-lowongan.html"
     },
     {
       "id": 7724,
