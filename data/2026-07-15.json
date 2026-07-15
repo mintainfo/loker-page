@@ -1,8 +1,14 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 20,
+  "count": 21,
   "jobs": [
+    {
+      "id": 7834,
+      "company": "Sahabat Koe Ponsel",
+      "title": "Frontliner",
+      "blogger_url": "https://www.mintainfo.com/2026/07/sahabat-koe-ponsel-buka-lowongan.html"
+    },
     {
       "id": 7833,
       "company": "Indah Logistik Kargo",
