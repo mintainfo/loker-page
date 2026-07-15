@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 7556,
@@ -14,6 +14,12 @@
       "company": "Gobah Homestay",
       "title": "Housekeeping",
       "blogger_url": "https://www.mintainfo.com/2026/07/housekeeping-di-gobah-homestay.html"
+    },
+    {
+      "id": 7553,
+      "company": "Yayasan Dear Teknologi Hamid",
+      "title": "Guru Olahraga",
+      "blogger_url": "https://www.mintainfo.com/2026/07/yayasan-dear-teknologi-hamid-buka.html"
     },
     {
       "id": 7531,
