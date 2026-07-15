@@ -1,8 +1,14 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
+    {
+      "id": 7724,
+      "company": "Sinom Around You",
+      "title": "Rider Kopi Keliling",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-rider-kopi-keliling-terbaru-sinom.html"
+    },
     {
       "id": 7723,
       "company": "Yayasan Imam Asy Syafii Cendikia Riau",
