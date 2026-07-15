@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
     {
       "id": 7724,
@@ -20,6 +20,12 @@
       "company": "TUAH.ID",
       "title": "KARYAWAN KOPI KELILING",
       "blogger_url": "https://www.mintainfo.com/2026/07/karyawan-kopi-keliling-di-tuahid.html"
+    },
+    {
+      "id": 7718,
+      "company": "PRIMA SUGIH ABADI",
+      "title": "KASIR PENJUALAN",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-kasir-penjualan-terbaru-prima.html"
     },
     {
       "id": 7717,
