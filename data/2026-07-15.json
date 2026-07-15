@@ -1,8 +1,14 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 7554,
+      "company": "Gobah Homestay",
+      "title": "Housekeeping",
+      "blogger_url": "https://www.mintainfo.com/2026/07/housekeeping-di-gobah-homestay.html"
+    },
     {
       "id": 7531,
       "company": "Bliss After School Tutorial Centre",
