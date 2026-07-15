@@ -1,13 +1,19 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "id": 7578,
       "company": "Tenders Pekanbaru",
       "title": "Kitchen Staff & Kasir",
       "blogger_url": "https://www.mintainfo.com/2026/07/kitchen-staff-kasir-di-tenders.html"
+    },
+    {
+      "id": 7572,
+      "company": "Anthea Beauty & Wellness",
+      "title": "Beauty Therapist & Beautician",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-beauty-therapist-beautician.html"
     },
     {
       "id": 7556,
