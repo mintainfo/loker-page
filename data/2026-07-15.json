@@ -1,8 +1,14 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 23,
+  "count": 24,
   "jobs": [
+    {
+      "id": 7900,
+      "company": "RS Syafira Pekanbaru",
+      "title": "Asisten Apoteker",
+      "blogger_url": "https://www.mintainfo.com/2026/07/asisten-apoteker-di-rs-syafira.html"
+    },
     {
       "id": 7834,
       "company": "Sahabat Koe Ponsel",
