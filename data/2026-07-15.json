@@ -1,13 +1,19 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 7531,
       "company": "Bliss After School Tutorial Centre",
       "title": "Pengajar",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-pengajar-di-bliss-after.html"
+    },
+    {
+      "id": 7527,
+      "company": "PT Triguna Mandala",
+      "title": "FIRE ENGINEER (OIL AND GAS)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/fire-engineer-oil-and-gas-di-pt-triguna.html"
     }
   ]
 }
