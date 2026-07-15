@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 27,
+  "count": 28,
   "jobs": [
     {
       "id": 7938,
@@ -14,6 +14,12 @@
       "company": "RS Syafira Pekanbaru",
       "title": "Asisten Apoteker",
       "blogger_url": "https://www.mintainfo.com/2026/07/asisten-apoteker-di-rs-syafira.html"
+    },
+    {
+      "id": 7890,
+      "company": "TPA ADZKIYA",
+      "title": "GURU TPA",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-tpa-terbaru-tpa-adzkiya.html"
     },
     {
       "id": 7851,
