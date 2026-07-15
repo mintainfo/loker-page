@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
       "id": 7724,
@@ -26,6 +26,12 @@
       "company": "IMMORTAL ESPORTS ARENA",
       "title": "OPERATOR WARNET",
       "blogger_url": "https://www.mintainfo.com/2026/07/immortal-esports-arena-buka-lowongan.html"
+    },
+    {
+      "id": 7708,
+      "company": "PT. RIAU JAYA KONSTRUKSI",
+      "title": "Loker Operator Mesin Bubut",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-loker-operator-mesin-bubut-di.html"
     },
     {
       "id": 7628,
