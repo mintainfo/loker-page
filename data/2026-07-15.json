@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 30,
+  "count": 31,
   "jobs": [
     {
       "id": 7938,
@@ -14,6 +14,12 @@
       "company": "ALTERBREAD - BAKERY STAFF 🍞",
       "title": "Loker Alterbread Bakery Staff",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-loker-alterbread-bakery-staff.html"
+    },
+    {
+      "id": 7906,
+      "company": "Praktik Mandiri dr. Zet Muliady",
+      "title": "Perawat",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-perawat-di-praktik-mandiri-dr.html"
     },
     {
       "id": 7900,
