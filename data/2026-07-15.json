@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "id": 7724,
@@ -14,6 +14,12 @@
       "company": "Yayasan Imam Asy Syafii Cendikia Riau",
       "title": "Security",
       "blogger_url": "https://www.mintainfo.com/2026/07/yayasan-imam-asy-syafii-cendikia-riau.html"
+    },
+    {
+      "id": 7719,
+      "company": "TUAH.ID",
+      "title": "KARYAWAN KOPI KELILING",
+      "blogger_url": "https://www.mintainfo.com/2026/07/karyawan-kopi-keliling-di-tuahid.html"
     },
     {
       "id": 7628,
