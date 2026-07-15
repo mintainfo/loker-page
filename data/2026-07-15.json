@@ -1,8 +1,14 @@
 {
   "date": "2026-07-15",
   "date_label": "Rabu, 15 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 7723,
+      "company": "Yayasan Imam Asy Syafii Cendikia Riau",
+      "title": "Security",
+      "blogger_url": "https://www.mintainfo.com/2026/07/yayasan-imam-asy-syafii-cendikia-riau.html"
+    },
     {
       "id": 7628,
       "company": "SIP Group Purwodadi",
