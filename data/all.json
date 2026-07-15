@@ -1,6 +1,13 @@
 {
-  "count": 187,
+  "count": 188,
   "jobs": [
+    {
+      "id": 7627,
+      "company": "First Dental Care",
+      "title": "Asisten Dokter Gigi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/asisten-dokter-gigi-di-first-dental.html",
+      "date_label": "Rabu, 15 Juli 2026"
+    },
     {
       "id": 7626,
       "company": "Kebab Turki Haji Jamhur",
