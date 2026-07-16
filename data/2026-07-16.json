@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "date_label": "Kamis, 16 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 7995,
@@ -26,6 +26,12 @@
       "company": "PT Masmedia Buana Pustaka",
       "title": "Staff Internal Audit",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-staff-internal-audit-di-pt.html"
+    },
+    {
+      "id": 7941,
+      "company": "Sekolah Guang Ming 1",
+      "title": "Admin sekolah",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-admin-sekolah-di-sekolah.html"
     },
     {
       "id": 7793,
