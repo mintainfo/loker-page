@@ -1,13 +1,19 @@
 {
   "date": "2026-07-16",
   "date_label": "Kamis, 16 Juli 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "id": 8209,
       "company": "CIAO Bellash",
       "title": "Certified Brow/Lash/Nail Artist",
       "blogger_url": "https://www.mintainfo.com/2026/07/ciao-bellash-buka-lowongan-certified.html"
+    },
+    {
+      "id": 8202,
+      "company": "PT Pinus Merah Abadi (Area Sumbagsel)",
+      "title": "AREA OPERASIONAL SUPERVISOR - PEKANBARU",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-area-operasional-supervisor.html"
     },
     {
       "id": 8180,
