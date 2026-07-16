@@ -1,8 +1,14 @@
 {
   "date": "2026-07-16",
   "date_label": "Kamis, 16 Juli 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 8134,
+      "company": "Titik Nol Coffee",
+      "title": "CREW STAND",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-stand-terbaru-titik-nol.html"
+    },
     {
       "id": 8133,
       "company": "Pesantren Islam Al-Irsyad Tengaran 12 Riau",
