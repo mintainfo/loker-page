@@ -1,8 +1,14 @@
 {
   "date": "2026-07-16",
   "date_label": "Kamis, 16 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 8131,
+      "company": "Stella Gracia School",
+      "title": "Secondary Teacher / University Counsellor",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-secondary-teacher-university.html"
+    },
     {
       "id": 8021,
       "company": "Sate Taichan Ndoro Senayan",
