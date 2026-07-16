@@ -1,8 +1,14 @@
 {
   "date": "2026-07-16",
   "date_label": "Kamis, 16 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 8180,
+      "company": "PT. Gree Electric Appliances Indonesia",
+      "title": "Technical Support (Drafter HVAC/CAC)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-technical-support-drafter-hvaccac.html"
+    },
     {
       "id": 8178,
       "company": "SMK PERPAJAKAN RIAU",
