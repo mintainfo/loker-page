@@ -1,8 +1,14 @@
 {
   "date": "2026-07-16",
   "date_label": "Kamis, 16 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 7995,
+      "company": "PT Bangkit Bumi Nusantara",
+      "title": "Content Creator",
+      "blogger_url": "https://www.mintainfo.com/2026/07/content-creator-di-pt-bangkit-bumi.html"
+    },
     {
       "id": 7973,
       "company": "JAJAN POKOK INDONESIA",
