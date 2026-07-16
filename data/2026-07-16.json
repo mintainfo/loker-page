@@ -1,8 +1,14 @@
 {
   "date": "2026-07-16",
   "date_label": "Kamis, 16 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 8132,
+      "company": "Che Homecare",
+      "title": "Perawat / Bidan",
+      "blogger_url": "https://www.mintainfo.com/2026/07/che-homecare-buka-lowongan-perawat.html"
+    },
     {
       "id": 8131,
       "company": "Stella Gracia School",
