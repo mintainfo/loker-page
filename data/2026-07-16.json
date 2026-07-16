@@ -1,8 +1,14 @@
 {
   "date": "2026-07-16",
   "date_label": "Kamis, 16 Juli 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 8133,
+      "company": "Pesantren Islam Al-Irsyad Tengaran 12 Riau",
+      "title": "HRD / Keuangan / Guru Syar'i +2",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-hrd-keuangan-guru-syari-2-di.html"
+    },
     {
       "id": 8132,
       "company": "Che Homecare",
