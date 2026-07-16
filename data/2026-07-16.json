@@ -1,13 +1,19 @@
 {
   "date": "2026-07-16",
   "date_label": "Kamis, 16 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 7973,
       "company": "JAJAN POKOK INDONESIA",
       "title": "SPV OPERATIONAL SINISUSHI",
       "blogger_url": "https://www.mintainfo.com/2026/07/spv-operational-sinisushi-di-jajan.html"
+    },
+    {
+      "id": 7972,
+      "company": "PT Fiberhome Technologies Indonesia",
+      "title": "RPM Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-rpm-pekanbaru-di-pt-fiberhome.html"
     },
     {
       "id": 7970,
