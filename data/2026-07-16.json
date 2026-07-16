@@ -1,8 +1,14 @@
 {
   "date": "2026-07-16",
   "date_label": "Kamis, 16 Juli 2026",
-  "count": 15,
+  "count": 16,
   "jobs": [
+    {
+      "id": 8214,
+      "company": "PT. Indonesia Lestari Group (Jawa)",
+      "title": "Admin IT",
+      "blogger_url": "https://www.mintainfo.com/2026/07/admin-it-di-pt-indonesia-lestari-group.html"
+    },
     {
       "id": 8209,
       "company": "CIAO Bellash",
