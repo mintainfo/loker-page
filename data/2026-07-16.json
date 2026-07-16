@@ -1,8 +1,14 @@
 {
   "date": "2026-07-16",
   "date_label": "Kamis, 16 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 8021,
+      "company": "Sate Taichan Ndoro Senayan",
+      "title": "Cook Helper",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-cook-helper-terbaru-sate-taichan.html"
+    },
     {
       "id": 7995,
       "company": "PT Bangkit Bumi Nusantara",
