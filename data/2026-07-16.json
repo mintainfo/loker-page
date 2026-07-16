@@ -1,13 +1,19 @@
 {
   "date": "2026-07-16",
   "date_label": "Kamis, 16 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 7973,
       "company": "JAJAN POKOK INDONESIA",
       "title": "SPV OPERATIONAL SINISUSHI",
       "blogger_url": "https://www.mintainfo.com/2026/07/spv-operational-sinisushi-di-jajan.html"
+    },
+    {
+      "id": 7970,
+      "company": "PT Masmedia Buana Pustaka",
+      "title": "Staff Internal Audit",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-staff-internal-audit-di-pt.html"
     }
   ]
 }
