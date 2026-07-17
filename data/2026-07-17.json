@@ -1,8 +1,14 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
+    {
+      "id": 8395,
+      "company": "RE Beauty Clinic",
+      "title": "BEAUTICIAN",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-beautician-terbaru-re-beauty.html"
+    },
     {
       "id": 8372,
       "company": "PT. AGUNG HEDO GROUP",
