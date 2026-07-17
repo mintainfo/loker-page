@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 8312,
@@ -14,6 +14,12 @@
       "company": "Seblak BM",
       "title": "Crew Masak & Waiters",
       "blogger_url": "https://www.mintainfo.com/2026/07/seblak-bm-buka-lowongan-crew-masak.html"
+    },
+    {
+      "id": 8310,
+      "company": "BERT COFFEE",
+      "title": "WAITERS",
+      "blogger_url": "https://www.mintainfo.com/2026/07/waiters-di-bert-coffee-pekanbaru-juli.html"
     },
     {
       "id": 8274,
