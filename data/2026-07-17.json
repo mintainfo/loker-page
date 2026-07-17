@@ -1,8 +1,14 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
+    {
+      "id": 8481,
+      "company": "Empek-Empek Bu Tuti",
+      "title": "KOKI (laki-laki/perempuan) & PELAYAN RESTO (perempuan)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/koki-laki-lakiperempuan-pelayan-resto.html"
+    },
     {
       "id": 8395,
       "company": "RE Beauty Clinic",
