@@ -1,8 +1,20 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 23,
+  "count": 25,
   "jobs": [
+    {
+      "id": 8790,
+      "company": "KLINIK PRATAMA ATHARRAZKA",
+      "title": "DOKTER GIGI",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-dokter-gigi-terbaru-klinik.html"
+    },
+    {
+      "id": 8650,
+      "company": "Cucian Markas Auto Care",
+      "title": "Karyawan Cuci Mobil",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-karyawan-cuci-mobil-terbaru.html"
+    },
     {
       "id": 8617,
       "company": "Restaurant Bulgogi Shabu & Grill Pekanbaru",
