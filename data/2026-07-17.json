@@ -1,8 +1,14 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 8311,
+      "company": "Seblak BM",
+      "title": "Crew Masak & Waiters",
+      "blogger_url": "https://www.mintainfo.com/2026/07/seblak-bm-buka-lowongan-crew-masak.html"
+    },
     {
       "id": 8274,
       "company": "PT Fajar Lestari Sejati",
