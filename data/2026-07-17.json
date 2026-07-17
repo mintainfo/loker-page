@@ -1,8 +1,14 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 8274,
+      "company": "PT Fajar Lestari Sejati",
+      "title": "Teknisi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/teknisi-di-pt-fajar-lestari-sejati.html"
+    },
     {
       "id": 8272,
       "company": "PT Transavia Otomasi Pratama",
