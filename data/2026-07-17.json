@@ -1,8 +1,14 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 8337,
+      "company": "An Namiroh & Dayyinah Kids",
+      "title": "Guru IPA",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-ipa-terbaru-namiroh-dayyinah.html"
+    },
     {
       "id": 8317,
       "company": "Snap Laundry",
