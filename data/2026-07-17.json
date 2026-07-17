@@ -1,8 +1,14 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 8313,
+      "company": "Eight Burger",
+      "title": "Kurir / Driver Bajaj & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/07/eight-burger-buka-lowongan-kurir-driver.html"
+    },
     {
       "id": 8312,
       "company": "Az Zuhra Pusat",
