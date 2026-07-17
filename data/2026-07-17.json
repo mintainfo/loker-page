@@ -1,8 +1,14 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
+    {
+      "id": 8372,
+      "company": "PT. AGUNG HEDO GROUP",
+      "title": "supir pick up",
+      "blogger_url": "https://www.mintainfo.com/2026/07/supir-pick-up-di-pt-agung-hedo-group.html"
+    },
     {
       "id": 8353,
       "company": "Sekolah Kasih Cahaya Bunda",
