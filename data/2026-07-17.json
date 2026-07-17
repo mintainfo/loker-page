@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 8274,
@@ -14,6 +14,12 @@
       "company": "PT Transavia Otomasi Pratama",
       "title": "Automation & Instrument Engineer (Project Based)",
       "blogger_url": "https://www.mintainfo.com/2026/07/pt-transavia-otomasi-pratama-buka_02038925988.html"
+    },
+    {
+      "id": 8269,
+      "company": "PT Primanusa Globalindo",
+      "title": "HR ADMIN",
+      "blogger_url": "https://www.mintainfo.com/2026/07/hr-admin-di-pt-primanusa-globalindo.html"
     }
   ]
 }
