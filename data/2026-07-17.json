@@ -1,8 +1,14 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 8312,
+      "company": "Az Zuhra Pusat",
+      "title": "Guru B. Inggris SMA & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/07/guru-b-inggris-sma-posisi-lainnya-di-az.html"
+    },
     {
       "id": 8311,
       "company": "Seblak BM",
