@@ -1,8 +1,14 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
+    {
+      "id": 8353,
+      "company": "Sekolah Kasih Cahaya Bunda",
+      "title": "Staff tata usaha dan operator sekolah",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-staff-tata-usaha-dan-operator.html"
+    },
     {
       "id": 8352,
       "company": "SD KASIH CAHAYA BUNDA",
