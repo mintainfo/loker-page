@@ -1,8 +1,14 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 20,
+  "count": 21,
   "jobs": [
+    {
+      "id": 8532,
+      "company": "IHC Rumah Sakit Pertamina Dumai",
+      "title": "Perawat / Refraksionis Optisien",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-perawat-refraksionis-optisien.html"
+    },
     {
       "id": 8481,
       "company": "Empek-Empek Bu Tuti",
