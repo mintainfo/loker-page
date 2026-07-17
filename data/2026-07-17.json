@@ -1,8 +1,14 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 8352,
+      "company": "SD KASIH CAHAYA BUNDA",
+      "title": "Guru Pendamping Anak Berkebutuhan khusus",
+      "blogger_url": "https://www.mintainfo.com/2026/07/sd-kasih-cahaya-bunda-buka-lowongan.html"
+    },
     {
       "id": 8351,
       "company": "INESSA GRAHA BANGUNAN (IGB)",
