@@ -1,8 +1,14 @@
 {
   "date": "2026-07-17",
   "date_label": "Jumat, 17 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 8317,
+      "company": "Snap Laundry",
+      "title": "Karyawan Laundry",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-karyawan-laundry-terbaru-snap.html"
+    },
     {
       "id": 8314,
       "company": "Ahiang Hair Salon",
