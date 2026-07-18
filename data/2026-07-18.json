@@ -1,8 +1,14 @@
 {
   "date": "2026-07-18",
   "date_label": "Sabtu, 18 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 8854,
+      "company": "Chikuro",
+      "title": "Crew Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-outlet-terbaru-chikuro.html"
+    },
     {
       "id": 8853,
       "company": "Riau Wisata Hati",
