@@ -1,8 +1,14 @@
 {
   "date": "2026-07-18",
   "date_label": "Sabtu, 18 Juli 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 8917,
+      "company": "Sidewalk.Go",
+      "title": "Riders Kopi Keliling",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-riders-kopi-keliling-di.html"
+    },
     {
       "id": 8856,
       "company": "Glasting Glow",
