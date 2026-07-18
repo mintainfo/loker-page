@@ -1,8 +1,14 @@
 {
   "date": "2026-07-18",
   "date_label": "Sabtu, 18 Juli 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
+    {
+      "id": 8932,
+      "company": "Superwash Express",
+      "title": "Kurir Laundry Express",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-kurir-laundry-express-di.html"
+    },
     {
       "id": 8917,
       "company": "Sidewalk.Go",
