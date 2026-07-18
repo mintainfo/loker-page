@@ -1,6 +1,13 @@
 {
-  "count": 185,
+  "count": 164,
   "jobs": [
+    {
+      "id": 8841,
+      "company": "Raja Motor",
+      "title": "MEKANIK & ADMIN",
+      "blogger_url": "https://www.mintainfo.com/2026/07/mekanik-admin-di-raja-motor-pekanbaru.html",
+      "date_label": "Sabtu, 18 Juli 2026"
+    },
     {
       "id": 8790,
       "company": "KLINIK PRATAMA ATHARRAZKA",
@@ -1141,160 +1148,6 @@
       "title": "Beauty Advisor / Scent Advisor",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-beauty-advisor-scent-advisor.html",
       "date_label": "Sabtu, 11 Juli 2026"
-    },
-    {
-      "id": 6016,
-      "company": "MOM N JO",
-      "title": "Admin Store / Gudang",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-admin-store-gudang-terbaru-mom-n.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 6017,
-      "company": "Griya satwa pekanbaru",
-      "title": "Pet Groomer",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-pet-groomer-di-griya-satwa.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 6020,
-      "company": "PT. Capella Dinamik Nusantara",
-      "title": "Technical Trainer",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-technical-trainer-di-pt.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 6022,
-      "company": "Erber Coffee Nodal",
-      "title": "Barista",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barista-di-erber-coffee-nodal.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5902,
-      "company": "Calendula Beauty Bar & Spa",
-      "title": "Social Media Coordinator",
-      "blogger_url": "https://www.mintainfo.com/2026/07/calendula-beauty-bar-spa-buka-lowongan.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5903,
-      "company": "Warung Merry",
-      "title": "WAITERS",
-      "blogger_url": "https://www.mintainfo.com/2026/07/warung-merry-buka-lowongan-waiters.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5904,
-      "company": "Warung Merry",
-      "title": "COOK HELPER",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-cook-helper-di-warung-merry.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5905,
-      "company": "Warung Merry",
-      "title": "COOK",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-cook-di-warung-merry.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5906,
-      "company": "Boss Dimsum",
-      "title": "Penjaga Stand Dimsum",
-      "blogger_url": "https://www.mintainfo.com/2026/07/penjaga-stand-dimsum-di-boss-dimsum.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5907,
-      "company": "Anavia Regency",
-      "title": "finance accounting staff",
-      "blogger_url": "https://www.mintainfo.com/2026/07/finance-accounting-staff-di-anavia.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5908,
-      "company": "Meridian Study Indonesia",
-      "title": "Regional Education Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-regional-education-manager-di.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5824,
-      "company": "A+ Academy",
-      "title": "Tentor Matematika & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/tentor-matematika-posisi-lainnya-di.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5751,
-      "company": "CV.BINA SAWIT JAYA",
-      "title": "MANDOR PEMBIBITAN KELAPA SAWIT",
-      "blogger_url": "https://www.mintainfo.com/2026/07/mandor-pembibitan-kelapa-sawit-di.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5731,
-      "company": "PT Armada Mix Grup",
-      "title": "Operator Concrete Pump",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-armada-mix-grup-buka-lowongan.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5730,
-      "company": "Djoeragan Corp.",
-      "title": "Crew & Kasir Outlet",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-crew-kasir-outlet-di.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5717,
-      "company": "Virza",
-      "title": "Barista / Waiters / Kitchen Crew / Cook",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-waiters-kitchen-crew-cook.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5716,
-      "company": "Apotek Keluarga",
-      "title": "Apoteker / Staff Finance & Accounting",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-apoteker-staff-finance.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5715,
-      "company": "Kinchay",
-      "title": "Tim Outlet",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-tim-outlet-terbaru-kinchay.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5693,
-      "company": "Espaco",
-      "title": "Barista / Cook Helper",
-      "blogger_url": "https://www.mintainfo.com/2026/07/barista-cook-helper-di-espaco-pekanbaru.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5629,
-      "company": "Hangry",
-      "title": "Kitchen & Front",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-kitchen-front-di-hangry.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5599,
-      "company": "TOFFIN RIAU JAYA",
-      "title": "DRIVER/DELIVERY MAN",
-      "blogger_url": "https://www.mintainfo.com/2026/07/driverdelivery-man-di-toffin-riau-jaya.html",
-      "date_label": "Jumat, 10 Juli 2026"
-    },
-    {
-      "id": 5574,
-      "company": "PT Masmedia Buana Pustaka",
-      "title": "Staf Accounting",
-      "blogger_url": "https://www.mintainfo.com/2026/07/staf-accounting-di-pt-masmedia-buana.html",
-      "date_label": "Jumat, 10 Juli 2026"
     }
   ]
 }
