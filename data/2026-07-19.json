@@ -1,8 +1,14 @@
 {
   "date": "2026-07-19",
   "date_label": "Minggu, 19 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 9038,
+      "company": "SMP IT AL MADINAH",
+      "title": "Guru Matematika",
+      "blogger_url": "https://www.mintainfo.com/2026/07/smp-it-al-madinah-buka-lowongan-guru.html"
+    },
     {
       "id": 9037,
       "company": "KOPI A JOE",
