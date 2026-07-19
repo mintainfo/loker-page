@@ -1,8 +1,14 @@
 {
   "date": "2026-07-19",
   "date_label": "Minggu, 19 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 9187,
+      "company": "Purwa Caraka Music Studio",
+      "title": "Instruktur Piano",
+      "blogger_url": "https://www.mintainfo.com/2026/07/instruktur-piano-di-purwa-caraka-music.html"
+    },
     {
       "id": 9113,
       "company": "Wallonia SALON",
