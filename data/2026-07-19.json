@@ -1,8 +1,14 @@
 {
   "date": "2026-07-19",
   "date_label": "Minggu, 19 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 9263,
+      "company": "Yayasan Bumi Serambi Makkah SD IT Iskandar Muda",
+      "title": "Guru Part Time PJOK",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-part-time-pjok-terbaru.html"
+    },
     {
       "id": 9187,
       "company": "Purwa Caraka Music Studio",
