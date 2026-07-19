@@ -1,8 +1,14 @@
 {
   "date": "2026-07-19",
   "date_label": "Minggu, 19 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 9037,
+      "company": "KOPI A JOE",
+      "title": "Admin Operasional",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-admin-operasional-di-kopi-joe.html"
+    },
     {
       "id": 9036,
       "company": "Almadinah Pekanbaru",
