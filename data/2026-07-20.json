@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
+    {
+      "id": 9378,
+      "company": "PT Nusantara Sejahtera Raya Tbk",
+      "title": "Premiere Waiters",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-nusantara-sejahtera-raya-tbk-buka.html"
+    },
     {
       "id": 9331,
       "company": "Assajadah International Islamic School",
