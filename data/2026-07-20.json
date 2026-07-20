@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
+    {
+      "id": 9380,
+      "company": "PT Nusantara Sejahtera Raya Tbk",
+      "title": "Cafe Cashier",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-cafe-cashier-di-pt-nusantara.html"
+    },
     {
       "id": 9379,
       "company": "PT Nusantara Sejahtera Raya Tbk",
