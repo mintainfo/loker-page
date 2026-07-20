@@ -1,6 +1,13 @@
 {
-  "count": 149,
+  "count": 150,
   "jobs": [
+    {
+      "id": 9323,
+      "company": "Hoya Bakery",
+      "title": "Produksi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-produksi-di-hoya-bakery.html",
+      "date_label": "Senin, 20 Juli 2026"
+    },
     {
       "id": 9289,
       "company": "RR CAFE",

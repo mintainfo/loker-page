@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 9323,
+      "company": "Hoya Bakery",
+      "title": "Produksi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-produksi-di-hoya-bakery.html"
+    },
     {
       "id": 9289,
       "company": "RR CAFE",
