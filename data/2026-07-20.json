@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 9329,
+      "company": "SMA-IT AS-SAJADAH",
+      "title": "Guru Ekonomi / Guru Fisika",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-ekonomi-guru-fisika-terbaru.html"
+    },
     {
       "id": 9328,
       "company": "Assajadah Islamic School",
