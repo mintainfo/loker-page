@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 15,
+  "count": 16,
   "jobs": [
+    {
+      "id": 9381,
+      "company": "PiNANG WARAKOP",
+      "title": "PERACIK MINUMAN",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pinang-warakop-buka-lowongan-peracik.html"
+    },
     {
       "id": 9380,
       "company": "PT Nusantara Sejahtera Raya Tbk",
