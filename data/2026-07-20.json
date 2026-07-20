@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 9326,
+      "company": "Bandrek Pekanbaru",
+      "title": "Karyawan Bandrek",
+      "blogger_url": "https://www.mintainfo.com/2026/07/bandrek-pekanbaru-buka-lowongan.html"
+    },
     {
       "id": 9325,
       "company": "The Rose Aesthetic Clinic",
