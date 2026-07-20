@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 9379,
+      "company": "PT Nusantara Sejahtera Raya Tbk",
+      "title": "Teller / Box Office",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-teller-box-office-di-pt.html"
+    },
     {
       "id": 9378,
       "company": "PT Nusantara Sejahtera Raya Tbk",
