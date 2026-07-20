@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 9330,
+      "company": "Assajadah International Islamic School",
+      "title": "Musrifah",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-musrifah-terbaru-assajadah.html"
+    },
     {
       "id": 9329,
       "company": "SMA-IT AS-SAJADAH",
