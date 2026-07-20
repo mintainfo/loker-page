@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 20,
+  "count": 21,
   "jobs": [
+    {
+      "id": 9460,
+      "company": "Alumna Islamic Primary School",
+      "title": "Tahfidz Teacher / Kiddy Daycare Teacher",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-tahfidz-teacher-kiddy-daycare.html"
+    },
     {
       "id": 9459,
       "company": "Alumna Islamic Primary School",
