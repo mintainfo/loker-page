@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 9324,
+      "company": "Indomaret Group",
+      "title": "Central Kitchen Onigiri Supervisor",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-central-kitchen-onigiri.html"
+    },
     {
       "id": 9323,
       "company": "Hoya Bakery",
