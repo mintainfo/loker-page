@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 9328,
+      "company": "Assajadah Islamic School",
+      "title": "Guru, cleaning service, Musrifah",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-cleaning-service-musrifah.html"
+    },
     {
       "id": 9327,
       "company": "Toko Sepatu Juwita",
