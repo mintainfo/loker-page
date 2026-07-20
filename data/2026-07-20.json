@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "id": 9380,
@@ -20,6 +20,12 @@
       "company": "PT Nusantara Sejahtera Raya Tbk",
       "title": "Premiere Waiters",
       "blogger_url": "https://www.mintainfo.com/2026/07/pt-nusantara-sejahtera-raya-tbk-buka.html"
+    },
+    {
+      "id": 9343,
+      "company": "SUMO PLASTIK",
+      "title": "PENJAGA TOKO",
+      "blogger_url": "https://www.mintainfo.com/2026/07/penjaga-toko-di-sumo-plastik-pekanbaru.html"
     },
     {
       "id": 9331,
