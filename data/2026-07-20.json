@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 9327,
+      "company": "Toko Sepatu Juwita",
+      "title": "Karyawan - Karyawati Toko",
+      "blogger_url": "https://www.mintainfo.com/2026/07/toko-sepatu-juwita-buka-lowongan.html"
+    },
     {
       "id": 9326,
       "company": "Bandrek Pekanbaru",
