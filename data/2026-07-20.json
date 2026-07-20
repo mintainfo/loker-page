@@ -1,8 +1,14 @@
 {
   "date": "2026-07-20",
   "date_label": "Senin, 20 Juli 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 9331,
+      "company": "Assajadah International Islamic School",
+      "title": "Cleaning Service / Tukang Kebun",
+      "blogger_url": "https://www.mintainfo.com/2026/07/assajadah-international-islamic-school.html"
+    },
     {
       "id": 9330,
       "company": "Assajadah International Islamic School",
