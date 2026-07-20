@@ -1,6 +1,13 @@
 {
-  "count": 162,
+  "count": 148,
   "jobs": [
+    {
+      "id": 9124,
+      "company": "PT. MOBILUX AUTOMOTIVE XPRESS",
+      "title": "Kasir",
+      "blogger_url": "https://www.mintainfo.com/2026/07/kasir-di-pt-mobilux-automotive-xpress.html",
+      "date_label": "Senin, 20 Juli 2026"
+    },
     {
       "id": 9264,
       "company": "Arsyad Islamic School",
@@ -1029,111 +1036,6 @@
       "title": "Pelayan resto",
       "blogger_url": "https://www.mintainfo.com/2026/07/pelayan-resto-di-empek-empek-bu-tuti.html",
       "date_label": "Senin, 13 Juli 2026"
-    },
-    {
-      "id": 6531,
-      "company": "Yummy Toast",
-      "title": "Crew Stand",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-crew-stand-di-yummy-toast.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6574,
-      "company": "Meulaboh Kupie",
-      "title": "Kasir & Helper",
-      "blogger_url": "https://www.mintainfo.com/2026/07/meulaboh-kupie-buka-lowongan-kasir.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6657,
-      "company": "ER COFFEE KEUDE KUPI",
-      "title": "Barista",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barista-di-er-coffee-keude.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6391,
-      "company": "Kedai kopi CIK WAN",
-      "title": "Barista / Kitchen",
-      "blogger_url": "https://www.mintainfo.com/2026/07/kedai-kopi-cik-wan-buka-lowongan.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6390,
-      "company": "RSIA Budhi Mulia",
-      "title": "Koki",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-koki-di-rsia-budhi-mulia.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6389,
-      "company": "RSIA Budhi Mulia",
-      "title": "Medical Coder",
-      "blogger_url": "https://www.mintainfo.com/2026/07/medical-coder-di-rsia-budhi-mulia.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6374,
-      "company": "HOW Coffee",
-      "title": "1 PENGAWAS & 1 BARISTA",
-      "blogger_url": "https://www.mintainfo.com/2026/07/1-pengawas-1-barista-di-how-coffee.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6365,
-      "company": "Guzzel Hijab",
-      "title": "Pelayan Toko Hijab",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pelayan-toko-hijab-di-guzzel-hijab.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6306,
-      "company": "Kopi Sehati",
-      "title": "Rider",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-rider-di-kopi-sehati.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6311,
-      "company": "The Empire Barbershop",
-      "title": "Barberman",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barberman-di-empire.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6327,
-      "company": "SMPIT NEW DZAATUL AKMAAM",
-      "title": "GURU BAHASA INDONESIA",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-guru-bahasa-indonesia-di.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6316,
-      "company": "Casper Learning",
-      "title": "Tutor Cambridge SD/SMP atau SMA",
-      "blogger_url": "https://www.mintainfo.com/2026/07/casper-learning-buka-lowongan-tutor.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6315,
-      "company": "Kantor Jasa Akuntan Candra Irawan",
-      "title": "Accounting & Tax Staff",
-      "blogger_url": "https://www.mintainfo.com/2026/07/accounting-tax-staff-di-kantor-jasa.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6279,
-      "company": "Anavia Regency",
-      "title": "conten creator",
-      "blogger_url": "https://www.mintainfo.com/2026/07/anavia-regency-buka-lowongan-conten.html",
-      "date_label": "Minggu, 12 Juli 2026"
-    },
-    {
-      "id": 6269,
-      "company": "PT. Wijaya Manggala Premier Lestari",
-      "title": "STAFF PURCHASING",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-wijaya-manggala-premier-lestari-buka.html",
-      "date_label": "Minggu, 12 Juli 2026"
     }
   ]
 }
