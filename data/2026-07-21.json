@@ -1,13 +1,19 @@
 {
   "date": "2026-07-21",
   "date_label": "Selasa, 21 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 9591,
       "company": "Haritsa Baby Shop",
       "title": "Petugas Kebersihan / Cleaning Service",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-petugas-kebersihan-cleaning.html"
+    },
+    {
+      "id": 9589,
+      "company": "CV KLINIK HEWAN DRH. AGUS SHAFIQ RYADI",
+      "title": "Dokter hewan",
+      "blogger_url": "https://www.mintainfo.com/2026/07/cv-klinik-hewan-drh-agus-shafiq-ryadi.html"
     }
   ]
 }
