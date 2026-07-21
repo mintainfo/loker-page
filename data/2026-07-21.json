@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "date_label": "Selasa, 21 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 9591,
@@ -20,6 +20,12 @@
       "company": "CV KLINIK HEWAN DRH. AGUS SHAFIQ RYADI",
       "title": "Dokter hewan",
       "blogger_url": "https://www.mintainfo.com/2026/07/cv-klinik-hewan-drh-agus-shafiq-ryadi.html"
+    },
+    {
+      "id": 9580,
+      "company": "PT Tangkas Cipta Optimal",
+      "title": "Operator Warehouse Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-operator-warehouse-pekanbaru.html"
     },
     {
       "id": 9492,
