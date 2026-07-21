@@ -1,8 +1,14 @@
 {
   "date": "2026-07-21",
   "date_label": "Selasa, 21 Juli 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 9854,
+      "company": "KOTA Kopi Kita",
+      "title": "KASIR",
+      "blogger_url": "https://www.mintainfo.com/2026/07/kasir-di-kota-kopi-kita-pekanbaru-juli.html"
+    },
     {
       "id": 9853,
       "company": "KLINIK BIDAN YULINAR SST",
