@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "date_label": "Selasa, 21 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 9591,
@@ -20,6 +20,12 @@
       "company": "CV KLINIK HEWAN DRH. AGUS SHAFIQ RYADI",
       "title": "Dokter hewan",
       "blogger_url": "https://www.mintainfo.com/2026/07/cv-klinik-hewan-drh-agus-shafiq-ryadi.html"
+    },
+    {
+      "id": 9492,
+      "company": "PT Central Mega Kencana",
+      "title": "Customer Service & Administrative Executive",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-central-mega-kencana-buka-lowongan.html"
     }
   ]
 }
