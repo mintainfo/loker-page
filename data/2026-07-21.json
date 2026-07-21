@@ -1,8 +1,14 @@
 {
   "date": "2026-07-21",
   "date_label": "Selasa, 21 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 9621,
+      "company": "BIMBEL MMLC PEKANBARU",
+      "title": "Admin & Konten Kreator",
+      "blogger_url": "https://www.mintainfo.com/2026/07/admin-konten-kreator-di-bimbel-mmlc.html"
+    },
     {
       "id": 9591,
       "company": "Haritsa Baby Shop",
