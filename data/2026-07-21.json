@@ -1,8 +1,14 @@
 {
   "date": "2026-07-21",
   "date_label": "Selasa, 21 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 9853,
+      "company": "KLINIK BIDAN YULINAR SST",
+      "title": "BIDAN",
+      "blogger_url": "https://www.mintainfo.com/2026/07/bidan-di-klinik-bidan-yulinar-sst.html"
+    },
     {
       "id": 9621,
       "company": "BIMBEL MMLC PEKANBARU",
