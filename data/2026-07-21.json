@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "date_label": "Selasa, 21 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "id": 9621,
@@ -32,6 +32,12 @@
       "company": "PT Tangkas Cipta Optimal",
       "title": "Operator Warehouse Pekanbaru",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-operator-warehouse-pekanbaru.html"
+    },
+    {
+      "id": 9530,
+      "company": "Ewa Coffee Space",
+      "title": "Koki",
+      "blogger_url": "https://www.mintainfo.com/2026/07/ewa-coffee-space-buka-lowongan-koki.html"
     },
     {
       "id": 9492,
