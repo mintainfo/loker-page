@@ -1,8 +1,14 @@
 {
   "date": "2026-07-21",
   "date_label": "Selasa, 21 Juli 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 9855,
+      "company": "Forte",
+      "title": "Staff Gudang",
+      "blogger_url": "https://www.mintainfo.com/2026/07/staff-gudang-di-forte-pekanbaru-juli.html"
+    },
     {
       "id": 9854,
       "company": "KOTA Kopi Kita",
