@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "date_label": "Selasa, 21 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 9591,
@@ -26,6 +26,12 @@
       "company": "PT Central Mega Kencana",
       "title": "Customer Service & Administrative Executive",
       "blogger_url": "https://www.mintainfo.com/2026/07/pt-central-mega-kencana-buka-lowongan.html"
+    },
+    {
+      "id": 9389,
+      "company": "PT Nusakura Standarindo",
+      "title": "Operational Staff",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-nusakura-standarindo-buka-lowongan.html"
     }
   ]
 }
