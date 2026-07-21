@@ -1,8 +1,14 @@
 {
   "date": "2026-07-21",
   "date_label": "Selasa, 21 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 9894,
+      "company": "SMPIt Imam An Nawawi",
+      "title": "Guru Futsal / Guru Badminton / Guru Basket",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-futsal-guru-badminton-guru.html"
+    },
     {
       "id": 9856,
       "company": "Yamet Pekanbaru",
