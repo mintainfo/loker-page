@@ -1,8 +1,14 @@
 {
   "date": "2026-07-22",
   "date_label": "Rabu, 22 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 10242,
+      "company": "ONE ALUMNI COFFEE",
+      "title": "KITCHEN STAFF",
+      "blogger_url": "https://www.mintainfo.com/2026/07/kitchen-staff-di-one-alumni-coffee.html"
+    },
     {
       "id": 10241,
       "company": "Onealumnicoffee",
