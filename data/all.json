@@ -1,6 +1,13 @@
 {
-  "count": 147,
+  "count": 129,
   "jobs": [
+    {
+      "id": 10095,
+      "company": "Pojok Coffee Stadion",
+      "title": "Koki",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pojok-coffee-stadion-buka-lowongan-koki.html",
+      "date_label": "Rabu, 22 Juli 2026"
+    },
     {
       "id": 9894,
       "company": "SMPIt Imam An Nawawi",
@@ -896,139 +903,6 @@
       "title": "Pengajar",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-pengajar-di-bliss-after.html",
       "date_label": "Rabu, 15 Juli 2026"
-    },
-    {
-      "id": 7281,
-      "company": "Clarisa Skin & Beauty",
-      "title": "DOKTER AESTHETIC",
-      "blogger_url": "https://www.mintainfo.com/2026/07/clarisa-skin-beauty-buka-lowongan.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7279,
-      "company": "PT DINAR MULIA ABADI",
-      "title": "EXPEDISI",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-dinar-mulia-abadi-buka-lowongan.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7286,
-      "company": "ZAP Clinic",
-      "title": "Outlet Manager & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/outlet-manager-posisi-lainnya-di-zap.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7254,
-      "company": "Kopi O Pekanbaru",
-      "title": "Cook",
-      "blogger_url": "https://www.mintainfo.com/2026/07/kopi-o-pekanbaru-buka-lowongan-cook.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7255,
-      "company": "Miracles Daycare",
-      "title": "Miss Daycare",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-miss-daycare-di-miracles.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7256,
-      "company": "C9 School",
-      "title": "KINDERGARTEN TEACHER",
-      "blogger_url": "https://www.mintainfo.com/2026/07/c9-school-buka-lowongan-kindergarten.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7257,
-      "company": "Berkah Tirta Wahana",
-      "title": "Admin Marketplace",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-admin-marketplace-di-berkah.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7258,
-      "company": "PT Surya Nusantara Sentosa (SNS.AC)",
-      "title": "General Admin Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-surya-nusantara-sentosa-snsac-buka_01605566960.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7259,
-      "company": "PT Surya Nusantara Sentosa (SNS.AC)",
-      "title": "Admin Part Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-surya-nusantara-sentosa-snsac-buka.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7260,
-      "company": "PT Surya Nusantara Sentosa (SNS.AC)",
-      "title": "Cleaning Service",
-      "blogger_url": "https://www.mintainfo.com/2026/07/cleaning-service-di-pt-surya-nusantara.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7262,
-      "company": "PT Bengkalis Kuda Laut",
-      "title": "Supervisor Accounting",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-bengkalis-kuda-laut-buka-lowongan.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7234,
-      "company": "KOPITIN TRADITIONAL COFFEE SHOP",
-      "title": "Helper Kitchen/Cook / Pegawai Kedai Kopi/Waiters",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-helper-kitchencook-pegawai.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7233,
-      "company": "PT. VISI YOSINDO MEDIKAL",
-      "title": "STAFF ACCOUNTING",
-      "blogger_url": "https://www.mintainfo.com/2026/07/staff-accounting-di-pt-visi-yosindo.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7232,
-      "company": "Dhiapo Express Carwash & Detailing",
-      "title": "TENAGA CUCI MOBIL",
-      "blogger_url": "https://www.mintainfo.com/2026/07/tenaga-cuci-mobil-di-dhiapo-express.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7231,
-      "company": "GO! STEAK PEKANBARU",
-      "title": "CREW",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-terbaru-go-steak-pekanbaru.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7186,
-      "company": "Suabox (Omen Coffee)",
-      "title": "Operator Photobox",
-      "blogger_url": "https://www.mintainfo.com/2026/07/suabox-omen-coffee-buka-lowongan.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7165,
-      "company": "PT Capella Dinamik Nusantara",
-      "title": "Technical Trainer",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-capella-dinamik-nusantara-buka.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 6971,
-      "company": "PT MGI GAYA HIDUP MANAJEMEN",
-      "title": "Store Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-mgi-gaya-hidup-manajemen-buka.html",
-      "date_label": "Selasa, 14 Juli 2026"
-    },
-    {
-      "id": 7052,
-      "company": "PT.Samudra Estetika perkasa",
-      "title": "Kasir (Pekanbaru)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/kasir-pekanbaru-di-ptsamudra-estetika.html",
-      "date_label": "Selasa, 14 Juli 2026"
     }
   ]
 }
