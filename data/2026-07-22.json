@@ -1,8 +1,14 @@
 {
   "date": "2026-07-22",
   "date_label": "Rabu, 22 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 10297,
+      "company": "PT Marga Dinamik Perkasa",
+      "title": "Staff Operasional & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-staff-operasional-posisi.html"
+    },
     {
       "id": 10246,
       "company": "mapscoffee® SUDIRMAN",
