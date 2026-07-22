@@ -1,8 +1,14 @@
 {
   "date": "2026-07-22",
   "date_label": "Rabu, 22 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 10243,
+      "company": "Teko Kopi Panam",
+      "title": "Helper / Cook",
+      "blogger_url": "https://www.mintainfo.com/2026/07/teko-kopi-panam-buka-lowongan-helper.html"
+    },
     {
       "id": 10242,
       "company": "ONE ALUMNI COFFEE",
