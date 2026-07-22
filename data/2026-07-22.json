@@ -1,8 +1,14 @@
 {
   "date": "2026-07-22",
   "date_label": "Rabu, 22 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 10241,
+      "company": "Onealumnicoffee",
+      "title": "Barista & Waiters",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barista-waiters-di.html"
+    },
     {
       "id": 10095,
       "company": "Pojok Coffee Stadion",
