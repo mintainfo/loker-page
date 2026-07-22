@@ -1,8 +1,14 @@
 {
   "date": "2026-07-22",
   "date_label": "Rabu, 22 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 10244,
+      "company": "RM. RASO SITUJUAH",
+      "title": "Admin Kantor & 4 Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rm-raso-situjuah-buka-lowongan-admin.html"
+    },
     {
       "id": 10243,
       "company": "Teko Kopi Panam",
