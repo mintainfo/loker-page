@@ -1,8 +1,14 @@
 {
   "date": "2026-07-22",
   "date_label": "Rabu, 22 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 10246,
+      "company": "mapscoffee® SUDIRMAN",
+      "title": "Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barista-di-mapscoffee.html"
+    },
     {
       "id": 10245,
       "company": "Little Castle Montessori",
