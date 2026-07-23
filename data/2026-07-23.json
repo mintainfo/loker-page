@@ -1,8 +1,14 @@
 {
   "date": "2026-07-23",
   "date_label": "Kamis, 23 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 10617,
+      "company": "Kinchay",
+      "title": "Tim Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/07/tim-outlet-di-kinchay-pekanbaru-juli.html"
+    },
     {
       "id": 10520,
       "company": "Aestetika Dental Care",
