@@ -1,6 +1,13 @@
 {
-  "count": 115,
+  "count": 116,
   "jobs": [
+    {
+      "id": 10618,
+      "company": "Desava Bakery",
+      "title": "Freelance",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-freelance-di-desava-bakery.html",
+      "date_label": "Kamis, 23 Juli 2026"
+    },
     {
       "id": 10617,
       "company": "Kinchay",
