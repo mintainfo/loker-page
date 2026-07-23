@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "date_label": "Kamis, 23 Juli 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "id": 10618,
@@ -14,6 +14,12 @@
       "company": "Kinchay",
       "title": "Tim Outlet",
       "blogger_url": "https://www.mintainfo.com/2026/07/tim-outlet-di-kinchay-pekanbaru-juli.html"
+    },
+    {
+      "id": 10587,
+      "company": "Qadi",
+      "title": "Karyawati Laundry",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-karyawati-laundry-terbaru-qadi.html"
     },
     {
       "id": 10520,
