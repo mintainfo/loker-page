@@ -1,8 +1,14 @@
 {
   "date": "2026-07-23",
   "date_label": "Kamis, 23 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 10759,
+      "company": "KOPI SAMUDERA",
+      "title": "Team Riders",
+      "blogger_url": "https://www.mintainfo.com/2026/07/kopi-samudera-buka-lowongan-team-riders.html"
+    },
     {
       "id": 10758,
       "company": "Apotik ASEAN",
