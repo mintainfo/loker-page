@@ -1,6 +1,13 @@
 {
-  "count": 123,
+  "count": 124,
   "jobs": [
+    {
+      "id": 10809,
+      "company": "CITITEL",
+      "title": "SUPERVISOR ENGINEER",
+      "blogger_url": "https://www.mintainfo.com/2026/07/cititel-buka-lowongan-supervisor.html",
+      "date_label": "Kamis, 23 Juli 2026"
+    },
     {
       "id": 10808,
       "company": "Superland Mandau",
