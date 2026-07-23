@@ -1,8 +1,14 @@
 {
   "date": "2026-07-23",
   "date_label": "Kamis, 23 Juli 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
+    {
+      "id": 10758,
+      "company": "Apotik ASEAN",
+      "title": "Pramuniaga Alkes & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-pramuniaga-alkes-posisi-lainnya.html"
+    },
     {
       "id": 10618,
       "company": "Desava Bakery",
