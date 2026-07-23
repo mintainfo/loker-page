@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "date_label": "Kamis, 23 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 10520,
@@ -14,6 +14,12 @@
       "company": "SMA IT Soeman HS",
       "title": "Tenaga Pendidik & 16 Posisi Lainnya..",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-tenaga-pendidik-16-posisi-lainnya.html"
+    },
+    {
+      "id": 10494,
+      "company": "MORBIDELLI RIAU",
+      "title": "Accountant",
+      "blogger_url": "https://www.mintainfo.com/2026/07/accountant-di-morbidelli-riau-pekanbaru.html"
     },
     {
       "id": 10490,
