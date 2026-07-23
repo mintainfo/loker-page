@@ -1,13 +1,19 @@
 {
   "date": "2026-07-23",
   "date_label": "Kamis, 23 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 10520,
       "company": "Aestetika Dental Care",
       "title": "ASISTEN DOKTER GIGI",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-asisten-dokter-gigi-terbaru.html"
+    },
+    {
+      "id": 10508,
+      "company": "RS Fanybella Medika",
+      "title": "Asisten Apoteker & Ahli Gizi",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rs-fanybella-medika-buka-lowongan.html"
     },
     {
       "id": 10495,
