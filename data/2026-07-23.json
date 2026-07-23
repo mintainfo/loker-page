@@ -1,8 +1,14 @@
 {
   "date": "2026-07-23",
   "date_label": "Kamis, 23 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 10467,
+      "company": "Snap Laundry Express",
+      "title": "Karyawan Laundry",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-karyawan-laundry-di-snap.html"
+    },
     {
       "id": 10466,
       "company": "Steam Pro Garage",
