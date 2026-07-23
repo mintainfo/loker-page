@@ -1,8 +1,14 @@
 {
   "date": "2026-07-23",
   "date_label": "Kamis, 23 Juli 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
+    {
+      "id": 10797,
+      "company": "PT. Amarth Kura Motorindo",
+      "title": "Driver Showroom",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-amarth-kura-motorindo-buka-lowongan.html"
+    },
     {
       "id": 10759,
       "company": "KOPI SAMUDERA",
