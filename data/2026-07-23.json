@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "date_label": "Kamis, 23 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "id": 10520,
@@ -26,6 +26,12 @@
       "company": "MORBIDELLI RIAU",
       "title": "Accountant",
       "blogger_url": "https://www.mintainfo.com/2026/07/accountant-di-morbidelli-riau-pekanbaru.html"
+    },
+    {
+      "id": 10493,
+      "company": "Rumah Sakit Murni Teguh",
+      "title": "Tenaga Teknis Kefarmasian",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-tenaga-teknis-kefarmasian-terbaru.html"
     },
     {
       "id": 10490,
