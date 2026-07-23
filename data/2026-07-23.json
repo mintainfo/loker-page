@@ -1,8 +1,14 @@
 {
   "date": "2026-07-23",
   "date_label": "Kamis, 23 Juli 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
+    {
+      "id": 10808,
+      "company": "Superland Mandau",
+      "title": "Leader Area / Admin Staff / CSA (Customer Service)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/leader-area-admin-staff-csa-customer.html"
+    },
     {
       "id": 10807,
       "company": "Superland",
