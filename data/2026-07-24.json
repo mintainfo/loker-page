@@ -1,8 +1,14 @@
 {
   "date": "2026-07-24",
   "date_label": "Jumat, 24 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 10884,
+      "company": "PT. SUMATERA DINAMIKA UTAMA",
+      "title": "Humas",
+      "blogger_url": "https://www.mintainfo.com/2026/07/humas-di-pt-sumatera-dinamika-utama.html"
+    },
     {
       "id": 10875,
       "company": "Noora Coffee",
