@@ -1,8 +1,14 @@
 {
   "date": "2026-07-24",
   "date_label": "Jumat, 24 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 10982,
+      "company": "JCO Metropolitan City Pekanbaru",
+      "title": "Crew Store / Frontliner",
+      "blogger_url": "https://www.mintainfo.com/2026/07/crew-store-frontliner-di-jco.html"
+    },
     {
       "id": 10981,
       "company": "Sambu Group",
