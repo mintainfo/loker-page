@@ -1,8 +1,14 @@
 {
   "date": "2026-07-24",
   "date_label": "Jumat, 24 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 10875,
+      "company": "Noora Coffee",
+      "title": "Rider",
+      "blogger_url": "https://www.mintainfo.com/2026/07/noora-coffee-buka-lowongan-rider.html"
+    },
     {
       "id": 10872,
       "company": "Tidak Diketahui",
