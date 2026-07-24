@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "date_label": "Jumat, 24 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 10813,
@@ -14,6 +14,12 @@
       "company": "DAIKU SHANKARA KREASITECH",
       "title": "Konten sosmed",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-konten-sosmed-di-daiku.html"
+    },
+    {
+      "id": 10734,
+      "company": "Berkah Tirta Wahana",
+      "title": "Meta Ads Specialist",
+      "blogger_url": "https://www.mintainfo.com/2026/07/berkah-tirta-wahana-buka-lowongan-meta.html"
     }
   ]
 }
