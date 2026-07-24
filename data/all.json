@@ -1,6 +1,20 @@
 {
-  "count": 124,
+  "count": 109,
   "jobs": [
+    {
+      "id": 10735,
+      "company": "DAIKU SHANKARA KREASITECH",
+      "title": "Konten sosmed",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-konten-sosmed-di-daiku.html",
+      "date_label": "Jumat, 24 Juli 2026"
+    },
+    {
+      "id": 10813,
+      "company": "PT Nusantara Imperial Konstruksi",
+      "title": "Site Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-nusantara-imperial-konstruksi-buka.html",
+      "date_label": "Jumat, 24 Juli 2026"
+    },
     {
       "id": 10809,
       "company": "CITITEL",
@@ -749,125 +763,6 @@
       "title": "Automation & Instrument Engineer (Project Based)",
       "blogger_url": "https://www.mintainfo.com/2026/07/pt-transavia-otomasi-pratama-buka_02038925988.html",
       "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8218,
-      "company": "Tjokro Hotel Pekanbaru",
-      "title": "Accounting (Intern) & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/tjokro-hotel-pekanbaru-buka-lowongan.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 8214,
-      "company": "PT. Indonesia Lestari Group (Jawa)",
-      "title": "Admin IT",
-      "blogger_url": "https://www.mintainfo.com/2026/07/admin-it-di-pt-indonesia-lestari-group.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 8202,
-      "company": "PT Pinus Merah Abadi (Area Sumbagsel)",
-      "title": "AREA OPERASIONAL SUPERVISOR - PEKANBARU",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-area-operasional-supervisor.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 8209,
-      "company": "CIAO Bellash",
-      "title": "Certified Brow/Lash/Nail Artist",
-      "blogger_url": "https://www.mintainfo.com/2026/07/ciao-bellash-buka-lowongan-certified.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 8180,
-      "company": "PT. Gree Electric Appliances Indonesia",
-      "title": "Technical Support (Drafter HVAC/CAC)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-technical-support-drafter-hvaccac.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 8178,
-      "company": "SMK PERPAJAKAN RIAU",
-      "title": "Guru PJOK & 1 posisi lainnya..",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-pjok-1-posisi-lainnya.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 8134,
-      "company": "Titik Nol Coffee",
-      "title": "CREW STAND",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-stand-terbaru-titik-nol.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 8133,
-      "company": "Pesantren Islam Al-Irsyad Tengaran 12 Riau",
-      "title": "HRD / Keuangan / Guru Syar'i +2",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-hrd-keuangan-guru-syari-2-di.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 8132,
-      "company": "Che Homecare",
-      "title": "Perawat / Bidan",
-      "blogger_url": "https://www.mintainfo.com/2026/07/che-homecare-buka-lowongan-perawat.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 8131,
-      "company": "Stella Gracia School",
-      "title": "Secondary Teacher / University Counsellor",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-secondary-teacher-university.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 8021,
-      "company": "Sate Taichan Ndoro Senayan",
-      "title": "Cook Helper",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-cook-helper-terbaru-sate-taichan.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 7941,
-      "company": "Sekolah Guang Ming 1",
-      "title": "Admin sekolah",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-admin-sekolah-di-sekolah.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 7793,
-      "company": "Suitable English Course (SEC)",
-      "title": "Guru Bahasa Inggris",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-bahasa-inggris-terbaru.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 7972,
-      "company": "PT Fiberhome Technologies Indonesia",
-      "title": "RPM Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-rpm-pekanbaru-di-pt-fiberhome.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 7995,
-      "company": "PT Bangkit Bumi Nusantara",
-      "title": "Content Creator",
-      "blogger_url": "https://www.mintainfo.com/2026/07/content-creator-di-pt-bangkit-bumi.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 7970,
-      "company": "PT Masmedia Buana Pustaka",
-      "title": "Staff Internal Audit",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-staff-internal-audit-di-pt.html",
-      "date_label": "Kamis, 16 Juli 2026"
-    },
-    {
-      "id": 7973,
-      "company": "JAJAN POKOK INDONESIA",
-      "title": "SPV OPERATIONAL SINISUSHI",
-      "blogger_url": "https://www.mintainfo.com/2026/07/spv-operational-sinisushi-di-jajan.html",
-      "date_label": "Kamis, 16 Juli 2026"
     }
   ]
 }
