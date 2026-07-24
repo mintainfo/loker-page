@@ -1,8 +1,14 @@
 {
   "date": "2026-07-24",
   "date_label": "Jumat, 24 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 10872,
+      "company": "Tidak Diketahui",
+      "title": "Satpam / Security & Cleaning Service",
+      "blogger_url": "https://www.mintainfo.com/2026/07/tidak-diketahui-buka-lowongan-satpam.html"
+    },
     {
       "id": 10813,
       "company": "PT Nusantara Imperial Konstruksi",
