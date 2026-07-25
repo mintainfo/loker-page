@@ -1,8 +1,14 @@
 {
   "date": "2026-07-25",
   "date_label": "Sabtu, 25 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 11367,
+      "company": "Es Pisang ijo RR",
+      "title": "KARYAWAN PEREMPUAN",
+      "blogger_url": "https://www.mintainfo.com/2026/07/es-pisang-ijo-rr-buka-lowongan-karyawan.html"
+    },
     {
       "id": 11288,
       "company": "addStory Creative Studio",
