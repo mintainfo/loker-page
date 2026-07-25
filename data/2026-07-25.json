@@ -1,13 +1,19 @@
 {
   "date": "2026-07-25",
   "date_label": "Sabtu, 25 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 11288,
       "company": "addStory Creative Studio",
       "title": "Photo Editor & Graphic Designer",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-photo-editor-graphic-designer.html"
+    },
+    {
+      "id": 11287,
+      "company": "addStory Creative Studio",
+      "title": "Editor Video",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-editor-video-terbaru-addstory.html"
     },
     {
       "id": 11228,
