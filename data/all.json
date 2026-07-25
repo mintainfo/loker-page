@@ -1,6 +1,13 @@
 {
-  "count": 115,
+  "count": 91,
   "jobs": [
+    {
+      "id": 11172,
+      "company": "Naray Hospital",
+      "title": "Perawat",
+      "blogger_url": "https://www.mintainfo.com/2026/07/naray-hospital-buka-lowongan-perawat.html",
+      "date_label": "Sabtu, 25 Juli 2026"
+    },
     {
       "id": 10982,
       "company": "JCO Metropolitan City Pekanbaru",
@@ -630,181 +637,6 @@
       "title": "MEKANIK & ADMIN",
       "blogger_url": "https://www.mintainfo.com/2026/07/mekanik-admin-di-raja-motor-pekanbaru.html",
       "date_label": "Sabtu, 18 Juli 2026"
-    },
-    {
-      "id": 8790,
-      "company": "KLINIK PRATAMA ATHARRAZKA",
-      "title": "DOKTER GIGI",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-dokter-gigi-terbaru-klinik.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8650,
-      "company": "Cucian Markas Auto Care",
-      "title": "Karyawan Cuci Mobil",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-karyawan-cuci-mobil-terbaru.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8617,
-      "company": "Restaurant Bulgogi Shabu & Grill Pekanbaru",
-      "title": "Captain / Waiter / Waiters",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-captain-waiter-waiters-terbaru.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8573,
-      "company": "Tidak Diketahui",
-      "title": "ART (Asisten Rumah Tangga) Harian",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-art-asisten-rumah-tangga-harian.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8532,
-      "company": "IHC Rumah Sakit Pertamina Dumai",
-      "title": "Perawat / Refraksionis Optisien",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-perawat-refraksionis-optisien.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8480,
-      "company": "Baby Smart",
-      "title": "Jaga Stand Bubur Bayi",
-      "blogger_url": "https://www.mintainfo.com/2026/07/jaga-stand-bubur-bayi-di-baby-smart.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8481,
-      "company": "Empek-Empek Bu Tuti",
-      "title": "KOKI (laki-laki/perempuan) & PELAYAN RESTO (perempuan)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/koki-laki-lakiperempuan-pelayan-resto.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8361,
-      "company": "PT Nipsea Paint & Chemicals",
-      "title": "Depot Head Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-nipsea-paint-chemicals-buka-lowongan.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8395,
-      "company": "RE Beauty Clinic",
-      "title": "BEAUTICIAN",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-beautician-terbaru-re-beauty.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8370,
-      "company": "C9 School",
-      "title": "PRESCHOOL TEACHER",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-preschool-teacher-terbaru-c9.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8372,
-      "company": "PT. AGUNG HEDO GROUP",
-      "title": "supir pick up",
-      "blogger_url": "https://www.mintainfo.com/2026/07/supir-pick-up-di-pt-agung-hedo-group.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8353,
-      "company": "Sekolah Kasih Cahaya Bunda",
-      "title": "Staff tata usaha dan operator sekolah",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-staff-tata-usaha-dan-operator.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8352,
-      "company": "SD KASIH CAHAYA BUNDA",
-      "title": "Guru Pendamping Anak Berkebutuhan khusus",
-      "blogger_url": "https://www.mintainfo.com/2026/07/sd-kasih-cahaya-bunda-buka-lowongan.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8351,
-      "company": "INESSA GRAHA BANGUNAN (IGB)",
-      "title": "STAFF ACCOUNTING",
-      "blogger_url": "https://www.mintainfo.com/2026/07/inessa-graha-bangunan-igb-buka-lowongan.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8338,
-      "company": "",
-      "title": "Helper Tangkos",
-      "blogger_url": "https://www.mintainfo.com/2026/07/helper-tangkos-di-pekanbaru-juli-2026.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8337,
-      "company": "An Namiroh & Dayyinah Kids",
-      "title": "Guru IPA",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-ipa-terbaru-namiroh-dayyinah.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8317,
-      "company": "Snap Laundry",
-      "title": "Karyawan Laundry",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-karyawan-laundry-terbaru-snap.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8314,
-      "company": "Ahiang Hair Salon",
-      "title": "Capster",
-      "blogger_url": "https://www.mintainfo.com/2026/07/ahiang-hair-salon-buka-lowongan-capster.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8313,
-      "company": "Eight Burger",
-      "title": "Kurir / Driver Bajaj & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/eight-burger-buka-lowongan-kurir-driver.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8310,
-      "company": "BERT COFFEE",
-      "title": "WAITERS",
-      "blogger_url": "https://www.mintainfo.com/2026/07/waiters-di-bert-coffee-pekanbaru-juli.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8312,
-      "company": "Az Zuhra Pusat",
-      "title": "Guru B. Inggris SMA & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/guru-b-inggris-sma-posisi-lainnya-di-az.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8311,
-      "company": "Seblak BM",
-      "title": "Crew Masak & Waiters",
-      "blogger_url": "https://www.mintainfo.com/2026/07/seblak-bm-buka-lowongan-crew-masak.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8269,
-      "company": "PT Primanusa Globalindo",
-      "title": "HR ADMIN",
-      "blogger_url": "https://www.mintainfo.com/2026/07/hr-admin-di-pt-primanusa-globalindo.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8274,
-      "company": "PT Fajar Lestari Sejati",
-      "title": "Teknisi",
-      "blogger_url": "https://www.mintainfo.com/2026/07/teknisi-di-pt-fajar-lestari-sejati.html",
-      "date_label": "Jumat, 17 Juli 2026"
-    },
-    {
-      "id": 8272,
-      "company": "PT Transavia Otomasi Pratama",
-      "title": "Automation & Instrument Engineer (Project Based)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-transavia-otomasi-pratama-buka_02038925988.html",
-      "date_label": "Jumat, 17 Juli 2026"
     }
   ]
 }
