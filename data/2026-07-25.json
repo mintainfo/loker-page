@@ -1,8 +1,14 @@
 {
   "date": "2026-07-25",
   "date_label": "Sabtu, 25 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 11174,
+      "company": "Klinik Salsa",
+      "title": "ASISTEN APOTEKER",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-asisten-apoteker-terbaru-klinik.html"
+    },
     {
       "id": 11173,
       "company": "LABORATORIUM KLINIK THAMRIN",
