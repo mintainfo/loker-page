@@ -1,8 +1,14 @@
 {
   "date": "2026-07-25",
   "date_label": "Sabtu, 25 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 11288,
+      "company": "addStory Creative Studio",
+      "title": "Photo Editor & Graphic Designer",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-photo-editor-graphic-designer.html"
+    },
     {
       "id": 11228,
       "company": "favehotel Sudirman Pekanbaru",
