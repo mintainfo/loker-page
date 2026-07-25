@@ -1,8 +1,14 @@
 {
   "date": "2026-07-25",
   "date_label": "Sabtu, 25 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 11368,
+      "company": "Sayur Fit",
+      "title": "Customer Service",
+      "blogger_url": "https://www.mintainfo.com/2026/07/sayur-fit-buka-lowongan-customer.html"
+    },
     {
       "id": 11367,
       "company": "Es Pisang ijo RR",
