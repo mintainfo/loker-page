@@ -1,6 +1,13 @@
 {
-  "count": 89,
+  "count": 90,
   "jobs": [
+    {
+      "id": 11440,
+      "company": "Klinik Pratama Hangtuah",
+      "title": "Perawat",
+      "blogger_url": "https://www.mintainfo.com/2026/07/klinik-pratama-hangtuah-buka-lowongan.html",
+      "date_label": "Minggu, 26 Juli 2026"
+    },
     {
       "id": 11438,
       "company": "Bakso Raihan",
