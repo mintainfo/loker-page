@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
   "date_label": "Minggu, 26 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 11440,
@@ -20,6 +20,12 @@
       "company": "Tidak Diketahui",
       "title": "Staff Toko & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/07/tidak-diketahui-buka-lowongan-staff.html"
+    },
+    {
+      "id": 11399,
+      "company": "Floriza Flowers & Gifts",
+      "title": "Florist Full Time",
+      "blogger_url": "https://www.mintainfo.com/2026/07/florist-full-time-di-floriza-flowers.html"
     }
   ]
 }
