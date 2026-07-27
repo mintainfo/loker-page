@@ -1,8 +1,14 @@
 {
   "date": "2026-07-27",
   "date_label": "Senin, 27 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 11753,
+      "company": "SMK INOVASI RIAU",
+      "title": "Guru Kejuruan TKJ",
+      "blogger_url": "https://www.mintainfo.com/2026/07/smk-inovasi-riau-buka-lowongan-guru.html"
+    },
     {
       "id": 11668,
       "company": "Teh Tarik LOMMA",
