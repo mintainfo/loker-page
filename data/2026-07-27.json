@@ -1,8 +1,14 @@
 {
   "date": "2026-07-27",
   "date_label": "Senin, 27 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 11573,
+      "company": "Tidak Diketahui",
+      "title": "Pramuniaga & Kasir",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-pramuniaga-kasir-terbaru-tidak.html"
+    },
     {
       "id": 11528,
       "company": "PT Bighot Restaurant Indonesia",
