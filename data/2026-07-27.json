@@ -1,8 +1,14 @@
 {
   "date": "2026-07-27",
   "date_label": "Senin, 27 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 11668,
+      "company": "Teh Tarik LOMMA",
+      "title": "CREW OUTLET",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-outlet-terbaru-teh-tarik.html"
+    },
     {
       "id": 11579,
       "company": "SEHASTA",
