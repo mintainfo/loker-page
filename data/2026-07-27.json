@@ -1,8 +1,14 @@
 {
   "date": "2026-07-27",
   "date_label": "Senin, 27 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 11579,
+      "company": "SEHASTA",
+      "title": "Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/07/barista-di-sehasta-pekanbaru-juli-2026.html"
+    },
     {
       "id": 11577,
       "company": "Gladiator Sport Gym",
