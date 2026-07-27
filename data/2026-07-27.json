@@ -1,8 +1,14 @@
 {
   "date": "2026-07-27",
   "date_label": "Senin, 27 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 11754,
+      "company": "AXA English Buddy",
+      "title": "English Teacher / Kindergarten Teacher",
+      "blogger_url": "https://www.mintainfo.com/2026/07/english-teacher-kindergarten-teacher-di.html"
+    },
     {
       "id": 11753,
       "company": "SMK INOVASI RIAU",
