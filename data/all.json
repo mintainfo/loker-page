@@ -1,6 +1,13 @@
 {
-  "count": 91,
+  "count": 84,
   "jobs": [
+    {
+      "id": 11528,
+      "company": "PT Bighot Restaurant Indonesia",
+      "title": "Crew Outlet - Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-outlet-pekanbaru-terbaru-pt.html",
+      "date_label": "Senin, 27 Juli 2026"
+    },
     {
       "id": 11399,
       "company": "Floriza Flowers & Gifts",
@@ -581,62 +588,6 @@
       "title": "Kasir",
       "blogger_url": "https://www.mintainfo.com/2026/07/kasir-di-pt-mobilux-automotive-xpress.html",
       "date_label": "Senin, 20 Juli 2026"
-    },
-    {
-      "id": 9264,
-      "company": "Arsyad Islamic School",
-      "title": "Guru IPS",
-      "blogger_url": "https://www.mintainfo.com/2026/07/guru-ips-di-arsyad-islamic-school_01770703672.html",
-      "date_label": "Minggu, 19 Juli 2026"
-    },
-    {
-      "id": 9263,
-      "company": "Yayasan Bumi Serambi Makkah SD IT Iskandar Muda",
-      "title": "Guru Part Time PJOK",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-part-time-pjok-terbaru.html",
-      "date_label": "Minggu, 19 Juli 2026"
-    },
-    {
-      "id": 9187,
-      "company": "Purwa Caraka Music Studio",
-      "title": "Instruktur Piano",
-      "blogger_url": "https://www.mintainfo.com/2026/07/instruktur-piano-di-purwa-caraka-music.html",
-      "date_label": "Minggu, 19 Juli 2026"
-    },
-    {
-      "id": 9113,
-      "company": "Wallonia SALON",
-      "title": "Hairstylist / Terapist salon wanita",
-      "blogger_url": "https://www.mintainfo.com/2026/07/hairstylist-terapist-salon-wanita-di.html",
-      "date_label": "Minggu, 19 Juli 2026"
-    },
-    {
-      "id": 9112,
-      "company": "CIRENG BAYO",
-      "title": "Crew Outlet",
-      "blogger_url": "https://www.mintainfo.com/2026/07/crew-outlet-di-cireng-bayo-pekanbaru.html",
-      "date_label": "Minggu, 19 Juli 2026"
-    },
-    {
-      "id": 9038,
-      "company": "SMP IT AL MADINAH",
-      "title": "Guru Matematika",
-      "blogger_url": "https://www.mintainfo.com/2026/07/smp-it-al-madinah-buka-lowongan-guru.html",
-      "date_label": "Minggu, 19 Juli 2026"
-    },
-    {
-      "id": 9037,
-      "company": "KOPI A JOE",
-      "title": "Admin Operasional",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-admin-operasional-di-kopi-joe.html",
-      "date_label": "Minggu, 19 Juli 2026"
-    },
-    {
-      "id": 9036,
-      "company": "Almadinah Pekanbaru",
-      "title": "Staf Adm Keuangan Sekolah",
-      "blogger_url": "https://www.mintainfo.com/2026/07/staf-adm-keuangan-sekolah-di-almadinah.html",
-      "date_label": "Minggu, 19 Juli 2026"
     }
   ]
 }
