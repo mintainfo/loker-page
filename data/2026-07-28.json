@@ -1,8 +1,14 @@
 {
   "date": "2026-07-28",
   "date_label": "Selasa, 28 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 11859,
+      "company": "Dompet Dhuafa Riau",
+      "title": "Guru Pedalaman",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-pedalaman-terbaru-dompet.html"
+    },
     {
       "id": 11858,
       "company": "FAJAR STORE",
