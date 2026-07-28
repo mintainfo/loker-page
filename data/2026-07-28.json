@@ -1,8 +1,14 @@
 {
   "date": "2026-07-28",
   "date_label": "Selasa, 28 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 11860,
+      "company": "RUMAH SAKIT SURYA INSANI",
+      "title": "CLEANING SERVICE /  SATPAM / PEKARYA",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-cleaning-service-satpam-pekarya.html"
+    },
     {
       "id": 11859,
       "company": "Dompet Dhuafa Riau",
