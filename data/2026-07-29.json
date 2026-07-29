@@ -1,8 +1,14 @@
 {
   "date": "2026-07-29",
   "date_label": "Rabu, 29 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 12153,
+      "company": "Ikonyoko",
+      "title": "Crew Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/07/crew-outlet-di-ikonyoko-pekanbaru-juli.html"
+    },
     {
       "id": 12120,
       "company": "SDIT TAHFIDZUL QUR'AN",
