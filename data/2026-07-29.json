@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
   "date_label": "Rabu, 29 Juli 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "id": 12160,
@@ -32,6 +32,12 @@
       "company": "Ikonyoko",
       "title": "Crew Outlet",
       "blogger_url": "https://www.mintainfo.com/2026/07/crew-outlet-di-ikonyoko-pekanbaru-juli.html"
+    },
+    {
+      "id": 12152,
+      "company": "PT NUSA LIMA MEDIKA",
+      "title": "Dokter Umum",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-nusa-lima-medika-buka-lowongan.html"
     },
     {
       "id": 12120,
