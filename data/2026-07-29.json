@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
   "date_label": "Rabu, 29 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 12114,
@@ -26,6 +26,12 @@
       "company": "PT Mobil Anak Bangsa",
       "title": "Mekanik EV 4 Wheel Up (Bus & Truk)",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-mekanik-ev-4-wheel-up-bus.html"
+    },
+    {
+      "id": 11986,
+      "company": "Wilmar Group",
+      "title": "Assistant Electrical - Palm Oil Mill",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-assistant-electrical-palm-oil.html"
     }
   ]
 }
