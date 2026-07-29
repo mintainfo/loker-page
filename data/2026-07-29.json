@@ -1,8 +1,14 @@
 {
   "date": "2026-07-29",
   "date_label": "Rabu, 29 Juli 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 12155,
+      "company": "Klinik Bunda Thamrin",
+      "title": "Sarpras & K3",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-sarpras-k3-di-klinik-bunda.html"
+    },
     {
       "id": 12154,
       "company": "The Rose Aesthetic Clinic",
