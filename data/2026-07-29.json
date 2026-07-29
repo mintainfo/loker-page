@@ -1,8 +1,14 @@
 {
   "date": "2026-07-29",
   "date_label": "Rabu, 29 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 12112,
+      "company": "Roti Bakar Djaya",
+      "title": "Staff Gerobakan",
+      "blogger_url": "https://www.mintainfo.com/2026/07/roti-bakar-djaya-buka-lowongan-staff.html"
+    },
     {
       "id": 12111,
       "company": "TOKO CENTRAL NUSANTARA",
