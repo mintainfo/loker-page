@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
   "date_label": "Rabu, 29 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 12114,
@@ -20,6 +20,12 @@
       "company": "TOKO CENTRAL NUSANTARA",
       "title": "Karyawan Toko",
       "blogger_url": "https://www.mintainfo.com/2026/07/karyawan-toko-di-toko-central-nusantara.html"
+    },
+    {
+      "id": 11987,
+      "company": "PT Mobil Anak Bangsa",
+      "title": "Mekanik EV 4 Wheel Up (Bus & Truk)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-mekanik-ev-4-wheel-up-bus.html"
     }
   ]
 }

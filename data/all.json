@@ -1,6 +1,13 @@
 {
-  "count": 64,
+  "count": 65,
   "jobs": [
+    {
+      "id": 11987,
+      "company": "PT Mobil Anak Bangsa",
+      "title": "Mekanik EV 4 Wheel Up (Bus & Truk)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-mekanik-ev-4-wheel-up-bus.html",
+      "date_label": "Rabu, 29 Juli 2026"
+    },
     {
       "id": 12114,
       "company": "Infinity Liquor",
