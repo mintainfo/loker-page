@@ -1,8 +1,14 @@
 {
   "date": "2026-07-29",
   "date_label": "Rabu, 29 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 12120,
+      "company": "SDIT TAHFIDZUL QUR'AN",
+      "title": "Guru B.Arab & Fiqih",
+      "blogger_url": "https://www.mintainfo.com/2026/07/guru-barab-fiqih-di-sdit-tahfidzul.html"
+    },
     {
       "id": 12114,
       "company": "Infinity Liquor",
