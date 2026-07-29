@@ -1,8 +1,14 @@
 {
   "date": "2026-07-29",
   "date_label": "Rabu, 29 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 12114,
+      "company": "Infinity Liquor",
+      "title": "Kasir & Resto",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-kasir-resto-terbaru-infinity.html"
+    },
     {
       "id": 12112,
       "company": "Roti Bakar Djaya",
