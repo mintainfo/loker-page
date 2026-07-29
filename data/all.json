@@ -1,6 +1,13 @@
 {
-  "count": 74,
+  "count": 62,
   "jobs": [
+    {
+      "id": 12111,
+      "company": "TOKO CENTRAL NUSANTARA",
+      "title": "Karyawan Toko",
+      "blogger_url": "https://www.mintainfo.com/2026/07/karyawan-toko-di-toko-central-nusantara.html",
+      "date_label": "Rabu, 29 Juli 2026"
+    },
     {
       "id": 11981,
       "company": "RS Mesra",
@@ -427,97 +434,6 @@
       "title": "Koki",
       "blogger_url": "https://www.mintainfo.com/2026/07/pojok-coffee-stadion-buka-lowongan-koki.html",
       "date_label": "Rabu, 22 Juli 2026"
-    },
-    {
-      "id": 9894,
-      "company": "SMPIt Imam An Nawawi",
-      "title": "Guru Futsal / Guru Badminton / Guru Basket",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-futsal-guru-badminton-guru.html",
-      "date_label": "Selasa, 21 Juli 2026"
-    },
-    {
-      "id": 9856,
-      "company": "Yamet Pekanbaru",
-      "title": "Fisioterapis / Psikologi dan 2 Posisi lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/fisioterapis-psikologi-dan-2-posisi.html",
-      "date_label": "Selasa, 21 Juli 2026"
-    },
-    {
-      "id": 9855,
-      "company": "Forte",
-      "title": "Staff Gudang",
-      "blogger_url": "https://www.mintainfo.com/2026/07/staff-gudang-di-forte-pekanbaru-juli.html",
-      "date_label": "Selasa, 21 Juli 2026"
-    },
-    {
-      "id": 9854,
-      "company": "KOTA Kopi Kita",
-      "title": "KASIR",
-      "blogger_url": "https://www.mintainfo.com/2026/07/kasir-di-kota-kopi-kita-pekanbaru-juli.html",
-      "date_label": "Selasa, 21 Juli 2026"
-    },
-    {
-      "id": 9853,
-      "company": "KLINIK BIDAN YULINAR SST",
-      "title": "BIDAN",
-      "blogger_url": "https://www.mintainfo.com/2026/07/bidan-di-klinik-bidan-yulinar-sst.html",
-      "date_label": "Selasa, 21 Juli 2026"
-    },
-    {
-      "id": 9530,
-      "company": "Ewa Coffee Space",
-      "title": "Koki",
-      "blogger_url": "https://www.mintainfo.com/2026/07/ewa-coffee-space-buka-lowongan-koki.html",
-      "date_label": "Selasa, 21 Juli 2026"
-    },
-    {
-      "id": 9621,
-      "company": "BIMBEL MMLC PEKANBARU",
-      "title": "Admin & Konten Kreator",
-      "blogger_url": "https://www.mintainfo.com/2026/07/admin-konten-kreator-di-bimbel-mmlc.html",
-      "date_label": "Selasa, 21 Juli 2026"
-    },
-    {
-      "id": 9580,
-      "company": "PT Tangkas Cipta Optimal",
-      "title": "Operator Warehouse Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-operator-warehouse-pekanbaru.html",
-      "date_label": "Selasa, 21 Juli 2026"
-    },
-    {
-      "id": 9389,
-      "company": "PT Nusakura Standarindo",
-      "title": "Operational Staff",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-nusakura-standarindo-buka-lowongan.html",
-      "date_label": "Selasa, 21 Juli 2026"
-    },
-    {
-      "id": 9492,
-      "company": "PT Central Mega Kencana",
-      "title": "Customer Service & Administrative Executive",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-central-mega-kencana-buka-lowongan.html",
-      "date_label": "Selasa, 21 Juli 2026"
-    },
-    {
-      "id": 9590,
-      "company": "CV KLINIK HEWAN DRH. AGUS SHAFIQ RYADI",
-      "title": "Paramedis veteriner",
-      "blogger_url": "https://www.mintainfo.com/2026/07/cv-klinik-hewan-drh-agus-shafiq-ryadi_01783201215.html",
-      "date_label": "Selasa, 21 Juli 2026"
-    },
-    {
-      "id": 9589,
-      "company": "CV KLINIK HEWAN DRH. AGUS SHAFIQ RYADI",
-      "title": "Dokter hewan",
-      "blogger_url": "https://www.mintainfo.com/2026/07/cv-klinik-hewan-drh-agus-shafiq-ryadi.html",
-      "date_label": "Selasa, 21 Juli 2026"
-    },
-    {
-      "id": 9591,
-      "company": "Haritsa Baby Shop",
-      "title": "Petugas Kebersihan / Cleaning Service",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-petugas-kebersihan-cleaning.html",
-      "date_label": "Selasa, 21 Juli 2026"
     }
   ]
 }
