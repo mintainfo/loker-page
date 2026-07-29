@@ -1,8 +1,14 @@
 {
   "date": "2026-07-29",
   "date_label": "Rabu, 29 Juli 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
+    {
+      "id": 12160,
+      "company": "asclean laundry",
+      "title": "Bagian Kasir, Cuci, Packing & Bagian Setrika Uap",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-bagian-kasir-cuci-packing_01954195007.html"
+    },
     {
       "id": 12155,
       "company": "Klinik Bunda Thamrin",
