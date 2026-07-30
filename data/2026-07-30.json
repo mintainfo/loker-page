@@ -1,7 +1,7 @@
 {
   "date": "2026-07-30",
   "date_label": "Kamis, 30 Juli 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 12273,
@@ -56,6 +56,12 @@
       "company": "SLV Aesthetic Clinic",
       "title": "Dokter Aesthetic & Dokter Gigi",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-dokter-aesthetic-dokter-gigi.html"
+    },
+    {
+      "id": 12214,
+      "company": "Kopigas",
+      "title": "Crewkopi keliling",
+      "blogger_url": "https://www.mintainfo.com/2026/07/kopigas-buka-lowongan-crewkopi-keliling.html"
     },
     {
       "id": 12213,
