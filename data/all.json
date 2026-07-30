@@ -1,6 +1,13 @@
 {
-  "count": 75,
+  "count": 68,
   "jobs": [
+    {
+      "id": 12271,
+      "company": "TUAN ROEMAH kopitiam",
+      "title": "Barista Saring",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-saring-terbaru-tuan.html",
+      "date_label": "Kamis, 30 Juli 2026"
+    },
     {
       "id": 12152,
       "company": "PT NUSA LIMA MEDIKA",
@@ -469,62 +476,6 @@
       "title": "Crew Cuci Motor",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-cuci-motor-terbaru-steam-pro.html",
       "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10297,
-      "company": "PT Marga Dinamik Perkasa",
-      "title": "Staff Operasional & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-staff-operasional-posisi.html",
-      "date_label": "Rabu, 22 Juli 2026"
-    },
-    {
-      "id": 10246,
-      "company": "mapscoffee® SUDIRMAN",
-      "title": "Barista",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barista-di-mapscoffee.html",
-      "date_label": "Rabu, 22 Juli 2026"
-    },
-    {
-      "id": 10245,
-      "company": "Little Castle Montessori",
-      "title": "Guru Kelas Balita & Guru Asuh",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-kelas-balita-guru-asuh.html",
-      "date_label": "Rabu, 22 Juli 2026"
-    },
-    {
-      "id": 10244,
-      "company": "RM. RASO SITUJUAH",
-      "title": "Admin Kantor & 4 Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rm-raso-situjuah-buka-lowongan-admin.html",
-      "date_label": "Rabu, 22 Juli 2026"
-    },
-    {
-      "id": 10243,
-      "company": "Teko Kopi Panam",
-      "title": "Helper / Cook",
-      "blogger_url": "https://www.mintainfo.com/2026/07/teko-kopi-panam-buka-lowongan-helper.html",
-      "date_label": "Rabu, 22 Juli 2026"
-    },
-    {
-      "id": 10242,
-      "company": "ONE ALUMNI COFFEE",
-      "title": "KITCHEN STAFF",
-      "blogger_url": "https://www.mintainfo.com/2026/07/kitchen-staff-di-one-alumni-coffee.html",
-      "date_label": "Rabu, 22 Juli 2026"
-    },
-    {
-      "id": 10241,
-      "company": "Onealumnicoffee",
-      "title": "Barista & Waiters",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-barista-waiters-di.html",
-      "date_label": "Rabu, 22 Juli 2026"
-    },
-    {
-      "id": 10095,
-      "company": "Pojok Coffee Stadion",
-      "title": "Koki",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pojok-coffee-stadion-buka-lowongan-koki.html",
-      "date_label": "Rabu, 22 Juli 2026"
     }
   ]
 }
