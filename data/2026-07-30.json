@@ -1,7 +1,7 @@
 {
   "date": "2026-07-30",
   "date_label": "Kamis, 30 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 12272,
@@ -20,6 +20,12 @@
       "company": "Kedai Kopi Acin",
       "title": "Barista & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-posisi-lainnya-terbaru.html"
+    },
+    {
+      "id": 12226,
+      "company": "Es Durian Revin",
+      "title": "Waiters",
+      "blogger_url": "https://www.mintainfo.com/2026/07/waiters-di-es-durian-revin-pekanbaru.html"
     }
   ]
 }
