@@ -1,6 +1,13 @@
 {
-  "count": 77,
+  "count": 78,
   "jobs": [
+    {
+      "id": 12213,
+      "company": "Jajan Kopi",
+      "title": "RIDER KOPI KELILING",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rider-kopi-keliling-di-jajan-kopi.html",
+      "date_label": "Kamis, 30 Juli 2026"
+    },
     {
       "id": 12232,
       "company": "Klinik Pratama dr. MEKAR",
