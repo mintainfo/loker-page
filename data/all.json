@@ -1,6 +1,13 @@
 {
-  "count": 76,
+  "count": 77,
   "jobs": [
+    {
+      "id": 12232,
+      "company": "Klinik Pratama dr. MEKAR",
+      "title": "Bidan / Perawat & Asisten Apoteker",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-bidan-perawat-asisten.html",
+      "date_label": "Kamis, 30 Juli 2026"
+    },
     {
       "id": 12231,
       "company": "RMB Hospital Group",
