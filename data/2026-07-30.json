@@ -1,8 +1,14 @@
 {
   "date": "2026-07-30",
   "date_label": "Kamis, 30 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 12273,
+      "company": "babyplace.id",
+      "title": "KASIR",
+      "blogger_url": "https://www.mintainfo.com/2026/07/kasir-di-babyplaceid-pekanbaru-juli-2026.html"
+    },
     {
       "id": 12272,
       "company": "TUAN ROEMAH kopitiam",
