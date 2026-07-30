@@ -1,7 +1,7 @@
 {
   "date": "2026-07-30",
   "date_label": "Kamis, 30 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 12272,
@@ -38,6 +38,12 @@
       "company": "SLV Aesthetic Clinic",
       "title": "Dokter Aesthetic & Dokter Gigi",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-dokter-aesthetic-dokter-gigi.html"
+    },
+    {
+      "id": 12163,
+      "company": "PT Delta Giri Wacana, Tbk.",
+      "title": "Logistic Supervisor Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/07/pt-delta-giri-wacana-tbk-buka-lowongan.html"
     }
   ]
 }
