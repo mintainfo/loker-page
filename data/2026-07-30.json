@@ -1,8 +1,14 @@
 {
   "date": "2026-07-30",
   "date_label": "Kamis, 30 Juli 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 12275,
+      "company": "JUMBO MART",
+      "title": "CASHIER",
+      "blogger_url": "https://www.mintainfo.com/2026/07/cashier-di-jumbo-mart-pekanbaru-juli.html"
+    },
     {
       "id": 12273,
       "company": "babyplace.id",
