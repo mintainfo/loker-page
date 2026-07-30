@@ -1,8 +1,14 @@
 {
   "date": "2026-07-30",
   "date_label": "Kamis, 30 Juli 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
+    {
+      "id": 12276,
+      "company": "MALABAR COFFEE AND EATERY",
+      "title": "SENIOR BARISTA / JUNIOR BARISTA",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-senior-barista-junior-barista.html"
+    },
     {
       "id": 12275,
       "company": "JUMBO MART",
