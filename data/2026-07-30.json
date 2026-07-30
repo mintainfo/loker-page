@@ -1,8 +1,14 @@
 {
   "date": "2026-07-30",
   "date_label": "Kamis, 30 Juli 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 12272,
+      "company": "TUAN ROEMAH kopitiam",
+      "title": "Barista Saring",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-saring-terbaru-tuan_0204428944.html"
+    },
     {
       "id": 12271,
       "company": "TUAN ROEMAH kopitiam",
