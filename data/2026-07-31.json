@@ -1,8 +1,14 @@
 {
   "date": "2026-07-31",
   "date_label": "Jumat, 31 Juli 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 12377,
+      "company": "RUTIN BANGUNAN",
+      "title": "Helper / Kernek",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-helper-kernek-terbaru-rutin.html"
+    },
     {
       "id": 12376,
       "company": "BARBER STC",
