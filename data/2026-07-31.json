@@ -1,8 +1,14 @@
 {
   "date": "2026-07-31",
   "date_label": "Jumat, 31 Juli 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 12378,
+      "company": "FRUITCITY",
+      "title": "CREW",
+      "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-terbaru-fruitcity-pekanbaru.html"
+    },
     {
       "id": 12377,
       "company": "RUTIN BANGUNAN",
