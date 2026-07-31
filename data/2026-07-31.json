@@ -1,8 +1,14 @@
 {
   "date": "2026-07-31",
   "date_label": "Jumat, 31 Juli 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 12459,
+      "company": "numi",
+      "title": "Hair Stylist & Therapist",
+      "blogger_url": "https://www.mintainfo.com/2026/07/hair-stylist-therapist-di-numi.html"
+    },
     {
       "id": 12416,
       "company": "Se'Indonesia",
