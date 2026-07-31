@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
   "date_label": "Jumat, 31 Juli 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 12459,
@@ -14,6 +14,12 @@
       "company": "Se'Indonesia",
       "title": "Area Manager",
       "blogger_url": "https://www.mintainfo.com/2026/07/seindonesia-buka-lowongan-area-manager.html"
+    },
+    {
+      "id": 12408,
+      "company": "Roti Canai Sedagho",
+      "title": "Tukang Masak",
+      "blogger_url": "https://www.mintainfo.com/2026/07/roti-canai-sedagho-buka-lowongan-tukang.html"
     },
     {
       "id": 12378,
