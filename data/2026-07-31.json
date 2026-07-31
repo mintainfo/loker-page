@@ -1,8 +1,14 @@
 {
   "date": "2026-07-31",
   "date_label": "Jumat, 31 Juli 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 12416,
+      "company": "Se'Indonesia",
+      "title": "Area Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/07/seindonesia-buka-lowongan-area-manager.html"
+    },
     {
       "id": 12378,
       "company": "FRUITCITY",
