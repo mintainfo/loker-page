@@ -1,8 +1,14 @@
 {
   "date": "2026-07-31",
   "date_label": "Jumat, 31 Juli 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 12376,
+      "company": "BARBER STC",
+      "title": "KAPSTER/ BARBERMAN",
+      "blogger_url": "https://www.mintainfo.com/2026/07/barber-stc-buka-lowongan-kapster.html"
+    },
     {
       "id": 12375,
       "company": "SMK Kansai Pekanbaru",
