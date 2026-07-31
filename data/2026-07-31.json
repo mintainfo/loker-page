@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
   "date_label": "Jumat, 31 Juli 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 12378,
@@ -32,6 +32,12 @@
       "company": "PT CRI Tbk",
       "title": "Waiter / Waitress / Kitchen Helper Pekanbaru",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-waiter-waitress-kitchen.html"
+    },
+    {
+      "id": 12284,
+      "company": "PT Adecco Personnel Indonesia",
+      "title": "Customer Service Support (Contract)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/customer-service-support-contract-di-pt.html"
     }
   ]
 }
