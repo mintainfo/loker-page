@@ -1,6 +1,13 @@
 {
-  "count": 64,
+  "count": 65,
   "jobs": [
+    {
+      "id": 12375,
+      "company": "SMK Kansai Pekanbaru",
+      "title": "Guru Bimbingan Konseling (BK)",
+      "blogger_url": "https://www.mintainfo.com/2026/07/smk-kansai-pekanbaru-buka-lowongan-guru.html",
+      "date_label": "Jumat, 31 Juli 2026"
+    },
     {
       "id": 12299,
       "company": "PT CRI Tbk",
