@@ -1,6 +1,13 @@
 {
-  "count": 81,
+  "count": 64,
   "jobs": [
+    {
+      "id": 12299,
+      "company": "PT CRI Tbk",
+      "title": "Waiter / Waitress / Kitchen Helper Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-waiter-waitress-kitchen.html",
+      "date_label": "Jumat, 31 Juli 2026"
+    },
     {
       "id": 12276,
       "company": "MALABAR COFFEE AND EATERY",
@@ -441,132 +448,6 @@
       "title": "Site Manager",
       "blogger_url": "https://www.mintainfo.com/2026/07/pt-nusantara-imperial-konstruksi-buka.html",
       "date_label": "Jumat, 24 Juli 2026"
-    },
-    {
-      "id": 10809,
-      "company": "CITITEL",
-      "title": "SUPERVISOR ENGINEER",
-      "blogger_url": "https://www.mintainfo.com/2026/07/cititel-buka-lowongan-supervisor.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10808,
-      "company": "Superland Mandau",
-      "title": "Leader Area / Admin Staff / CSA (Customer Service)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/leader-area-admin-staff-csa-customer.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10807,
-      "company": "Superland",
-      "title": "Leader Area / Admin Staff / CSA (Customer Service)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/superland-buka-lowongan-leader-area.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10798,
-      "company": "Best EV",
-      "title": "Staff Store",
-      "blogger_url": "https://www.mintainfo.com/2026/07/best-ev-buka-lowongan-staff-store.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10797,
-      "company": "PT. Amarth Kura Motorindo",
-      "title": "Driver Showroom",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-amarth-kura-motorindo-buka-lowongan.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10759,
-      "company": "KOPI SAMUDERA",
-      "title": "Team Riders",
-      "blogger_url": "https://www.mintainfo.com/2026/07/kopi-samudera-buka-lowongan-team-riders.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10758,
-      "company": "Apotik ASEAN",
-      "title": "Pramuniaga Alkes & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-pramuniaga-alkes-posisi-lainnya.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10587,
-      "company": "Qadi",
-      "title": "Karyawati Laundry",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-karyawati-laundry-terbaru-qadi.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10618,
-      "company": "Desava Bakery",
-      "title": "Freelance",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-freelance-di-desava-bakery.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10617,
-      "company": "Kinchay",
-      "title": "Tim Outlet",
-      "blogger_url": "https://www.mintainfo.com/2026/07/tim-outlet-di-kinchay-pekanbaru-juli.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10493,
-      "company": "Rumah Sakit Murni Teguh",
-      "title": "Tenaga Teknis Kefarmasian",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-tenaga-teknis-kefarmasian-terbaru.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10508,
-      "company": "RS Fanybella Medika",
-      "title": "Asisten Apoteker & Ahli Gizi",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rs-fanybella-medika-buka-lowongan.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10494,
-      "company": "MORBIDELLI RIAU",
-      "title": "Accountant",
-      "blogger_url": "https://www.mintainfo.com/2026/07/accountant-di-morbidelli-riau-pekanbaru.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10495,
-      "company": "SMA IT Soeman HS",
-      "title": "Tenaga Pendidik & 16 Posisi Lainnya..",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-tenaga-pendidik-16-posisi-lainnya.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10520,
-      "company": "Aestetika Dental Care",
-      "title": "ASISTEN DOKTER GIGI",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-asisten-dokter-gigi-terbaru.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10490,
-      "company": "RS Prima Pekanbaru",
-      "title": "Farmasi Klinis",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-farmasi-klinis-di-rs-prima.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10467,
-      "company": "Snap Laundry Express",
-      "title": "Karyawan Laundry",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-karyawan-laundry-di-snap.html",
-      "date_label": "Kamis, 23 Juli 2026"
-    },
-    {
-      "id": 10466,
-      "company": "Steam Pro Garage",
-      "title": "Crew Cuci Motor",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-cuci-motor-terbaru-steam-pro.html",
-      "date_label": "Kamis, 23 Juli 2026"
     }
   ]
 }
