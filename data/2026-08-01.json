@@ -1,8 +1,14 @@
 {
   "date": "2026-08-01",
   "date_label": "Sabtu, 1 Agustus 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 12483,
+      "company": "Bimbel Einstein Education Pekanbaru",
+      "title": "OB/OPS",
+      "blogger_url": "https://www.mintainfo.com/2026/08/bimbel-einstein-education-pekanbaru.html"
+    },
     {
       "id": 12480,
       "company": "PT. Jaya Nika Permata",
