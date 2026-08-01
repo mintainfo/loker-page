@@ -1,8 +1,14 @@
 {
   "date": "2026-08-01",
   "date_label": "Sabtu, 1 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 12499,
+      "company": "Matahari Ciputra Pekanbaru",
+      "title": "EDP (Entry Data Proses)",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-edp-entry-data-proses-di.html"
+    },
     {
       "id": 12483,
       "company": "Bimbel Einstein Education Pekanbaru",
