@@ -1,6 +1,13 @@
 {
-  "count": 72,
+  "count": 65,
   "jobs": [
+    {
+      "id": 12480,
+      "company": "PT. Jaya Nika Permata",
+      "title": "Kepala Toko",
+      "blogger_url": "https://www.mintainfo.com/2026/08/pt-jaya-nika-permata-buka-lowongan.html",
+      "date_label": "Sabtu, 1 Agustus 2026"
+    },
     {
       "id": 12408,
       "company": "Roti Canai Sedagho",
@@ -448,62 +455,6 @@
       "title": "Perawat",
       "blogger_url": "https://www.mintainfo.com/2026/07/naray-hospital-buka-lowongan-perawat.html",
       "date_label": "Sabtu, 25 Juli 2026"
-    },
-    {
-      "id": 10982,
-      "company": "JCO Metropolitan City Pekanbaru",
-      "title": "Crew Store / Frontliner",
-      "blogger_url": "https://www.mintainfo.com/2026/07/crew-store-frontliner-di-jco.html",
-      "date_label": "Jumat, 24 Juli 2026"
-    },
-    {
-      "id": 10981,
-      "company": "Sambu Group",
-      "title": "Security & Teknisi AC",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-security-teknisi-ac-terbaru-sambu.html",
-      "date_label": "Jumat, 24 Juli 2026"
-    },
-    {
-      "id": 10884,
-      "company": "PT. SUMATERA DINAMIKA UTAMA",
-      "title": "Humas",
-      "blogger_url": "https://www.mintainfo.com/2026/07/humas-di-pt-sumatera-dinamika-utama.html",
-      "date_label": "Jumat, 24 Juli 2026"
-    },
-    {
-      "id": 10875,
-      "company": "Noora Coffee",
-      "title": "Rider",
-      "blogger_url": "https://www.mintainfo.com/2026/07/noora-coffee-buka-lowongan-rider.html",
-      "date_label": "Jumat, 24 Juli 2026"
-    },
-    {
-      "id": 10872,
-      "company": "Tidak Diketahui",
-      "title": "Satpam / Security & Cleaning Service",
-      "blogger_url": "https://www.mintainfo.com/2026/07/tidak-diketahui-buka-lowongan-satpam.html",
-      "date_label": "Jumat, 24 Juli 2026"
-    },
-    {
-      "id": 10734,
-      "company": "Berkah Tirta Wahana",
-      "title": "Meta Ads Specialist",
-      "blogger_url": "https://www.mintainfo.com/2026/07/berkah-tirta-wahana-buka-lowongan-meta.html",
-      "date_label": "Jumat, 24 Juli 2026"
-    },
-    {
-      "id": 10735,
-      "company": "DAIKU SHANKARA KREASITECH",
-      "title": "Konten sosmed",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-konten-sosmed-di-daiku.html",
-      "date_label": "Jumat, 24 Juli 2026"
-    },
-    {
-      "id": 10813,
-      "company": "PT Nusantara Imperial Konstruksi",
-      "title": "Site Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-nusantara-imperial-konstruksi-buka.html",
-      "date_label": "Jumat, 24 Juli 2026"
     }
   ]
 }
