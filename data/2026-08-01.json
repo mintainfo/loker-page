@@ -1,8 +1,14 @@
 {
   "date": "2026-08-01",
   "date_label": "Sabtu, 1 Agustus 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 12661,
+      "company": "PT. Anugrah Kimt Sukses",
+      "title": "Supir Truk",
+      "blogger_url": "https://www.mintainfo.com/2026/08/supir-truk-di-pt-anugrah-kimt-sukses.html"
+    },
     {
       "id": 12640,
       "company": "GIRR STUDIO",
