@@ -1,8 +1,14 @@
 {
   "date": "2026-08-02",
   "date_label": "Minggu, 2 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 12821,
+      "company": "Kopi Radio Se-Nusantara",
+      "title": "Barista & Waiters",
+      "blogger_url": "https://www.mintainfo.com/2026/08/barista-waiters-di-kopi-radio-se.html"
+    },
     {
       "id": 12791,
       "company": "KILAU LAUNDRY",
