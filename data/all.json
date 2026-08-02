@@ -1,6 +1,13 @@
 {
-  "count": 73,
+  "count": 65,
   "jobs": [
+    {
+      "id": 12785,
+      "company": "Kaya Rasa",
+      "title": "Tenaga Produksi",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-tenaga-produksi-terbaru-kaya-rasa.html",
+      "date_label": "Minggu, 2 Agustus 2026"
+    },
     {
       "id": 12661,
       "company": "PT. Anugrah Kimt Sukses",
@@ -448,69 +455,6 @@
       "title": "Staff Toko & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/07/tidak-diketahui-buka-lowongan-staff.html",
       "date_label": "Minggu, 26 Juli 2026"
-    },
-    {
-      "id": 11369,
-      "company": "SHUKU FUKU & CO",
-      "title": "Barista / Kasir / Chef / Butcher",
-      "blogger_url": "https://www.mintainfo.com/2026/07/barista-kasir-chef-butcher-di-shuku.html",
-      "date_label": "Sabtu, 25 Juli 2026"
-    },
-    {
-      "id": 11368,
-      "company": "Sayur Fit",
-      "title": "Customer Service",
-      "blogger_url": "https://www.mintainfo.com/2026/07/sayur-fit-buka-lowongan-customer.html",
-      "date_label": "Sabtu, 25 Juli 2026"
-    },
-    {
-      "id": 11367,
-      "company": "Es Pisang ijo RR",
-      "title": "KARYAWAN PEREMPUAN",
-      "blogger_url": "https://www.mintainfo.com/2026/07/es-pisang-ijo-rr-buka-lowongan-karyawan.html",
-      "date_label": "Sabtu, 25 Juli 2026"
-    },
-    {
-      "id": 11287,
-      "company": "addStory Creative Studio",
-      "title": "Editor Video",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-editor-video-terbaru-addstory.html",
-      "date_label": "Sabtu, 25 Juli 2026"
-    },
-    {
-      "id": 11288,
-      "company": "addStory Creative Studio",
-      "title": "Photo Editor & Graphic Designer",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-photo-editor-graphic-designer.html",
-      "date_label": "Sabtu, 25 Juli 2026"
-    },
-    {
-      "id": 11228,
-      "company": "favehotel Sudirman Pekanbaru",
-      "title": "Front Desk Agent & FO Shift Leader",
-      "blogger_url": "https://www.mintainfo.com/2026/07/favehotel-sudirman-pekanbaru-buka.html",
-      "date_label": "Sabtu, 25 Juli 2026"
-    },
-    {
-      "id": 11174,
-      "company": "Klinik Salsa",
-      "title": "ASISTEN APOTEKER",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-asisten-apoteker-terbaru-klinik.html",
-      "date_label": "Sabtu, 25 Juli 2026"
-    },
-    {
-      "id": 11173,
-      "company": "LABORATORIUM KLINIK THAMRIN",
-      "title": "RADIOGRAFER",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-radiografer-terbaru-laboratorium.html",
-      "date_label": "Sabtu, 25 Juli 2026"
-    },
-    {
-      "id": 11172,
-      "company": "Naray Hospital",
-      "title": "Perawat",
-      "blogger_url": "https://www.mintainfo.com/2026/07/naray-hospital-buka-lowongan-perawat.html",
-      "date_label": "Sabtu, 25 Juli 2026"
     }
   ]
 }
