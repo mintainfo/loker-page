@@ -1,8 +1,14 @@
 {
   "date": "2026-08-02",
   "date_label": "Minggu, 2 Agustus 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 12899,
+      "company": "PT. Cinter Belosa Jaya",
+      "title": "Driver",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-driver-terbaru-pt-cinter-belosa.html"
+    },
     {
       "id": 12898,
       "company": "Solter Coffee Shop & Eatery",
