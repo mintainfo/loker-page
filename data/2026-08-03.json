@@ -1,13 +1,19 @@
 {
   "date": "2026-08-03",
   "date_label": "Senin, 3 Agustus 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 13076,
       "company": "Sekolah Paud lilik",
       "title": "Bagian Kebersihan (OB)",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-bagian-kebersihan-ob-di.html"
+    },
+    {
+      "id": 13075,
+      "company": "Tidak Diketahui",
+      "title": "Asisten Rumah Tangga (ART)",
+      "blogger_url": "https://www.mintainfo.com/2026/08/asisten-rumah-tangga-art-di-tidak.html"
     },
     {
       "id": 13042,
