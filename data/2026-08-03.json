@@ -1,8 +1,14 @@
 {
   "date": "2026-08-03",
   "date_label": "Senin, 3 Agustus 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 13042,
+      "company": "PT SINAR SOSRO GUNUNG SLAMAT",
+      "title": "Finance & Accounting Staff",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-finance-accounting-staff-di.html"
+    },
     {
       "id": 12911,
       "company": "PT Borneo Sumatera Solusi",
