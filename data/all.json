@@ -1,6 +1,13 @@
 {
-  "count": 69,
+  "count": 66,
   "jobs": [
+    {
+      "id": 12911,
+      "company": "PT Borneo Sumatera Solusi",
+      "title": "Electrical Engineer",
+      "blogger_url": "https://www.mintainfo.com/2026/08/electrical-engineer-di-pt-borneo.html",
+      "date_label": "Senin, 3 Agustus 2026"
+    },
     {
       "id": 12899,
       "company": "PT. Cinter Belosa Jaya",
@@ -455,34 +462,6 @@
       "title": "Crew Outlet - Pekanbaru",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-outlet-pekanbaru-terbaru-pt.html",
       "date_label": "Senin, 27 Juli 2026"
-    },
-    {
-      "id": 11399,
-      "company": "Floriza Flowers & Gifts",
-      "title": "Florist Full Time",
-      "blogger_url": "https://www.mintainfo.com/2026/07/florist-full-time-di-floriza-flowers.html",
-      "date_label": "Minggu, 26 Juli 2026"
-    },
-    {
-      "id": 11440,
-      "company": "Klinik Pratama Hangtuah",
-      "title": "Perawat",
-      "blogger_url": "https://www.mintainfo.com/2026/07/klinik-pratama-hangtuah-buka-lowongan.html",
-      "date_label": "Minggu, 26 Juli 2026"
-    },
-    {
-      "id": 11438,
-      "company": "Bakso Raihan",
-      "title": "Staff Akuntan",
-      "blogger_url": "https://www.mintainfo.com/2026/07/staff-akuntan-di-bakso-raihan-pekanbaru.html",
-      "date_label": "Minggu, 26 Juli 2026"
-    },
-    {
-      "id": 11403,
-      "company": "Tidak Diketahui",
-      "title": "Staff Toko & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/tidak-diketahui-buka-lowongan-staff.html",
-      "date_label": "Minggu, 26 Juli 2026"
     }
   ]
 }
