@@ -1,13 +1,19 @@
 {
   "date": "2026-08-03",
   "date_label": "Senin, 3 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 13042,
       "company": "PT SINAR SOSRO GUNUNG SLAMAT",
       "title": "Finance & Accounting Staff",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-finance-accounting-staff-di.html"
+    },
+    {
+      "id": 12995,
+      "company": "Golden Gold Beverage",
+      "title": "Asisten Manager & Admin Purchasing",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-asisten-manager-admin-purchasing.html"
     },
     {
       "id": 12911,
