@@ -1,8 +1,14 @@
 {
   "date": "2026-08-04",
   "date_label": "Selasa, 4 Agustus 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 13221,
+      "company": "SMA IT Fadhilah Pekanbaru",
+      "title": "Guru Informatika / Multimedia",
+      "blogger_url": "https://www.mintainfo.com/2026/08/sma-it-fadhilah-pekanbaru-buka-lowongan.html"
+    },
     {
       "id": 13220,
       "company": "SD IT AL HIDAYAH PEKANBARU",
