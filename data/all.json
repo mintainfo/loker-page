@@ -1,6 +1,13 @@
 {
-  "count": 70,
+  "count": 63,
   "jobs": [
+    {
+      "id": 13166,
+      "company": "Es Durian Moka",
+      "title": "Anggota tambahan/Crew Toko",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-anggota-tambahancrew-toko-di.html",
+      "date_label": "Selasa, 4 Agustus 2026"
+    },
     {
       "id": 13075,
       "company": "Tidak Diketahui",
@@ -434,62 +441,6 @@
       "title": "Security & Admin Sosmed",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-security-admin-sosmed-di.html",
       "date_label": "Selasa, 28 Juli 2026"
-    },
-    {
-      "id": 11754,
-      "company": "AXA English Buddy",
-      "title": "English Teacher / Kindergarten Teacher",
-      "blogger_url": "https://www.mintainfo.com/2026/07/english-teacher-kindergarten-teacher-di.html",
-      "date_label": "Senin, 27 Juli 2026"
-    },
-    {
-      "id": 11753,
-      "company": "SMK INOVASI RIAU",
-      "title": "Guru Kejuruan TKJ",
-      "blogger_url": "https://www.mintainfo.com/2026/07/smk-inovasi-riau-buka-lowongan-guru.html",
-      "date_label": "Senin, 27 Juli 2026"
-    },
-    {
-      "id": 11668,
-      "company": "Teh Tarik LOMMA",
-      "title": "CREW OUTLET",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-outlet-terbaru-teh-tarik.html",
-      "date_label": "Senin, 27 Juli 2026"
-    },
-    {
-      "id": 11579,
-      "company": "SEHASTA",
-      "title": "Barista",
-      "blogger_url": "https://www.mintainfo.com/2026/07/barista-di-sehasta-pekanbaru-juli-2026.html",
-      "date_label": "Senin, 27 Juli 2026"
-    },
-    {
-      "id": 11577,
-      "company": "Gladiator Sport Gym",
-      "title": "Personal Trainer & Fitness Consultant",
-      "blogger_url": "https://www.mintainfo.com/2026/07/gladiator-sport-gym-buka-lowongan.html",
-      "date_label": "Senin, 27 Juli 2026"
-    },
-    {
-      "id": 11575,
-      "company": "IBRA coffee Pekanbaru",
-      "title": "Cook",
-      "blogger_url": "https://www.mintainfo.com/2026/07/ibra-coffee-pekanbaru-buka-lowongan.html",
-      "date_label": "Senin, 27 Juli 2026"
-    },
-    {
-      "id": 11573,
-      "company": "Tidak Diketahui",
-      "title": "Pramuniaga & Kasir",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-pramuniaga-kasir-terbaru-tidak.html",
-      "date_label": "Senin, 27 Juli 2026"
-    },
-    {
-      "id": 11528,
-      "company": "PT Bighot Restaurant Indonesia",
-      "title": "Crew Outlet - Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-outlet-pekanbaru-terbaru-pt.html",
-      "date_label": "Senin, 27 Juli 2026"
     }
   ]
 }
