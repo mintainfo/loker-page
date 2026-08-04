@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "date_label": "Selasa, 4 Agustus 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 13222,
@@ -50,6 +50,12 @@
       "company": "Es Teh Indonesia",
       "title": "Crew Outlet",
       "blogger_url": "https://www.mintainfo.com/2026/08/es-teh-indonesia-buka-lowongan-crew.html"
+    },
+    {
+      "id": 13120,
+      "company": "PT Panca Buana Plasindo",
+      "title": "ADMIN LOGISTIK",
+      "blogger_url": "https://www.mintainfo.com/2026/08/admin-logistik-di-pt-panca-buana.html"
     }
   ]
 }
