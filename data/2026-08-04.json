@@ -1,8 +1,14 @@
 {
   "date": "2026-08-04",
   "date_label": "Selasa, 4 Agustus 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 13222,
+      "company": "POTATO POTATE",
+      "title": "CREW (STAFF STAND)",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-crew-staff-stand-di-potato.html"
+    },
     {
       "id": 13221,
       "company": "SMA IT Fadhilah Pekanbaru",
