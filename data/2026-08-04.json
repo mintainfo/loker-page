@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "date_label": "Selasa, 4 Agustus 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "id": 13222,
@@ -50,6 +50,12 @@
       "company": "Es Teh Indonesia",
       "title": "Crew Outlet",
       "blogger_url": "https://www.mintainfo.com/2026/08/es-teh-indonesia-buka-lowongan-crew.html"
+    },
+    {
+      "id": 13129,
+      "company": "Autism Center pekanbaru",
+      "title": "Terapis Center Autisi (Guru)",
+      "blogger_url": "https://www.mintainfo.com/2026/08/terapis-center-autisi-guru-di-autism.html"
     },
     {
       "id": 13120,
