@@ -1,13 +1,19 @@
 {
   "date": "2026-08-04",
   "date_label": "Selasa, 4 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 13166,
       "company": "Es Durian Moka",
       "title": "Anggota tambahan/Crew Toko",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-anggota-tambahancrew-toko-di.html"
+    },
+    {
+      "id": 13164,
+      "company": "Sempurna Mitra Prima",
+      "title": "Satpam",
+      "blogger_url": "https://www.mintainfo.com/2026/08/sempurna-mitra-prima-buka-lowongan.html"
     },
     {
       "id": 13160,

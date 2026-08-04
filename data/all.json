@@ -1,6 +1,13 @@
 {
-  "count": 64,
+  "count": 65,
   "jobs": [
+    {
+      "id": 13164,
+      "company": "Sempurna Mitra Prima",
+      "title": "Satpam",
+      "blogger_url": "https://www.mintainfo.com/2026/08/sempurna-mitra-prima-buka-lowongan.html",
+      "date_label": "Selasa, 4 Agustus 2026"
+    },
     {
       "id": 13160,
       "company": "Es Teh Indonesia",
