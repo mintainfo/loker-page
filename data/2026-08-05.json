@@ -1,13 +1,19 @@
 {
   "date": "2026-08-05",
   "date_label": "Rabu, 5 Agustus 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 13324,
       "company": "Teh Tarik Seroo By Seroo Group",
       "title": "Crew Outlet",
       "blogger_url": "https://www.mintainfo.com/2026/08/loker-crew-outlet-terbaru-teh-tarik.html"
+    },
+    {
+      "id": 13323,
+      "company": "Pairing Coffee",
+      "title": "Helper Bar & Housekeeping",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-helper-bar-housekeeping-terbaru.html"
     }
   ]
 }
