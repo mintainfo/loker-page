@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "date_label": "Rabu, 5 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 13324,
@@ -14,6 +14,12 @@
       "company": "Pairing Coffee",
       "title": "Helper Bar & Housekeeping",
       "blogger_url": "https://www.mintainfo.com/2026/08/loker-helper-bar-housekeeping-terbaru.html"
+    },
+    {
+      "id": 13321,
+      "company": "KB SYEKH AT-TAMIMI",
+      "title": "Tenaga Kependidikan",
+      "blogger_url": "https://www.mintainfo.com/2026/08/tenaga-kependidikan-di-kb-syekh-at.html"
     }
   ]
 }
