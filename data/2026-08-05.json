@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "date_label": "Rabu, 5 Agustus 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 13324,
@@ -26,6 +26,12 @@
       "company": "Luminous Skin",
       "title": "Perawat",
       "blogger_url": "https://www.mintainfo.com/2026/08/perawat-di-luminous-skin-pekanbaru.html"
+    },
+    {
+      "id": 13317,
+      "company": "Tengklenng Rica Mas Kentung",
+      "title": "Waiters",
+      "blogger_url": "https://www.mintainfo.com/2026/08/tengklenng-rica-mas-kentung-buka.html"
     }
   ]
 }
