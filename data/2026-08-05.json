@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "date_label": "Rabu, 5 Agustus 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "id": 13327,
@@ -44,6 +44,12 @@
       "company": "Tengklenng Rica Mas Kentung",
       "title": "Waiters",
       "blogger_url": "https://www.mintainfo.com/2026/08/tengklenng-rica-mas-kentung-buka.html"
+    },
+    {
+      "id": 13230,
+      "company": "CINEPOLIS INDONESIA",
+      "title": "Cinema Manager - Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-cinema-manager-pekanbaru-terbaru.html"
     }
   ]
 }
