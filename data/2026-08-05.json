@@ -1,8 +1,14 @@
 {
   "date": "2026-08-05",
   "date_label": "Rabu, 5 Agustus 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 13327,
+      "company": "The Mayang Hotel & Convention",
+      "title": "SECURITY",
+      "blogger_url": "https://www.mintainfo.com/2026/08/security-di-mayang-hotel-convention.html"
+    },
     {
       "id": 13326,
       "company": "Joempa Rasa",
