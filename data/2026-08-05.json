@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "date_label": "Rabu, 5 Agustus 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 13324,
@@ -20,6 +20,12 @@
       "company": "KB SYEKH AT-TAMIMI",
       "title": "Tenaga Kependidikan",
       "blogger_url": "https://www.mintainfo.com/2026/08/tenaga-kependidikan-di-kb-syekh-at.html"
+    },
+    {
+      "id": 13320,
+      "company": "Luminous Skin",
+      "title": "Perawat",
+      "blogger_url": "https://www.mintainfo.com/2026/08/perawat-di-luminous-skin-pekanbaru.html"
     }
   ]
 }
