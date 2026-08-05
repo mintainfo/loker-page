@@ -1,6 +1,13 @@
 {
-  "count": 72,
+  "count": 67,
   "jobs": [
+    {
+      "id": 13324,
+      "company": "Teh Tarik Seroo By Seroo Group",
+      "title": "Crew Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-crew-outlet-terbaru-teh-tarik.html",
+      "date_label": "Rabu, 5 Agustus 2026"
+    },
     {
       "id": 13129,
       "company": "Autism Center pekanbaru",
@@ -462,48 +469,6 @@
       "title": "Karyawan Toko",
       "blogger_url": "https://www.mintainfo.com/2026/07/karyawan-toko-di-toko-central-nusantara.html",
       "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 11981,
-      "company": "RS Mesra",
-      "title": "Staf Admini / Ahli Gizi / Perawat",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-staf-admini-ahli-gizi-perawat.html",
-      "date_label": "Selasa, 28 Juli 2026"
-    },
-    {
-      "id": 11755,
-      "company": "SOZO Dental (Seven Retail Group)",
-      "title": "Frontliner Sozo Dental - Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/07/frontliner-sozo-dental-pekanbaru-di.html",
-      "date_label": "Selasa, 28 Juli 2026"
-    },
-    {
-      "id": 11861,
-      "company": "Politeknik Kampar",
-      "title": "Dosen Program Studi D2 Teknik Pengolahan Kelapa Sawit",
-      "blogger_url": "https://www.mintainfo.com/2026/07/politeknik-kampar-buka-lowongan-dosen.html",
-      "date_label": "Selasa, 28 Juli 2026"
-    },
-    {
-      "id": 11860,
-      "company": "RUMAH SAKIT SURYA INSANI",
-      "title": "CLEANING SERVICE /  SATPAM / PEKARYA",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-cleaning-service-satpam-pekarya.html",
-      "date_label": "Selasa, 28 Juli 2026"
-    },
-    {
-      "id": 11859,
-      "company": "Dompet Dhuafa Riau",
-      "title": "Guru Pedalaman",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-guru-pedalaman-terbaru-dompet.html",
-      "date_label": "Selasa, 28 Juli 2026"
-    },
-    {
-      "id": 11858,
-      "company": "FAJAR STORE",
-      "title": "Security & Admin Sosmed",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-security-admin-sosmed-di.html",
-      "date_label": "Selasa, 28 Juli 2026"
     }
   ]
 }
