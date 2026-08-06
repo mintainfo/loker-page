@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "date_label": "Kamis, 6 Agustus 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 13433,
@@ -14,6 +14,12 @@
       "company": "Karsa Cafe",
       "title": "Cook & Waiter/Waitress",
       "blogger_url": "https://www.mintainfo.com/2026/08/cook-waiterwaitress-di-karsa-cafe.html"
+    },
+    {
+      "id": 13371,
+      "company": "RPX One Stop Logistics",
+      "title": "Mitra Kurir Motor & Mitra Kurir Mobil",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rpx-one-stop-logistics-buka-lowongan.html"
     },
     {
       "id": 13330,
