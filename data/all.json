@@ -1,6 +1,13 @@
 {
-  "count": 74,
+  "count": 61,
   "jobs": [
+    {
+      "id": 13330,
+      "company": "Wisana Matrakarya",
+      "title": "Site Engineer",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-site-engineer-di-wisana.html",
+      "date_label": "Kamis, 6 Agustus 2026"
+    },
     {
       "id": 13230,
       "company": "CINEPOLIS INDONESIA",
@@ -420,104 +427,6 @@
       "title": "Barista Saring",
       "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-saring-terbaru-tuan.html",
       "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12152,
-      "company": "PT NUSA LIMA MEDIKA",
-      "title": "Dokter Umum",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-nusa-lima-medika-buka-lowongan.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 12159,
-      "company": "IGA BAKAR COBEK",
-      "title": "Waiters",
-      "blogger_url": "https://www.mintainfo.com/2026/07/iga-bakar-cobek-buka-lowongan-waiters.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 12160,
-      "company": "asclean laundry",
-      "title": "Bagian Kasir, Cuci, Packing & Bagian Setrika Uap",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-bagian-kasir-cuci-packing_01954195007.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 12155,
-      "company": "Klinik Bunda Thamrin",
-      "title": "Sarpras & K3",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-sarpras-k3-di-klinik-bunda.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 12154,
-      "company": "The Rose Aesthetic Clinic",
-      "title": "Perawat",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-perawat-terbaru-rose-aesthetic.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 12153,
-      "company": "Ikonyoko",
-      "title": "Crew Outlet",
-      "blogger_url": "https://www.mintainfo.com/2026/07/crew-outlet-di-ikonyoko-pekanbaru-juli.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 12120,
-      "company": "SDIT TAHFIDZUL QUR'AN",
-      "title": "Guru B.Arab & Fiqih",
-      "blogger_url": "https://www.mintainfo.com/2026/07/guru-barab-fiqih-di-sdit-tahfidzul.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 12010,
-      "company": "PT. Jaya Nika Permata",
-      "title": "Chef De Partie Bakery",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-chef-de-partie-bakery-terbaru-pt.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 12077,
-      "company": "Manly Barbershop",
-      "title": "Cashier (Wanita) (Penempatan Pekanbaru)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-cashier-wanita-penempatan.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 11986,
-      "company": "Wilmar Group",
-      "title": "Assistant Electrical - Palm Oil Mill",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-assistant-electrical-palm-oil.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 11987,
-      "company": "PT Mobil Anak Bangsa",
-      "title": "Mekanik EV 4 Wheel Up (Bus & Truk)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-mekanik-ev-4-wheel-up-bus.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 12114,
-      "company": "Infinity Liquor",
-      "title": "Kasir & Resto",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-kasir-resto-terbaru-infinity.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 12112,
-      "company": "Roti Bakar Djaya",
-      "title": "Staff Gerobakan",
-      "blogger_url": "https://www.mintainfo.com/2026/07/roti-bakar-djaya-buka-lowongan-staff.html",
-      "date_label": "Rabu, 29 Juli 2026"
-    },
-    {
-      "id": 12111,
-      "company": "TOKO CENTRAL NUSANTARA",
-      "title": "Karyawan Toko",
-      "blogger_url": "https://www.mintainfo.com/2026/07/karyawan-toko-di-toko-central-nusantara.html",
-      "date_label": "Rabu, 29 Juli 2026"
     }
   ]
 }
