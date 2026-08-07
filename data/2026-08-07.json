@@ -1,8 +1,14 @@
 {
   "date": "2026-08-07",
   "date_label": "Jumat, 7 Agustus 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 13532,
+      "company": "HERMAN DENTAL CARE",
+      "title": "DOKTER GIGI",
+      "blogger_url": "https://www.mintainfo.com/2026/08/herman-dental-care-buka-lowongan-dokter.html"
+    },
     {
       "id": 13531,
       "company": "Gaia Osteria",
