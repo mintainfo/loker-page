@@ -1,8 +1,14 @@
 {
   "date": "2026-08-07",
   "date_label": "Jumat, 7 Agustus 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 13535,
+      "company": "Max's Derma",
+      "title": "Beautician",
+      "blogger_url": "https://www.mintainfo.com/2026/08/maxs-derma-buka-lowongan-beautician.html"
+    },
     {
       "id": 13534,
       "company": "DERMARIS AESTHETIC & ANTI-AGING",
