@@ -1,6 +1,13 @@
 {
-  "count": 64,
+  "count": 51,
   "jobs": [
+    {
+      "id": 13531,
+      "company": "Gaia Osteria",
+      "title": "Head Bar / Head Cook",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-head-bar-head-cook-terbaru-gaia.html",
+      "date_label": "Jumat, 7 Agustus 2026"
+    },
     {
       "id": 13371,
       "company": "RPX One Stop Logistics",
@@ -350,104 +357,6 @@
       "title": "Waiter / Waitress / Kitchen Helper Pekanbaru",
       "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-waiter-waitress-kitchen.html",
       "date_label": "Jumat, 31 Juli 2026"
-    },
-    {
-      "id": 12276,
-      "company": "MALABAR COFFEE AND EATERY",
-      "title": "SENIOR BARISTA / JUNIOR BARISTA",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-senior-barista-junior-barista.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12275,
-      "company": "JUMBO MART",
-      "title": "CASHIER",
-      "blogger_url": "https://www.mintainfo.com/2026/07/cashier-di-jumbo-mart-pekanbaru-juli.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12214,
-      "company": "Kopigas",
-      "title": "Crewkopi keliling",
-      "blogger_url": "https://www.mintainfo.com/2026/07/kopigas-buka-lowongan-crewkopi-keliling.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12213,
-      "company": "Jajan Kopi",
-      "title": "RIDER KOPI KELILING",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rider-kopi-keliling-di-jajan-kopi.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12232,
-      "company": "Klinik Pratama dr. MEKAR",
-      "title": "Bidan / Perawat & Asisten Apoteker",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-bidan-perawat-asisten.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12231,
-      "company": "RMB Hospital Group",
-      "title": "MANAJER PELAYANAN & PENUNJANG MEDIS",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rmb-hospital-group-buka-lowongan.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12273,
-      "company": "babyplace.id",
-      "title": "KASIR",
-      "blogger_url": "https://www.mintainfo.com/2026/07/kasir-di-babyplaceid-pekanbaru-juli-2026.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12163,
-      "company": "PT Delta Giri Wacana, Tbk.",
-      "title": "Logistic Supervisor Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/07/pt-delta-giri-wacana-tbk-buka-lowongan.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12221,
-      "company": "SLV Aesthetic Clinic",
-      "title": "Dokter Aesthetic & Dokter Gigi",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-dokter-aesthetic-dokter-gigi.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12223,
-      "company": "Sky Celluler",
-      "title": "PENJAGA KONTER & MINI ATM",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-penjaga-konter-mini-atm-terbaru.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12226,
-      "company": "Es Durian Revin",
-      "title": "Waiters",
-      "blogger_url": "https://www.mintainfo.com/2026/07/waiters-di-es-durian-revin-pekanbaru.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12228,
-      "company": "Kedai Kopi Acin",
-      "title": "Barista & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-posisi-lainnya-terbaru.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12272,
-      "company": "TUAN ROEMAH kopitiam",
-      "title": "Barista Saring",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-saring-terbaru-tuan_0204428944.html",
-      "date_label": "Kamis, 30 Juli 2026"
-    },
-    {
-      "id": 12271,
-      "company": "TUAN ROEMAH kopitiam",
-      "title": "Barista Saring",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-barista-saring-terbaru-tuan.html",
-      "date_label": "Kamis, 30 Juli 2026"
     }
   ]
 }
