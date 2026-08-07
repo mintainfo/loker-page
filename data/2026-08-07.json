@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "date_label": "Jumat, 7 Agustus 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 13535,
@@ -32,6 +32,12 @@
       "company": "Gaia Osteria",
       "title": "Head Bar / Head Cook",
       "blogger_url": "https://www.mintainfo.com/2026/08/loker-head-bar-head-cook-terbaru-gaia.html"
+    },
+    {
+      "id": 13478,
+      "company": "PT ISS INDONESIA (Bintaro)",
+      "title": "Teknisi Gedung - Pangkalan Kerinci (RIAU)",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-teknisi-gedung-pangkalan.html"
     }
   ]
 }
