@@ -1,8 +1,14 @@
 {
   "date": "2026-08-07",
   "date_label": "Jumat, 7 Agustus 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 13588,
+      "company": "ARI GROSIR",
+      "title": "Karyawan Grosir Baju",
+      "blogger_url": "https://www.mintainfo.com/2026/08/ari-grosir-buka-lowongan-karyawan.html"
+    },
     {
       "id": 13535,
       "company": "Max's Derma",
