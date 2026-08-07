@@ -1,6 +1,13 @@
 {
-  "count": 60,
+  "count": 61,
   "jobs": [
+    {
+      "id": 13587,
+      "company": "Mie Surabaya",
+      "title": "JURU MASAK",
+      "blogger_url": "https://www.mintainfo.com/2026/08/juru-masak-di-mie-surabaya-pekanbaru.html",
+      "date_label": "Jumat, 7 Agustus 2026"
+    },
     {
       "id": 13585,
       "company": "KILAU LAUNDRY",

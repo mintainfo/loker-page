@@ -1,13 +1,19 @@
 {
   "date": "2026-08-07",
   "date_label": "Jumat, 7 Agustus 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "id": 13588,
       "company": "ARI GROSIR",
       "title": "Karyawan Grosir Baju",
       "blogger_url": "https://www.mintainfo.com/2026/08/ari-grosir-buka-lowongan-karyawan.html"
+    },
+    {
+      "id": 13587,
+      "company": "Mie Surabaya",
+      "title": "JURU MASAK",
+      "blogger_url": "https://www.mintainfo.com/2026/08/juru-masak-di-mie-surabaya-pekanbaru.html"
     },
     {
       "id": 13586,
