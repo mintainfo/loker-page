@@ -1,8 +1,14 @@
 {
   "date": "2026-08-07",
   "date_label": "Jumat, 7 Agustus 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 13534,
+      "company": "DERMARIS AESTHETIC & ANTI-AGING",
+      "title": "Admin Operasional Klinik",
+      "blogger_url": "https://www.mintainfo.com/2026/08/dermaris-aesthetic-anti-aging-buka.html"
+    },
     {
       "id": 13533,
       "company": "Satria kursus mengemudi",
