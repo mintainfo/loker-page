@@ -1,8 +1,14 @@
 {
   "date": "2026-08-07",
   "date_label": "Jumat, 7 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 13533,
+      "company": "Satria kursus mengemudi",
+      "title": "Admin",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-admin-terbaru-satria-kursus.html"
+    },
     {
       "id": 13532,
       "company": "HERMAN DENTAL CARE",
