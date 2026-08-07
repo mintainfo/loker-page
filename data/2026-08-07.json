@@ -1,13 +1,19 @@
 {
   "date": "2026-08-07",
   "date_label": "Jumat, 7 Agustus 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 13588,
       "company": "ARI GROSIR",
       "title": "Karyawan Grosir Baju",
       "blogger_url": "https://www.mintainfo.com/2026/08/ari-grosir-buka-lowongan-karyawan.html"
+    },
+    {
+      "id": 13586,
+      "company": "MINIMARKET PONDOK PESANTREN SYAHRUDDINIYAH",
+      "title": "STAF KASIR",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-staf-kasir-terbaru-minimarket.html"
     },
     {
       "id": 13535,
