@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "date_label": "Jumat, 7 Agustus 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 13535,
@@ -38,6 +38,12 @@
       "company": "PT ISS INDONESIA (Bintaro)",
       "title": "Teknisi Gedung - Pangkalan Kerinci (RIAU)",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-teknisi-gedung-pangkalan.html"
+    },
+    {
+      "id": 13470,
+      "company": "PT Suprabakti Mandiri",
+      "title": "Senior Engineer",
+      "blogger_url": "https://www.mintainfo.com/2026/08/pt-suprabakti-mandiri-buka-lowongan.html"
     }
   ]
 }
