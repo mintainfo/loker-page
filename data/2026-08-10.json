@@ -1,13 +1,19 @@
 {
   "date": "2026-08-10",
   "date_label": "Senin, 10 Agustus 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 13647,
       "company": "Fianda coffee space and roastery",
       "title": "Chef/juru masak",
       "blogger_url": "https://www.mintainfo.com/2026/08/chefjuru-masak-di-fianda-coffee-space.html"
+    },
+    {
+      "id": 13620,
+      "company": "PT Pioneerindo Gourmet",
+      "title": "Crew Store CFC",
+      "blogger_url": "https://www.mintainfo.com/2026/08/pt-pioneerindo-gourmet-buka-lowongan.html"
     }
   ]
 }
