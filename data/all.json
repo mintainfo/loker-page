@@ -1,6 +1,13 @@
 {
-  "count": 61,
+  "count": 39,
   "jobs": [
+    {
+      "id": 13647,
+      "company": "Fianda coffee space and roastery",
+      "title": "Chef/juru masak",
+      "blogger_url": "https://www.mintainfo.com/2026/08/chefjuru-masak-di-fianda-coffee-space.html",
+      "date_label": "Senin, 10 Agustus 2026"
+    },
     {
       "id": 13587,
       "company": "Mie Surabaya",
@@ -266,167 +273,6 @@
       "title": "Electrical Engineer",
       "blogger_url": "https://www.mintainfo.com/2026/08/electrical-engineer-di-pt-borneo.html",
       "date_label": "Senin, 3 Agustus 2026"
-    },
-    {
-      "id": 12899,
-      "company": "PT. Cinter Belosa Jaya",
-      "title": "Driver",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-driver-terbaru-pt-cinter-belosa.html",
-      "date_label": "Minggu, 2 Agustus 2026"
-    },
-    {
-      "id": 12898,
-      "company": "Solter Coffee Shop & Eatery",
-      "title": "waitress",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-waitress-di-solter-coffee.html",
-      "date_label": "Minggu, 2 Agustus 2026"
-    },
-    {
-      "id": 12821,
-      "company": "Kopi Radio Se-Nusantara",
-      "title": "Barista & Waiters",
-      "blogger_url": "https://www.mintainfo.com/2026/08/barista-waiters-di-kopi-radio-se.html",
-      "date_label": "Minggu, 2 Agustus 2026"
-    },
-    {
-      "id": 12791,
-      "company": "KILAU LAUNDRY",
-      "title": "KARYAWAN LAUNDRY",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-karyawan-laundry-di-kilau.html",
-      "date_label": "Minggu, 2 Agustus 2026"
-    },
-    {
-      "id": 12785,
-      "company": "Kaya Rasa",
-      "title": "Tenaga Produksi",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-tenaga-produksi-terbaru-kaya-rasa.html",
-      "date_label": "Minggu, 2 Agustus 2026"
-    },
-    {
-      "id": 12661,
-      "company": "PT. Anugrah Kimt Sukses",
-      "title": "Supir Truk",
-      "blogger_url": "https://www.mintainfo.com/2026/08/supir-truk-di-pt-anugrah-kimt-sukses.html",
-      "date_label": "Sabtu, 1 Agustus 2026"
-    },
-    {
-      "id": 12640,
-      "company": "GIRR STUDIO",
-      "title": "Drafter 2D",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-drafter-2d-terbaru-girr-studio.html",
-      "date_label": "Sabtu, 1 Agustus 2026"
-    },
-    {
-      "id": 12639,
-      "company": "HISANA FRIED CHICKEN",
-      "title": "KASIR",
-      "blogger_url": "https://www.mintainfo.com/2026/08/kasir-di-hisana-fried-chicken-pekanbaru.html",
-      "date_label": "Sabtu, 1 Agustus 2026"
-    },
-    {
-      "id": 12514,
-      "company": "Roti Bakar Djaya",
-      "title": "Staff Gerobakan",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-staff-gerobakan-terbaru-roti.html",
-      "date_label": "Sabtu, 1 Agustus 2026"
-    },
-    {
-      "id": 12513,
-      "company": "Utopia Board Game Cafe",
-      "title": "Game Master & Cook",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-game-master-cook-terbaru-utopia.html",
-      "date_label": "Sabtu, 1 Agustus 2026"
-    },
-    {
-      "id": 12638,
-      "company": "SMK KESPROSKILL",
-      "title": "ACCOUNTING / BENDAHARA",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-accounting-bendahara-terbaru-smk.html",
-      "date_label": "Sabtu, 1 Agustus 2026"
-    },
-    {
-      "id": 12499,
-      "company": "Matahari Ciputra Pekanbaru",
-      "title": "EDP (Entry Data Proses)",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-edp-entry-data-proses-di.html",
-      "date_label": "Sabtu, 1 Agustus 2026"
-    },
-    {
-      "id": 12483,
-      "company": "Bimbel Einstein Education Pekanbaru",
-      "title": "OB/OPS",
-      "blogger_url": "https://www.mintainfo.com/2026/08/bimbel-einstein-education-pekanbaru.html",
-      "date_label": "Sabtu, 1 Agustus 2026"
-    },
-    {
-      "id": 12480,
-      "company": "PT. Jaya Nika Permata",
-      "title": "Kepala Toko",
-      "blogger_url": "https://www.mintainfo.com/2026/08/pt-jaya-nika-permata-buka-lowongan.html",
-      "date_label": "Sabtu, 1 Agustus 2026"
-    },
-    {
-      "id": 12408,
-      "company": "Roti Canai Sedagho",
-      "title": "Tukang Masak",
-      "blogger_url": "https://www.mintainfo.com/2026/07/roti-canai-sedagho-buka-lowongan-tukang.html",
-      "date_label": "Jumat, 31 Juli 2026"
-    },
-    {
-      "id": 12459,
-      "company": "numi",
-      "title": "Hair Stylist & Therapist",
-      "blogger_url": "https://www.mintainfo.com/2026/07/hair-stylist-therapist-di-numi.html",
-      "date_label": "Jumat, 31 Juli 2026"
-    },
-    {
-      "id": 12416,
-      "company": "Se'Indonesia",
-      "title": "Area Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/07/seindonesia-buka-lowongan-area-manager.html",
-      "date_label": "Jumat, 31 Juli 2026"
-    },
-    {
-      "id": 12284,
-      "company": "PT Adecco Personnel Indonesia",
-      "title": "Customer Service Support (Contract)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-customer-service-support.html",
-      "date_label": "Jumat, 31 Juli 2026"
-    },
-    {
-      "id": 12378,
-      "company": "FRUITCITY",
-      "title": "CREW",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-crew-terbaru-fruitcity-pekanbaru.html",
-      "date_label": "Jumat, 31 Juli 2026"
-    },
-    {
-      "id": 12377,
-      "company": "RUTIN BANGUNAN",
-      "title": "Helper / Kernek",
-      "blogger_url": "https://www.mintainfo.com/2026/07/loker-helper-kernek-terbaru-rutin.html",
-      "date_label": "Jumat, 31 Juli 2026"
-    },
-    {
-      "id": 12376,
-      "company": "BARBER STC",
-      "title": "KAPSTER/ BARBERMAN",
-      "blogger_url": "https://www.mintainfo.com/2026/07/barber-stc-buka-lowongan-kapster.html",
-      "date_label": "Jumat, 31 Juli 2026"
-    },
-    {
-      "id": 12375,
-      "company": "SMK Kansai Pekanbaru",
-      "title": "Guru Bimbingan Konseling (BK)",
-      "blogger_url": "https://www.mintainfo.com/2026/07/smk-kansai-pekanbaru-buka-lowongan-guru.html",
-      "date_label": "Jumat, 31 Juli 2026"
-    },
-    {
-      "id": 12299,
-      "company": "PT CRI Tbk",
-      "title": "Waiter / Waitress / Kitchen Helper Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/07/rekrutmen-waiter-waitress-kitchen.html",
-      "date_label": "Jumat, 31 Juli 2026"
     }
   ]
 }
