@@ -1,6 +1,13 @@
 {
-  "count": 30,
+  "count": 31,
   "jobs": [
+    {
+      "id": 14015,
+      "company": "Zyan Cafe",
+      "title": "Waiter / Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-waiter-barista-di-zyan-cafe.html",
+      "date_label": "Rabu, 12 Agustus 2026"
+    },
     {
       "id": 14017,
       "company": "Klinik Utama Harapan Ibunda",
