@@ -1,8 +1,14 @@
 {
   "date": "2026-08-12",
   "date_label": "Rabu, 12 Agustus 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 14018,
+      "company": "PT Syifa Utama (RS Islam Ibnu Sina Pekanbaru)",
+      "title": "Sekretaris Direktur",
+      "blogger_url": "https://www.mintainfo.com/2026/08/sekretaris-direktur-di-pt-syifa-utama.html"
+    },
     {
       "id": 14017,
       "company": "Klinik Utama Harapan Ibunda",
