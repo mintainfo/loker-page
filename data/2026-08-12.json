@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "date_label": "Rabu, 12 Agustus 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 14017,
@@ -26,6 +26,12 @@
       "company": "Bengkel Speed Rider (CV.Berkah Ridho Illahi)",
       "title": "Admin/Kasir",
       "blogger_url": "https://www.mintainfo.com/2026/08/adminkasir-di-bengkel-speed-rider.html"
+    },
+    {
+      "id": 13892,
+      "company": "GADGET ON",
+      "title": "MAGANG TEKNISI IPHONE",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-magang-teknisi-iphone-di.html"
     }
   ]
 }
