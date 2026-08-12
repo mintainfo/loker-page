@@ -1,8 +1,14 @@
 {
   "date": "2026-08-12",
   "date_label": "Rabu, 12 Agustus 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 14019,
+      "company": "Gramedia",
+      "title": "Store Apprenticeship",
+      "blogger_url": "https://www.mintainfo.com/2026/08/store-apprenticeship-di-gramedia.html"
+    },
     {
       "id": 14018,
       "company": "PT Syifa Utama (RS Islam Ibnu Sina Pekanbaru)",
