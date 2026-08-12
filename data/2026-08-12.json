@@ -1,13 +1,19 @@
 {
   "date": "2026-08-12",
   "date_label": "Rabu, 12 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 14017,
       "company": "Klinik Utama Harapan Ibunda",
       "title": "Asisten Apoteker",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-asisten-apoteker-di-klinik.html"
+    },
+    {
+      "id": 14016,
+      "company": "Gadoca Coffee",
+      "title": "Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/08/gadoca-coffee-buka-lowongan-barista.html"
     },
     {
       "id": 14015,

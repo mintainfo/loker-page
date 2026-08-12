@@ -1,6 +1,13 @@
 {
-  "count": 31,
+  "count": 32,
   "jobs": [
+    {
+      "id": 14016,
+      "company": "Gadoca Coffee",
+      "title": "Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/08/gadoca-coffee-buka-lowongan-barista.html",
+      "date_label": "Rabu, 12 Agustus 2026"
+    },
     {
       "id": 14015,
       "company": "Zyan Cafe",
