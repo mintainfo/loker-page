@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "date_label": "Rabu, 12 Agustus 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 14017,
@@ -20,6 +20,12 @@
       "company": "Zyan Cafe",
       "title": "Waiter / Barista",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-waiter-barista-di-zyan-cafe.html"
+    },
+    {
+      "id": 13955,
+      "company": "Bengkel Speed Rider (CV.Berkah Ridho Illahi)",
+      "title": "Admin/Kasir",
+      "blogger_url": "https://www.mintainfo.com/2026/08/adminkasir-di-bengkel-speed-rider.html"
     }
   ]
 }
