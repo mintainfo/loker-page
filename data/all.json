@@ -1,6 +1,13 @@
 {
-  "count": 37,
+  "count": 30,
   "jobs": [
+    {
+      "id": 14028,
+      "company": "PT. Trimitra Sejahtera SRC",
+      "title": "Staff Digital Media",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-staff-digital-media-terbaru-pt.html",
+      "date_label": "Kamis, 13 Agustus 2026"
+    },
     {
       "id": 14019,
       "company": "Gramedia",
@@ -203,62 +210,6 @@
       "title": "Site Engineer",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-site-engineer-di-wisana.html",
       "date_label": "Kamis, 6 Agustus 2026"
-    },
-    {
-      "id": 13230,
-      "company": "CINEPOLIS INDONESIA",
-      "title": "Cinema Manager - Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-cinema-manager-pekanbaru-terbaru.html",
-      "date_label": "Rabu, 5 Agustus 2026"
-    },
-    {
-      "id": 13327,
-      "company": "The Mayang Hotel & Convention",
-      "title": "SECURITY",
-      "blogger_url": "https://www.mintainfo.com/2026/08/security-di-mayang-hotel-convention.html",
-      "date_label": "Rabu, 5 Agustus 2026"
-    },
-    {
-      "id": 13326,
-      "company": "Joempa Rasa",
-      "title": "Waitress",
-      "blogger_url": "https://www.mintainfo.com/2026/08/waitress-di-joempa-rasa-pekanbaru.html",
-      "date_label": "Rabu, 5 Agustus 2026"
-    },
-    {
-      "id": 13317,
-      "company": "Tengklenng Rica Mas Kentung",
-      "title": "Waiters",
-      "blogger_url": "https://www.mintainfo.com/2026/08/tengklenng-rica-mas-kentung-buka.html",
-      "date_label": "Rabu, 5 Agustus 2026"
-    },
-    {
-      "id": 13320,
-      "company": "Luminous Skin",
-      "title": "Perawat",
-      "blogger_url": "https://www.mintainfo.com/2026/08/perawat-di-luminous-skin-pekanbaru.html",
-      "date_label": "Rabu, 5 Agustus 2026"
-    },
-    {
-      "id": 13321,
-      "company": "KB SYEKH AT-TAMIMI",
-      "title": "Tenaga Kependidikan",
-      "blogger_url": "https://www.mintainfo.com/2026/08/tenaga-kependidikan-di-kb-syekh-at.html",
-      "date_label": "Rabu, 5 Agustus 2026"
-    },
-    {
-      "id": 13323,
-      "company": "Pairing Coffee",
-      "title": "Helper Bar & Housekeeping",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-helper-bar-housekeeping-terbaru.html",
-      "date_label": "Rabu, 5 Agustus 2026"
-    },
-    {
-      "id": 13324,
-      "company": "Teh Tarik Seroo By Seroo Group",
-      "title": "Crew Outlet",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-crew-outlet-terbaru-teh-tarik.html",
-      "date_label": "Rabu, 5 Agustus 2026"
     }
   ]
 }
