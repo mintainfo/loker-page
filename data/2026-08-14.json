@@ -1,8 +1,14 @@
 {
   "date": "2026-08-14",
   "date_label": "Jumat, 14 Agustus 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 14221,
+      "company": "An Namiroh & Dayyinah Kids",
+      "title": "Driver",
+      "blogger_url": "https://www.mintainfo.com/2026/08/driver-di-namiroh-dayyinah-kids.html"
+    },
     {
       "id": 14220,
       "company": "RUMAH SAKIT PMC PEKANBARU MEDICAL CENTER",
