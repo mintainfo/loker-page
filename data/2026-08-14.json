@@ -1,8 +1,14 @@
 {
   "date": "2026-08-14",
   "date_label": "Jumat, 14 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 14112,
+      "company": "PT Tamara Overseas Corporindo",
+      "title": "Teknisi Elektromedik",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-teknisi-elektromedik-terbaru-pt.html"
+    },
     {
       "id": 14109,
       "company": "PT Mitra Angkutan Sejati",
