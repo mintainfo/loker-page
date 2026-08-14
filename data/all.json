@@ -1,6 +1,13 @@
 {
-  "count": 37,
+  "count": 34,
   "jobs": [
+    {
+      "id": 14069,
+      "company": "PT Karisma Zona Kreatifku",
+      "title": "Fullstack Mobile Developer",
+      "blogger_url": "https://www.mintainfo.com/2026/08/pt-karisma-zona-kreatifku-buka-lowongan.html",
+      "date_label": "Jumat, 14 Agustus 2026"
+    },
     {
       "id": 14108,
       "company": "KLINIK PRATAMA SERTA MULIA",
@@ -231,34 +238,6 @@
       "title": "Head Bar / Head Cook",
       "blogger_url": "https://www.mintainfo.com/2026/08/loker-head-bar-head-cook-terbaru-gaia.html",
       "date_label": "Jumat, 7 Agustus 2026"
-    },
-    {
-      "id": 13371,
-      "company": "RPX One Stop Logistics",
-      "title": "Mitra Kurir Motor & Mitra Kurir Mobil",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rpx-one-stop-logistics-buka-lowongan.html",
-      "date_label": "Kamis, 6 Agustus 2026"
-    },
-    {
-      "id": 13381,
-      "company": "Karsa Cafe",
-      "title": "Cook & Waiter/Waitress",
-      "blogger_url": "https://www.mintainfo.com/2026/08/cook-waiterwaitress-di-karsa-cafe.html",
-      "date_label": "Kamis, 6 Agustus 2026"
-    },
-    {
-      "id": 13433,
-      "company": "PT Nusantara Andalan Indo Kencana",
-      "title": "KEPALA GUDANG",
-      "blogger_url": "https://www.mintainfo.com/2026/08/pt-nusantara-andalan-indo-kencana-buka.html",
-      "date_label": "Kamis, 6 Agustus 2026"
-    },
-    {
-      "id": 13330,
-      "company": "Wisana Matrakarya",
-      "title": "Site Engineer",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-site-engineer-di-wisana.html",
-      "date_label": "Kamis, 6 Agustus 2026"
     }
   ]
 }
