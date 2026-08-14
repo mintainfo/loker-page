@@ -1,8 +1,14 @@
 {
   "date": "2026-08-14",
   "date_label": "Jumat, 14 Agustus 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 14218,
+      "company": "Mahesa Brata",
+      "title": "Guru",
+      "blogger_url": "https://www.mintainfo.com/2026/08/guru-di-mahesa-brata-pekanbaru-agustus.html"
+    },
     {
       "id": 14181,
       "company": "TIMUR TENGAH STORE",
