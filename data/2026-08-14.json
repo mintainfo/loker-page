@@ -1,8 +1,14 @@
 {
   "date": "2026-08-14",
   "date_label": "Jumat, 14 Agustus 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 14181,
+      "company": "TIMUR TENGAH STORE",
+      "title": "STAFF PACKING",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-staff-packing-di-timur-tengah.html"
+    },
     {
       "id": 14169,
       "company": "Tenten x Nasi Uduk Semangat",
