@@ -1,6 +1,13 @@
 {
-  "count": 43,
+  "count": 33,
   "jobs": [
+    {
+      "id": 14277,
+      "company": "Aulia Hospital",
+      "title": "Kepala Divisi Human Capital & 4 Posisi Lainnya..",
+      "blogger_url": "https://www.mintainfo.com/2026/08/aulia-hospital-buka-lowongan-kepala.html",
+      "date_label": "Minggu, 16 Agustus 2026"
+    },
     {
       "id": 14221,
       "company": "An Namiroh & Dayyinah Kids",
@@ -224,83 +231,6 @@
       "title": "Chef/juru masak",
       "blogger_url": "https://www.mintainfo.com/2026/08/chefjuru-masak-di-fianda-coffee-space.html",
       "date_label": "Senin, 10 Agustus 2026"
-    },
-    {
-      "id": 13587,
-      "company": "Mie Surabaya",
-      "title": "JURU MASAK",
-      "blogger_url": "https://www.mintainfo.com/2026/08/juru-masak-di-mie-surabaya-pekanbaru.html",
-      "date_label": "Jumat, 7 Agustus 2026"
-    },
-    {
-      "id": 13585,
-      "company": "KILAU LAUNDRY",
-      "title": "KARYAWAN LAUNDRY",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-karyawan-laundry-di-kilau_01772740087.html",
-      "date_label": "Jumat, 7 Agustus 2026"
-    },
-    {
-      "id": 13586,
-      "company": "MINIMARKET PONDOK PESANTREN SYAHRUDDINIYAH",
-      "title": "STAF KASIR",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-staf-kasir-terbaru-minimarket.html",
-      "date_label": "Jumat, 7 Agustus 2026"
-    },
-    {
-      "id": 13588,
-      "company": "ARI GROSIR",
-      "title": "Karyawan Grosir Baju",
-      "blogger_url": "https://www.mintainfo.com/2026/08/ari-grosir-buka-lowongan-karyawan.html",
-      "date_label": "Jumat, 7 Agustus 2026"
-    },
-    {
-      "id": 13470,
-      "company": "PT Suprabakti Mandiri",
-      "title": "Senior Engineer",
-      "blogger_url": "https://www.mintainfo.com/2026/08/pt-suprabakti-mandiri-buka-lowongan.html",
-      "date_label": "Jumat, 7 Agustus 2026"
-    },
-    {
-      "id": 13478,
-      "company": "PT ISS INDONESIA (Bintaro)",
-      "title": "Teknisi Gedung - Pangkalan Kerinci (RIAU)",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-teknisi-gedung-pangkalan.html",
-      "date_label": "Jumat, 7 Agustus 2026"
-    },
-    {
-      "id": 13535,
-      "company": "Max's Derma",
-      "title": "Beautician",
-      "blogger_url": "https://www.mintainfo.com/2026/08/maxs-derma-buka-lowongan-beautician.html",
-      "date_label": "Jumat, 7 Agustus 2026"
-    },
-    {
-      "id": 13534,
-      "company": "DERMARIS AESTHETIC & ANTI-AGING",
-      "title": "Admin Operasional Klinik",
-      "blogger_url": "https://www.mintainfo.com/2026/08/dermaris-aesthetic-anti-aging-buka.html",
-      "date_label": "Jumat, 7 Agustus 2026"
-    },
-    {
-      "id": 13533,
-      "company": "Satria kursus mengemudi",
-      "title": "Admin",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-admin-terbaru-satria-kursus.html",
-      "date_label": "Jumat, 7 Agustus 2026"
-    },
-    {
-      "id": 13532,
-      "company": "HERMAN DENTAL CARE",
-      "title": "DOKTER GIGI",
-      "blogger_url": "https://www.mintainfo.com/2026/08/herman-dental-care-buka-lowongan-dokter.html",
-      "date_label": "Jumat, 7 Agustus 2026"
-    },
-    {
-      "id": 13531,
-      "company": "Gaia Osteria",
-      "title": "Head Bar / Head Cook",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-head-bar-head-cook-terbaru-gaia.html",
-      "date_label": "Jumat, 7 Agustus 2026"
     }
   ]
 }
