@@ -1,8 +1,14 @@
 {
   "date": "2026-08-16",
   "date_label": "Minggu, 16 Agustus 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 14278,
+      "company": "RSIA Zainab",
+      "title": "MANAJER PENUNJANG MEDIS",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rsia-zainab-buka-lowongan-manajer.html"
+    },
     {
       "id": 14277,
       "company": "Aulia Hospital",
