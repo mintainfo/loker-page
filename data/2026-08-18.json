@@ -1,8 +1,14 @@
 {
   "date": "2026-08-18",
   "date_label": "Selasa, 18 Agustus 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
+    {
+      "id": 14370,
+      "company": "Raf Laundry",
+      "title": "Karyawan Bagian Cuci & Setrika",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-karyawan-bagian-cuci-setrika.html"
+    },
     {
       "id": 14367,
       "company": "Kedai Kopi Nikmat",
