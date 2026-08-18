@@ -1,8 +1,14 @@
 {
   "date": "2026-08-18",
   "date_label": "Selasa, 18 Agustus 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 14298,
+      "company": "Elna Cake & Bakery",
+      "title": "Staf Produksi",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-staf-produksi-di-elna-cake.html"
+    },
     {
       "id": 14296,
       "company": "Tidak Diketahui",
