@@ -1,6 +1,13 @@
 {
-  "count": 35,
+  "count": 34,
   "jobs": [
+    {
+      "id": 14296,
+      "company": "Tidak Diketahui",
+      "title": "Janitor / Cleaning Service",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-janitor-cleaning-service-di.html",
+      "date_label": "Selasa, 18 Agustus 2026"
+    },
     {
       "id": 14279,
       "company": "Peterseli",
@@ -231,20 +238,6 @@
       "title": "MANAJER OPERASIONAL KATERING",
       "blogger_url": "https://www.mintainfo.com/2026/08/aa-catering-buka-lowongan-manajer.html",
       "date_label": "Selasa, 11 Agustus 2026"
-    },
-    {
-      "id": 13620,
-      "company": "PT Pioneerindo Gourmet",
-      "title": "Crew Store CFC",
-      "blogger_url": "https://www.mintainfo.com/2026/08/pt-pioneerindo-gourmet-buka-lowongan.html",
-      "date_label": "Senin, 10 Agustus 2026"
-    },
-    {
-      "id": 13647,
-      "company": "Fianda coffee space and roastery",
-      "title": "Chef/juru masak",
-      "blogger_url": "https://www.mintainfo.com/2026/08/chefjuru-masak-di-fianda-coffee-space.html",
-      "date_label": "Senin, 10 Agustus 2026"
     }
   ]
 }
