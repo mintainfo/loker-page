@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "date_label": "Selasa, 18 Agustus 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "id": 14370,
@@ -74,6 +74,12 @@
       "company": "Umah Emak Resto",
       "title": "Koki (Juru Masak) & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/08/koki-juru-masak-posisi-lainnya-di-umah.html"
+    },
+    {
+      "id": 14287,
+      "company": "Vivid LED Lighting",
+      "title": "Karyawan Toko",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-karyawan-toko-terbaru-vivid-led.html"
     }
   ]
 }
