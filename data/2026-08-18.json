@@ -1,8 +1,14 @@
 {
   "date": "2026-08-18",
   "date_label": "Selasa, 18 Agustus 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 14366,
+      "company": "Morbidelli Riau",
+      "title": "Helper",
+      "blogger_url": "https://www.mintainfo.com/2026/08/helper-di-morbidelli-riau-pekanbaru.html"
+    },
     {
       "id": 14324,
       "company": "DHAPU COFFEE & SPACE",
