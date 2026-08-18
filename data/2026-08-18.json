@@ -1,8 +1,14 @@
 {
   "date": "2026-08-18",
   "date_label": "Selasa, 18 Agustus 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 14321,
+      "company": "LINGGO JAYA PERABOT",
+      "title": "Content Creator / Host Live Tiktok",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-content-creator-host-live-tiktok.html"
+    },
     {
       "id": 14303,
       "company": "GALERI KONVEKSI",
