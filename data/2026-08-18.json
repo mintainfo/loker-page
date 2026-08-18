@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "date_label": "Selasa, 18 Agustus 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 14321,
@@ -26,6 +26,12 @@
       "company": "Tidak Diketahui",
       "title": "Janitor / Cleaning Service",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-janitor-cleaning-service-di.html"
+    },
+    {
+      "id": 14291,
+      "company": "Umah Emak Resto",
+      "title": "Koki (Juru Masak) & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/08/koki-juru-masak-posisi-lainnya-di-umah.html"
     }
   ]
 }
