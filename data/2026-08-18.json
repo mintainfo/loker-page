@@ -1,8 +1,14 @@
 {
   "date": "2026-08-18",
   "date_label": "Selasa, 18 Agustus 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 14367,
+      "company": "Kedai Kopi Nikmat",
+      "title": "Waiter",
+      "blogger_url": "https://www.mintainfo.com/2026/08/kedai-kopi-nikmat-buka-lowongan-waiter.html"
+    },
     {
       "id": 14366,
       "company": "Morbidelli Riau",
