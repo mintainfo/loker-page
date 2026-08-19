@@ -1,13 +1,19 @@
 {
   "date": "2026-08-19",
   "date_label": "Rabu, 19 Agustus 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 14461,
       "company": "PT. Blessindo Bersama",
       "title": "SPG / SPB Fashion Denim Lee Cooper",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-spg-spb-fashion-denim-lee.html"
+    },
+    {
+      "id": 14446,
+      "company": "PT. FAKTA JAYA ASIA (FAKTA RETAIL)",
+      "title": "Staff Accounting",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-staff-accounting-terbaru-pt-fakta.html"
     }
   ]
 }
