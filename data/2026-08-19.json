@@ -1,8 +1,14 @@
 {
   "date": "2026-08-19",
   "date_label": "Rabu, 19 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 14475,
+      "company": "Senapelan",
+      "title": "Finance & Accounting",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-finance-accounting-di.html"
+    },
     {
       "id": 14461,
       "company": "PT. Blessindo Bersama",
