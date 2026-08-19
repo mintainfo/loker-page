@@ -1,8 +1,14 @@
 {
   "date": "2026-08-19",
   "date_label": "Rabu, 19 Agustus 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 14476,
+      "company": "SORRA COFFEE & EATERY",
+      "title": "Barista Female / Kitchen",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-barista-female-kitchen-di.html"
+    },
     {
       "id": 14475,
       "company": "Senapelan",
