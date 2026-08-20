@@ -1,8 +1,14 @@
 {
   "date": "2026-08-20",
   "date_label": "Kamis, 20 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 14701,
+      "company": "Pesona Ayu Beauty Clinic",
+      "title": "Beautician",
+      "blogger_url": "https://www.mintainfo.com/2026/08/pesona-ayu-beauty-clinic-buka-lowongan.html"
+    },
     {
       "id": 14615,
       "company": "Hiin Holdings Pte Ltd",
