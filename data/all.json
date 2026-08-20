@@ -1,6 +1,13 @@
 {
-  "count": 47,
+  "count": 40,
   "jobs": [
+    {
+      "id": 14551,
+      "company": "RS Syafira Pekanbaru",
+      "title": "Perawat Gigi",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rs-syafira-pekanbaru-buka-lowongan.html",
+      "date_label": "Kamis, 20 Agustus 2026"
+    },
     {
       "id": 14477,
       "company": "Bhel Medicare",
@@ -273,62 +280,6 @@
       "title": "Staff Digital Media",
       "blogger_url": "https://www.mintainfo.com/2026/08/loker-staff-digital-media-terbaru-pt.html",
       "date_label": "Kamis, 13 Agustus 2026"
-    },
-    {
-      "id": 14019,
-      "company": "Gramedia",
-      "title": "Store Apprenticeship",
-      "blogger_url": "https://www.mintainfo.com/2026/08/store-apprenticeship-di-gramedia.html",
-      "date_label": "Rabu, 12 Agustus 2026"
-    },
-    {
-      "id": 14018,
-      "company": "PT Syifa Utama (RS Islam Ibnu Sina Pekanbaru)",
-      "title": "Sekretaris Direktur",
-      "blogger_url": "https://www.mintainfo.com/2026/08/sekretaris-direktur-di-pt-syifa-utama.html",
-      "date_label": "Rabu, 12 Agustus 2026"
-    },
-    {
-      "id": 13953,
-      "company": "DILL PATISSERIE & BAKERY",
-      "title": "Cook Pastry & Senior Pastry",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-cook-pastry-senior-pastry-terbaru.html",
-      "date_label": "Rabu, 12 Agustus 2026"
-    },
-    {
-      "id": 13892,
-      "company": "GADGET ON",
-      "title": "MAGANG TEKNISI IPHONE",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-magang-teknisi-iphone-di.html",
-      "date_label": "Rabu, 12 Agustus 2026"
-    },
-    {
-      "id": 13955,
-      "company": "Bengkel Speed Rider (CV.Berkah Ridho Illahi)",
-      "title": "Admin/Kasir",
-      "blogger_url": "https://www.mintainfo.com/2026/08/adminkasir-di-bengkel-speed-rider.html",
-      "date_label": "Rabu, 12 Agustus 2026"
-    },
-    {
-      "id": 14016,
-      "company": "Gadoca Coffee",
-      "title": "Barista",
-      "blogger_url": "https://www.mintainfo.com/2026/08/gadoca-coffee-buka-lowongan-barista.html",
-      "date_label": "Rabu, 12 Agustus 2026"
-    },
-    {
-      "id": 14015,
-      "company": "Zyan Cafe",
-      "title": "Waiter / Barista",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-waiter-barista-di-zyan-cafe.html",
-      "date_label": "Rabu, 12 Agustus 2026"
-    },
-    {
-      "id": 14017,
-      "company": "Klinik Utama Harapan Ibunda",
-      "title": "Asisten Apoteker",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-asisten-apoteker-di-klinik.html",
-      "date_label": "Rabu, 12 Agustus 2026"
     }
   ]
 }
