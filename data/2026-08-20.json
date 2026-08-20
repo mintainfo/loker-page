@@ -1,13 +1,19 @@
 {
   "date": "2026-08-20",
   "date_label": "Kamis, 20 Agustus 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 14701,
       "company": "Pesona Ayu Beauty Clinic",
       "title": "Beautician",
       "blogger_url": "https://www.mintainfo.com/2026/08/pesona-ayu-beauty-clinic-buka-lowongan.html"
+    },
+    {
+      "id": 14697,
+      "company": "Abud's Kebab",
+      "title": "HRD/HR Staff & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-hrdhr-staff-posisi-lainnya-di.html"
     },
     {
       "id": 14615,
