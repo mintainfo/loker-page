@@ -1,6 +1,13 @@
 {
-  "count": 46,
+  "count": 39,
   "jobs": [
+    {
+      "id": 14696,
+      "company": "Apotek Lamuri Farma",
+      "title": "Tenaga Teknis Kefarmasian",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-tenaga-teknis-kefarmasian-terbaru.html",
+      "date_label": "Jumat, 21 Agustus 2026"
+    },
     {
       "id": 14608,
       "company": "Calebs",
@@ -266,62 +273,6 @@
       "title": "Fullstack Mobile Developer",
       "blogger_url": "https://www.mintainfo.com/2026/08/pt-karisma-zona-kreatifku-buka-lowongan.html",
       "date_label": "Jumat, 14 Agustus 2026"
-    },
-    {
-      "id": 14108,
-      "company": "KLINIK PRATAMA SERTA MULIA",
-      "title": "ADMIN",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-admin-terbaru-klinik-pratama.html",
-      "date_label": "Kamis, 13 Agustus 2026"
-    },
-    {
-      "id": 14107,
-      "company": "SEKOLAH KRISTEN KALAM KUDUS PEKANBARU",
-      "title": "GURU BIOLOGI SMA",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-guru-biologi-sma-terbaru-sekolah.html",
-      "date_label": "Kamis, 13 Agustus 2026"
-    },
-    {
-      "id": 14106,
-      "company": "TOKOLAPTOPPKU",
-      "title": "Admin Customer Service & Sales",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-admin-customer-service-sales.html",
-      "date_label": "Kamis, 13 Agustus 2026"
-    },
-    {
-      "id": 14026,
-      "company": "ES DURIAN REVIN",
-      "title": "Waters",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-waters-terbaru-es-durian-revin.html",
-      "date_label": "Kamis, 13 Agustus 2026"
-    },
-    {
-      "id": 14024,
-      "company": "Sumber Buah Dafkan",
-      "title": "Kasir & Karyawan Toko",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-kasir-karyawan-toko-di-sumber.html",
-      "date_label": "Kamis, 13 Agustus 2026"
-    },
-    {
-      "id": 14025,
-      "company": "Grafindo Digital Printing Center",
-      "title": "Desain Graphic & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/08/desain-graphic-posisi-lainnya-di.html",
-      "date_label": "Kamis, 13 Agustus 2026"
-    },
-    {
-      "id": 14021,
-      "company": "Toko Cat Bursa Warna",
-      "title": "KARYAWAN TOKO",
-      "blogger_url": "https://www.mintainfo.com/2026/08/karyawan-toko-di-toko-cat-bursa-warna.html",
-      "date_label": "Kamis, 13 Agustus 2026"
-    },
-    {
-      "id": 14028,
-      "company": "PT. Trimitra Sejahtera SRC",
-      "title": "Staff Digital Media",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-staff-digital-media-terbaru-pt.html",
-      "date_label": "Kamis, 13 Agustus 2026"
     }
   ]
 }
