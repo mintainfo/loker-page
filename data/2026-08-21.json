@@ -1,13 +1,19 @@
 {
   "date": "2026-08-21",
   "date_label": "Jumat, 21 Agustus 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 14737,
       "company": "Usacha",
       "title": "Store Crew / Penjaga Toko",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-store-crew-penjaga-toko-di.html"
+    },
+    {
+      "id": 14735,
+      "company": "Cemilan by Apho",
+      "title": "Staff Dapur",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-staff-dapur-terbaru-cemilan-by.html"
     },
     {
       "id": 14698,
