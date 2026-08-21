@@ -1,8 +1,14 @@
 {
   "date": "2026-08-21",
   "date_label": "Jumat, 21 Agustus 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 14749,
+      "company": "Klinik Pratama Annisa Medika 1",
+      "title": "Bidan, Perawat, Kasir, Lainnya..",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-bidan-perawat-kasir-lainnya.html"
+    },
     {
       "id": 14737,
       "company": "Usacha",
