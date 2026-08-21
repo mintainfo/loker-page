@@ -1,8 +1,14 @@
 {
   "date": "2026-08-21",
   "date_label": "Jumat, 21 Agustus 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 14823,
+      "company": "PT Yontomo Sukses Abadi",
+      "title": "TEKNISI",
+      "blogger_url": "https://www.mintainfo.com/2026/08/pt-yontomo-sukses-abadi-buka-lowongan.html"
+    },
     {
       "id": 14749,
       "company": "Klinik Pratama Annisa Medika 1",
