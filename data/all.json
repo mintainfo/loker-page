@@ -1,6 +1,13 @@
 {
-  "count": 48,
+  "count": 39,
   "jobs": [
+    {
+      "id": 14929,
+      "company": "Raya Factory",
+      "title": "Admin Sosmed/Digital Marketing",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-admin-sosmeddigital-marketing.html",
+      "date_label": "Sabtu, 22 Agustus 2026"
+    },
     {
       "id": 14887,
       "company": "Jumbo Group",
@@ -266,76 +273,6 @@
       "title": "Kepala Divisi Human Capital & 4 Posisi Lainnya..",
       "blogger_url": "https://www.mintainfo.com/2026/08/aulia-hospital-buka-lowongan-kepala.html",
       "date_label": "Minggu, 16 Agustus 2026"
-    },
-    {
-      "id": 14221,
-      "company": "An Namiroh & Dayyinah Kids",
-      "title": "Driver",
-      "blogger_url": "https://www.mintainfo.com/2026/08/driver-di-namiroh-dayyinah-kids.html",
-      "date_label": "Jumat, 14 Agustus 2026"
-    },
-    {
-      "id": 14220,
-      "company": "RUMAH SAKIT PMC PEKANBARU MEDICAL CENTER",
-      "title": "STAF CASEMIX dan 4 posisi lainnya..",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-staf-casemix-dan-4-posisi-lainnya.html",
-      "date_label": "Jumat, 14 Agustus 2026"
-    },
-    {
-      "id": 14219,
-      "company": "Apotek K-24 Nangka",
-      "title": "Apoteker, TTK & ATTK & Keuangan",
-      "blogger_url": "https://www.mintainfo.com/2026/08/apotek-k-24-nangka-buka-lowongan.html",
-      "date_label": "Jumat, 14 Agustus 2026"
-    },
-    {
-      "id": 14218,
-      "company": "Mahesa Brata",
-      "title": "Guru",
-      "blogger_url": "https://www.mintainfo.com/2026/08/guru-di-mahesa-brata-pekanbaru-agustus.html",
-      "date_label": "Jumat, 14 Agustus 2026"
-    },
-    {
-      "id": 13803,
-      "company": "DJIWA LAUNDRY",
-      "title": "Bagian Cuci & Jemur",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-bagian-cuci-jemur-terbaru-djiwa.html",
-      "date_label": "Jumat, 14 Agustus 2026"
-    },
-    {
-      "id": 14181,
-      "company": "TIMUR TENGAH STORE",
-      "title": "STAFF PACKING",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-staff-packing-di-timur-tengah.html",
-      "date_label": "Jumat, 14 Agustus 2026"
-    },
-    {
-      "id": 14169,
-      "company": "Tenten x Nasi Uduk Semangat",
-      "title": "Helper",
-      "blogger_url": "https://www.mintainfo.com/2026/08/helper-di-tenten-x-nasi-uduk-semangat.html",
-      "date_label": "Jumat, 14 Agustus 2026"
-    },
-    {
-      "id": 14112,
-      "company": "PT Tamara Overseas Corporindo",
-      "title": "Teknisi Elektromedik",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-teknisi-elektromedik-terbaru-pt.html",
-      "date_label": "Jumat, 14 Agustus 2026"
-    },
-    {
-      "id": 14109,
-      "company": "PT Mitra Angkutan Sejati",
-      "title": "HSE & K3",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-hse-k3-terbaru-pt-mitra-angkutan.html",
-      "date_label": "Jumat, 14 Agustus 2026"
-    },
-    {
-      "id": 14069,
-      "company": "PT Karisma Zona Kreatifku",
-      "title": "Fullstack Mobile Developer",
-      "blogger_url": "https://www.mintainfo.com/2026/08/pt-karisma-zona-kreatifku-buka-lowongan.html",
-      "date_label": "Jumat, 14 Agustus 2026"
     }
   ]
 }
