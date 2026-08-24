@@ -1,8 +1,14 @@
 {
   "date": "2026-08-24",
   "date_label": "Senin, 24 Agustus 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 15212,
+      "company": "EMADO'S",
+      "title": "Kasir - Wanita & Crew Kitchen - Pria",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-kasir-wanita-crew-kitchen-pria.html"
+    },
     {
       "id": 15211,
       "company": "He Cha",
