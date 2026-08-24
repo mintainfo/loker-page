@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "date_label": "Senin, 24 Agustus 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 15021,
@@ -14,6 +14,12 @@
       "company": "Memory Coffee",
       "title": "Cooker",
       "blogger_url": "https://www.mintainfo.com/2026/08/loker-cooker-terbaru-memory-coffee.html"
+    },
+    {
+      "id": 15009,
+      "company": "Kopi Bono",
+      "title": "Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/08/barista-di-kopi-bono-pekanbaru-agustus.html"
     },
     {
       "id": 15007,
