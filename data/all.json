@@ -1,6 +1,13 @@
 {
-  "count": 42,
+  "count": 43,
   "jobs": [
+    {
+      "id": 15076,
+      "company": "Glasting Glow",
+      "title": "Kasir",
+      "blogger_url": "https://www.mintainfo.com/2026/08/kasir-di-glasting-glow-pekanbaru.html",
+      "date_label": "Senin, 24 Agustus 2026"
+    },
     {
       "id": 15013,
       "company": "Melzu Produce",

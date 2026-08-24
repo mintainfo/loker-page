@@ -1,8 +1,14 @@
 {
   "date": "2026-08-24",
   "date_label": "Senin, 24 Agustus 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 15076,
+      "company": "Glasting Glow",
+      "title": "Kasir",
+      "blogger_url": "https://www.mintainfo.com/2026/08/kasir-di-glasting-glow-pekanbaru.html"
+    },
     {
       "id": 15021,
       "company": "Tidak Diketahui",
