@@ -1,6 +1,13 @@
 {
-  "count": 43,
+  "count": 44,
   "jobs": [
+    {
+      "id": 15211,
+      "company": "He Cha",
+      "title": "Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/08/barista-di-he-cha-pekanbaru-agustus-2026.html",
+      "date_label": "Senin, 24 Agustus 2026"
+    },
     {
       "id": 15076,
       "company": "Glasting Glow",
