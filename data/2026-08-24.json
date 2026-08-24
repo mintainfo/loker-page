@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "date_label": "Senin, 24 Agustus 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 15021,
@@ -14,6 +14,12 @@
       "company": "Memory Coffee",
       "title": "Cooker",
       "blogger_url": "https://www.mintainfo.com/2026/08/loker-cooker-terbaru-memory-coffee.html"
+    },
+    {
+      "id": 15013,
+      "company": "Melzu Produce",
+      "title": "Tenaga Jahit & Payet",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-tenaga-jahit-payet-terbaru-melzu.html"
     },
     {
       "id": 15010,
