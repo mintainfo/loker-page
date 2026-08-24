@@ -1,13 +1,19 @@
 {
   "date": "2026-08-24",
   "date_label": "Senin, 24 Agustus 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 15211,
       "company": "He Cha",
       "title": "Barista",
       "blogger_url": "https://www.mintainfo.com/2026/08/barista-di-he-cha-pekanbaru-agustus-2026.html"
+    },
+    {
+      "id": 15162,
+      "company": "PT Indonesia Equipment Centre",
+      "title": "Warehouse Staff (Jambi & Pekanbaru)",
+      "blogger_url": "https://www.mintainfo.com/2026/08/warehouse-staff-jambi-pekanbaru-di-pt.html"
     },
     {
       "id": 15076,
