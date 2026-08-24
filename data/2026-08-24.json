@@ -1,8 +1,14 @@
 {
   "date": "2026-08-24",
   "date_label": "Senin, 24 Agustus 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 15021,
+      "company": "Tidak Diketahui",
+      "title": "Helper ( bengkel las )",
+      "blogger_url": "https://www.mintainfo.com/2026/08/tidak-diketahui-buka-lowongan-helper.html"
+    },
     {
       "id": 15017,
       "company": "Memory Coffee",
