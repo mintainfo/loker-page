@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "date_label": "Selasa, 25 Agustus 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 15353,
@@ -38,6 +38,12 @@
       "company": "PT. Golden Gold Beverage",
       "title": "Kasir",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-kasir-di-pt-golden-gold.html"
+    },
+    {
+      "id": 15309,
+      "company": "Tidak Diketahui",
+      "title": "Pengasuh Anak",
+      "blogger_url": "https://www.mintainfo.com/2026/08/tidak-diketahui-buka-lowongan-pengasuh.html"
     }
   ]
 }
