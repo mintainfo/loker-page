@@ -1,8 +1,14 @@
 {
   "date": "2026-08-25",
   "date_label": "Selasa, 25 Agustus 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 15350,
+      "company": "Sky Dental",
+      "title": "Customer Care & Asisten Dokter Gigi",
+      "blogger_url": "https://www.mintainfo.com/2026/08/customer-care-asisten-dokter-gigi-di.html"
+    },
     {
       "id": 15317,
       "company": "APM Logistics",
