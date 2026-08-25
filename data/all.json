@@ -1,6 +1,13 @@
 {
-  "count": 51,
+  "count": 52,
   "jobs": [
+    {
+      "id": 15353,
+      "company": "Witama School Srikandi",
+      "title": "Security",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-security-di-witama-school.html",
+      "date_label": "Selasa, 25 Agustus 2026"
+    },
     {
       "id": 15351,
       "company": "Mitra Bangunan Supermarket",
