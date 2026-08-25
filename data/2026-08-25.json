@@ -1,8 +1,14 @@
 {
   "date": "2026-08-25",
   "date_label": "Selasa, 25 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 15317,
+      "company": "APM Logistics",
+      "title": "Driver",
+      "blogger_url": "https://www.mintainfo.com/2026/08/driver-di-apm-logistics-pekanbaru.html"
+    },
     {
       "id": 15312,
       "company": "PT Mitra Utama Madani",
