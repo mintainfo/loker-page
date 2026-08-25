@@ -1,6 +1,13 @@
 {
-  "count": 50,
+  "count": 51,
   "jobs": [
+    {
+      "id": 15351,
+      "company": "Mitra Bangunan Supermarket",
+      "title": "SPG & SPB",
+      "blogger_url": "https://www.mintainfo.com/2026/08/spg-spb-di-mitra-bangunan-supermarket.html",
+      "date_label": "Selasa, 25 Agustus 2026"
+    },
     {
       "id": 15350,
       "company": "Sky Dental",
