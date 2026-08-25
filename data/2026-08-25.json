@@ -1,8 +1,14 @@
 {
   "date": "2026-08-25",
   "date_label": "Selasa, 25 Agustus 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 15312,
+      "company": "PT Mitra Utama Madani",
+      "title": "Account Officer",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-account-officer-terbaru-pt-mitra.html"
+    },
     {
       "id": 15310,
       "company": "PT. Golden Gold Beverage",
