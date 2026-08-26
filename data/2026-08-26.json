@@ -1,8 +1,14 @@
 {
   "date": "2026-08-26",
   "date_label": "Rabu, 26 Agustus 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 15427,
+      "company": "Pekanbaru Berlian Motors",
+      "title": "Warehouse Staff",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-warehouse-staff-terbaru-pekanbaru.html"
+    },
     {
       "id": 15267,
       "company": "PT Richeese Kuliner Indonesia",
