@@ -1,6 +1,13 @@
 {
-  "count": 55,
+  "count": 43,
   "jobs": [
+    {
+      "id": 15267,
+      "company": "PT Richeese Kuliner Indonesia",
+      "title": "FLOOR MANAGER PEKANBARU",
+      "blogger_url": "https://www.mintainfo.com/2026/08/pt-richeese-kuliner-indonesia-buka.html",
+      "date_label": "Rabu, 26 Agustus 2026"
+    },
     {
       "id": 15321,
       "company": "RSU Mutiasari",
@@ -294,97 +301,6 @@
       "title": "SPG / SPB Fashion Denim Lee Cooper",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-spg-spb-fashion-denim-lee.html",
       "date_label": "Rabu, 19 Agustus 2026"
-    },
-    {
-      "id": 14287,
-      "company": "Vivid LED Lighting",
-      "title": "Karyawan Toko",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-karyawan-toko-terbaru-vivid-led.html",
-      "date_label": "Selasa, 18 Agustus 2026"
-    },
-    {
-      "id": 14370,
-      "company": "Raf Laundry",
-      "title": "Karyawan Bagian Cuci & Setrika",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-karyawan-bagian-cuci-setrika.html",
-      "date_label": "Selasa, 18 Agustus 2026"
-    },
-    {
-      "id": 14367,
-      "company": "Kedai Kopi Nikmat",
-      "title": "Waiter",
-      "blogger_url": "https://www.mintainfo.com/2026/08/kedai-kopi-nikmat-buka-lowongan-waiter.html",
-      "date_label": "Selasa, 18 Agustus 2026"
-    },
-    {
-      "id": 14366,
-      "company": "Morbidelli Riau",
-      "title": "Helper",
-      "blogger_url": "https://www.mintainfo.com/2026/08/helper-di-morbidelli-riau-pekanbaru.html",
-      "date_label": "Selasa, 18 Agustus 2026"
-    },
-    {
-      "id": 14324,
-      "company": "DHAPU COFFEE & SPACE",
-      "title": "Manager / Supervisor & 4 Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-manager-supervisor-4-posisi_01797807372.html",
-      "date_label": "Selasa, 18 Agustus 2026"
-    },
-    {
-      "id": 14323,
-      "company": "Ten Coffee",
-      "title": "Manager / Supervisor & 4 Posisi lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-manager-supervisor-4-posisi.html",
-      "date_label": "Selasa, 18 Agustus 2026"
-    },
-    {
-      "id": 14322,
-      "company": "Elna Cake & Bakery",
-      "title": "Staf Produksi",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-staf-produksi-di-elna-cake_0707254349.html",
-      "date_label": "Selasa, 18 Agustus 2026"
-    },
-    {
-      "id": 14292,
-      "company": "Hankin Donat",
-      "title": "KASIR/WAITRESS",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-kasirwaitress-terbaru-hankin.html",
-      "date_label": "Selasa, 18 Agustus 2026"
-    },
-    {
-      "id": 14291,
-      "company": "Umah Emak Resto",
-      "title": "Koki (Juru Masak) & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/08/koki-juru-masak-posisi-lainnya-di-umah.html",
-      "date_label": "Selasa, 18 Agustus 2026"
-    },
-    {
-      "id": 14321,
-      "company": "LINGGO JAYA PERABOT",
-      "title": "Content Creator / Host Live Tiktok",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-content-creator-host-live-tiktok.html",
-      "date_label": "Selasa, 18 Agustus 2026"
-    },
-    {
-      "id": 14303,
-      "company": "GALERI KONVEKSI",
-      "title": "OPERATOR BORDIR KOMPUTER & OPERATOR MESIN JAHIT / PENJAHIT",
-      "blogger_url": "https://www.mintainfo.com/2026/08/galeri-konveksi-buka-lowongan-operator.html",
-      "date_label": "Selasa, 18 Agustus 2026"
-    },
-    {
-      "id": 14298,
-      "company": "Elna Cake & Bakery",
-      "title": "Staf Produksi",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-staf-produksi-di-elna-cake.html",
-      "date_label": "Selasa, 18 Agustus 2026"
-    },
-    {
-      "id": 14296,
-      "company": "Tidak Diketahui",
-      "title": "Janitor / Cleaning Service",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-janitor-cleaning-service-di.html",
-      "date_label": "Selasa, 18 Agustus 2026"
     }
   ]
 }
