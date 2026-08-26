@@ -1,8 +1,14 @@
 {
   "date": "2026-08-26",
   "date_label": "Rabu, 26 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 15428,
+      "company": "Annisa Cosmetics",
+      "title": "Cashier",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-cashier-di-annisa-cosmetics.html"
+    },
     {
       "id": 15427,
       "company": "Pekanbaru Berlian Motors",
