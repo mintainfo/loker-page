@@ -1,8 +1,14 @@
 {
   "date": "2026-08-27",
   "date_label": "Kamis, 27 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 15600,
+      "company": "Rumah Sakit permatahati",
+      "title": "Fisioterapis",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rumah-sakit-permatahati-buka-lowongan.html"
+    },
     {
       "id": 15423,
       "company": "Ruang Laundry",

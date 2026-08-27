@@ -1,6 +1,13 @@
 {
-  "count": 42,
+  "count": 43,
   "jobs": [
+    {
+      "id": 15600,
+      "company": "Rumah Sakit permatahati",
+      "title": "Fisioterapis",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rumah-sakit-permatahati-buka-lowongan.html",
+      "date_label": "Kamis, 27 Agustus 2026"
+    },
     {
       "id": 15385,
       "company": "SuperKlin Laundry",
