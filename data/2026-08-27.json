@@ -1,8 +1,14 @@
 {
   "date": "2026-08-27",
   "date_label": "Kamis, 27 Agustus 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 15602,
+      "company": "RSIA Annisa",
+      "title": "Bidan, Perawat dan Koordinator Cleaning Service",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rsia-annisa-buka-lowongan-bidan-perawat.html"
+    },
     {
       "id": 15601,
       "company": "RS. BINA KASIH PEKANBARU",
