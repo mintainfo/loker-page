@@ -1,6 +1,13 @@
 {
-  "count": 41,
+  "count": 42,
   "jobs": [
+    {
+      "id": 15385,
+      "company": "SuperKlin Laundry",
+      "title": "Admin Laundry merangkap Setrika",
+      "blogger_url": "https://www.mintainfo.com/2026/08/superklin-laundry-buka-lowongan-admin.html",
+      "date_label": "Kamis, 27 Agustus 2026"
+    },
     {
       "id": 15423,
       "company": "Ruang Laundry",
