@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "date_label": "Kamis, 27 Agustus 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 15601,
@@ -20,6 +20,12 @@
       "company": "Saniye Cosmetics",
       "title": "Beauty Advisor",
       "blogger_url": "https://www.mintainfo.com/2026/08/beauty-advisor-di-saniye-cosmetics.html"
+    },
+    {
+      "id": 15430,
+      "company": "PT Primanusa Globalindo",
+      "title": "HRD ADMIN",
+      "blogger_url": "https://www.mintainfo.com/2026/08/loker-hrd-admin-terbaru-pt-primanusa.html"
     },
     {
       "id": 15423,
