@@ -1,6 +1,13 @@
 {
-  "count": 45,
+  "count": 41,
   "jobs": [
+    {
+      "id": 15423,
+      "company": "Ruang Laundry",
+      "title": "Karyawan Laundry",
+      "blogger_url": "https://www.mintainfo.com/2026/08/karyawan-laundry-di-ruang-laundry.html",
+      "date_label": "Kamis, 27 Agustus 2026"
+    },
     {
       "id": 15428,
       "company": "Annisa Cosmetics",
@@ -280,41 +287,6 @@
       "title": "Perawat Gigi",
       "blogger_url": "https://www.mintainfo.com/2026/08/rs-syafira-pekanbaru-buka-lowongan.html",
       "date_label": "Kamis, 20 Agustus 2026"
-    },
-    {
-      "id": 14477,
-      "company": "Bhel Medicare",
-      "title": "Dokter Estetika",
-      "blogger_url": "https://www.mintainfo.com/2026/08/dokter-estetika-di-bhel-medicare.html",
-      "date_label": "Rabu, 19 Agustus 2026"
-    },
-    {
-      "id": 14476,
-      "company": "SORRA COFFEE & EATERY",
-      "title": "Barista Female / Kitchen",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-barista-female-kitchen-di.html",
-      "date_label": "Rabu, 19 Agustus 2026"
-    },
-    {
-      "id": 14475,
-      "company": "Senapelan",
-      "title": "Finance & Accounting",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-finance-accounting-di.html",
-      "date_label": "Rabu, 19 Agustus 2026"
-    },
-    {
-      "id": 14446,
-      "company": "PT. FAKTA JAYA ASIA (FAKTA RETAIL)",
-      "title": "Staff Accounting",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-staff-accounting-terbaru-pt-fakta.html",
-      "date_label": "Rabu, 19 Agustus 2026"
-    },
-    {
-      "id": 14461,
-      "company": "PT. Blessindo Bersama",
-      "title": "SPG / SPB Fashion Denim Lee Cooper",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-spg-spb-fashion-denim-lee.html",
-      "date_label": "Rabu, 19 Agustus 2026"
     }
   ]
 }
