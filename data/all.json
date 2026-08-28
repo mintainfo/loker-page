@@ -1,6 +1,13 @@
 {
-  "count": 47,
+  "count": 41,
   "jobs": [
+    {
+      "id": 15654,
+      "company": "Akropolis 3D Printing",
+      "title": "Tim Painting Figure",
+      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-tim-painting-figure-di.html",
+      "date_label": "Jumat, 28 Agustus 2026"
+    },
     {
       "id": 15602,
       "company": "RSIA Annisa",
@@ -280,55 +287,6 @@
       "title": "Tenaga Teknis Kefarmasian",
       "blogger_url": "https://www.mintainfo.com/2026/08/loker-tenaga-teknis-kefarmasian-terbaru.html",
       "date_label": "Jumat, 21 Agustus 2026"
-    },
-    {
-      "id": 14608,
-      "company": "Calebs",
-      "title": "COOK & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/08/calebs-buka-lowongan-cook-posisi.html",
-      "date_label": "Kamis, 20 Agustus 2026"
-    },
-    {
-      "id": 14605,
-      "company": "Dentiff Clinic",
-      "title": "Admin & Asisten Dokter Gigi",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-admin-asisten-dokter-gigi-terbaru.html",
-      "date_label": "Kamis, 20 Agustus 2026"
-    },
-    {
-      "id": 14603,
-      "company": "Selaras Group Indonesia",
-      "title": "ADMIN GUDANG",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-admin-gudang-terbaru-selaras.html",
-      "date_label": "Kamis, 20 Agustus 2026"
-    },
-    {
-      "id": 14697,
-      "company": "Abud's Kebab",
-      "title": "HRD/HR Staff & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-hrdhr-staff-posisi-lainnya-di.html",
-      "date_label": "Kamis, 20 Agustus 2026"
-    },
-    {
-      "id": 14701,
-      "company": "Pesona Ayu Beauty Clinic",
-      "title": "Beautician",
-      "blogger_url": "https://www.mintainfo.com/2026/08/pesona-ayu-beauty-clinic-buka-lowongan.html",
-      "date_label": "Kamis, 20 Agustus 2026"
-    },
-    {
-      "id": 14615,
-      "company": "Hiin Holdings Pte Ltd",
-      "title": "Accounting Staff (Perawang)",
-      "blogger_url": "https://www.mintainfo.com/2026/08/accounting-staff-perawang-di-hiin.html",
-      "date_label": "Kamis, 20 Agustus 2026"
-    },
-    {
-      "id": 14551,
-      "company": "RS Syafira Pekanbaru",
-      "title": "Perawat Gigi",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rs-syafira-pekanbaru-buka-lowongan.html",
-      "date_label": "Kamis, 20 Agustus 2026"
     }
   ]
 }
