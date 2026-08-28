@@ -1,6 +1,13 @@
 {
-  "count": 41,
+  "count": 42,
   "jobs": [
+    {
+      "id": 15684,
+      "company": "SMA IT Soeman HS Pekanbaru",
+      "title": "Guru",
+      "blogger_url": "https://www.mintainfo.com/2026/08/guru-di-sma-it-soeman-hs-pekanbaru.html",
+      "date_label": "Jumat, 28 Agustus 2026"
+    },
     {
       "id": 15654,
       "company": "Akropolis 3D Printing",
