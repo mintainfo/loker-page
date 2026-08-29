@@ -1,13 +1,19 @@
 {
   "date": "2026-08-29",
   "date_label": "Sabtu, 29 Agustus 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 15726,
       "company": "Elizabeth",
       "title": "STORE CREW",
       "blogger_url": "https://www.mintainfo.com/2026/08/store-crew-di-elizabeth-pekanbaru.html"
+    },
+    {
+      "id": 15649,
+      "company": "Kanjeng Putri Foods",
+      "title": "Bagian Produksi Frozen Foods",
+      "blogger_url": "https://www.mintainfo.com/2026/08/bagian-produksi-frozen-foods-di-kanjeng.html"
     }
   ]
 }
