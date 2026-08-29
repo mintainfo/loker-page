@@ -1,6 +1,13 @@
 {
-  "count": 45,
+  "count": 36,
   "jobs": [
+    {
+      "id": 15726,
+      "company": "Elizabeth",
+      "title": "STORE CREW",
+      "blogger_url": "https://www.mintainfo.com/2026/08/store-crew-di-elizabeth-pekanbaru.html",
+      "date_label": "Sabtu, 29 Agustus 2026"
+    },
     {
       "id": 15637,
       "company": "PT. Mitra Bali Sukses (Mie Gacoan)",
@@ -245,76 +252,6 @@
       "title": "Admin Sosmed/Digital Marketing",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-admin-sosmeddigital-marketing.html",
       "date_label": "Sabtu, 22 Agustus 2026"
-    },
-    {
-      "id": 14887,
-      "company": "Jumbo Group",
-      "title": "Graphic Designer",
-      "blogger_url": "https://www.mintainfo.com/2026/08/jumbo-group-buka-lowongan-graphic.html",
-      "date_label": "Jumat, 21 Agustus 2026"
-    },
-    {
-      "id": 14853,
-      "company": "NOIA Clothing",
-      "title": "Penjahit Jersey",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-penjahit-jersey-terbaru-noia.html",
-      "date_label": "Jumat, 21 Agustus 2026"
-    },
-    {
-      "id": 14823,
-      "company": "PT Yontomo Sukses Abadi",
-      "title": "TEKNISI",
-      "blogger_url": "https://www.mintainfo.com/2026/08/pt-yontomo-sukses-abadi-buka-lowongan.html",
-      "date_label": "Jumat, 21 Agustus 2026"
-    },
-    {
-      "id": 14749,
-      "company": "Klinik Pratama Annisa Medika 1",
-      "title": "Bidan, Perawat, Kasir, Lainnya..",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-bidan-perawat-kasir-lainnya.html",
-      "date_label": "Jumat, 21 Agustus 2026"
-    },
-    {
-      "id": 14699,
-      "company": "Rampairasa",
-      "title": "Waitress",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rampairasa-buka-lowongan-waitress.html",
-      "date_label": "Jumat, 21 Agustus 2026"
-    },
-    {
-      "id": 14735,
-      "company": "Cemilan by Apho",
-      "title": "Staff Dapur",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-staff-dapur-terbaru-cemilan-by.html",
-      "date_label": "Jumat, 21 Agustus 2026"
-    },
-    {
-      "id": 14737,
-      "company": "Usacha",
-      "title": "Store Crew / Penjaga Toko",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-store-crew-penjaga-toko-di.html",
-      "date_label": "Jumat, 21 Agustus 2026"
-    },
-    {
-      "id": 14579,
-      "company": "Dexa Group",
-      "title": "Medical Representative (MR)",
-      "blogger_url": "https://www.mintainfo.com/2026/08/dexa-group-buka-lowongan-medical.html",
-      "date_label": "Jumat, 21 Agustus 2026"
-    },
-    {
-      "id": 14698,
-      "company": "KG TEKNIK PEKANBARU",
-      "title": "Teknisi Mesin",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-teknisi-mesin-terbaru-kg-teknik.html",
-      "date_label": "Jumat, 21 Agustus 2026"
-    },
-    {
-      "id": 14696,
-      "company": "Apotek Lamuri Farma",
-      "title": "Tenaga Teknis Kefarmasian",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-tenaga-teknis-kefarmasian-terbaru.html",
-      "date_label": "Jumat, 21 Agustus 2026"
     }
   ]
 }
