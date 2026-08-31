@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "date_label": "Senin, 31 Agustus 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 15787,
@@ -14,6 +14,12 @@
       "company": "Pabrik Roti HK",
       "title": "Karyawan Pabrik",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-karyawan-pabrik-di-pabrik.html"
+    },
+    {
+      "id": 15712,
+      "company": "PT Pemasok Mitra Pembeli ( PemPem )",
+      "title": "Milss Relation Officer",
+      "blogger_url": "https://www.mintainfo.com/2026/08/milss-relation-officer-di-pt-pemasok.html"
     }
   ]
 }
