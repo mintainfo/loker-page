@@ -2,6 +2,13 @@
   "count": 37,
   "jobs": [
     {
+      "id": 15787,
+      "company": "PKU Coin Laundry",
+      "title": "Kasir Laundry",
+      "blogger_url": "https://www.mintainfo.com/2026/08/kasir-laundry-di-pku-coin-laundry.html",
+      "date_label": "Senin, 31 Agustus 2026"
+    },
+    {
       "id": 15649,
       "company": "Kanjeng Putri Foods",
       "title": "Bagian Produksi Frozen Foods",
@@ -252,13 +259,6 @@
       "title": "Cooker",
       "blogger_url": "https://www.mintainfo.com/2026/08/loker-cooker-terbaru-memory-coffee.html",
       "date_label": "Senin, 24 Agustus 2026"
-    },
-    {
-      "id": 14929,
-      "company": "Raya Factory",
-      "title": "Admin Sosmed/Digital Marketing",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-admin-sosmeddigital-marketing.html",
-      "date_label": "Sabtu, 22 Agustus 2026"
     }
   ]
 }
