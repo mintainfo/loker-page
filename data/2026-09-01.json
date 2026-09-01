@@ -1,8 +1,14 @@
 {
   "date": "2026-09-01",
   "date_label": "Selasa, 1 September 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 15923,
+      "company": "PT NUSA LIMA MEDIKA",
+      "title": "Petugas IT",
+      "blogger_url": "https://www.mintainfo.com/2026/09/pt-nusa-lima-medika-buka-lowongan.html"
+    },
     {
       "id": 15875,
       "company": "IT Service Centre",
