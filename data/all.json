@@ -1,6 +1,13 @@
 {
-  "count": 39,
+  "count": 30,
   "jobs": [
+    {
+      "id": 15875,
+      "company": "IT Service Centre",
+      "title": "Teknisi Komputer",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-teknisi-komputer-terbaru-it.html",
+      "date_label": "Selasa, 1 September 2026"
+    },
     {
       "id": 15712,
       "company": "PT Pemasok Mitra Pembeli ( PemPem )",
@@ -203,76 +210,6 @@
       "title": "Kasir",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-kasir-di-pt-golden-gold.html",
       "date_label": "Selasa, 25 Agustus 2026"
-    },
-    {
-      "id": 15212,
-      "company": "EMADO'S",
-      "title": "Kasir - Wanita & Crew Kitchen - Pria",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-kasir-wanita-crew-kitchen-pria.html",
-      "date_label": "Senin, 24 Agustus 2026"
-    },
-    {
-      "id": 15162,
-      "company": "PT Indonesia Equipment Centre",
-      "title": "Warehouse Staff (Jambi & Pekanbaru)",
-      "blogger_url": "https://www.mintainfo.com/2026/08/warehouse-staff-jambi-pekanbaru-di-pt.html",
-      "date_label": "Senin, 24 Agustus 2026"
-    },
-    {
-      "id": 15211,
-      "company": "He Cha",
-      "title": "Barista",
-      "blogger_url": "https://www.mintainfo.com/2026/08/barista-di-he-cha-pekanbaru-agustus-2026.html",
-      "date_label": "Senin, 24 Agustus 2026"
-    },
-    {
-      "id": 15076,
-      "company": "Glasting Glow",
-      "title": "Kasir",
-      "blogger_url": "https://www.mintainfo.com/2026/08/kasir-di-glasting-glow-pekanbaru.html",
-      "date_label": "Senin, 24 Agustus 2026"
-    },
-    {
-      "id": 15013,
-      "company": "Melzu Produce",
-      "title": "Tenaga Jahit & Payet",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-tenaga-jahit-payet-terbaru-melzu.html",
-      "date_label": "Senin, 24 Agustus 2026"
-    },
-    {
-      "id": 15010,
-      "company": "Jajan Dimsum",
-      "title": "PENJAGA STAND DIMSUM",
-      "blogger_url": "https://www.mintainfo.com/2026/08/penjaga-stand-dimsum-di-jajan-dimsum.html",
-      "date_label": "Senin, 24 Agustus 2026"
-    },
-    {
-      "id": 15009,
-      "company": "Kopi Bono",
-      "title": "Barista",
-      "blogger_url": "https://www.mintainfo.com/2026/08/barista-di-kopi-bono-pekanbaru-agustus.html",
-      "date_label": "Senin, 24 Agustus 2026"
-    },
-    {
-      "id": 15007,
-      "company": "Studio Koloni",
-      "title": "Graphic Designer",
-      "blogger_url": "https://www.mintainfo.com/2026/08/studio-koloni-buka-lowongan-graphic.html",
-      "date_label": "Senin, 24 Agustus 2026"
-    },
-    {
-      "id": 15021,
-      "company": "Tidak Diketahui",
-      "title": "Helper ( bengkel las )",
-      "blogger_url": "https://www.mintainfo.com/2026/08/tidak-diketahui-buka-lowongan-helper.html",
-      "date_label": "Senin, 24 Agustus 2026"
-    },
-    {
-      "id": 15017,
-      "company": "Memory Coffee",
-      "title": "Cooker",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-cooker-terbaru-memory-coffee.html",
-      "date_label": "Senin, 24 Agustus 2026"
     }
   ]
 }
