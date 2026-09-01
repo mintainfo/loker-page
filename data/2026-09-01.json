@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "date_label": "Selasa, 1 September 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 15923,
@@ -20,6 +20,12 @@
       "company": "deWAVE Family Massage & Beauty Salon",
       "title": "Terapis Pijat Kesehatan dan Kecantikan",
       "blogger_url": "https://www.mintainfo.com/2026/09/terapis-pijat-kesehatan-dan-kecantikan.html"
+    },
+    {
+      "id": 15835,
+      "company": "PT. LIPPO KARAWACI TBK",
+      "title": "Inspector MEP / Civil / Infra - Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-inspector-mep-civil-infra.html"
     }
   ]
 }
