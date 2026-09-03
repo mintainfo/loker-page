@@ -1,6 +1,13 @@
 {
-  "count": 33,
+  "count": 22,
   "jobs": [
+    {
+      "id": 16012,
+      "company": "PT Docare Laras Indonesia",
+      "title": "MEDICAL REPRESENTATIVE (PEKANBARU)",
+      "blogger_url": "https://www.mintainfo.com/2026/09/pt-docare-laras-indonesia-buka-lowongan.html",
+      "date_label": "Kamis, 3 September 2026"
+    },
     {
       "id": 15835,
       "company": "PT. LIPPO KARAWACI TBK",
@@ -147,90 +154,6 @@
       "title": "Karyawan Laundry",
       "blogger_url": "https://www.mintainfo.com/2026/08/karyawan-laundry-di-ruang-laundry.html",
       "date_label": "Kamis, 27 Agustus 2026"
-    },
-    {
-      "id": 15428,
-      "company": "Annisa Cosmetics",
-      "title": "Cashier",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-cashier-di-annisa-cosmetics.html",
-      "date_label": "Rabu, 26 Agustus 2026"
-    },
-    {
-      "id": 15427,
-      "company": "Pekanbaru Berlian Motors",
-      "title": "Warehouse Staff",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-warehouse-staff-terbaru-pekanbaru.html",
-      "date_label": "Rabu, 26 Agustus 2026"
-    },
-    {
-      "id": 15267,
-      "company": "PT Richeese Kuliner Indonesia",
-      "title": "FLOOR MANAGER PEKANBARU",
-      "blogger_url": "https://www.mintainfo.com/2026/08/pt-richeese-kuliner-indonesia-buka.html",
-      "date_label": "Rabu, 26 Agustus 2026"
-    },
-    {
-      "id": 15321,
-      "company": "RSU Mutiasari",
-      "title": "Dokter Umum",
-      "blogger_url": "https://www.mintainfo.com/2026/08/dokter-umum-di-rsu-mutiasari-pekanbaru.html",
-      "date_label": "Selasa, 25 Agustus 2026"
-    },
-    {
-      "id": 15307,
-      "company": "Sultan Resto",
-      "title": "SPV & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/08/spv-posisi-lainnya-di-sultan-resto.html",
-      "date_label": "Selasa, 25 Agustus 2026"
-    },
-    {
-      "id": 15309,
-      "company": "Tidak Diketahui",
-      "title": "Pengasuh Anak",
-      "blogger_url": "https://www.mintainfo.com/2026/08/tidak-diketahui-buka-lowongan-pengasuh.html",
-      "date_label": "Selasa, 25 Agustus 2026"
-    },
-    {
-      "id": 15353,
-      "company": "Witama School Srikandi",
-      "title": "Security",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-security-di-witama-school.html",
-      "date_label": "Selasa, 25 Agustus 2026"
-    },
-    {
-      "id": 15351,
-      "company": "Mitra Bangunan Supermarket",
-      "title": "SPG & SPB",
-      "blogger_url": "https://www.mintainfo.com/2026/08/spg-spb-di-mitra-bangunan-supermarket.html",
-      "date_label": "Selasa, 25 Agustus 2026"
-    },
-    {
-      "id": 15350,
-      "company": "Sky Dental",
-      "title": "Customer Care & Asisten Dokter Gigi",
-      "blogger_url": "https://www.mintainfo.com/2026/08/customer-care-asisten-dokter-gigi-di.html",
-      "date_label": "Selasa, 25 Agustus 2026"
-    },
-    {
-      "id": 15317,
-      "company": "APM Logistics",
-      "title": "Driver",
-      "blogger_url": "https://www.mintainfo.com/2026/08/driver-di-apm-logistics-pekanbaru.html",
-      "date_label": "Selasa, 25 Agustus 2026"
-    },
-    {
-      "id": 15312,
-      "company": "PT Mitra Utama Madani",
-      "title": "Account Officer",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-account-officer-terbaru-pt-mitra.html",
-      "date_label": "Selasa, 25 Agustus 2026"
-    },
-    {
-      "id": 15310,
-      "company": "PT. Golden Gold Beverage",
-      "title": "Kasir",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-kasir-di-pt-golden-gold.html",
-      "date_label": "Selasa, 25 Agustus 2026"
     }
   ]
 }
