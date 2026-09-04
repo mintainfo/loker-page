@@ -1,8 +1,14 @@
 {
   "date": "2026-09-04",
   "date_label": "Jumat, 4 September 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 16158,
+      "company": "Stikes Pekanbaru Medical Center",
+      "title": "Staf Perpustakaan",
+      "blogger_url": "https://www.mintainfo.com/2026/09/staf-perpustakaan-di-stikes-pekanbaru.html"
+    },
     {
       "id": 16157,
       "company": "PT. GLOBAL BANGUNAN JAYA",
