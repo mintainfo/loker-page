@@ -1,6 +1,13 @@
 {
-  "count": 23,
+  "count": 17,
   "jobs": [
+    {
+      "id": 16157,
+      "company": "PT. GLOBAL BANGUNAN JAYA",
+      "title": "SPV HRD / STAFF HRD & UMUM",
+      "blogger_url": "https://www.mintainfo.com/2026/09/spv-hrd-staff-hrd-umum-di-pt-global.html",
+      "date_label": "Jumat, 4 September 2026"
+    },
     {
       "id": 16010,
       "company": "PT Garudafood Putra Putri Jaya",
@@ -112,55 +119,6 @@
       "title": "Tim Painting Figure",
       "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-tim-painting-figure-di.html",
       "date_label": "Jumat, 28 Agustus 2026"
-    },
-    {
-      "id": 15602,
-      "company": "RSIA Annisa",
-      "title": "Bidan, Perawat dan Koordinator Cleaning Service",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rsia-annisa-buka-lowongan-bidan-perawat.html",
-      "date_label": "Kamis, 27 Agustus 2026"
-    },
-    {
-      "id": 15430,
-      "company": "PT Primanusa Globalindo",
-      "title": "HRD ADMIN",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-hrd-admin-terbaru-pt-primanusa.html",
-      "date_label": "Kamis, 27 Agustus 2026"
-    },
-    {
-      "id": 15515,
-      "company": "Saniye Cosmetics",
-      "title": "Beauty Advisor",
-      "blogger_url": "https://www.mintainfo.com/2026/08/beauty-advisor-di-saniye-cosmetics.html",
-      "date_label": "Kamis, 27 Agustus 2026"
-    },
-    {
-      "id": 15601,
-      "company": "RS. BINA KASIH PEKANBARU",
-      "title": "Dokter Umum dan Teknis Kefarmasian",
-      "blogger_url": "https://www.mintainfo.com/2026/08/dokter-umum-dan-teknis-kefarmasian-di.html",
-      "date_label": "Kamis, 27 Agustus 2026"
-    },
-    {
-      "id": 15600,
-      "company": "Rumah Sakit permatahati",
-      "title": "Fisioterapis",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rumah-sakit-permatahati-buka-lowongan.html",
-      "date_label": "Kamis, 27 Agustus 2026"
-    },
-    {
-      "id": 15385,
-      "company": "SuperKlin Laundry",
-      "title": "Admin Laundry merangkap Setrika",
-      "blogger_url": "https://www.mintainfo.com/2026/08/superklin-laundry-buka-lowongan-admin.html",
-      "date_label": "Kamis, 27 Agustus 2026"
-    },
-    {
-      "id": 15423,
-      "company": "Ruang Laundry",
-      "title": "Karyawan Laundry",
-      "blogger_url": "https://www.mintainfo.com/2026/08/karyawan-laundry-di-ruang-laundry.html",
-      "date_label": "Kamis, 27 Agustus 2026"
     }
   ]
 }
