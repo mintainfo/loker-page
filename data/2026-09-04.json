@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "date_label": "Jumat, 4 September 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 16159,
@@ -20,6 +20,12 @@
       "company": "PT. GLOBAL BANGUNAN JAYA",
       "title": "SPV HRD / STAFF HRD & UMUM",
       "blogger_url": "https://www.mintainfo.com/2026/09/spv-hrd-staff-hrd-umum-di-pt-global.html"
+    },
+    {
+      "id": 16113,
+      "company": "PT Inti Anugerah Teknik",
+      "title": "BUBUT & MILLING",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-bubut-milling-di-pt-inti.html"
     }
   ]
 }
