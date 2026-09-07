@@ -1,6 +1,13 @@
 {
-  "count": 17,
+  "count": 18,
   "jobs": [
+    {
+      "id": 16234,
+      "company": "SPPG Bengkalis Bathin Solapan Kesumbo Ampai",
+      "title": "Chef",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-chef-di-sppg-bengkalis-bathin.html",
+      "date_label": "Senin, 7 September 2026"
+    },
     {
       "id": 16209,
       "company": "KOPI ROAMING",

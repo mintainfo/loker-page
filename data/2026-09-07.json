@@ -1,13 +1,19 @@
 {
   "date": "2026-09-07",
   "date_label": "Senin, 7 September 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 16238,
       "company": "Abah Burger",
       "title": "Accounting Staff / Produksi Staff",
       "blogger_url": "https://www.mintainfo.com/2026/09/accounting-staff-produksi-staff-di-abah.html"
+    },
+    {
+      "id": 16234,
+      "company": "SPPG Bengkalis Bathin Solapan Kesumbo Ampai",
+      "title": "Chef",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-chef-di-sppg-bengkalis-bathin.html"
     },
     {
       "id": 16209,
