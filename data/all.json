@@ -1,6 +1,13 @@
 {
-  "count": 21,
+  "count": 15,
   "jobs": [
+    {
+      "id": 16238,
+      "company": "Abah Burger",
+      "title": "Accounting Staff / Produksi Staff",
+      "blogger_url": "https://www.mintainfo.com/2026/09/accounting-staff-produksi-staff-di-abah.html",
+      "date_label": "Senin, 7 September 2026"
+    },
     {
       "id": 16114,
       "company": "Argo Motor",
@@ -98,55 +105,6 @@
       "title": "Kasir Laundry",
       "blogger_url": "https://www.mintainfo.com/2026/08/kasir-laundry-di-pku-coin-laundry.html",
       "date_label": "Senin, 31 Agustus 2026"
-    },
-    {
-      "id": 15649,
-      "company": "Kanjeng Putri Foods",
-      "title": "Bagian Produksi Frozen Foods",
-      "blogger_url": "https://www.mintainfo.com/2026/08/bagian-produksi-frozen-foods-di-kanjeng.html",
-      "date_label": "Sabtu, 29 Agustus 2026"
-    },
-    {
-      "id": 15726,
-      "company": "Elizabeth",
-      "title": "STORE CREW",
-      "blogger_url": "https://www.mintainfo.com/2026/08/store-crew-di-elizabeth-pekanbaru.html",
-      "date_label": "Sabtu, 29 Agustus 2026"
-    },
-    {
-      "id": 15637,
-      "company": "PT. Mitra Bali Sukses (Mie Gacoan)",
-      "title": "CREW OUTLET GACOAN PANAM",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-crew-outlet-gacoan-panam-di.html",
-      "date_label": "Jumat, 28 Agustus 2026"
-    },
-    {
-      "id": 15651,
-      "company": "GG Ponsel",
-      "title": "Karyawan Konter",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-karyawan-konter-terbaru-gg-ponsel.html",
-      "date_label": "Jumat, 28 Agustus 2026"
-    },
-    {
-      "id": 15583,
-      "company": "tokolaptopkku",
-      "title": "Teknisi Laptop",
-      "blogger_url": "https://www.mintainfo.com/2026/08/loker-teknisi-laptop-terbaru.html",
-      "date_label": "Jumat, 28 Agustus 2026"
-    },
-    {
-      "id": 15684,
-      "company": "SMA IT Soeman HS Pekanbaru",
-      "title": "Guru",
-      "blogger_url": "https://www.mintainfo.com/2026/08/guru-di-sma-it-soeman-hs-pekanbaru.html",
-      "date_label": "Jumat, 28 Agustus 2026"
-    },
-    {
-      "id": 15654,
-      "company": "Akropolis 3D Printing",
-      "title": "Tim Painting Figure",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-tim-painting-figure-di.html",
-      "date_label": "Jumat, 28 Agustus 2026"
     }
   ]
 }
