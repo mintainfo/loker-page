@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
   "date_label": "Senin, 7 September 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 16238,
@@ -14,6 +14,12 @@
       "company": "Abah Burger",
       "title": "Accounting Staff & Produksi Staff",
       "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-accounting-staff-produksi.html"
+    },
+    {
+      "id": 16236,
+      "company": "Safina Tour",
+      "title": "Customer Service",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-customer-service-di-safina.html"
     },
     {
       "id": 16234,
