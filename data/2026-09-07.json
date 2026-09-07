@@ -1,13 +1,19 @@
 {
   "date": "2026-09-07",
   "date_label": "Senin, 7 September 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 16238,
       "company": "Abah Burger",
       "title": "Accounting Staff / Produksi Staff",
       "blogger_url": "https://www.mintainfo.com/2026/09/accounting-staff-produksi-staff-di-abah.html"
+    },
+    {
+      "id": 16205,
+      "company": "Roti Srikaya Hoki",
+      "title": "Staff Outlet & Kitchen Helper",
+      "blogger_url": "https://www.mintainfo.com/2026/09/staff-outlet-kitchen-helper-di-roti.html"
     }
   ]
 }
