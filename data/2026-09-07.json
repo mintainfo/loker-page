@@ -1,13 +1,19 @@
 {
   "date": "2026-09-07",
   "date_label": "Senin, 7 September 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 16238,
       "company": "Abah Burger",
       "title": "Accounting Staff / Produksi Staff",
       "blogger_url": "https://www.mintainfo.com/2026/09/accounting-staff-produksi-staff-di-abah.html"
+    },
+    {
+      "id": 16237,
+      "company": "Abah Burger",
+      "title": "Accounting Staff & Produksi Staff",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-accounting-staff-produksi.html"
     },
     {
       "id": 16234,
