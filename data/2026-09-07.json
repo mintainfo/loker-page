@@ -1,13 +1,19 @@
 {
   "date": "2026-09-07",
   "date_label": "Senin, 7 September 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 16238,
       "company": "Abah Burger",
       "title": "Accounting Staff / Produksi Staff",
       "blogger_url": "https://www.mintainfo.com/2026/09/accounting-staff-produksi-staff-di-abah.html"
+    },
+    {
+      "id": 16209,
+      "company": "KOPI ROAMING",
+      "title": "Rider",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-rider-terbaru-kopi-roaming.html"
     },
     {
       "id": 16205,
