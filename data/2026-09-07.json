@@ -1,8 +1,14 @@
 {
   "date": "2026-09-07",
   "date_label": "Senin, 7 September 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 16239,
+      "company": "Klinik Tumbuh Kembang Anak Dr. Dini",
+      "title": "Apoteker",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-apoteker-di-klinik-tumbuh.html"
+    },
     {
       "id": 16238,
       "company": "Abah Burger",
