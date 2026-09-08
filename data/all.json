@@ -1,6 +1,13 @@
 {
-  "count": 21,
+  "count": 19,
   "jobs": [
+    {
+      "id": 16250,
+      "company": "PT Funworld Prima",
+      "title": "SUPERVISOR AREA PEKANBARU",
+      "blogger_url": "https://www.mintainfo.com/2026/09/pt-funworld-prima-buka-lowongan.html",
+      "date_label": "Selasa, 8 September 2026"
+    },
     {
       "id": 16239,
       "company": "Klinik Tumbuh Kembang Anak Dr. Dini",
@@ -126,27 +133,6 @@
       "title": "Teknisi Komputer",
       "blogger_url": "https://www.mintainfo.com/2026/09/loker-teknisi-komputer-terbaru-it.html",
       "date_label": "Selasa, 1 September 2026"
-    },
-    {
-      "id": 15712,
-      "company": "PT Pemasok Mitra Pembeli ( PemPem )",
-      "title": "Milss Relation Officer",
-      "blogger_url": "https://www.mintainfo.com/2026/08/milss-relation-officer-di-pt-pemasok.html",
-      "date_label": "Senin, 31 Agustus 2026"
-    },
-    {
-      "id": 15785,
-      "company": "Pabrik Roti HK",
-      "title": "Karyawan Pabrik",
-      "blogger_url": "https://www.mintainfo.com/2026/08/rekrutmen-karyawan-pabrik-di-pabrik.html",
-      "date_label": "Senin, 31 Agustus 2026"
-    },
-    {
-      "id": 15787,
-      "company": "PKU Coin Laundry",
-      "title": "Kasir Laundry",
-      "blogger_url": "https://www.mintainfo.com/2026/08/kasir-laundry-di-pku-coin-laundry.html",
-      "date_label": "Senin, 31 Agustus 2026"
     }
   ]
 }
