@@ -1,6 +1,13 @@
 {
-  "count": 20,
+  "count": 17,
   "jobs": [
+    {
+      "id": 16338,
+      "company": "PT Sungai Budi",
+      "title": "STAFF ACCOUNTING (RIAU)",
+      "blogger_url": "https://www.mintainfo.com/2026/09/pt-sungai-budi-buka-lowongan-staff.html",
+      "date_label": "Rabu, 9 September 2026"
+    },
     {
       "id": 16260,
       "company": "TK SD Alumna Indonesia Islamic School",
@@ -112,34 +119,6 @@
       "title": "MEDICAL REPRESENTATIVE (PEKANBARU)",
       "blogger_url": "https://www.mintainfo.com/2026/09/pt-docare-laras-indonesia-buka-lowongan.html",
       "date_label": "Kamis, 3 September 2026"
-    },
-    {
-      "id": 15835,
-      "company": "PT. LIPPO KARAWACI TBK",
-      "title": "Inspector MEP / Civil / Infra - Pekanbaru",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-inspector-mep-civil-infra.html",
-      "date_label": "Selasa, 1 September 2026"
-    },
-    {
-      "id": 15923,
-      "company": "PT NUSA LIMA MEDIKA",
-      "title": "Petugas IT",
-      "blogger_url": "https://www.mintainfo.com/2026/09/pt-nusa-lima-medika-buka-lowongan.html",
-      "date_label": "Selasa, 1 September 2026"
-    },
-    {
-      "id": 15874,
-      "company": "deWAVE Family Massage & Beauty Salon",
-      "title": "Terapis Pijat Kesehatan dan Kecantikan",
-      "blogger_url": "https://www.mintainfo.com/2026/09/terapis-pijat-kesehatan-dan-kecantikan.html",
-      "date_label": "Selasa, 1 September 2026"
-    },
-    {
-      "id": 15875,
-      "company": "IT Service Centre",
-      "title": "Teknisi Komputer",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-teknisi-komputer-terbaru-it.html",
-      "date_label": "Selasa, 1 September 2026"
     }
   ]
 }
