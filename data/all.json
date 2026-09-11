@@ -1,6 +1,13 @@
 {
-  "count": 18,
+  "count": 17,
   "jobs": [
+    {
+      "id": 16620,
+      "company": "Pesantren Islam Al-Irsyad Tengaran 12 Riau",
+      "title": "Staff Keuangan / Staff Math'am",
+      "blogger_url": "https://www.mintainfo.com/2026/09/staff-keuangan-staff-matham-di.html",
+      "date_label": "Jumat, 11 September 2026"
+    },
     {
       "id": 16342,
       "company": "PT Kamadjaja Logistics",
@@ -112,20 +119,6 @@
       "title": "SPV HRD / STAFF HRD & UMUM",
       "blogger_url": "https://www.mintainfo.com/2026/09/spv-hrd-staff-hrd-umum-di-pt-global.html",
       "date_label": "Jumat, 4 September 2026"
-    },
-    {
-      "id": 16010,
-      "company": "PT Garudafood Putra Putri Jaya",
-      "title": "General Affair Staff",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-general-affair-staff-di-pt.html",
-      "date_label": "Kamis, 3 September 2026"
-    },
-    {
-      "id": 16012,
-      "company": "PT Docare Laras Indonesia",
-      "title": "MEDICAL REPRESENTATIVE (PEKANBARU)",
-      "blogger_url": "https://www.mintainfo.com/2026/09/pt-docare-laras-indonesia-buka-lowongan.html",
-      "date_label": "Kamis, 3 September 2026"
     }
   ]
 }
