@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
   "date_label": "Jumat, 11 September 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 16621,
@@ -20,6 +20,12 @@
       "company": "Warkop etBono",
       "title": "Kasir & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/09/kasir-posisi-lainnya-di-warkop-etbono.html"
+    },
+    {
+      "id": 16477,
+      "company": "PT. RIAU JAYA KONSTRUKSI",
+      "title": "Operator Mesin Bubut",
+      "blogger_url": "https://www.mintainfo.com/2026/09/pt-riau-jaya-konstruksi-buka-lowongan.html"
     },
     {
       "id": 16449,
