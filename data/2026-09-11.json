@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
   "date_label": "Jumat, 11 September 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "id": 16621,
@@ -14,6 +14,12 @@
       "company": "Pesantren Islam Al-Irsyad Tengaran 12 Riau",
       "title": "Staff Keuangan / Staff Math'am",
       "blogger_url": "https://www.mintainfo.com/2026/09/staff-keuangan-staff-matham-di.html"
+    },
+    {
+      "id": 16613,
+      "company": "Toko Besi Garuda Steel",
+      "title": "Kasir Penjualan",
+      "blogger_url": "https://www.mintainfo.com/2026/09/toko-besi-garuda-steel-buka-lowongan.html"
     },
     {
       "id": 16586,

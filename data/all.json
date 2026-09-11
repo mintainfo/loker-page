@@ -1,6 +1,13 @@
 {
-  "count": 23,
+  "count": 24,
   "jobs": [
+    {
+      "id": 16613,
+      "company": "Toko Besi Garuda Steel",
+      "title": "Kasir Penjualan",
+      "blogger_url": "https://www.mintainfo.com/2026/09/toko-besi-garuda-steel-buka-lowongan.html",
+      "date_label": "Jumat, 11 September 2026"
+    },
     {
       "id": 16586,
       "company": "SD & SMP Taruna Islam",
