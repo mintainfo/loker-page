@@ -1,6 +1,13 @@
 {
-  "count": 35,
+  "count": 36,
   "jobs": [
+    {
+      "id": 16717,
+      "company": "Jajan Dimsum",
+      "title": "Penjaga Stand Dimsum",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-penjaga-stand-dimsum-di-jajan.html",
+      "date_label": "Senin, 14 September 2026"
+    },
     {
       "id": 16687,
       "company": "Ayam Sambal Oren",
