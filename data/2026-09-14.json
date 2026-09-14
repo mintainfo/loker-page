@@ -1,8 +1,14 @@
 {
   "date": "2026-09-14",
   "date_label": "Senin, 14 September 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 16724,
+      "company": "Tidak Diketahui",
+      "title": "Cashier (Wanita) & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/09/cashier-wanita-posisi-lainnya-di-tidak.html"
+    },
     {
       "id": 16723,
       "company": "RnR Medical Aesthetic",
