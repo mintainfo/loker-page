@@ -1,6 +1,13 @@
 {
-  "count": 25,
+  "count": 21,
   "jobs": [
+    {
+      "id": 16722,
+      "company": "TGAP Group",
+      "title": "Cookhelper",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-cookhelper-di-tgap-group.html",
+      "date_label": "Senin, 14 September 2026"
+    },
     {
       "id": 16519,
       "company": "PO Bus Tam",
@@ -140,41 +147,6 @@
       "title": "Accounting Staff / Produksi Staff",
       "blogger_url": "https://www.mintainfo.com/2026/09/accounting-staff-produksi-staff-di-abah.html",
       "date_label": "Senin, 7 September 2026"
-    },
-    {
-      "id": 16114,
-      "company": "Argo Motor",
-      "title": "MEKANIK I ASS. MEKANIK I PDI MAN & FRONTDESK",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-mekanik-i-ass-mekanik-i-pdi-man.html",
-      "date_label": "Jumat, 4 September 2026"
-    },
-    {
-      "id": 16113,
-      "company": "PT Inti Anugerah Teknik",
-      "title": "BUBUT & MILLING",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-bubut-milling-di-pt-inti.html",
-      "date_label": "Jumat, 4 September 2026"
-    },
-    {
-      "id": 16159,
-      "company": "d'BestQ",
-      "title": "KASIR/KITCHEN",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-kasirkitchen-terbaru-dbestq.html",
-      "date_label": "Jumat, 4 September 2026"
-    },
-    {
-      "id": 16158,
-      "company": "Stikes Pekanbaru Medical Center",
-      "title": "Staf Perpustakaan",
-      "blogger_url": "https://www.mintainfo.com/2026/09/staf-perpustakaan-di-stikes-pekanbaru.html",
-      "date_label": "Jumat, 4 September 2026"
-    },
-    {
-      "id": 16157,
-      "company": "PT. GLOBAL BANGUNAN JAYA",
-      "title": "SPV HRD / STAFF HRD & UMUM",
-      "blogger_url": "https://www.mintainfo.com/2026/09/spv-hrd-staff-hrd-umum-di-pt-global.html",
-      "date_label": "Jumat, 4 September 2026"
     }
   ]
 }
