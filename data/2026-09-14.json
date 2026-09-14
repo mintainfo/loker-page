@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "date_label": "Senin, 14 September 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
       "id": 16756,
@@ -44,6 +44,12 @@
       "company": "TGAP Group",
       "title": "Cookhelper",
       "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-cookhelper-di-tgap-group.html"
+    },
+    {
+      "id": 16720,
+      "company": "KuMau Geprek",
+      "title": "Karyawati",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-karyawati-di-kumau-geprek.html"
     },
     {
       "id": 16717,
