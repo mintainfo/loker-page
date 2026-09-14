@@ -1,8 +1,14 @@
 {
   "date": "2026-09-14",
   "date_label": "Senin, 14 September 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
+    {
+      "id": 16757,
+      "company": "Savour Coffee",
+      "title": "Cashier / Waiters",
+      "blogger_url": "https://www.mintainfo.com/2026/09/savour-coffee-buka-lowongan-cashier.html"
+    },
     {
       "id": 16756,
       "company": "CV. INDAH REZEKI",
