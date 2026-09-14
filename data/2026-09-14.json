@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "date_label": "Senin, 14 September 2026",
-  "count": 17,
+  "count": 18,
   "jobs": [
     {
       "id": 16756,
@@ -104,6 +104,12 @@
       "company": "OPS Laundry",
       "title": "Staff Setrika",
       "blogger_url": "https://www.mintainfo.com/2026/09/staff-setrika-di-ops-laundry-pekanbaru.html"
+    },
+    {
+      "id": 16642,
+      "company": "LUCKY TERAPI PEKANBARU",
+      "title": "MANAGER & STAFF",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-manager-staff-terbaru-lucky.html"
     }
   ]
 }
