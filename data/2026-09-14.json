@@ -1,8 +1,14 @@
 {
   "date": "2026-09-14",
   "date_label": "Senin, 14 September 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 16723,
+      "company": "RnR Medical Aesthetic",
+      "title": "Therapist/Beautician",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-therapistbeautician-di-rnr.html"
+    },
     {
       "id": 16722,
       "company": "TGAP Group",
