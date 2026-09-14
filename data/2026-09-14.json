@@ -1,8 +1,14 @@
 {
   "date": "2026-09-14",
   "date_label": "Senin, 14 September 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
+    {
+      "id": 16755,
+      "company": "PT. Mandom Indonesia Tbk",
+      "title": "Beauty Advisor",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-beauty-advisor-terbaru-pt-mandom.html"
+    },
     {
       "id": 16726,
       "company": "Sumber Buah Dafkan",
