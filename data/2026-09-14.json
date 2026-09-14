@@ -1,8 +1,14 @@
 {
   "date": "2026-09-14",
   "date_label": "Senin, 14 September 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 16726,
+      "company": "Sumber Buah Dafkan",
+      "title": "Karyawan Toko & Staf Gudang",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-karyawan-toko-staf-gudang-terbaru.html"
+    },
     {
       "id": 16725,
       "company": "Apotek Zhafran",
