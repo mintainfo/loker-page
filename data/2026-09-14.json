@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "date_label": "Senin, 14 September 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "id": 16726,
@@ -32,6 +32,12 @@
       "company": "TGAP Group",
       "title": "Cookhelper",
       "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-cookhelper-di-tgap-group.html"
+    },
+    {
+      "id": 16655,
+      "company": "Rakkipanda",
+      "title": "Crew Store & Host Live",
+      "blogger_url": "https://www.mintainfo.com/2026/09/crew-store-host-live-di-rakkipanda.html"
     },
     {
       "id": 16651,
