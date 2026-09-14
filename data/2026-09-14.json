@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "date_label": "Senin, 14 September 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 16726,
@@ -32,6 +32,12 @@
       "company": "TGAP Group",
       "title": "Cookhelper",
       "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-cookhelper-di-tgap-group.html"
+    },
+    {
+      "id": 16651,
+      "company": "PT. Prada Makmur Sejahtera",
+      "title": "Staff HRGA & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/09/staff-hrga-posisi-lainnya-di-pt-prada.html"
     },
     {
       "id": 16650,
