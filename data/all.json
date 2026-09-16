@@ -1,6 +1,13 @@
 {
-  "count": 40,
+  "count": 32,
   "jobs": [
+    {
+      "id": 16775,
+      "company": "PT Hiro Group Indonesia",
+      "title": "COOK SUSHI",
+      "blogger_url": "https://www.mintainfo.com/2026/09/cook-sushi-di-pt-hiro-group-indonesia.html",
+      "date_label": "Rabu, 16 September 2026"
+    },
     {
       "id": 16758,
       "company": "Indonesian Creative School",
@@ -217,69 +224,6 @@
       "title": "STAFF ACCOUNTING (RIAU)",
       "blogger_url": "https://www.mintainfo.com/2026/09/pt-sungai-budi-buka-lowongan-staff.html",
       "date_label": "Rabu, 9 September 2026"
-    },
-    {
-      "id": 16260,
-      "company": "TK SD Alumna Indonesia Islamic School",
-      "title": "Guru TK/PAUD",
-      "blogger_url": "https://www.mintainfo.com/2026/09/guru-tkpaud-di-tk-sd-alumna-indonesia.html",
-      "date_label": "Selasa, 8 September 2026"
-    },
-    {
-      "id": 16250,
-      "company": "PT Funworld Prima",
-      "title": "SUPERVISOR AREA PEKANBARU",
-      "blogger_url": "https://www.mintainfo.com/2026/09/pt-funworld-prima-buka-lowongan.html",
-      "date_label": "Selasa, 8 September 2026"
-    },
-    {
-      "id": 16239,
-      "company": "Klinik Tumbuh Kembang Anak Dr. Dini",
-      "title": "Apoteker",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-apoteker-di-klinik-tumbuh.html",
-      "date_label": "Senin, 7 September 2026"
-    },
-    {
-      "id": 16236,
-      "company": "Safina Tour",
-      "title": "Customer Service",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-customer-service-di-safina.html",
-      "date_label": "Senin, 7 September 2026"
-    },
-    {
-      "id": 16237,
-      "company": "Abah Burger",
-      "title": "Accounting Staff & Produksi Staff",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-accounting-staff-produksi.html",
-      "date_label": "Senin, 7 September 2026"
-    },
-    {
-      "id": 16234,
-      "company": "SPPG Bengkalis Bathin Solapan Kesumbo Ampai",
-      "title": "Chef",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-chef-di-sppg-bengkalis-bathin.html",
-      "date_label": "Senin, 7 September 2026"
-    },
-    {
-      "id": 16209,
-      "company": "KOPI ROAMING",
-      "title": "Rider",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-rider-terbaru-kopi-roaming.html",
-      "date_label": "Senin, 7 September 2026"
-    },
-    {
-      "id": 16205,
-      "company": "Roti Srikaya Hoki",
-      "title": "Staff Outlet & Kitchen Helper",
-      "blogger_url": "https://www.mintainfo.com/2026/09/staff-outlet-kitchen-helper-di-roti.html",
-      "date_label": "Senin, 7 September 2026"
-    },
-    {
-      "id": 16238,
-      "company": "Abah Burger",
-      "title": "Accounting Staff / Produksi Staff",
-      "blogger_url": "https://www.mintainfo.com/2026/09/accounting-staff-produksi-staff-di-abah.html",
-      "date_label": "Senin, 7 September 2026"
     }
   ]
 }
