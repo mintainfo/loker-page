@@ -1,8 +1,14 @@
 {
   "date": "2026-09-16",
   "date_label": "Rabu, 16 September 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 16845,
+      "company": "Tidak Diketahui",
+      "title": "Staff Karyawan",
+      "blogger_url": "https://www.mintainfo.com/2026/09/staff-karyawan-di-tidak-diketahui.html"
+    },
     {
       "id": 16811,
       "company": "Grafindo Digital Printing Center",
