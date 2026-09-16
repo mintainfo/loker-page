@@ -1,13 +1,19 @@
 {
   "date": "2026-09-16",
   "date_label": "Rabu, 16 September 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 16811,
       "company": "Grafindo Digital Printing Center",
       "title": "Desain Graphic & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/09/loker-desain-graphic-posisi-lainnya.html"
+    },
+    {
+      "id": 16800,
+      "company": "CV. Wijaya Keramik Mandiri",
+      "title": "Finance & Tax Admin",
+      "blogger_url": "https://www.mintainfo.com/2026/09/finance-tax-admin-di-cv-wijaya-keramik.html"
     },
     {
       "id": 16775,
