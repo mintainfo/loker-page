@@ -1,13 +1,19 @@
 {
   "date": "2026-09-16",
   "date_label": "Rabu, 16 September 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 16845,
       "company": "Tidak Diketahui",
       "title": "Staff Karyawan",
       "blogger_url": "https://www.mintainfo.com/2026/09/staff-karyawan-di-tidak-diketahui.html"
+    },
+    {
+      "id": 16843,
+      "company": "Fathia",
+      "title": "Bidan",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-bidan-di-fathia-pekanbaru.html"
     },
     {
       "id": 16811,
