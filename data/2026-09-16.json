@@ -1,8 +1,14 @@
 {
   "date": "2026-09-16",
   "date_label": "Rabu, 16 September 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 16850,
+      "company": "RS AZ-ZAHRA",
+      "title": "Security",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-security-di-rs-az-zahra.html"
+    },
     {
       "id": 16845,
       "company": "Tidak Diketahui",
