@@ -1,8 +1,14 @@
 {
   "date": "2026-09-17",
   "date_label": "Kamis, 17 September 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 16899,
+      "company": "Amora Laundry Express",
+      "title": "Staff Laundry",
+      "blogger_url": "https://www.mintainfo.com/2026/09/staff-laundry-di-amora-laundry-express.html"
+    },
     {
       "id": 16897,
       "company": "Ummu Imam / Evarose",
