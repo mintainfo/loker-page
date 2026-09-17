@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "date_label": "Kamis, 17 September 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "id": 16945,
@@ -80,6 +80,12 @@
       "company": "Bintang Studio",
       "title": "Content Creator",
       "blogger_url": "https://www.mintainfo.com/2026/09/content-creator-di-bintang-studio.html"
+    },
+    {
+      "id": 16846,
+      "company": "Ziva Skin & Beauty",
+      "title": "Perawat Estetika",
+      "blogger_url": "https://www.mintainfo.com/2026/09/ziva-skin-beauty-buka-lowongan-perawat.html"
     }
   ]
 }
