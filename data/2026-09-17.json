@@ -1,8 +1,14 @@
 {
   "date": "2026-09-17",
   "date_label": "Kamis, 17 September 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 16945,
+      "company": "SMK Teknologi Negeri Indonesia",
+      "title": "Guru Matematika",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-guru-matematika-di-smk.html"
+    },
     {
       "id": 16943,
       "company": "Praktek Umum dr.Widya Astuti",
