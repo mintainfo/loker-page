@@ -1,8 +1,14 @@
 {
   "date": "2026-09-17",
   "date_label": "Kamis, 17 September 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 16940,
+      "company": "Yammi Coffee & Cake",
+      "title": "Rider Kopi Keliling",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-rider-kopi-keliling-terbaru-yammi.html"
+    },
     {
       "id": 16939,
       "company": "Tasqya Costel Syariah",
