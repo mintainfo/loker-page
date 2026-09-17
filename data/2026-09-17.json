@@ -1,8 +1,14 @@
 {
   "date": "2026-09-17",
   "date_label": "Kamis, 17 September 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 16943,
+      "company": "Praktek Umum dr.Widya Astuti",
+      "title": "Admin",
+      "blogger_url": "https://www.mintainfo.com/2026/09/admin-di-praktek-umum-drwidya-astuti.html"
+    },
     {
       "id": 16941,
       "company": "Barberbaard",
