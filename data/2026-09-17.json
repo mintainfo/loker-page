@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "date_label": "Kamis, 17 September 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 16943,
@@ -38,6 +38,12 @@
       "company": "Ummu Imam / Evarose",
       "title": "Project Manager",
       "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-project-manager-di-ummu-imam.html"
+    },
+    {
+      "id": 16890,
+      "company": "Aneka Mainan",
+      "title": "Supir",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-supir-di-aneka-mainan.html"
     },
     {
       "id": 16889,

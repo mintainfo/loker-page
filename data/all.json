@@ -1,6 +1,13 @@
 {
-  "count": 45,
+  "count": 46,
   "jobs": [
+    {
+      "id": 16890,
+      "company": "Aneka Mainan",
+      "title": "Supir",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-supir-di-aneka-mainan.html",
+      "date_label": "Kamis, 17 September 2026"
+    },
     {
       "id": 16888,
       "company": "Bintang Studio",
