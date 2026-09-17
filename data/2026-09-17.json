@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "date_label": "Kamis, 17 September 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 16943,
@@ -26,6 +26,12 @@
       "company": "Tasqya Costel Syariah",
       "title": "Maintenance & Marketing MHU Hotel",
       "blogger_url": "https://www.mintainfo.com/2026/09/tasqya-costel-syariah-buka-lowongan.html"
+    },
+    {
+      "id": 16937,
+      "company": "King Dental Care",
+      "title": "Asisten Dokter Gigi",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-asisten-dokter-gigi-di-king.html"
     },
     {
       "id": 16899,
