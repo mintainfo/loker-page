@@ -1,6 +1,13 @@
 {
-  "count": 39,
+  "count": 38,
   "jobs": [
+    {
+      "id": 16897,
+      "company": "Ummu Imam / Evarose",
+      "title": "Project Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-project-manager-di-ummu-imam.html",
+      "date_label": "Kamis, 17 September 2026"
+    },
     {
       "id": 16850,
       "company": "RS AZ-ZAHRA",
@@ -259,20 +266,6 @@
       "title": "Staff Keuangan / Staff Math'am",
       "blogger_url": "https://www.mintainfo.com/2026/09/staff-keuangan-staff-matham-di.html",
       "date_label": "Jumat, 11 September 2026"
-    },
-    {
-      "id": 16342,
-      "company": "PT Kamadjaja Logistics",
-      "title": "Staff Admin Warehouse",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-staff-admin-warehouse-di-pt.html",
-      "date_label": "Rabu, 9 September 2026"
-    },
-    {
-      "id": 16338,
-      "company": "PT Sungai Budi",
-      "title": "STAFF ACCOUNTING (RIAU)",
-      "blogger_url": "https://www.mintainfo.com/2026/09/pt-sungai-budi-buka-lowongan-staff.html",
-      "date_label": "Rabu, 9 September 2026"
     }
   ]
 }
