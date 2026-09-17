@@ -1,6 +1,13 @@
 {
-  "count": 41,
+  "count": 42,
   "jobs": [
+    {
+      "id": 16941,
+      "company": "Barberbaard",
+      "title": "Cashier",
+      "blogger_url": "https://www.mintainfo.com/2026/09/cashier-di-barberbaard-pekanbaru.html",
+      "date_label": "Kamis, 17 September 2026"
+    },
     {
       "id": 16940,
       "company": "Yammi Coffee & Cake",
