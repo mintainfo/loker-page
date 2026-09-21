@@ -1,6 +1,13 @@
 {
-  "count": 51,
+  "count": 43,
   "jobs": [
+    {
+      "id": 17036,
+      "company": "Teh Tarik Lomma'",
+      "title": "Crew Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-crew-outlet-terbaru-teh-tarik.html",
+      "date_label": "Senin, 21 September 2026"
+    },
     {
       "id": 16846,
       "company": "Ziva Skin & Beauty",
@@ -294,69 +301,6 @@
       "title": "Cookhelper",
       "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-cookhelper-di-tgap-group.html",
       "date_label": "Senin, 14 September 2026"
-    },
-    {
-      "id": 16519,
-      "company": "PO Bus Tam",
-      "title": "Staff IT & CCTV Control",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-staff-it-cctv-control-di-po.html",
-      "date_label": "Jumat, 11 September 2026"
-    },
-    {
-      "id": 16613,
-      "company": "Toko Besi Garuda Steel",
-      "title": "Kasir Penjualan",
-      "blogger_url": "https://www.mintainfo.com/2026/09/toko-besi-garuda-steel-buka-lowongan.html",
-      "date_label": "Jumat, 11 September 2026"
-    },
-    {
-      "id": 16586,
-      "company": "SD & SMP Taruna Islam",
-      "title": "Guru Kesenian",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-guru-kesenian-terbaru-sd-smp.html",
-      "date_label": "Jumat, 11 September 2026"
-    },
-    {
-      "id": 16478,
-      "company": "Jajanan KL",
-      "title": "Crew Outlet",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-crew-outlet-di-jajanan-kl.html",
-      "date_label": "Jumat, 11 September 2026"
-    },
-    {
-      "id": 16477,
-      "company": "PT. RIAU JAYA KONSTRUKSI",
-      "title": "Operator Mesin Bubut",
-      "blogger_url": "https://www.mintainfo.com/2026/09/pt-riau-jaya-konstruksi-buka-lowongan.html",
-      "date_label": "Jumat, 11 September 2026"
-    },
-    {
-      "id": 16585,
-      "company": "Warkop etBono",
-      "title": "Kasir & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/09/kasir-posisi-lainnya-di-warkop-etbono.html",
-      "date_label": "Jumat, 11 September 2026"
-    },
-    {
-      "id": 16449,
-      "company": "Royal Prime Montessori",
-      "title": "Science Teacher (Junior High School)",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-science-teacher-junior-high.html",
-      "date_label": "Jumat, 11 September 2026"
-    },
-    {
-      "id": 16621,
-      "company": "Rumah sakit AZ-ZAHRA",
-      "title": "KASIR",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-kasir-di-rumah-sakit-az-zahra.html",
-      "date_label": "Jumat, 11 September 2026"
-    },
-    {
-      "id": 16620,
-      "company": "Pesantren Islam Al-Irsyad Tengaran 12 Riau",
-      "title": "Staff Keuangan / Staff Math'am",
-      "blogger_url": "https://www.mintainfo.com/2026/09/staff-keuangan-staff-matham-di.html",
-      "date_label": "Jumat, 11 September 2026"
     }
   ]
 }
