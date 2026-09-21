@@ -1,8 +1,14 @@
 {
   "date": "2026-09-21",
   "date_label": "Senin, 21 September 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 17039,
+      "company": "esTeler BARBARITA",
+      "title": "Crew Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-crew-outlet-terbaru-esteler.html"
+    },
     {
       "id": 17036,
       "company": "Teh Tarik Lomma'",
