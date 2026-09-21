@@ -1,8 +1,14 @@
 {
   "date": "2026-09-21",
   "date_label": "Senin, 21 September 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 17044,
+      "company": "Ponpes Imam Dzahabi",
+      "title": "STAF KEBERSIHAN",
+      "blogger_url": "https://www.mintainfo.com/2026/09/ponpes-imam-dzahabi-buka-lowongan-staf.html"
+    },
     {
       "id": 17043,
       "company": "FAMYS",
