@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "date_label": "Senin, 21 September 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 17043,
@@ -20,6 +20,12 @@
       "company": "Teh Tarik Lomma'",
       "title": "Crew Outlet",
       "blogger_url": "https://www.mintainfo.com/2026/09/loker-crew-outlet-terbaru-teh-tarik.html"
+    },
+    {
+      "id": 16993,
+      "company": "New Hollywood Hotel Pekanbaru",
+      "title": "Bellboy ( DW ) & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-bellboy-dw-posisi-lainnya-terbaru.html"
     }
   ]
 }
