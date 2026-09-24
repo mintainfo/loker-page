@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
   "date_label": "Kamis, 24 September 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 17237,
@@ -32,6 +32,12 @@
       "company": "Ikonyoko Cake & Dessert",
       "title": "Full Time Delivery Man",
       "blogger_url": "https://www.mintainfo.com/2026/09/full-time-delivery-man-di-ikonyoko-cake.html"
+    },
+    {
+      "id": 17088,
+      "company": "PT. Mitra Bali Sukses (Mie Gacoan)",
+      "title": "CREW OUTLET - PEKANBARU SOEKARNO HATTA",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-crew-outlet-pekanbaru-soekarno.html"
     }
   ]
 }
