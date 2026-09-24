@@ -1,8 +1,14 @@
 {
   "date": "2026-09-24",
   "date_label": "Kamis, 24 September 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 17237,
+      "company": "Rumah Sakit Islam Ibnu Sina Pekanbaru",
+      "title": "Pramusaji",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-pramusaji-terbaru-rumah-sakit.html"
+    },
     {
       "id": 17188,
       "company": "Super 1",
