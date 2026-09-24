@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
   "date_label": "Kamis, 24 September 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 17237,
@@ -20,6 +20,12 @@
       "company": "SAIGE",
       "title": "Kepala Toko",
       "blogger_url": "https://www.mintainfo.com/2026/09/kepala-toko-di-saige-pekanbaru.html"
+    },
+    {
+      "id": 17099,
+      "company": "Ikonyoko Cake & Dessert",
+      "title": "Full Time Delivery Man",
+      "blogger_url": "https://www.mintainfo.com/2026/09/full-time-delivery-man-di-ikonyoko-cake.html"
     }
   ]
 }
