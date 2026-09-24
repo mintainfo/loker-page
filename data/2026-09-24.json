@@ -1,8 +1,14 @@
 {
   "date": "2026-09-24",
   "date_label": "Kamis, 24 September 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 17238,
+      "company": "RS Murni Teguh",
+      "title": "Apoteker",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-apoteker-di-rs-murni-teguh.html"
+    },
     {
       "id": 17237,
       "company": "Rumah Sakit Islam Ibnu Sina Pekanbaru",
