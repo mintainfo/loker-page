@@ -1,6 +1,13 @@
 {
-  "count": 23,
+  "count": 24,
   "jobs": [
+    {
+      "id": 17201,
+      "company": "Clean Cut Coffee & Barbershop",
+      "title": "JUNIOR KOKI & CAPSTER",
+      "blogger_url": "https://www.mintainfo.com/2026/09/junior-koki-capster-di-clean-cut-coffee.html",
+      "date_label": "Kamis, 24 September 2026"
+    },
     {
       "id": 17099,
       "company": "Ikonyoko Cake & Dessert",

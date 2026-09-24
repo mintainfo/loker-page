@@ -1,13 +1,19 @@
 {
   "date": "2026-09-24",
   "date_label": "Kamis, 24 September 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 17237,
       "company": "Rumah Sakit Islam Ibnu Sina Pekanbaru",
       "title": "Pramusaji",
       "blogger_url": "https://www.mintainfo.com/2026/09/loker-pramusaji-terbaru-rumah-sakit.html"
+    },
+    {
+      "id": 17201,
+      "company": "Clean Cut Coffee & Barbershop",
+      "title": "JUNIOR KOKI & CAPSTER",
+      "blogger_url": "https://www.mintainfo.com/2026/09/junior-koki-capster-di-clean-cut-coffee.html"
     },
     {
       "id": 17188,
