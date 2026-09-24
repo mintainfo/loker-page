@@ -1,13 +1,19 @@
 {
   "date": "2026-09-24",
   "date_label": "Kamis, 24 September 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 17188,
       "company": "Super 1",
       "title": "Staff Penagihan & Anak Gudang",
       "blogger_url": "https://www.mintainfo.com/2026/09/super-1-buka-lowongan-staff-penagihan.html"
+    },
+    {
+      "id": 17134,
+      "company": "SAIGE",
+      "title": "Kepala Toko",
+      "blogger_url": "https://www.mintainfo.com/2026/09/kepala-toko-di-saige-pekanbaru.html"
     }
   ]
 }
