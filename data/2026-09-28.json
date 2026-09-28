@@ -1,8 +1,14 @@
 {
   "date": "2026-09-28",
   "date_label": "Senin, 28 September 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 17266,
+      "company": "Superklin Laundry",
+      "title": "Kurir Laundry",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-kurir-laundry-terbaru-superklin.html"
+    },
     {
       "id": 17263,
       "company": "Roti SriKaya HOK",
