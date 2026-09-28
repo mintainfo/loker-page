@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "date_label": "Senin, 28 September 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 17267,
@@ -14,6 +14,12 @@
       "company": "Superklin Laundry",
       "title": "Kurir Laundry",
       "blogger_url": "https://www.mintainfo.com/2026/09/loker-kurir-laundry-terbaru-superklin.html"
+    },
+    {
+      "id": 17264,
+      "company": "FUNSO",
+      "title": "Crew Toko (Full-Time)",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-crew-toko-full-time-di-funso.html"
     },
     {
       "id": 17263,
