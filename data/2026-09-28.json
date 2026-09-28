@@ -1,8 +1,14 @@
 {
   "date": "2026-09-28",
   "date_label": "Senin, 28 September 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 17308,
+      "company": "Daldam Aesthetic and Dental Care",
+      "title": "DOKTER GIGI UMUM & Asisten",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-dokter-gigi-umum-asisten-terbaru.html"
+    },
     {
       "id": 17300,
       "company": "Ruang Laundry",
