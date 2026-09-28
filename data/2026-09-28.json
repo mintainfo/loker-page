@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "date_label": "Senin, 28 September 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 17300,
@@ -44,6 +44,12 @@
       "company": "Houston Music",
       "title": "Content Creator & Admin Toko",
       "blogger_url": "https://www.mintainfo.com/2026/09/loker-content-creator-admin-toko.html"
+    },
+    {
+      "id": 17256,
+      "company": "Toko Sepatu Juwita",
+      "title": "PRAMUNIAGA TOKO",
+      "blogger_url": "https://www.mintainfo.com/2026/09/toko-sepatu-juwita-buka-lowongan.html"
     },
     {
       "id": 17236,
