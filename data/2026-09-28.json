@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "date_label": "Senin, 28 September 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 17300,
@@ -38,6 +38,12 @@
       "company": "Sate Tanjung Mulia",
       "title": "Bar (Bagian Minuman) & Kitchen (Bagian Dapur)",
       "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-bar-bagian-minuman-kitchen.html"
+    },
+    {
+      "id": 17236,
+      "company": "Tidak Diketahui",
+      "title": "Asisten Kepala Toko",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-asisten-kepala-toko-di-tidak.html"
     }
   ]
 }
