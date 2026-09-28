@@ -1,8 +1,14 @@
 {
   "date": "2026-09-28",
   "date_label": "Senin, 28 September 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 17267,
+      "company": "Sontot Garage",
+      "title": "Marketing Jual Beli Motor Bekas",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-marketing-jual-beli-motor.html"
+    },
     {
       "id": 17266,
       "company": "Superklin Laundry",
