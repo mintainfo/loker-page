@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "date_label": "Senin, 28 September 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 17300,
@@ -44,6 +44,12 @@
       "company": "Sate Tanjung Mulia",
       "title": "Bar (Bagian Minuman) & Kitchen (Bagian Dapur)",
       "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-bar-bagian-minuman-kitchen.html"
+    },
+    {
+      "id": 17260,
+      "company": "Yamaha",
+      "title": "Teknisi Sepeda Motor",
+      "blogger_url": "https://www.mintainfo.com/2026/09/teknisi-sepeda-motor-di-yamaha.html"
     },
     {
       "id": 17259,

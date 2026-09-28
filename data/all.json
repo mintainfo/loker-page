@@ -1,6 +1,13 @@
 {
-  "count": 24,
+  "count": 25,
   "jobs": [
+    {
+      "id": 17260,
+      "company": "Yamaha",
+      "title": "Teknisi Sepeda Motor",
+      "blogger_url": "https://www.mintainfo.com/2026/09/teknisi-sepeda-motor-di-yamaha.html",
+      "date_label": "Senin, 28 September 2026"
+    },
     {
       "id": 17298,
       "company": "SMA IT SOEMAN HS PEKANBARU",
