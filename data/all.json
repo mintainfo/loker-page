@@ -1,6 +1,13 @@
 {
-  "count": 27,
+  "count": 14,
   "jobs": [
+    {
+      "id": 17261,
+      "company": "Sate Tanjung Mulia",
+      "title": "Bar (Bagian Minuman) & Kitchen (Bagian Dapur)",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-bar-bagian-minuman-kitchen.html",
+      "date_label": "Senin, 28 September 2026"
+    },
     {
       "id": 17240,
       "company": "Prima Sugih Abadi",
@@ -91,104 +98,6 @@
       "title": "Crew Outlet",
       "blogger_url": "https://www.mintainfo.com/2026/09/loker-crew-outlet-terbaru-teh-tarik.html",
       "date_label": "Senin, 21 September 2026"
-    },
-    {
-      "id": 16846,
-      "company": "Ziva Skin & Beauty",
-      "title": "Perawat Estetika",
-      "blogger_url": "https://www.mintainfo.com/2026/09/ziva-skin-beauty-buka-lowongan-perawat.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16945,
-      "company": "SMK Teknologi Negeri Indonesia",
-      "title": "Guru Matematika",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-guru-matematika-di-smk.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16937,
-      "company": "King Dental Care",
-      "title": "Asisten Dokter Gigi",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-asisten-dokter-gigi-di-king.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16893,
-      "company": "Sixth Sip",
-      "title": "RIDER KOPI KELILING",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rider-kopi-keliling-di-sixth-sip.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16891,
-      "company": "Gamyla Aesthetics",
-      "title": "TERAPIS/BEAUTICIAN",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-terapisbeautician-terbaru-gamyla.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16890,
-      "company": "Aneka Mainan",
-      "title": "Supir",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-supir-di-aneka-mainan.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16888,
-      "company": "Bintang Studio",
-      "title": "Content Creator",
-      "blogger_url": "https://www.mintainfo.com/2026/09/content-creator-di-bintang-studio.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16889,
-      "company": "Tidak Diketahui",
-      "title": "Asisten Rumah Tangga",
-      "blogger_url": "https://www.mintainfo.com/2026/09/asisten-rumah-tangga-di-tidak-diketahui.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16943,
-      "company": "Praktek Umum dr.Widya Astuti",
-      "title": "Admin",
-      "blogger_url": "https://www.mintainfo.com/2026/09/admin-di-praktek-umum-drwidya-astuti.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16941,
-      "company": "Barberbaard",
-      "title": "Cashier",
-      "blogger_url": "https://www.mintainfo.com/2026/09/cashier-di-barberbaard-pekanbaru.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16940,
-      "company": "Yammi Coffee & Cake",
-      "title": "Rider Kopi Keliling",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-rider-kopi-keliling-terbaru-yammi.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16939,
-      "company": "Tasqya Costel Syariah",
-      "title": "Maintenance & Marketing MHU Hotel",
-      "blogger_url": "https://www.mintainfo.com/2026/09/tasqya-costel-syariah-buka-lowongan.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16899,
-      "company": "Amora Laundry Express",
-      "title": "Staff Laundry",
-      "blogger_url": "https://www.mintainfo.com/2026/09/staff-laundry-di-amora-laundry-express.html",
-      "date_label": "Kamis, 17 September 2026"
-    },
-    {
-      "id": 16897,
-      "company": "Ummu Imam / Evarose",
-      "title": "Project Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-project-manager-di-ummu-imam.html",
-      "date_label": "Kamis, 17 September 2026"
     }
   ]
 }
