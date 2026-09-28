@@ -1,8 +1,14 @@
 {
   "date": "2026-09-28",
   "date_label": "Senin, 28 September 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 17300,
+      "company": "Ruang Laundry",
+      "title": "Kasir & Admin Operasional",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-kasir-admin-operasional-terbaru.html"
+    },
     {
       "id": 17267,
       "company": "Sontot Garage",
