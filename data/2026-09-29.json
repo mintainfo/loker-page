@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "date_label": "Selasa, 29 September 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 17359,
@@ -14,6 +14,12 @@
       "company": "NOM NOM KOPI",
       "title": "Rider Kopi Keliling",
       "blogger_url": "https://www.mintainfo.com/2026/09/rider-kopi-keliling-di-nom-nom-kopi.html"
+    },
+    {
+      "id": 17356,
+      "company": "Bendang Online",
+      "title": "Teller Brilink & Ponsel",
+      "blogger_url": "https://www.mintainfo.com/2026/09/teller-brilink-ponsel-di-bendang-online.html"
     }
   ]
 }
