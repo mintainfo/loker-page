@@ -1,8 +1,14 @@
 {
   "date": "2026-09-29",
   "date_label": "Selasa, 29 September 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 17359,
+      "company": "AS CLEAN LAUNDRY",
+      "title": "Kasir Cuci Packing & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/09/as-clean-laundry-buka-lowongan-kasir.html"
+    },
     {
       "id": 17358,
       "company": "NOM NOM KOPI",
