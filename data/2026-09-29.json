@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "date_label": "Selasa, 29 September 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 17383,
@@ -56,6 +56,12 @@
       "company": "Kedai Kopi Nikmat",
       "title": "WAITERS",
       "blogger_url": "https://www.mintainfo.com/2026/09/kedai-kopi-nikmat-buka-lowongan-waiters.html"
+    },
+    {
+      "id": 17348,
+      "company": "Tidak Diketahui",
+      "title": "Asisten Rumah Tangga & Babysitter",
+      "blogger_url": "https://www.mintainfo.com/2026/09/asisten-rumah-tangga-babysitter-di.html"
     },
     {
       "id": 17346,
