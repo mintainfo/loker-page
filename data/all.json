@@ -1,6 +1,13 @@
 {
-  "count": 24,
+  "count": 25,
   "jobs": [
+    {
+      "id": 17357,
+      "company": "President Laundry",
+      "title": "Kasir + Cuci Setrika",
+      "blogger_url": "https://www.mintainfo.com/2026/09/kasir-cuci-setrika-di-president-laundry.html",
+      "date_label": "Selasa, 29 September 2026"
+    },
     {
       "id": 17356,
       "company": "Bendang Online",
