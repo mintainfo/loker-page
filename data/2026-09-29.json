@@ -1,8 +1,14 @@
 {
   "date": "2026-09-29",
   "date_label": "Selasa, 29 September 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 17385,
+      "company": "PT. Tunas Antar Nusa Muda",
+      "title": "Pramugara Bus",
+      "blogger_url": "https://www.mintainfo.com/2026/09/pramugara-bus-di-pt-tunas-antar-nusa.html"
+    },
     {
       "id": 17383,
       "company": "LINEA",
