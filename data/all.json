@@ -1,6 +1,13 @@
 {
-  "count": 26,
+  "count": 22,
   "jobs": [
+    {
+      "id": 17358,
+      "company": "NOM NOM KOPI",
+      "title": "Rider Kopi Keliling",
+      "blogger_url": "https://www.mintainfo.com/2026/09/rider-kopi-keliling-di-nom-nom-kopi.html",
+      "date_label": "Selasa, 29 September 2026"
+    },
     {
       "id": 17308,
       "company": "Daldam Aesthetic and Dental Care",
@@ -147,41 +154,6 @@
       "title": "Staff Penagihan & Anak Gudang",
       "blogger_url": "https://www.mintainfo.com/2026/09/super-1-buka-lowongan-staff-penagihan.html",
       "date_label": "Kamis, 24 September 2026"
-    },
-    {
-      "id": 17044,
-      "company": "Ponpes Imam Dzahabi",
-      "title": "STAF KEBERSIHAN",
-      "blogger_url": "https://www.mintainfo.com/2026/09/ponpes-imam-dzahabi-buka-lowongan-staf.html",
-      "date_label": "Senin, 21 September 2026"
-    },
-    {
-      "id": 16993,
-      "company": "New Hollywood Hotel Pekanbaru",
-      "title": "Bellboy ( DW ) & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-bellboy-dw-posisi-lainnya-terbaru.html",
-      "date_label": "Senin, 21 September 2026"
-    },
-    {
-      "id": 17043,
-      "company": "FAMYS",
-      "title": "Content Creator",
-      "blogger_url": "https://www.mintainfo.com/2026/09/content-creator-di-famys-pekanbaru.html",
-      "date_label": "Senin, 21 September 2026"
-    },
-    {
-      "id": 17039,
-      "company": "esTeler BARBARITA",
-      "title": "Crew Outlet",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-crew-outlet-terbaru-esteler.html",
-      "date_label": "Senin, 21 September 2026"
-    },
-    {
-      "id": 17036,
-      "company": "Teh Tarik Lomma'",
-      "title": "Crew Outlet",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-crew-outlet-terbaru-teh-tarik.html",
-      "date_label": "Senin, 21 September 2026"
     }
   ]
 }
