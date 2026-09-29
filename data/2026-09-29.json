@@ -1,8 +1,14 @@
 {
   "date": "2026-09-29",
   "date_label": "Selasa, 29 September 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 17381,
+      "company": "Pickme.id",
+      "title": "Staff Toko",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-staff-toko-terbaru-pickmeid.html"
+    },
     {
       "id": 17359,
       "company": "AS CLEAN LAUNDRY",
