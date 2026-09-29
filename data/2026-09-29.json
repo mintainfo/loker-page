@@ -1,13 +1,19 @@
 {
   "date": "2026-09-29",
   "date_label": "Selasa, 29 September 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "id": 17383,
       "company": "LINEA",
       "title": "Site Supervisor / Pengawas Lapangan",
       "blogger_url": "https://www.mintainfo.com/2026/09/linea-buka-lowongan-site-supervisor.html"
+    },
+    {
+      "id": 17382,
+      "company": "RA AL-HIDAYAH",
+      "title": "Guru TK",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-guru-tk-terbaru-ra-al-hidayah.html"
     },
     {
       "id": 17381,
