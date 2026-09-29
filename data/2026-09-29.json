@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "date_label": "Selasa, 29 September 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "id": 17385,
@@ -32,6 +32,12 @@
       "company": "Bareface",
       "title": "Beauty Clinic Manager",
       "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-beauty-clinic-manager-di.html"
+    },
+    {
+      "id": 17361,
+      "company": "Clarisa Skin & Beauty",
+      "title": "Tenaga Kesehatan klinik kecantikan",
+      "blogger_url": "https://www.mintainfo.com/2026/09/loker-tenaga-kesehatan-klinik.html"
     },
     {
       "id": 17359,
