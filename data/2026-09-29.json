@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "date_label": "Selasa, 29 September 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "id": 17385,
@@ -86,6 +86,12 @@
       "company": "Sehatea Indonesia",
       "title": "Penjaga Stand",
       "blogger_url": "https://www.mintainfo.com/2026/09/sehatea-indonesia-buka-lowongan-penjaga.html"
+    },
+    {
+      "id": 17338,
+      "company": "PT Pratama Karya Bangsa",
+      "title": "Barista Teazzi Store (Teazzi Mall Ciputra Seraya Pekanbaru)",
+      "blogger_url": "https://www.mintainfo.com/2026/09/barista-teazzi-store-teazzi-mall.html"
     }
   ]
 }
