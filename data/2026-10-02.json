@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "date_label": "Jumat, 2 Oktober 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 17508,
@@ -32,6 +32,12 @@
       "company": "CV. Indoniaga Perkasa",
       "title": "Admin IT/Design Grafis",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-admin-itdesign-grafis-di-cv.html"
+    },
+    {
+      "id": 17466,
+      "company": "KoDoyan Geprek",
+      "title": "KARYAWATI",
+      "blogger_url": "https://www.mintainfo.com/2026/10/kodoyan-geprek-buka-lowongan-karyawati.html"
     },
     {
       "id": 17449,
