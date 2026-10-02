@@ -1,8 +1,14 @@
 {
   "date": "2026-10-02",
   "date_label": "Jumat, 2 Oktober 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 17477,
+      "company": "Pisang Keprok",
+      "title": "Crew Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-crew-outlet-terbaru-pisang-keprok.html"
+    },
     {
       "id": 17474,
       "company": "The Mayang Hotel",
