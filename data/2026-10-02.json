@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "date_label": "Jumat, 2 Oktober 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 17477,
@@ -14,6 +14,12 @@
       "company": "The Mayang Hotel",
       "title": "Security",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-security-terbaru-mayang-hotel.html"
+    },
+    {
+      "id": 17413,
+      "company": "DJAYA GROUP",
+      "title": "Full Time Produksi & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/10/full-time-produksi-posisi-lainnya-di.html"
     }
   ]
 }
