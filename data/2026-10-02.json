@@ -1,8 +1,14 @@
 {
   "date": "2026-10-02",
   "date_label": "Jumat, 2 Oktober 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 17504,
+      "company": "SMP IT NEW DZAATUL AKMAAM PEKANBARU",
+      "title": "Guru PJOK",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-guru-pjok-terbaru-smp-it-new.html"
+    },
     {
       "id": 17477,
       "company": "Pisang Keprok",
