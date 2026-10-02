@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "date_label": "Jumat, 2 Oktober 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 17508,
@@ -26,6 +26,12 @@
       "company": "The Mayang Hotel",
       "title": "Security",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-security-terbaru-mayang-hotel.html"
+    },
+    {
+      "id": 17449,
+      "company": "Abud's Kebab",
+      "title": "Admin Data",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-admin-data-terbaru-abuds-kebab.html"
     },
     {
       "id": 17414,
