@@ -1,8 +1,14 @@
 {
   "date": "2026-10-02",
   "date_label": "Jumat, 2 Oktober 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 17513,
+      "company": "Rumah Sakit PRIMA PEKANBARU",
+      "title": "Dokter",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rumah-sakit-prima-pekanbaru-buka.html"
+    },
     {
       "id": 17508,
       "company": "Waterpark",
