@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "date_label": "Jumat, 2 Oktober 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 17477,
@@ -14,6 +14,12 @@
       "company": "The Mayang Hotel",
       "title": "Security",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-security-terbaru-mayang-hotel.html"
+    },
+    {
+      "id": 17414,
+      "company": "Tidak Diketahui",
+      "title": "ART / Asisten Rumah Tangga",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-art-asisten-rumah-tangga-terbaru.html"
     },
     {
       "id": 17413,
