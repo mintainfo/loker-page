@@ -1,6 +1,13 @@
 {
-  "count": 37,
+  "count": 30,
   "jobs": [
+    {
+      "id": 17474,
+      "company": "The Mayang Hotel",
+      "title": "Security",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-security-terbaru-mayang-hotel.html",
+      "date_label": "Jumat, 2 Oktober 2026"
+    },
     {
       "id": 17355,
       "company": "QONKAR STORE",
@@ -203,62 +210,6 @@
       "title": "Bar (Bagian Minuman) & Kitchen (Bagian Dapur)",
       "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-bar-bagian-minuman-kitchen.html",
       "date_label": "Senin, 28 September 2026"
-    },
-    {
-      "id": 17240,
-      "company": "Prima Sugih Abadi",
-      "title": "Admin",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-admin-di-prima-sugih-abadi.html",
-      "date_label": "Kamis, 24 September 2026"
-    },
-    {
-      "id": 17238,
-      "company": "RS Murni Teguh",
-      "title": "Apoteker",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-apoteker-di-rs-murni-teguh.html",
-      "date_label": "Kamis, 24 September 2026"
-    },
-    {
-      "id": 17088,
-      "company": "PT. Mitra Bali Sukses (Mie Gacoan)",
-      "title": "CREW OUTLET - PEKANBARU SOEKARNO HATTA",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-crew-outlet-pekanbaru-soekarno.html",
-      "date_label": "Kamis, 24 September 2026"
-    },
-    {
-      "id": 17201,
-      "company": "Clean Cut Coffee & Barbershop",
-      "title": "JUNIOR KOKI & CAPSTER",
-      "blogger_url": "https://www.mintainfo.com/2026/09/junior-koki-capster-di-clean-cut-coffee.html",
-      "date_label": "Kamis, 24 September 2026"
-    },
-    {
-      "id": 17099,
-      "company": "Ikonyoko Cake & Dessert",
-      "title": "Full Time Delivery Man",
-      "blogger_url": "https://www.mintainfo.com/2026/09/full-time-delivery-man-di-ikonyoko-cake.html",
-      "date_label": "Kamis, 24 September 2026"
-    },
-    {
-      "id": 17237,
-      "company": "Rumah Sakit Islam Ibnu Sina Pekanbaru",
-      "title": "Pramusaji",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-pramusaji-terbaru-rumah-sakit.html",
-      "date_label": "Kamis, 24 September 2026"
-    },
-    {
-      "id": 17134,
-      "company": "SAIGE",
-      "title": "Kepala Toko",
-      "blogger_url": "https://www.mintainfo.com/2026/09/kepala-toko-di-saige-pekanbaru.html",
-      "date_label": "Kamis, 24 September 2026"
-    },
-    {
-      "id": 17188,
-      "company": "Super 1",
-      "title": "Staff Penagihan & Anak Gudang",
-      "blogger_url": "https://www.mintainfo.com/2026/09/super-1-buka-lowongan-staff-penagihan.html",
-      "date_label": "Kamis, 24 September 2026"
     }
   ]
 }
