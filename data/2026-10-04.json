@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "date_label": "Minggu, 4 Oktober 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "id": 17559,
@@ -44,6 +44,12 @@
       "company": "Thamrin Kopitiam",
       "title": "Cook & Helper",
       "blogger_url": "https://www.mintainfo.com/2026/10/cook-helper-di-thamrin-kopitiam.html"
+    },
+    {
+      "id": 17532,
+      "company": "Motoxpress Sumber Jaya Ban",
+      "title": "Mekanik Sepeda Motor",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-mekanik-sepeda-motor-terbaru.html"
     },
     {
       "id": 17529,
