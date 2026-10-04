@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "date_label": "Minggu, 4 Oktober 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "id": 17559,
@@ -44,6 +44,12 @@
       "company": "Thamrin Kopitiam",
       "title": "Cook & Helper",
       "blogger_url": "https://www.mintainfo.com/2026/10/cook-helper-di-thamrin-kopitiam.html"
+    },
+    {
+      "id": 17529,
+      "company": "Kopitiam Semeja",
+      "title": "BAR CREW & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-bar-crew-posisi-lainnya-terbaru.html"
     }
   ]
 }
