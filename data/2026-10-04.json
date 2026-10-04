@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "date_label": "Minggu, 4 Oktober 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 17540,
@@ -14,6 +14,12 @@
       "company": "Royal Shoot Billiard & Cafe",
       "title": "Kitchen & Marka",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-kitchen-marka-terbaru-royal-shoot.html"
+    },
+    {
+      "id": 17538,
+      "company": "Laundry Expres",
+      "title": "Karyawan Laundry",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-karyawan-laundry-di-laundry.html"
     },
     {
       "id": 17536,
