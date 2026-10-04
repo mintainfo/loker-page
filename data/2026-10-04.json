@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "date_label": "Minggu, 4 Oktober 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 17559,
@@ -50,6 +50,12 @@
       "company": "Kopitiam Semeja",
       "title": "BAR CREW & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-bar-crew-posisi-lainnya-terbaru.html"
+    },
+    {
+      "id": 17527,
+      "company": "Heaven Scent",
+      "title": "SPG & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/10/spg-posisi-lainnya-di-heaven-scent.html"
     }
   ]
 }
