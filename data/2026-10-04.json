@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "date_label": "Minggu, 4 Oktober 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 17559,
@@ -14,6 +14,12 @@
       "company": "CTC",
       "title": "Karyawan Cuci Mobil",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-karyawan-cuci-mobil-di-ctc.html"
+    },
+    {
+      "id": 17557,
+      "company": "Bintang Studio",
+      "title": "Content Creator",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-content-creator-di-bintang.html"
     },
     {
       "id": 17542,
