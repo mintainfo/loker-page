@@ -1,8 +1,14 @@
 {
   "date": "2026-10-04",
   "date_label": "Minggu, 4 Oktober 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 17542,
+      "company": "PT. Trimitra Sejahtera SRC",
+      "title": "Admin Penjualan / Keuangan",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-admin-penjualan-keuangan-terbaru.html"
+    },
     {
       "id": 17540,
       "company": "KITO NIAN",
