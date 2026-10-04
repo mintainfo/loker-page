@@ -1,8 +1,14 @@
 {
   "date": "2026-10-04",
   "date_label": "Minggu, 4 Oktober 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
+    {
+      "id": 17559,
+      "company": "MDS SERVICES",
+      "title": "Commercial Admin",
+      "blogger_url": "https://www.mintainfo.com/2026/10/commercial-admin-di-mds-services.html"
+    },
     {
       "id": 17558,
       "company": "CTC",
