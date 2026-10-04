@@ -1,8 +1,14 @@
 {
   "date": "2026-10-04",
   "date_label": "Minggu, 4 Oktober 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 17540,
+      "company": "KITO NIAN",
+      "title": "Admin Sosial Media",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-admin-sosial-media-di-kito.html"
+    },
     {
       "id": 17539,
       "company": "Royal Shoot Billiard & Cafe",
