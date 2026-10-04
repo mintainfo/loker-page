@@ -1,8 +1,14 @@
 {
   "date": "2026-10-04",
   "date_label": "Minggu, 4 Oktober 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 17558,
+      "company": "CTC",
+      "title": "Karyawan Cuci Mobil",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-karyawan-cuci-mobil-di-ctc.html"
+    },
     {
       "id": 17542,
       "company": "PT. Trimitra Sejahtera SRC",
