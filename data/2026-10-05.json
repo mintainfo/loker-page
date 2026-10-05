@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "id": 17599,
@@ -32,6 +32,12 @@
       "company": "Iga Bakar Cobek",
       "title": "Cook Helper",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-cook-helper-terbaru-iga-bakar.html"
+    },
+    {
+      "id": 17589,
+      "company": "SMP IT NEW DZAATUL AKMAAM PEKANBARU",
+      "title": "Guru PJOK",
+      "blogger_url": "https://www.mintainfo.com/2026/10/guru-pjok-di-smp-it-new-dzaatul-akmaam.html"
     },
     {
       "id": 17572,
