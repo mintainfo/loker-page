@@ -1,8 +1,14 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 17601,
+      "company": "Koding Next",
+      "title": "IT Coding Teacher (Primary to High School) - Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-it-coding-teacher-primary-to.html"
+    },
     {
       "id": 17599,
       "company": "Pondok Pesantren Daarut Tauhid Al Maktub Pekanbaru",
