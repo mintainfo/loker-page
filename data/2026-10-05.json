@@ -1,8 +1,14 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 17599,
+      "company": "Pondok Pesantren Daarut Tauhid Al Maktub Pekanbaru",
+      "title": "Musyrifah & Tenaga Pengajar Kelas Diniyah",
+      "blogger_url": "https://www.mintainfo.com/2026/10/pondok-pesantren-daarut-tauhid-al.html"
+    },
     {
       "id": 17596,
       "company": "Ichi Autocare",
