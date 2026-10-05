@@ -1,8 +1,14 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 15,
+  "count": 16,
   "jobs": [
+    {
+      "id": 17655,
+      "company": "Nasi Campur Otentik",
+      "title": "Waiters",
+      "blogger_url": "https://www.mintainfo.com/2026/10/nasi-campur-otentik-buka-lowongan.html"
+    },
     {
       "id": 17654,
       "company": "LA CELLULAR",
