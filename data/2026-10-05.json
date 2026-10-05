@@ -1,8 +1,14 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
+    {
+      "id": 17654,
+      "company": "LA CELLULAR",
+      "title": "Karyawan Konter",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-karyawan-konter-terbaru-la.html"
+    },
     {
       "id": 17634,
       "company": "Klinik Pratama Gemilang Kartika",
