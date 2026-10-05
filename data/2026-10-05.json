@@ -1,8 +1,14 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 17596,
+      "company": "Ichi Autocare",
+      "title": "Helper Salon and Car Detailing & Crew Carwash",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-helper-salon-and-car.html"
+    },
     {
       "id": 17592,
       "company": "Iga Bakar Cobek",
