@@ -1,8 +1,14 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
+    {
+      "id": 17660,
+      "company": "Teh Tarik Seroa",
+      "title": "Kasir & Helper",
+      "blogger_url": "https://www.mintainfo.com/2026/10/teh-tarik-seroa-buka-lowongan-kasir.html"
+    },
     {
       "id": 17658,
       "company": "Jumbo Fresh",
