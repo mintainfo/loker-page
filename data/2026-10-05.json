@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "id": 17599,
@@ -38,6 +38,12 @@
       "company": "SMP IT NEW DZAATUL AKMAAM PEKANBARU",
       "title": "Guru PJOK",
       "blogger_url": "https://www.mintainfo.com/2026/10/guru-pjok-di-smp-it-new-dzaatul-akmaam.html"
+    },
+    {
+      "id": 17586,
+      "company": "Santri Auto Part",
+      "title": "STAFF TOKO / SUPIR",
+      "blogger_url": "https://www.mintainfo.com/2026/10/santri-auto-part-buka-lowongan-staff.html"
     },
     {
       "id": 17572,
