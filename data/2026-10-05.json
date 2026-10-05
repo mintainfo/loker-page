@@ -1,13 +1,19 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 17572,
       "company": "Sontot Garage",
       "title": "Marketing Jual Beli Motor Bekas",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-marketing-jual-beli-motor-bekas.html"
+    },
+    {
+      "id": 17571,
+      "company": "Queen Fruit",
+      "title": "KASIR GROSIR",
+      "blogger_url": "https://www.mintainfo.com/2026/10/queen-fruit-buka-lowongan-kasir-grosir.html"
     }
   ]
 }
