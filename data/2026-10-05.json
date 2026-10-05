@@ -1,8 +1,14 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
+    {
+      "id": 17657,
+      "company": "Abud's Kebab",
+      "title": "SPV",
+      "blogger_url": "https://www.mintainfo.com/2026/10/abuds-kebab-buka-lowongan-spv-pekanbaru.html"
+    },
     {
       "id": 17655,
       "company": "Nasi Campur Otentik",
