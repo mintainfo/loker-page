@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 19,
+  "count": 20,
   "jobs": [
     {
       "id": 17660,
@@ -38,6 +38,12 @@
       "company": "Klinik Pratama Gemilang Kartika",
       "title": "Perawat",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-perawat-terbaru-klinik-pratama.html"
+    },
+    {
+      "id": 17618,
+      "company": "Pondok Gurih",
+      "title": "Cook",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-cook-terbaru-pondok-gurih.html"
     },
     {
       "id": 17601,
