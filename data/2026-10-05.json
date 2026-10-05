@@ -1,13 +1,19 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "id": 17596,
       "company": "Ichi Autocare",
       "title": "Helper Salon and Car Detailing & Crew Carwash",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-helper-salon-and-car.html"
+    },
+    {
+      "id": 17595,
+      "company": "Yayasan Cendekia Riau",
+      "title": "IT Staff",
+      "blogger_url": "https://www.mintainfo.com/2026/10/yayasan-cendekia-riau-buka-lowongan-it.html"
     },
     {
       "id": 17594,
