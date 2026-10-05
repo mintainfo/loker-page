@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 20,
+  "count": 21,
   "jobs": [
     {
       "id": 17660,
@@ -32,6 +32,12 @@
       "company": "LA CELLULAR",
       "title": "Karyawan Konter",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-karyawan-konter-terbaru-la.html"
+    },
+    {
+      "id": 17651,
+      "company": "Yayasan Wakaf Islam Al Fikri Riau",
+      "title": "Asisten Guru Kelas",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-asisten-guru-kelas-di-yayasan.html"
     },
     {
       "id": 17634,
