@@ -1,6 +1,13 @@
 {
-  "count": 65,
+  "count": 66,
   "jobs": [
+    {
+      "id": 17634,
+      "company": "Klinik Pratama Gemilang Kartika",
+      "title": "Perawat",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-perawat-terbaru-klinik-pratama.html",
+      "date_label": "Senin, 5 Oktober 2026"
+    },
     {
       "id": 17601,
       "company": "Koding Next",
