@@ -1,8 +1,14 @@
 {
   "date": "2026-10-05",
   "date_label": "Senin, 5 Oktober 2026",
-  "count": 17,
+  "count": 18,
   "jobs": [
+    {
+      "id": 17658,
+      "company": "Jumbo Fresh",
+      "title": "Waitress & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-waitress-posisi-lainnya-di.html"
+    },
     {
       "id": 17657,
       "company": "Abud's Kebab",
