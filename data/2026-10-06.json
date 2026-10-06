@@ -1,8 +1,14 @@
 {
   "date": "2026-10-06",
   "date_label": "Selasa, 6 Oktober 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 17795,
+      "company": "Andalan Jaya Sukses",
+      "title": "Karyawan Gudang / Helper",
+      "blogger_url": "https://www.mintainfo.com/2026/10/andalan-jaya-sukses-buka-lowongan.html"
+    },
     {
       "id": 17794,
       "company": "PNM",
