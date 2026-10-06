@@ -1,8 +1,14 @@
 {
   "date": "2026-10-06",
   "date_label": "Selasa, 6 Oktober 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 17825,
+      "company": "Hotel Parma Group",
+      "title": "Front Office",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-front-office-di-hotel-parma.html"
+    },
     {
       "id": 17798,
       "company": "Tjokro Hotel Pekanbaru",
