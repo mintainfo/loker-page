@@ -1,13 +1,19 @@
 {
   "date": "2026-10-06",
   "date_label": "Selasa, 6 Oktober 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 17613,
       "company": "PT. Teknologi Perdana Indonesia",
       "title": "Customer Support",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-customer-support-terbaru-pt.html"
+    },
+    {
+      "id": 17612,
+      "company": "PT Sigma Cipta Utama",
+      "title": "Data Management",
+      "blogger_url": "https://www.mintainfo.com/2026/10/data-management-di-pt-sigma-cipta-utama.html"
     }
   ]
 }
