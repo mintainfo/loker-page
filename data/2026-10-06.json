@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "date_label": "Selasa, 6 Oktober 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 17825,
@@ -38,6 +38,12 @@
       "company": "PT Multikarya Sarana Perkasa",
       "title": "PROJECT MANAGER (PIPING, STORAGE TANK & REFINERY)",
       "blogger_url": "https://www.mintainfo.com/2026/10/pt-multikarya-sarana-perkasa-buka.html"
+    },
+    {
+      "id": 17727,
+      "company": "Blackpaint Academy",
+      "title": "PENGAJAR DESAIN & PENGAJAR PELAYANAN DAN PRODUK",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-pengajar-desain-pengajar.html"
     },
     {
       "id": 17726,
