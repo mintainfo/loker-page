@@ -1,8 +1,14 @@
 {
   "date": "2026-10-08",
   "date_label": "Kamis, 8 Oktober 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 17984,
+      "company": "RSU Mutiasari",
+      "title": "Teknik Elektro / Teknik Sipil / Teknik Mesin",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-teknik-elektro-teknik-sipil.html"
+    },
     {
       "id": 17981,
       "company": "Fajar Store",
