@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
   "date_label": "Kamis, 8 Oktober 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 17986,
@@ -26,6 +26,12 @@
       "company": "Fajar Store",
       "title": "Satpam",
       "blogger_url": "https://www.mintainfo.com/2026/10/satpam-di-fajar-store-pekanbaru-oktober.html"
+    },
+    {
+      "id": 17911,
+      "company": "Klinik Narita",
+      "title": "Dokter Gigi",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-dokter-gigi-terbaru-klinik-narita.html"
     },
     {
       "id": 17907,
