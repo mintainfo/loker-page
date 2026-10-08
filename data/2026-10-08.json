@@ -1,8 +1,14 @@
 {
   "date": "2026-10-08",
   "date_label": "Kamis, 8 Oktober 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 17986,
+      "company": "Sekolah Islam As-Shofa",
+      "title": "Math Teacher",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-math-teacher-di-sekolah-islam.html"
+    },
     {
       "id": 17985,
       "company": "IRGT ISLAMIC SCHOOL OF RIAU GLOBAL TERPADU",
