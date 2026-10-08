@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
   "date_label": "Kamis, 8 Oktober 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "id": 17986,
@@ -38,6 +38,12 @@
       "company": "Glasskin Beauty",
       "title": "ADMIN & PACKING",
       "blogger_url": "https://www.mintainfo.com/2026/10/admin-packing-di-glasskin-beauty.html"
+    },
+    {
+      "id": 17974,
+      "company": "PT Bayu Cipta Artha",
+      "title": "Operator Produksi",
+      "blogger_url": "https://www.mintainfo.com/2026/10/operator-produksi-di-pt-bayu-cipta.html"
     },
     {
       "id": 17970,
