@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
   "date_label": "Kamis, 8 Oktober 2026",
-  "count": 16,
+  "count": 17,
   "jobs": [
     {
       "id": 17986,
@@ -98,6 +98,12 @@
       "company": "Donasi Rumah Tahfizh",
       "title": "Cleaning Service",
       "blogger_url": "https://www.mintainfo.com/2026/10/donasi-rumah-tahfizh-buka-lowongan.html"
+    },
+    {
+      "id": 17897,
+      "company": "SMK BINA PROFESI PEKANBARU",
+      "title": "Guru Bahasa Indonesia & Staff Marketing",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-guru-bahasa-indonesia-staff.html"
     }
   ]
 }
