@@ -1,6 +1,13 @@
 {
-  "count": 74,
+  "count": 59,
   "jobs": [
+    {
+      "id": 17981,
+      "company": "Fajar Store",
+      "title": "Satpam",
+      "blogger_url": "https://www.mintainfo.com/2026/10/satpam-di-fajar-store-pekanbaru-oktober.html",
+      "date_label": "Kamis, 8 Oktober 2026"
+    },
     {
       "id": 17729,
       "company": "MDS SERVICES",
@@ -406,118 +413,6 @@
       "title": "Security",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-security-terbaru-mayang-hotel.html",
       "date_label": "Jumat, 2 Oktober 2026"
-    },
-    {
-      "id": 17355,
-      "company": "QONKAR STORE",
-      "title": "Desain Grafis",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-desain-grafis-di-qonkar-store.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17338,
-      "company": "PT Pratama Karya Bangsa",
-      "title": "Barista Teazzi Store (Teazzi Mall Ciputra Seraya Pekanbaru)",
-      "blogger_url": "https://www.mintainfo.com/2026/09/barista-teazzi-store-teazzi-mall.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17361,
-      "company": "Clarisa Skin & Beauty",
-      "title": "Tenaga Kesehatan klinik kecantikan",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-tenaga-kesehatan-klinik.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17385,
-      "company": "PT. Tunas Antar Nusa Muda",
-      "title": "Pramugara Bus",
-      "blogger_url": "https://www.mintainfo.com/2026/09/pramugara-bus-di-pt-tunas-antar-nusa.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17348,
-      "company": "Tidak Diketahui",
-      "title": "Asisten Rumah Tangga & Babysitter",
-      "blogger_url": "https://www.mintainfo.com/2026/09/asisten-rumah-tangga-babysitter-di.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17349,
-      "company": "Kedai Kopi Nikmat",
-      "title": "WAITERS",
-      "blogger_url": "https://www.mintainfo.com/2026/09/kedai-kopi-nikmat-buka-lowongan-waiters.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17346,
-      "company": "Angetin",
-      "title": "WAITERS / WAITER & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-waiters-waiter-posisi-lainnya.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17345,
-      "company": "Sehatea Indonesia",
-      "title": "Penjaga Stand",
-      "blogger_url": "https://www.mintainfo.com/2026/09/sehatea-indonesia-buka-lowongan-penjaga.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17382,
-      "company": "RA AL-HIDAYAH",
-      "title": "Guru TK",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-guru-tk-terbaru-ra-al-hidayah.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17383,
-      "company": "LINEA",
-      "title": "Site Supervisor / Pengawas Lapangan",
-      "blogger_url": "https://www.mintainfo.com/2026/09/linea-buka-lowongan-site-supervisor.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17379,
-      "company": "Bareface",
-      "title": "Beauty Clinic Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rekrutmen-beauty-clinic-manager-di.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17381,
-      "company": "Pickme.id",
-      "title": "Staff Toko",
-      "blogger_url": "https://www.mintainfo.com/2026/09/loker-staff-toko-terbaru-pickmeid.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17357,
-      "company": "President Laundry",
-      "title": "Kasir + Cuci Setrika",
-      "blogger_url": "https://www.mintainfo.com/2026/09/kasir-cuci-setrika-di-president-laundry.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17356,
-      "company": "Bendang Online",
-      "title": "Teller Brilink & Ponsel",
-      "blogger_url": "https://www.mintainfo.com/2026/09/teller-brilink-ponsel-di-bendang-online.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17359,
-      "company": "AS CLEAN LAUNDRY",
-      "title": "Kasir Cuci Packing & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/09/as-clean-laundry-buka-lowongan-kasir.html",
-      "date_label": "Selasa, 29 September 2026"
-    },
-    {
-      "id": 17358,
-      "company": "NOM NOM KOPI",
-      "title": "Rider Kopi Keliling",
-      "blogger_url": "https://www.mintainfo.com/2026/09/rider-kopi-keliling-di-nom-nom-kopi.html",
-      "date_label": "Selasa, 29 September 2026"
     }
   ]
 }
