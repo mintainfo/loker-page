@@ -1,13 +1,19 @@
 {
   "date": "2026-10-08",
   "date_label": "Kamis, 8 Oktober 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 17981,
       "company": "Fajar Store",
       "title": "Satpam",
       "blogger_url": "https://www.mintainfo.com/2026/10/satpam-di-fajar-store-pekanbaru-oktober.html"
+    },
+    {
+      "id": 17907,
+      "company": "Donasi Rumah Tahfizh",
+      "title": "Cleaning Service",
+      "blogger_url": "https://www.mintainfo.com/2026/10/donasi-rumah-tahfizh-buka-lowongan.html"
     }
   ]
 }
