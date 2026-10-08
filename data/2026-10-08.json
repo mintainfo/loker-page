@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
   "date_label": "Kamis, 8 Oktober 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 17986,
@@ -26,6 +26,12 @@
       "company": "Fajar Store",
       "title": "Satpam",
       "blogger_url": "https://www.mintainfo.com/2026/10/satpam-di-fajar-store-pekanbaru-oktober.html"
+    },
+    {
+      "id": 17914,
+      "company": "Csn Citarasas Selera Nusantara",
+      "title": "Purchasing",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-purchasing-di-csn-citarasas.html"
     },
     {
       "id": 17911,
