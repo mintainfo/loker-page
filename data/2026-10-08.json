@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
   "date_label": "Kamis, 8 Oktober 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "id": 17986,
@@ -38,6 +38,12 @@
       "company": "Glasskin Beauty",
       "title": "ADMIN & PACKING",
       "blogger_url": "https://www.mintainfo.com/2026/10/admin-packing-di-glasskin-beauty.html"
+    },
+    {
+      "id": 17975,
+      "company": "YKAKI",
+      "title": "TENAGA PENGAJAR (GURU)",
+      "blogger_url": "https://www.mintainfo.com/2026/10/tenaga-pengajar-guru-di-ykaki-pekanbaru.html"
     },
     {
       "id": 17974,
