@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
   "date_label": "Kamis, 8 Oktober 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 17986,
@@ -26,6 +26,12 @@
       "company": "Fajar Store",
       "title": "Satpam",
       "blogger_url": "https://www.mintainfo.com/2026/10/satpam-di-fajar-store-pekanbaru-oktober.html"
+    },
+    {
+      "id": 17977,
+      "company": "Sekolah-ku YKAKI Riau",
+      "title": "Lowongan Kerja",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-lowongan-kerja-terbaru-sekolah-ku.html"
     },
     {
       "id": 17976,
