@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 17,
+  "count": 18,
   "jobs": [
     {
       "id": 18052,
@@ -56,6 +56,12 @@
       "company": "Toko Cat Bursa Warna",
       "title": "KARYAWAN TOKO",
       "blogger_url": "https://www.mintainfo.com/2026/10/toko-cat-bursa-warna-buka-lowongan.html"
+    },
+    {
+      "id": 18015,
+      "company": "CV Bogasari Jaya",
+      "title": "Staff Accounting & Sales Motoris",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-staff-accounting-sales.html"
     },
     {
       "id": 18014,
