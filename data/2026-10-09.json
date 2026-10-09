@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 25,
+  "count": 26,
   "jobs": [
     {
       "id": 18134,
@@ -152,6 +152,12 @@
       "company": "KOPIMA",
       "title": "Driver & Helper Produksi",
       "blogger_url": "https://www.mintainfo.com/2026/10/kopima-buka-lowongan-driver-helper.html"
+    },
+    {
+      "id": 17990,
+      "company": "PT Drivexo Hub Indonesia",
+      "title": "Mekanik Mobil (Pekanbaru)",
+      "blogger_url": "https://www.mintainfo.com/2026/10/mekanik-mobil-pekanbaru-di-pt-drivexo.html"
     }
   ]
 }
