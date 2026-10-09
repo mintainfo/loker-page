@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 18052,
@@ -56,6 +56,12 @@
       "company": "Toko Cat Bursa Warna",
       "title": "KARYAWAN TOKO",
       "blogger_url": "https://www.mintainfo.com/2026/10/toko-cat-bursa-warna-buka-lowongan.html"
+    },
+    {
+      "id": 18009,
+      "company": "PT Rafindo Putra Awal",
+      "title": "Content Creator & Digital Marketing",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-content-creator-digital-marketing.html"
     },
     {
       "id": 18007,
