@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 24,
+  "count": 25,
   "jobs": [
     {
       "id": 18134,
@@ -38,6 +38,12 @@
       "company": "BERT COFFEE",
       "title": "Kitchen Staff & Waiter / Waitress",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-kitchen-staff-waiter-waitress.html"
+    },
+    {
+      "id": 18048,
+      "company": "Bank Syariah Indonesia (BSI)",
+      "title": "Teller Bibit",
+      "blogger_url": "https://www.mintainfo.com/2026/10/teller-bibit-di-bank-syariah-indonesia.html"
     },
     {
       "id": 18047,
