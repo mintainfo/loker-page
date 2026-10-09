@@ -1,8 +1,14 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 18021,
+      "company": "Kopi On The Road",
+      "title": "Rider Gerobak Kopi",
+      "blogger_url": "https://www.mintainfo.com/2026/10/kopi-on-road-buka-lowongan-rider.html"
+    },
     {
       "id": 18020,
       "company": "Seblak Teh Senny & Ayam Goreng Pakcik Ali",
