@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 23,
+  "count": 24,
   "jobs": [
     {
       "id": 18134,
@@ -20,6 +20,12 @@
       "company": "Panama Steel",
       "title": "Supir & Kernet",
       "blogger_url": "https://www.mintainfo.com/2026/10/supir-kernet-di-panama-steel-pekanbaru.html"
+    },
+    {
+      "id": 18097,
+      "company": "SATE TANJUNG MULIA (STM)",
+      "title": "Kitchen (Khusus Pria)",
+      "blogger_url": "https://www.mintainfo.com/2026/10/kitchen-khusus-pria-di-sate-tanjung.html"
     },
     {
       "id": 18052,
