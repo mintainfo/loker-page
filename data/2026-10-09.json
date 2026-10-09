@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
     {
       "id": 18052,
@@ -62,6 +62,12 @@
       "company": "PNM MUM",
       "title": "Account Officer",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-account-officer-terbaru-pnm-mum.html"
+    },
+    {
+      "id": 18011,
+      "company": "Telur Gulung Reborn",
+      "title": "Penjaga Stand Telur Gulung",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-penjaga-stand-telur-gulung-di.html"
     },
     {
       "id": 18010,
