@@ -1,13 +1,19 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
     {
       "id": 18047,
       "company": "Vinia",
       "title": "Driver",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-driver-terbaru-vinia-pekanbaru.html"
+    },
+    {
+      "id": 18046,
+      "company": "Taskim College",
+      "title": "Guru Tahfizh (Half Day)",
+      "blogger_url": "https://www.mintainfo.com/2026/10/guru-tahfizh-half-day-di-taskim-college.html"
     },
     {
       "id": 18021,
