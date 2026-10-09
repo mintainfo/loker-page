@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 19,
+  "count": 20,
   "jobs": [
     {
       "id": 18052,
@@ -32,6 +32,12 @@
       "company": "Tidak Diketahui",
       "title": "Juru Masak / Koki Catering",
       "blogger_url": "https://www.mintainfo.com/2026/10/juru-masak-koki-catering-di-tidak.html"
+    },
+    {
+      "id": 18038,
+      "company": "Toko Hidayah",
+      "title": "Karyawati toko",
+      "blogger_url": "https://www.mintainfo.com/2026/10/karyawati-toko-di-toko-hidayah.html"
     },
     {
       "id": 18037,
