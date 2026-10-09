@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "id": 18052,
@@ -56,6 +56,12 @@
       "company": "Toko Cat Bursa Warna",
       "title": "KARYAWAN TOKO",
       "blogger_url": "https://www.mintainfo.com/2026/10/toko-cat-bursa-warna-buka-lowongan.html"
+    },
+    {
+      "id": 18013,
+      "company": "PNM MUM",
+      "title": "Account Officer",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-account-officer-terbaru-pnm-mum.html"
     },
     {
       "id": 18010,
