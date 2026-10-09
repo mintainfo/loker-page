@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 18047,
@@ -14,6 +14,12 @@
       "company": "Taskim College",
       "title": "Guru Tahfizh (Half Day)",
       "blogger_url": "https://www.mintainfo.com/2026/10/guru-tahfizh-half-day-di-taskim-college.html"
+    },
+    {
+      "id": 18045,
+      "company": "Tidak Diketahui",
+      "title": "Juru Masak / Koki Catering",
+      "blogger_url": "https://www.mintainfo.com/2026/10/juru-masak-koki-catering-di-tidak.html"
     },
     {
       "id": 18021,
