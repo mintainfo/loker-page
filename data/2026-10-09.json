@@ -1,8 +1,14 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 22,
+  "count": 23,
   "jobs": [
+    {
+      "id": 18134,
+      "company": "Kareem Delicacy",
+      "title": "Cafe Crew",
+      "blogger_url": "https://www.mintainfo.com/2026/10/kareem-delicacy-buka-lowongan-cafe-crew.html"
+    },
     {
       "id": 18132,
       "company": "Baby Daycare Siti Walidah UMRI",
