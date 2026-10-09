@@ -1,13 +1,19 @@
 {
   "date": "2026-10-09",
   "date_label": "Jumat, 9 Oktober 2026",
-  "count": 21,
+  "count": 22,
   "jobs": [
     {
       "id": 18132,
       "company": "Baby Daycare Siti Walidah UMRI",
       "title": "Guru Asuh",
       "blogger_url": "https://www.mintainfo.com/2026/10/guru-asuh-di-baby-daycare-siti-walidah.html"
+    },
+    {
+      "id": 18131,
+      "company": "Panama Steel",
+      "title": "Supir & Kernet",
+      "blogger_url": "https://www.mintainfo.com/2026/10/supir-kernet-di-panama-steel-pekanbaru.html"
     },
     {
       "id": 18052,
