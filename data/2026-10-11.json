@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
   "date_label": "Minggu, 11 Oktober 2026",
-  "count": 17,
+  "count": 18,
   "jobs": [
     {
       "id": 18200,
@@ -26,6 +26,12 @@
       "company": "Sekolah Islam As-Shofa",
       "title": "Math Teacher",
       "blogger_url": "https://www.mintainfo.com/2026/10/sekolah-islam-as-shofa-buka-lowongan.html"
+    },
+    {
+      "id": 18192,
+      "company": "m corp indonesia",
+      "title": "Store Staff",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-store-staff-terbaru-m-corp.html"
     },
     {
       "id": 18190,
