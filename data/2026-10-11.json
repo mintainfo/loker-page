@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
   "date_label": "Minggu, 11 Oktober 2026",
-  "count": 21,
+  "count": 22,
   "jobs": [
     {
       "id": 18200,
@@ -26,6 +26,12 @@
       "company": "Airline International Institute",
       "title": "FRONT OFFICE",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-front-office-di-airline.html"
+    },
+    {
+      "id": 18194,
+      "company": "S'napelan",
+      "title": "STAF PRODUKSI",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-staf-produksi-di-snapelan.html"
     },
     {
       "id": 18193,
