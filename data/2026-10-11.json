@@ -1,8 +1,14 @@
 {
   "date": "2026-10-11",
   "date_label": "Minggu, 11 Oktober 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 18181,
+      "company": "Apotek Zhafran",
+      "title": "Asisten Apoteker",
+      "blogger_url": "https://www.mintainfo.com/2026/10/asisten-apoteker-di-apotek-zhafran.html"
+    },
     {
       "id": 18180,
       "company": "Sate Tanjung Mulia (STM)",
