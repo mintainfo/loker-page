@@ -1,8 +1,14 @@
 {
   "date": "2026-10-11",
   "date_label": "Minggu, 11 Oktober 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 18200,
+      "company": "Geely Multi Auto Pekanbaru",
+      "title": "Supervisor",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-supervisor-di-geely-multi.html"
+    },
     {
       "id": 18199,
       "company": "Hans Atelier",
