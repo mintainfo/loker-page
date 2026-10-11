@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
   "date_label": "Minggu, 11 Oktober 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "id": 18200,
@@ -50,6 +50,12 @@
       "company": "Amazon Poultry & Petshop",
       "title": "Sopir",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-sopir-di-amazon-poultry.html"
+    },
+    {
+      "id": 18172,
+      "company": "Fantastic Animal",
+      "title": "Kennel Staff",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-kennel-staff-terbaru-fantastic.html"
     },
     {
       "id": 18171,
