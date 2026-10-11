@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
   "date_label": "Minggu, 11 Oktober 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 18200,
@@ -56,6 +56,12 @@
       "company": "PT Karima Lumira Utama",
       "title": "Staff Tax & Accounting",
       "blogger_url": "https://www.mintainfo.com/2026/10/pt-karima-lumira-utama-buka-lowongan.html"
+    },
+    {
+      "id": 18169,
+      "company": "Toko Cat Mutiara Warna",
+      "title": "Store Crew",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-store-crew-terbaru-toko-cat.html"
     },
     {
       "id": 18167,
