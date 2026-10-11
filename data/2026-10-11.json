@@ -1,8 +1,14 @@
 {
   "date": "2026-10-11",
   "date_label": "Minggu, 11 Oktober 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 18178,
+      "company": "Clovery Cakes & Desserts",
+      "title": "Kru Outlet & Tim Kitchen",
+      "blogger_url": "https://www.mintainfo.com/2026/10/clovery-cakes-desserts-buka-lowongan.html"
+    },
     {
       "id": 18175,
       "company": "Amazon Poultry & Petshop",
