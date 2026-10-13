@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
   "date_label": "Selasa, 13 Oktober 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
     {
       "id": 18299,
@@ -56,6 +56,12 @@
       "company": "LANGIT BIRU",
       "title": "BARISTA FULLTIME",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-barista-fulltime-terbaru-langit.html"
+    },
+    {
+      "id": 18279,
+      "company": "Kuantan II Cafe",
+      "title": "Waiter/Waitress & Kitchen Helper",
+      "blogger_url": "https://www.mintainfo.com/2026/10/kuantan-ii-cafe-buka-lowongan.html"
     },
     {
       "id": 18266,
