@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
   "date_label": "Selasa, 13 Oktober 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
     {
       "id": 18299,
@@ -74,6 +74,12 @@
       "company": "APM Auto Part Motor",
       "title": "STAFF TOKO (PENJUAL & PELAYANAN)",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-staff-toko-penjual-pelayanan.html"
+    },
+    {
+      "id": 18252,
+      "company": "Astha Delapan Windu",
+      "title": "Operator Nitrogen",
+      "blogger_url": "https://www.mintainfo.com/2026/10/operator-nitrogen-di-astha-delapan.html"
     },
     {
       "id": 18249,
