@@ -1,6 +1,13 @@
 {
-  "count": 80,
+  "count": 81,
   "jobs": [
+    {
+      "id": 18263,
+      "company": "Apotek Daminja Farma",
+      "title": "Asisten Apoteker",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-asisten-apoteker-di-apotek.html",
+      "date_label": "Selasa, 13 Oktober 2026"
+    },
     {
       "id": 18260,
       "company": "Toko R2 BM & Stempel",
