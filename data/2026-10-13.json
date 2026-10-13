@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
   "date_label": "Selasa, 13 Oktober 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 18299,
@@ -62,6 +62,12 @@
       "company": "Toko R2 BM & Stempel",
       "title": "Wanita (Admin) & Laki-laki (Bagian Cetak)",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-wanita-admin-laki-laki-bagian.html"
+    },
+    {
+      "id": 18254,
+      "company": "Kopitiam Semeja",
+      "title": "BARISTA & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/10/kopitiam-semeja-buka-lowongan-barista.html"
     },
     {
       "id": 18249,
