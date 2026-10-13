@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
   "date_label": "Selasa, 13 Oktober 2026",
-  "count": 15,
+  "count": 16,
   "jobs": [
     {
       "id": 18299,
@@ -38,6 +38,12 @@
       "company": "JAYA ABADI CELL",
       "title": "Jaga Ponsel",
       "blogger_url": "https://www.mintainfo.com/2026/10/jaya-abadi-cell-buka-lowongan-jaga.html"
+    },
+    {
+      "id": 18289,
+      "company": "Efer Laundry Express",
+      "title": "KASIR - SETRIKA",
+      "blogger_url": "https://www.mintainfo.com/2026/10/kasir-setrika-di-efer-laundry-express.html"
     },
     {
       "id": 18266,
