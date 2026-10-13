@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
   "date_label": "Selasa, 13 Oktober 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "id": 18299,
@@ -68,6 +68,12 @@
       "company": "Kopitiam Semeja",
       "title": "BARISTA & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/10/kopitiam-semeja-buka-lowongan-barista.html"
+    },
+    {
+      "id": 18253,
+      "company": "APM Auto Part Motor",
+      "title": "STAFF TOKO (PENJUAL & PELAYANAN)",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-staff-toko-penjual-pelayanan.html"
     },
     {
       "id": 18249,
