@@ -1,8 +1,14 @@
 {
   "date": "2026-10-13",
   "date_label": "Selasa, 13 Oktober 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 18260,
+      "company": "Toko R2 BM & Stempel",
+      "title": "Wanita (Admin) & Laki-laki (Bagian Cetak)",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-wanita-admin-laki-laki-bagian.html"
+    },
     {
       "id": 18249,
       "company": "Studio of Mora",
