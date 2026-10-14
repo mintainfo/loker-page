@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
   "date_label": "Rabu, 14 Oktober 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "id": 18361,
@@ -50,6 +50,12 @@
       "company": "Bulgogi Shabu & Grill",
       "title": "Waiter",
       "blogger_url": "https://www.mintainfo.com/2026/10/waiter-di-bulgogi-shabu-grill-pekanbaru.html"
+    },
+    {
+      "id": 18335,
+      "company": "PANEN",
+      "title": "Logistic Operator (Driver & Packing)",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-logistic-operator-driver.html"
     },
     {
       "id": 18312,
