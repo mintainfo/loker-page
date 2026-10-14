@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
   "date_label": "Rabu, 14 Oktober 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 18361,
@@ -14,6 +14,12 @@
       "company": "PT PRIVA KONSULTAN ESTETIK",
       "title": "Nurse - Aesthetic Clinic",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-nurse-aesthetic-clinic-di-pt.html"
+    },
+    {
+      "id": 18348,
+      "company": "Klinik Dokter Rini",
+      "title": "Ahli Gizi",
+      "blogger_url": "https://www.mintainfo.com/2026/10/ahli-gizi-di-klinik-dokter-rini.html"
     },
     {
       "id": 18347,
