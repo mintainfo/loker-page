@@ -1,13 +1,19 @@
 {
   "date": "2026-10-14",
   "date_label": "Rabu, 14 Oktober 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 18361,
       "company": "PT Haier Sales Indonesia",
       "title": "Business Development (Pekanbaru)",
       "blogger_url": "https://www.mintainfo.com/2026/10/pt-haier-sales-indonesia-buka-lowongan.html"
+    },
+    {
+      "id": 18359,
+      "company": "PT PRIVA KONSULTAN ESTETIK",
+      "title": "Nurse - Aesthetic Clinic",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-nurse-aesthetic-clinic-di-pt.html"
     },
     {
       "id": 18306,
