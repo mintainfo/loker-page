@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
   "date_label": "Rabu, 14 Oktober 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 18361,
@@ -26,6 +26,12 @@
       "company": "Kopi Roaming",
       "title": "Mobile Barista & Rider",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-mobile-barista-rider-di-kopi.html"
+    },
+    {
+      "id": 18340,
+      "company": "Bulgogi Shabu & Grill",
+      "title": "Waiter",
+      "blogger_url": "https://www.mintainfo.com/2026/10/waiter-di-bulgogi-shabu-grill-pekanbaru.html"
     },
     {
       "id": 18312,
