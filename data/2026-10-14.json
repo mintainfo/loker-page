@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
   "date_label": "Rabu, 14 Oktober 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 18361,
@@ -14,6 +14,12 @@
       "company": "PT PRIVA KONSULTAN ESTETIK",
       "title": "Nurse - Aesthetic Clinic",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-nurse-aesthetic-clinic-di-pt.html"
+    },
+    {
+      "id": 18312,
+      "company": "PERKANTORAN SUDIRMAN RAYA JL JENDERAL SUDIRMAN, D3, 4, TANGKERANG TENGAH, MARPOYAN DAMAI",
+      "title": "Quantity Surveyor (QS)",
+      "blogger_url": "https://www.mintainfo.com/2026/10/quantity-surveyor-qs-di-perkantoran.html"
     },
     {
       "id": 18306,
