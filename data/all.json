@@ -1,6 +1,13 @@
 {
-  "count": 94,
+  "count": 95,
   "jobs": [
+    {
+      "id": 18343,
+      "company": "MIT Coffee",
+      "title": "Cook",
+      "blogger_url": "https://www.mintainfo.com/2026/10/mit-coffee-buka-lowongan-cook-pekanbaru.html",
+      "date_label": "Rabu, 14 Oktober 2026"
+    },
     {
       "id": 18348,
       "company": "Klinik Dokter Rini",

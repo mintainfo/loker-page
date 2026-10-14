@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
   "date_label": "Rabu, 14 Oktober 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "id": 18361,
@@ -26,6 +26,12 @@
       "company": "Yayasan Abdurrab",
       "title": "Security Wanita",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-security-wanita-di-yayasan.html"
+    },
+    {
+      "id": 18343,
+      "company": "MIT Coffee",
+      "title": "Cook",
+      "blogger_url": "https://www.mintainfo.com/2026/10/mit-coffee-buka-lowongan-cook-pekanbaru.html"
     },
     {
       "id": 18342,
