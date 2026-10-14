@@ -1,6 +1,13 @@
 {
-  "count": 98,
+  "count": 86,
   "jobs": [
+    {
+      "id": 18306,
+      "company": "PT. Priva Konsultan Estetik",
+      "title": "Beauty Consultat",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-beauty-consultat-terbaru-pt-priva.html",
+      "date_label": "Rabu, 14 Oktober 2026"
+    },
     {
       "id": 18280,
       "company": "Rush Brew Coffee",
@@ -595,97 +602,6 @@
       "title": "Satpam",
       "blogger_url": "https://www.mintainfo.com/2026/10/satpam-di-fajar-store-pekanbaru-oktober.html",
       "date_label": "Kamis, 8 Oktober 2026"
-    },
-    {
-      "id": 17729,
-      "company": "MDS SERVICES",
-      "title": "COMMERCIAL ADMIN",
-      "blogger_url": "https://www.mintainfo.com/2026/10/commercial-admin-di-mds-services_0221873750.html",
-      "date_label": "Selasa, 6 Oktober 2026"
-    },
-    {
-      "id": 17727,
-      "company": "Blackpaint Academy",
-      "title": "PENGAJAR DESAIN & PENGAJAR PELAYANAN DAN PRODUK",
-      "blogger_url": "https://www.mintainfo.com/2026/10/loker-pengajar-desain-pengajar.html",
-      "date_label": "Selasa, 6 Oktober 2026"
-    },
-    {
-      "id": 17726,
-      "company": "KOST SLEEPY",
-      "title": "KOKI",
-      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-koki-di-kost-sleepy-pekanbaru.html",
-      "date_label": "Selasa, 6 Oktober 2026"
-    },
-    {
-      "id": 17725,
-      "company": "PT. SUMBER BARU ABADI",
-      "title": "Supervisor",
-      "blogger_url": "https://www.mintainfo.com/2026/10/supervisor-di-pt-sumber-baru-abadi.html",
-      "date_label": "Selasa, 6 Oktober 2026"
-    },
-    {
-      "id": 17825,
-      "company": "Hotel Parma Group",
-      "title": "Front Office",
-      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-front-office-di-hotel-parma.html",
-      "date_label": "Selasa, 6 Oktober 2026"
-    },
-    {
-      "id": 17707,
-      "company": "New Hollywood Hotel",
-      "title": "Housekeeping (DW) & Posisi Lainnya",
-      "blogger_url": "https://www.mintainfo.com/2026/10/loker-housekeeping-dw-posisi-lainnya.html",
-      "date_label": "Selasa, 6 Oktober 2026"
-    },
-    {
-      "id": 17798,
-      "company": "Tjokro Hotel Pekanbaru",
-      "title": "Front Desk Agent Staff (Female)",
-      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-front-desk-agent-staff-female.html",
-      "date_label": "Selasa, 6 Oktober 2026"
-    },
-    {
-      "id": 17796,
-      "company": "Home Furniture",
-      "title": "SPG Toko",
-      "blogger_url": "https://www.mintainfo.com/2026/10/spg-toko-di-home-furniture-pekanbaru.html",
-      "date_label": "Selasa, 6 Oktober 2026"
-    },
-    {
-      "id": 17795,
-      "company": "Andalan Jaya Sukses",
-      "title": "Karyawan Gudang / Helper",
-      "blogger_url": "https://www.mintainfo.com/2026/10/andalan-jaya-sukses-buka-lowongan.html",
-      "date_label": "Selasa, 6 Oktober 2026"
-    },
-    {
-      "id": 17794,
-      "company": "PNM",
-      "title": "Account Officer",
-      "blogger_url": "https://www.mintainfo.com/2026/10/pnm-buka-lowongan-account-officer.html",
-      "date_label": "Selasa, 6 Oktober 2026"
-    },
-    {
-      "id": 17750,
-      "company": "PT Multikarya Sarana Perkasa",
-      "title": "PROJECT MANAGER (PIPING, STORAGE TANK & REFINERY)",
-      "blogger_url": "https://www.mintainfo.com/2026/10/pt-multikarya-sarana-perkasa-buka.html",
-      "date_label": "Selasa, 6 Oktober 2026"
-    },
-    {
-      "id": 17612,
-      "company": "PT Sigma Cipta Utama",
-      "title": "Data Management",
-      "blogger_url": "https://www.mintainfo.com/2026/10/data-management-di-pt-sigma-cipta-utama.html",
-      "date_label": "Selasa, 6 Oktober 2026"
-    },
-    {
-      "id": 17613,
-      "company": "PT. Teknologi Perdana Indonesia",
-      "title": "Customer Support",
-      "blogger_url": "https://www.mintainfo.com/2026/10/loker-customer-support-terbaru-pt.html",
-      "date_label": "Selasa, 6 Oktober 2026"
     }
   ]
 }
