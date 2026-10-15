@@ -1,8 +1,14 @@
 {
   "date": "2026-10-15",
   "date_label": "Kamis, 15 Oktober 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 18428,
+      "company": "Sandikala",
+      "title": "Terapis Spa Home Care",
+      "blogger_url": "https://www.mintainfo.com/2026/10/sandikala-buka-lowongan-terapis-spa.html"
+    },
     {
       "id": 18426,
       "company": "Monangkring",
