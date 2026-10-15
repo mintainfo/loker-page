@@ -1,13 +1,19 @@
 {
   "date": "2026-10-15",
   "date_label": "Kamis, 15 Oktober 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 18433,
       "company": "RS Efarina Pangkalan Kerinci",
       "title": "Asisten Apoteker",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-asisten-apoteker-terbaru-rs.html"
+    },
+    {
+      "id": 18430,
+      "company": "RS Murni Teguh",
+      "title": "Admin Mini Market",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-admin-mini-market-terbaru-rs.html"
     },
     {
       "id": 18428,
