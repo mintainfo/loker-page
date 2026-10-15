@@ -1,6 +1,13 @@
 {
-  "count": 100,
+  "count": 101,
   "jobs": [
+    {
+      "id": 18426,
+      "company": "Monangkring",
+      "title": "Driver Monangkring Kopi Keliling & Produksi Stok Kopi",
+      "blogger_url": "https://www.mintainfo.com/2026/10/monangkring-buka-lowongan-driver.html",
+      "date_label": "Kamis, 15 Oktober 2026"
+    },
     {
       "id": 18420,
       "company": "Utopia Board Game Cafe",
