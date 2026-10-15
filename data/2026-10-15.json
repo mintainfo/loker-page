@@ -1,8 +1,14 @@
 {
   "date": "2026-10-15",
   "date_label": "Kamis, 15 Oktober 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 18433,
+      "company": "RS Efarina Pangkalan Kerinci",
+      "title": "Asisten Apoteker",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-asisten-apoteker-terbaru-rs.html"
+    },
     {
       "id": 18428,
       "company": "Sandikala",
