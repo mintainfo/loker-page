@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "date_label": "Sabtu, 17 Oktober 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 18484,
@@ -26,6 +26,12 @@
       "company": "Universitas Abdurrab",
       "title": "Cleaning Service",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-cleaning-service-di.html"
+    },
+    {
+      "id": 18479,
+      "company": "Marvel Smile Aesthetic Dental Clinic",
+      "title": "Admin Klinik & Asisten Dokter Gigi",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-admin-klinik-asisten-dokter-gigi.html"
     },
     {
       "id": 18441,
