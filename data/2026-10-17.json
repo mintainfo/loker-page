@@ -1,8 +1,14 @@
 {
   "date": "2026-10-17",
   "date_label": "Sabtu, 17 Oktober 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 18484,
+      "company": "Politeknik Al-Fatih",
+      "title": "Dosen",
+      "blogger_url": "https://www.mintainfo.com/2026/10/politeknik-al-fatih-buka-lowongan-dosen.html"
+    },
     {
       "id": 18441,
       "company": "PT Nufarm Indonesia",

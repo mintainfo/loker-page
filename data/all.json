@@ -1,11 +1,11 @@
 {
-  "count": 65,
+  "count": 66,
   "jobs": [
     {
-      "id": 18441,
-      "company": "PT Nufarm Indonesia",
-      "title": "Territory Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/10/territory-manager-di-pt-nufarm.html",
+      "id": 18484,
+      "company": "Politeknik Al-Fatih",
+      "title": "Dosen",
+      "blogger_url": "https://www.mintainfo.com/2026/10/politeknik-al-fatih-buka-lowongan-dosen.html",
       "date_label": "Sabtu, 17 Oktober 2026"
     },
     {
@@ -13,6 +13,13 @@
       "company": "PT. AIR KAMPAR",
       "title": "Assistant Maintenance",
       "blogger_url": "https://www.mintainfo.com/2026/10/pt-air-kampar-buka-lowongan-assistant.html",
+      "date_label": "Sabtu, 17 Oktober 2026"
+    },
+    {
+      "id": 18441,
+      "company": "PT Nufarm Indonesia",
+      "title": "Territory Manager",
+      "blogger_url": "https://www.mintainfo.com/2026/10/territory-manager-di-pt-nufarm.html",
       "date_label": "Sabtu, 17 Oktober 2026"
     },
     {
