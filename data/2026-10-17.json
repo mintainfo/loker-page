@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
   "date_label": "Sabtu, 17 Oktober 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 18484,
@@ -14,6 +14,12 @@
       "company": "PW Kupie",
       "title": "Kasir",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-kasir-di-pw-kupie-pekanbaru.html"
+    },
+    {
+      "id": 18482,
+      "company": "Safira Jaya Telekomindo",
+      "title": "Jaringan FO & CCTV",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-jaringan-fo-cctv-terbaru-safira.html"
     },
     {
       "id": 18441,
