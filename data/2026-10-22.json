@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "date_label": "Kamis, 22 Oktober 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 18599,
@@ -32,6 +32,12 @@
       "company": "Ternak Vaporizer",
       "title": "Vaporista",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-vaporista-di-ternak-vaporizer.html"
+    },
+    {
+      "id": 18589,
+      "company": "Ibukota Coffee & Tea",
+      "title": "RIDER GERObAK KOPI",
+      "blogger_url": "https://www.mintainfo.com/2026/10/ibukota-coffee-tea-buka-lowongan-rider.html"
     },
     {
       "id": 18554,
