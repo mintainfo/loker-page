@@ -1,13 +1,19 @@
 {
   "date": "2026-10-22",
   "date_label": "Kamis, 22 Oktober 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 18554,
       "company": "PT Adira Dinamika Multi Finance Tbk",
       "title": "QA Regional Support Officer",
       "blogger_url": "https://www.mintainfo.com/2026/10/qa-regional-support-officer-di-pt-adira.html"
+    },
+    {
+      "id": 18548,
+      "company": "PT Multikarya Asia Pasifik Raya",
+      "title": "HSE Officer (Duri - Riau)",
+      "blogger_url": "https://www.mintainfo.com/2026/10/hse-officer-duri-riau-di-pt-multikarya.html"
     }
   ]
 }
