@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "date_label": "Kamis, 22 Oktober 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "id": 18599,
@@ -32,6 +32,12 @@
       "company": "Ternak Vaporizer",
       "title": "Vaporista",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-vaporista-di-ternak-vaporizer.html"
+    },
+    {
+      "id": 18590,
+      "company": "Lion Parcel",
+      "title": "Warehouse Operator",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-warehouse-operator-terbaru-lion.html"
     },
     {
       "id": 18589,
