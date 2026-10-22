@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "date_label": "Kamis, 22 Oktober 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 18554,
@@ -14,6 +14,12 @@
       "company": "PT Multikarya Asia Pasifik Raya",
       "title": "HSE Officer (Duri - Riau)",
       "blogger_url": "https://www.mintainfo.com/2026/10/hse-officer-duri-riau-di-pt-multikarya.html"
+    },
+    {
+      "id": 18546,
+      "company": "PT SAPUTRA GLOBAL NUSANTARA",
+      "title": "Teknisi Jointer MSFO (maintenance Service Fiber Optic) Area Pekanbaru",
+      "blogger_url": "https://www.mintainfo.com/2026/10/teknisi-jointer-msfo-maintenance.html"
     }
   ]
 }
