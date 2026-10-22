@@ -1,8 +1,14 @@
 {
   "date": "2026-10-22",
   "date_label": "Kamis, 22 Oktober 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 18592,
+      "company": "Ternak Vaporizer",
+      "title": "Vaporista",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-vaporista-di-ternak-vaporizer.html"
+    },
     {
       "id": 18554,
       "company": "PT Adira Dinamika Multi Finance Tbk",
