@@ -1,8 +1,14 @@
 {
   "date": "2026-10-22",
   "date_label": "Kamis, 22 Oktober 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
+    {
+      "id": 18599,
+      "company": "Rumah Terapi Medical Hacking Pekanbaru",
+      "title": "Customer Service",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-customer-service-di-rumah.html"
+    },
     {
       "id": 18595,
       "company": "Quinsha Parfum",
