@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
   "date_label": "Kamis, 22 Oktober 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "id": 18599,
@@ -32,6 +32,12 @@
       "company": "Ternak Vaporizer",
       "title": "Vaporista",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-vaporista-di-ternak-vaporizer.html"
+    },
+    {
+      "id": 18591,
+      "company": "Barbekyu Kitchen",
+      "title": "WAITER & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/10/waiter-posisi-lainnya-di-barbekyu.html"
     },
     {
       "id": 18590,
