@@ -1,6 +1,13 @@
 {
-  "count": 26,
+  "count": 13,
   "jobs": [
+    {
+      "id": 18571,
+      "company": "PT. Duta Cipta Sentosa",
+      "title": "Security",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-security-di-pt-duta-cipta.html",
+      "date_label": "Senin, 26 Oktober 2026"
+    },
     {
       "id": 18588,
       "company": "Utopia Board Game Cafe",
@@ -84,104 +91,6 @@
       "title": "QA Regional Support Officer",
       "blogger_url": "https://www.mintainfo.com/2026/10/qa-regional-support-officer-di-pt-adira.html",
       "date_label": "Kamis, 22 Oktober 2026"
-    },
-    {
-      "id": 18479,
-      "company": "Marvel Smile Aesthetic Dental Clinic",
-      "title": "Admin Klinik & Asisten Dokter Gigi",
-      "blogger_url": "https://www.mintainfo.com/2026/10/loker-admin-klinik-asisten-dokter-gigi.html",
-      "date_label": "Sabtu, 17 Oktober 2026"
-    },
-    {
-      "id": 18480,
-      "company": "Universitas Abdurrab",
-      "title": "Cleaning Service",
-      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-cleaning-service-di.html",
-      "date_label": "Sabtu, 17 Oktober 2026"
-    },
-    {
-      "id": 18482,
-      "company": "Safira Jaya Telekomindo",
-      "title": "Jaringan FO & CCTV",
-      "blogger_url": "https://www.mintainfo.com/2026/10/loker-jaringan-fo-cctv-terbaru-safira.html",
-      "date_label": "Sabtu, 17 Oktober 2026"
-    },
-    {
-      "id": 18483,
-      "company": "PW Kupie",
-      "title": "Kasir",
-      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-kasir-di-pw-kupie-pekanbaru.html",
-      "date_label": "Sabtu, 17 Oktober 2026"
-    },
-    {
-      "id": 18484,
-      "company": "Politeknik Al-Fatih",
-      "title": "Dosen",
-      "blogger_url": "https://www.mintainfo.com/2026/10/politeknik-al-fatih-buka-lowongan-dosen.html",
-      "date_label": "Sabtu, 17 Oktober 2026"
-    },
-    {
-      "id": 18371,
-      "company": "PT. AIR KAMPAR",
-      "title": "Assistant Maintenance",
-      "blogger_url": "https://www.mintainfo.com/2026/10/pt-air-kampar-buka-lowongan-assistant.html",
-      "date_label": "Sabtu, 17 Oktober 2026"
-    },
-    {
-      "id": 18441,
-      "company": "PT Nufarm Indonesia",
-      "title": "Territory Manager",
-      "blogger_url": "https://www.mintainfo.com/2026/10/territory-manager-di-pt-nufarm.html",
-      "date_label": "Sabtu, 17 Oktober 2026"
-    },
-    {
-      "id": 18430,
-      "company": "RS Murni Teguh",
-      "title": "Admin Mini Market",
-      "blogger_url": "https://www.mintainfo.com/2026/10/loker-admin-mini-market-terbaru-rs.html",
-      "date_label": "Kamis, 15 Oktober 2026"
-    },
-    {
-      "id": 18427,
-      "company": "RADIUS",
-      "title": "Host Live",
-      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-host-live-di-radius-pekanbaru.html",
-      "date_label": "Kamis, 15 Oktober 2026"
-    },
-    {
-      "id": 18433,
-      "company": "RS Efarina Pangkalan Kerinci",
-      "title": "Asisten Apoteker",
-      "blogger_url": "https://www.mintainfo.com/2026/10/loker-asisten-apoteker-terbaru-rs.html",
-      "date_label": "Kamis, 15 Oktober 2026"
-    },
-    {
-      "id": 18425,
-      "company": "INFA JAYA ELEKTRONIK",
-      "title": "Helper (Laki-laki)",
-      "blogger_url": "https://www.mintainfo.com/2026/10/infa-jaya-elektronik-buka-lowongan.html",
-      "date_label": "Kamis, 15 Oktober 2026"
-    },
-    {
-      "id": 18428,
-      "company": "Sandikala",
-      "title": "Terapis Spa Home Care",
-      "blogger_url": "https://www.mintainfo.com/2026/10/sandikala-buka-lowongan-terapis-spa.html",
-      "date_label": "Kamis, 15 Oktober 2026"
-    },
-    {
-      "id": 18426,
-      "company": "Monangkring",
-      "title": "Driver Monangkring Kopi Keliling & Produksi Stok Kopi",
-      "blogger_url": "https://www.mintainfo.com/2026/10/monangkring-buka-lowongan-driver.html",
-      "date_label": "Kamis, 15 Oktober 2026"
-    },
-    {
-      "id": 18420,
-      "company": "Utopia Board Game Cafe",
-      "title": "Cook & Game Master",
-      "blogger_url": "https://www.mintainfo.com/2026/10/cook-game-master-di-utopia-board-game.html",
-      "date_label": "Kamis, 15 Oktober 2026"
     }
   ]
 }
