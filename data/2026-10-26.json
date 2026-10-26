@@ -1,13 +1,19 @@
 {
   "date": "2026-10-26",
   "date_label": "Senin, 26 Oktober 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 18571,
       "company": "PT. Duta Cipta Sentosa",
       "title": "Security",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-security-di-pt-duta-cipta.html"
+    },
+    {
+      "id": 18570,
+      "company": "SD-SMP Islam Riau Global Terpadu (IRGT SCHOOL)",
+      "title": "Multimedia Staff",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-multimedia-staff-terbaru-sd-smp.html"
     }
   ]
 }
