@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "date_label": "Senin, 26 Oktober 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "id": 18619,
@@ -38,6 +38,12 @@
       "company": "Satori Planner",
       "title": "Studio Helper",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-studio-helper-di-satori.html"
+    },
+    {
+      "id": 18608,
+      "company": "Laundry Lab",
+      "title": "Karyawan Laundry & Admin Laundry",
+      "blogger_url": "https://www.mintainfo.com/2026/10/karyawan-laundry-admin-laundry-di.html"
     },
     {
       "id": 18607,
