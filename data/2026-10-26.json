@@ -1,13 +1,19 @@
 {
   "date": "2026-10-26",
   "date_label": "Senin, 26 Oktober 2026",
-  "count": 7,
+  "count": 8,
   "jobs": [
     {
       "id": 18619,
       "company": "PT. SRIKANDI DIAMOND MOTORS",
       "title": "Sales Consultant",
       "blogger_url": "https://www.mintainfo.com/2026/10/sales-consultant-di-pt-srikandi-diamond.html"
+    },
+    {
+      "id": 18618,
+      "company": "NR Perabot Riau",
+      "title": "Store Manager / Kepala Toko & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-store-manager-kepala-toko-posisi.html"
     },
     {
       "id": 18616,
