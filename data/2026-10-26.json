@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "date_label": "Senin, 26 Oktober 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "id": 18619,
@@ -44,6 +44,12 @@
       "company": "Tidak Diketahui",
       "title": "Martabak & Roti Bakar",
       "blogger_url": "https://www.mintainfo.com/2026/10/martabak-roti-bakar-di-tidak-diketahui.html"
+    },
+    {
+      "id": 18606,
+      "company": "Tidak Diketahui",
+      "title": "Talent Konten",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-talent-konten-terbaru-tidak.html"
     },
     {
       "id": 18571,
