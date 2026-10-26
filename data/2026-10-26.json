@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "date_label": "Senin, 26 Oktober 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 18619,
@@ -20,6 +20,12 @@
       "company": "Lontong Mintuo Ayam Sambal Oren",
       "title": "Pelayan",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-pelayan-terbaru-lontong-mintuo.html"
+    },
+    {
+      "id": 18614,
+      "company": "panam super 12",
+      "title": "Staff Toko",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-staff-toko-di-panam-super-12.html"
     },
     {
       "id": 18613,
