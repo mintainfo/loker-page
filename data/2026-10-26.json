@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "date_label": "Senin, 26 Oktober 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 18619,
@@ -14,6 +14,12 @@
       "company": "Tidak Diketahui",
       "title": "Helper / Asisten Rumah Tangga",
       "blogger_url": "https://www.mintainfo.com/2026/10/tidak-diketahui-buka-lowongan-helper.html"
+    },
+    {
+      "id": 18613,
+      "company": "Satori Planner",
+      "title": "Studio Helper",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-studio-helper-di-satori.html"
     },
     {
       "id": 18571,
