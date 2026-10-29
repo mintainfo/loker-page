@@ -1,8 +1,14 @@
 {
   "date": "2026-10-29",
   "date_label": "Kamis, 29 Oktober 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
+    {
+      "id": 18710,
+      "company": "RS Nurlima",
+      "title": "Dokter Spesialis Anestesi & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rs-nurlima-buka-lowongan-dokter.html"
+    },
     {
       "id": 18709,
       "company": "Mahesa Brata",
