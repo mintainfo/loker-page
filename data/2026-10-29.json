@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "date_label": "Kamis, 29 Oktober 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
     {
       "id": 18680,
@@ -20,6 +20,12 @@
       "company": "Le Manz Laundry Self Service",
       "title": "Karyawan Laundry",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-karyawan-laundry-terbaru-le-manz.html"
+    },
+    {
+      "id": 18675,
+      "company": "Kopi On The Road",
+      "title": "Rider Gerobak Kopi",
+      "blogger_url": "https://www.mintainfo.com/2026/10/kopi-on-road-buka-lowongan-rider_0107639049.html"
     }
   ]
 }
