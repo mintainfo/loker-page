@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "date_label": "Kamis, 29 Oktober 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "id": 18710,
@@ -56,6 +56,12 @@
       "company": "Kopi On The Road",
       "title": "Rider Gerobak Kopi",
       "blogger_url": "https://www.mintainfo.com/2026/10/kopi-on-road-buka-lowongan-rider_0107639049.html"
+    },
+    {
+      "id": 18667,
+      "company": "Bono Famiglia",
+      "title": "Barista",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-barista-di-bono-famiglia.html"
     },
     {
       "id": 18666,
