@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "date_label": "Kamis, 29 Oktober 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 18680,
@@ -14,6 +14,12 @@
       "company": "PT. Esa Gemilang Sakti",
       "title": "Freelance Gudang",
       "blogger_url": "https://www.mintainfo.com/2026/10/loker-freelance-gudang-terbaru-pt-esa.html"
+    },
+    {
+      "id": 18677,
+      "company": "Executive Shop 7",
+      "title": "Marketing Toko & Stocker / Packing",
+      "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-marketing-toko-stocker.html"
     },
     {
       "id": 18676,
