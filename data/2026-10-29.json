@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "date_label": "Kamis, 29 Oktober 2026",
-  "count": 19,
+  "count": 20,
   "jobs": [
     {
       "id": 18710,
@@ -50,6 +50,12 @@
       "company": "TAM",
       "title": "KERNET / CO DRIVER",
       "blogger_url": "https://www.mintainfo.com/2026/10/rekrutmen-kernet-co-driver-di-tam.html"
+    },
+    {
+      "id": 18698,
+      "company": "J.CHICKEN",
+      "title": "Supervisor",
+      "blogger_url": "https://www.mintainfo.com/2026/10/supervisor-di-jchicken-pekanbaru.html"
     },
     {
       "id": 18697,
