@@ -1,8 +1,14 @@
 {
   "date": "2026-10-29",
   "date_label": "Kamis, 29 Oktober 2026",
-  "count": 5,
+  "count": 6,
   "jobs": [
+    {
+      "id": 18706,
+      "company": "Yayasan Kesatuan Pendidikan Islam Al-Ittihad",
+      "title": "Guru Fisika",
+      "blogger_url": "https://www.mintainfo.com/2026/10/loker-guru-fisika-terbaru-yayasan.html"
+    },
     {
       "id": 18680,
       "company": "Angkasa Media",
