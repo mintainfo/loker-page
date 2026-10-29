@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
   "date_label": "Kamis, 29 Oktober 2026",
-  "count": 9,
+  "count": 10,
   "jobs": [
     {
       "id": 18710,
@@ -56,6 +56,12 @@
       "company": "Kopi On The Road",
       "title": "Rider Gerobak Kopi",
       "blogger_url": "https://www.mintainfo.com/2026/10/kopi-on-road-buka-lowongan-rider_0107639049.html"
+    },
+    {
+      "id": 18666,
+      "company": "Astha Delapan Windu",
+      "title": "Operator Nitrogen",
+      "blogger_url": "https://www.mintainfo.com/2026/10/astha-delapan-windu-buka-lowongan.html"
     }
   ]
 }
