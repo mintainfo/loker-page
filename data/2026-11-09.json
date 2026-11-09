@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
   "date_label": "Senin, 9 November 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
     {
       "id": 18759,
@@ -14,6 +14,12 @@
       "company": "Lapak Sarapan Kilat",
       "title": "Lowongan Kerja",
       "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-lowongan-kerja-di-lapak.html"
+    },
+    {
+      "id": 18753,
+      "company": "Warung Nasi Goreng",
+      "title": "Karyawan",
+      "blogger_url": "https://www.mintainfo.com/2026/11/karyawan-di-warung-nasi-goreng.html"
     },
     {
       "id": 18747,
