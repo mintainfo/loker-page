@@ -1,6 +1,13 @@
 {
-  "count": 1,
+  "count": 2,
   "jobs": [
+    {
+      "id": 18747,
+      "company": "Kita Terbang Tinggi",
+      "title": "Kitchen Crew (Cabang Pekanbaru)",
+      "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-kitchen-crew-cabang-pekanbaru.html",
+      "date_label": "Senin, 9 November 2026"
+    },
     {
       "id": 18739,
       "company": "PT Primanusa Globalindo",
