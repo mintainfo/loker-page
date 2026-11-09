@@ -1,7 +1,7 @@
 {
   "date": "2026-11-09",
   "date_label": "Senin, 9 November 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
     {
       "id": 18762,
@@ -20,6 +20,12 @@
       "company": "Fivo Laundry",
       "title": "Kasir & Posisi Lainnya",
       "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-kasir-posisi-lainnya-di-fivo.html"
+    },
+    {
+      "id": 18758,
+      "company": "UD Helmi Workshop",
+      "title": "Mekanik & Helper Mekanik",
+      "blogger_url": "https://www.mintainfo.com/2026/11/ud-helmi-workshop-buka-lowongan-mekanik.html"
     },
     {
       "id": 18757,
