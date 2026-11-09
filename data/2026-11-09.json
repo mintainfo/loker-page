@@ -1,8 +1,14 @@
 {
   "date": "2026-11-09",
   "date_label": "Senin, 9 November 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
+    {
+      "id": 18763,
+      "company": "Toko Aneka Hijab",
+      "title": "STAFF PENJUALAN (A) & STAFF TELEMARKETING (B)",
+      "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-staff-penjualan-staff.html"
+    },
     {
       "id": 18762,
       "company": "Djaya Group",
