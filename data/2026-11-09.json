@@ -1,8 +1,14 @@
 {
   "date": "2026-11-09",
   "date_label": "Senin, 9 November 2026",
-  "count": 13,
+  "count": 14,
   "jobs": [
+    {
+      "id": 18764,
+      "company": "Shaa Health & Aesthetic clinic",
+      "title": "MEDIS & NON MEDIS",
+      "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-medis-non-medis-di-shaa.html"
+    },
     {
       "id": 18763,
       "company": "Toko Aneka Hijab",
