@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 6,
+  "count": 7,
   "jobs": [
     {
       "id": 18852,
@@ -14,6 +14,12 @@
       "company": "CIRCEL MAHJONG CAFFE",
       "title": "CONTEN CREATOR",
       "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-conten-creator-di-circel.html"
+    },
+    {
+      "id": 18850,
+      "company": "ONLINE SHOP KESET & KARPET",
+      "title": "HOST LIVE",
+      "blogger_url": "https://www.mintainfo.com/2026/11/online-shop-keset-karpet-buka-lowongan.html"
     },
     {
       "id": 18849,
