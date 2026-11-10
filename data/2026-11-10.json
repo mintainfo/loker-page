@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
     {
       "id": 18806,
@@ -14,6 +14,12 @@
       "company": "KATOSHI CATERING",
       "title": "HELPER KATERING",
       "blogger_url": "https://www.mintainfo.com/2026/11/katoshi-catering-buka-lowongan-helper.html"
+    },
+    {
+      "id": 18769,
+      "company": "ADEL KULINER PKU",
+      "title": "Karyawati Jaga Stand Makanan & Karyawati Jaga Stand (Khusus Hari Minggu)",
+      "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-karyawati-jaga-stand-makanan.html"
     }
   ]
 }
