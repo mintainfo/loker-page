@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 34,
+  "count": 35,
   "jobs": [
     {
       "id": 18892,
@@ -68,6 +68,12 @@
       "company": "Brasserie Sasa",
       "title": "Cook & Cook Helper",
       "blogger_url": "https://www.mintainfo.com/2026/11/brasserie-sasa-buka-lowongan-cook-cook.html"
+    },
+    {
+      "id": 18871,
+      "company": "Hamra Ban",
+      "title": "Admin & Kasir",
+      "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-admin-kasir-di-hamra-ban.html"
     },
     {
       "id": 18870,
