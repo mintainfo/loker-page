@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 15,
+  "count": 16,
   "jobs": [
     {
       "id": 18885,
@@ -92,6 +92,12 @@
       "company": "ADEL KULINER PKU",
       "title": "Karyawati Jaga Stand Makanan & Karyawati Jaga Stand (Khusus Hari Minggu)",
       "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-karyawati-jaga-stand-makanan.html"
+    },
+    {
+      "id": 18768,
+      "company": "Khaichology",
+      "title": "TERAPIS",
+      "blogger_url": "https://www.mintainfo.com/2026/11/loker-terapis-terbaru-khaichology.html"
     }
   ]
 }
