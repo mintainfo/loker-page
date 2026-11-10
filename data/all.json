@@ -1,6 +1,13 @@
 {
-  "count": 31,
+  "count": 32,
   "jobs": [
+    {
+      "id": 18889,
+      "company": "Naraya Hospital",
+      "title": "Dokter Casemix",
+      "blogger_url": "https://www.mintainfo.com/2026/11/dokter-casemix-di-naraya-hospital.html",
+      "date_label": "Selasa, 10 November 2026"
+    },
     {
       "id": 18767,
       "company": "Klinik Maryam",
