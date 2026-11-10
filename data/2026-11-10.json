@@ -1,8 +1,14 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 14,
+  "count": 15,
   "jobs": [
+    {
+      "id": 18885,
+      "company": "Abud's Kebab",
+      "title": "Digital Marketing & Admin Sosmed",
+      "blogger_url": "https://www.mintainfo.com/2026/11/loker-digital-marketing-admin-sosmed.html"
+    },
     {
       "id": 18884,
       "company": "Real Private Gym",
