@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 30,
+  "count": 31,
   "jobs": [
     {
       "id": 18892,
@@ -110,6 +110,12 @@
       "company": "Tengkleng Rica Mas Kentung",
       "title": "Karyawan",
       "blogger_url": "https://www.mintainfo.com/2026/11/loker-karyawan-terbaru-tengkleng-rica.html"
+    },
+    {
+      "id": 18843,
+      "company": "Brother Strike",
+      "title": "Racker Billiar & Karyawan Caffe",
+      "blogger_url": "https://www.mintainfo.com/2026/11/loker-racker-billiar-karyawan-caffe.html"
     },
     {
       "id": 18840,
