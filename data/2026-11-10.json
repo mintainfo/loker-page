@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 31,
+  "count": 32,
   "jobs": [
     {
       "id": 18892,
@@ -116,6 +116,12 @@
       "company": "Brother Strike",
       "title": "Racker Billiar & Karyawan Caffe",
       "blogger_url": "https://www.mintainfo.com/2026/11/loker-racker-billiar-karyawan-caffe.html"
+    },
+    {
+      "id": 18841,
+      "company": "Jamur Krispi",
+      "title": "Crew Outlet",
+      "blogger_url": "https://www.mintainfo.com/2026/11/crew-outlet-di-jamur-krispi-pekanbaru.html"
     },
     {
       "id": 18840,
