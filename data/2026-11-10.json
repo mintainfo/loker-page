@@ -1,8 +1,14 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 18,
+  "count": 19,
   "jobs": [
+    {
+      "id": 18892,
+      "company": "Iga Bakar Cobek",
+      "title": "Cook Helper & Kasir",
+      "blogger_url": "https://www.mintainfo.com/2026/11/loker-cook-helper-kasir-terbaru-iga.html"
+    },
     {
       "id": 18889,
       "company": "Naraya Hospital",
