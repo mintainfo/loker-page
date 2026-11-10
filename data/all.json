@@ -1,6 +1,13 @@
 {
-  "count": 49,
+  "count": 50,
   "jobs": [
+    {
+      "id": 18875,
+      "company": "Soto & Kopitiam Jodo",
+      "title": "Waitress",
+      "blogger_url": "https://www.mintainfo.com/2026/11/soto-kopitiam-jodo-buka-lowongan.html",
+      "date_label": "Selasa, 10 November 2026"
+    },
     {
       "id": 18871,
       "company": "Hamra Ban",
