@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 24,
+  "count": 25,
   "jobs": [
     {
       "id": 18892,
@@ -104,6 +104,12 @@
       "company": "Mixue",
       "title": "ADMIN & BARTENDER",
       "blogger_url": "https://www.mintainfo.com/2026/11/mixue-buka-lowongan-admin-bartender.html"
+    },
+    {
+      "id": 18839,
+      "company": "Andalan Dental Aesthetic",
+      "title": "Asisten Dokter Gigi",
+      "blogger_url": "https://www.mintainfo.com/2026/11/andalan-dental-aesthetic-buka-lowongan.html"
     },
     {
       "id": 18806,
