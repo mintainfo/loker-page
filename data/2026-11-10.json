@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 27,
+  "count": 28,
   "jobs": [
     {
       "id": 18892,
@@ -110,6 +110,12 @@
       "company": "Andalan Dental Aesthetic",
       "title": "Asisten Dokter Gigi",
       "blogger_url": "https://www.mintainfo.com/2026/11/andalan-dental-aesthetic-buka-lowongan.html"
+    },
+    {
+      "id": 18838,
+      "company": "Pondok Gurih",
+      "title": "Waiter/Waitress & Helper Cleaning/Dishwasher",
+      "blogger_url": "https://www.mintainfo.com/2026/11/loker-waiterwaitress-helper.html"
     },
     {
       "id": 18837,
