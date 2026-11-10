@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 19,
+  "count": 20,
   "jobs": [
     {
       "id": 18892,
@@ -14,6 +14,12 @@
       "company": "Naraya Hospital",
       "title": "Dokter Casemix",
       "blogger_url": "https://www.mintainfo.com/2026/11/dokter-casemix-di-naraya-hospital.html"
+    },
+    {
+      "id": 18886,
+      "company": "Antitesa Coffee",
+      "title": "Cook & Posisi Lainnya",
+      "blogger_url": "https://www.mintainfo.com/2026/11/antitesa-coffee-buka-lowongan-cook.html"
     },
     {
       "id": 18885,
