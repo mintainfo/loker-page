@@ -1,6 +1,13 @@
 {
-  "count": 50,
+  "count": 51,
   "jobs": [
+    {
+      "id": 18876,
+      "company": "Gaia Osteria",
+      "title": "Waitress & Helper Kitchen",
+      "blogger_url": "https://www.mintainfo.com/2026/11/waitress-helper-kitchen-di-gaia-osteria.html",
+      "date_label": "Selasa, 10 November 2026"
+    },
     {
       "id": 18875,
       "company": "Soto & Kopitiam Jodo",
