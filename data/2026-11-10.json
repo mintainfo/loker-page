@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 38,
+  "count": 39,
   "jobs": [
     {
       "id": 18892,
@@ -194,6 +194,12 @@
       "company": "PT Module Intracs Yasatama",
       "title": "TEKNISI",
       "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-teknisi-di-pt-module-intracs.html"
+    },
+    {
+      "id": 18781,
+      "company": "Bank BTPN Syariah",
+      "title": "Buatu",
+      "blogger_url": "https://www.mintainfo.com/2026/11/bank-btpn-syariah-buka-lowongan-buatu.html"
     },
     {
       "id": 18779,
