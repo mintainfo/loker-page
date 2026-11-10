@@ -1,8 +1,14 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 3,
+  "count": 4,
   "jobs": [
+    {
+      "id": 18851,
+      "company": "CIRCEL MAHJONG CAFFE",
+      "title": "CONTEN CREATOR",
+      "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-conten-creator-di-circel.html"
+    },
     {
       "id": 18806,
       "company": "PT Module Intracs Yasatama",
