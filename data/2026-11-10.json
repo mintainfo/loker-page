@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 8,
+  "count": 9,
   "jobs": [
     {
       "id": 18852,
@@ -38,6 +38,12 @@
       "company": "Kedai Kopi APA",
       "title": "Bagian Cuci Mobil (P) & Raiders Box coffee (Sepeda Listrik) (P)",
       "blogger_url": "https://www.mintainfo.com/2026/11/bagian-cuci-mobil-p-raiders-box-coffee.html"
+    },
+    {
+      "id": 18778,
+      "company": "89GARAGE",
+      "title": "Content Creator (Wanita)",
+      "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-content-creator-wanita-di.html"
     },
     {
       "id": 18772,
