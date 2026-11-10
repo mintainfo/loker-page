@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 40,
+  "count": 41,
   "jobs": [
     {
       "id": 18892,
@@ -200,6 +200,12 @@
       "company": "PT Module Intracs Yasatama",
       "title": "TEKNISI",
       "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-teknisi-di-pt-module-intracs.html"
+    },
+    {
+      "id": 18782,
+      "company": "President University Pekanbaru Campus",
+      "title": "DOSEN TETAP PRODI S1 INFORMATIKA & DOSEN TETAP PRODI S1 SISTEM INFORMASI",
+      "blogger_url": "https://www.mintainfo.com/2026/11/president-university-pekanbaru-campus.html"
     },
     {
       "id": 18781,
