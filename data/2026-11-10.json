@@ -1,13 +1,19 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 11,
+  "count": 12,
   "jobs": [
     {
       "id": 18884,
       "company": "Real Private Gym",
       "title": "Social Media Marketing",
       "blogger_url": "https://www.mintainfo.com/2026/11/social-media-marketing-di-real-private.html"
+    },
+    {
+      "id": 18881,
+      "company": "Brasserie Sasa",
+      "title": "Cook & Cook Helper",
+      "blogger_url": "https://www.mintainfo.com/2026/11/brasserie-sasa-buka-lowongan-cook-cook.html"
     },
     {
       "id": 18856,
