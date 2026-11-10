@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 21,
+  "count": 22,
   "jobs": [
     {
       "id": 18892,
@@ -20,6 +20,12 @@
       "company": "Naraya Hospital",
       "title": "Dokter Casemix",
       "blogger_url": "https://www.mintainfo.com/2026/11/dokter-casemix-di-naraya-hospital.html"
+    },
+    {
+      "id": 18887,
+      "company": "Panorama Alam Impian",
+      "title": "Maintenance & Pengawas Kolam Renang",
+      "blogger_url": "https://www.mintainfo.com/2026/11/loker-maintenance-pengawas-kolam-renang.html"
     },
     {
       "id": 18886,
