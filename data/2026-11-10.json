@@ -1,13 +1,19 @@
 {
   "date": "2026-11-10",
   "date_label": "Selasa, 10 November 2026",
-  "count": 1,
+  "count": 2,
   "jobs": [
     {
       "id": 18806,
       "company": "PT Module Intracs Yasatama",
       "title": "TEKNISI",
       "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-teknisi-di-pt-module-intracs.html"
+    },
+    {
+      "id": 18772,
+      "company": "KATOSHI CATERING",
+      "title": "HELPER KATERING",
+      "blogger_url": "https://www.mintainfo.com/2026/11/katoshi-catering-buka-lowongan-helper.html"
     }
   ]
 }
