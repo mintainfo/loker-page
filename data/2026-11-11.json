@@ -1,8 +1,14 @@
 {
   "date": "2026-11-11",
   "date_label": "Rabu, 11 November 2026",
-  "count": 4,
+  "count": 5,
   "jobs": [
+    {
+      "id": 18983,
+      "company": "Donasi Rumah Tahfizh",
+      "title": "Freelance Jaga Stand",
+      "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-freelance-jaga-stand-di.html"
+    },
     {
       "id": 18982,
       "company": "désava",
