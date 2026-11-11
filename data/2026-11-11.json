@@ -1,8 +1,14 @@
 {
   "date": "2026-11-11",
   "date_label": "Rabu, 11 November 2026",
-  "count": 10,
+  "count": 11,
   "jobs": [
+    {
+      "id": 18989,
+      "company": "X Signature Auto Garage",
+      "title": "Teknisi Variasi Motor",
+      "blogger_url": "https://www.mintainfo.com/2026/11/x-signature-auto-garage-buka-lowongan.html"
+    },
     {
       "id": 18988,
       "company": "Klinik Utama Thamrin",
