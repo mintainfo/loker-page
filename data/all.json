@@ -1,6 +1,13 @@
 {
-  "count": 64,
+  "count": 65,
   "jobs": [
+    {
+      "id": 18986,
+      "company": "Ziva Skin & Beauty",
+      "title": "Perawat / Bidan & Terapis Estetika",
+      "blogger_url": "https://www.mintainfo.com/2026/11/perawat-bidan-terapis-estetika-di-ziva.html",
+      "date_label": "Rabu, 11 November 2026"
+    },
     {
       "id": 18985,
       "company": "Restu Media Printing",
