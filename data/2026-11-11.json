@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
   "date_label": "Rabu, 11 November 2026",
-  "count": 12,
+  "count": 13,
   "jobs": [
     {
       "id": 18990,
@@ -74,6 +74,12 @@
       "company": "SMK Bina Profesi Pekanbaru",
       "title": "Guru Bahasa Indonesia",
       "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-guru-bahasa-indonesia-di-smk.html"
+    },
+    {
+      "id": 18971,
+      "company": "BUDIMAN Swalayan",
+      "title": "SECURITY & TEKNSI",
+      "blogger_url": "https://www.mintainfo.com/2026/11/rekrutmen-security-teknsi-di-budiman.html"
     }
   ]
 }
