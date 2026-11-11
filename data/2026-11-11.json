@@ -1,8 +1,14 @@
 {
   "date": "2026-11-11",
   "date_label": "Rabu, 11 November 2026",
-  "count": 2,
+  "count": 3,
   "jobs": [
+    {
+      "id": 18981,
+      "company": "PT SAFIRA JAYA TELEKOMINDO",
+      "title": "Teknisi CCTV, Jaringan",
+      "blogger_url": "https://www.mintainfo.com/2026/11/pt-safira-jaya-telekomindo-buka.html"
+    },
     {
       "id": 18980,
       "company": "Es Bang Yahya",
